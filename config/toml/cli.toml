@@ -1,3 +1,12 @@
 [CLI.MAKE_TRANSLATION_FOLDER]
 rule= ':hammer_and_wrench: [b]Criação da pasta de tradução[/]'
 status = 'Criando...'
+
+[CLI.TRANSLATOR]
+rule = ':mechanical_arm: [b]Traduzindo[/]'
+repeted = '[bold white on red]Repetindo o envio das frases novamente... (<i>)[/]'
+wrong_response = '[bold white on red]Error. Ou a quantidade de frases é diferente ou a mensagem não está no padrão...[/]'
+null_return = '[b]Retornando nulo...[/]'
+merge_error = '[bold white on red]Infelizmente houve um problema ao realizar o merge, então irei salvar como backup...[/]'
+translating_file = '[bold white on blue]Traduzindo... <file>. (<i>/<count_all>)[/]'
+file_failed = 'Não foi possível adicionar na lista para traduzir: <file>'

@@ -15,6 +15,19 @@ def read_raw_file(file_path: str) -> pd.DataFrame:
     
     return df
 
+def read_csv_file(file_path: str, line_index=0) -> pd.DataFrame:
+    df = pd.read_csv(
+        file_path,
+        header=0,
+        dtype=str,
+        skipfooter=0,
+        engine='python',
+        keep_default_na=False,
+        skiprows=line_index
+    )
+
+    return df
+
 
 def transform_raw_df(df: pd.DataFrame) -> pd.DataFrame:
     df = df.rename(columns={0: 'translation'})
@@ -24,7 +37,7 @@ def transform_raw_df(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def save_df(df: pd.DataFrame, file_path: str) -> None:
+def save_df_csv(df: pd.DataFrame, file_path: str) -> None:
     file_name, _ = os.path.splitext(file_path)
     new_file_path = f'{file_name}.csv'
     make_dir(os.path.dirname(file_path))

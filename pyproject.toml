@@ -16,6 +16,11 @@ toml = "^0.10.2"
 pandas = "^1.5.3"
 asyncio = "^3.4.3"
 typer = {extras = ["all"], version = "^0.7.0"}
+nest-asyncio = "^1.6.0"
+curl-cffi = "^0.7.0"
+gpt4all = "^2.7.0"
+g4f = {extras = ["all"], version = "^0.3.2.1"}
+progress = "^1.6"
 
 
 [build-system]

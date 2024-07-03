@@ -1,3 +1,6 @@
+import nest_asyncio
+
+
 def main():
     import typer
     import src.commands.builder.builder as builder
@@ -5,6 +8,7 @@ def main():
     app = typer.Typer()
     app.add_typer(builder.app, name='builder')
 
+    nest_asyncio.apply()
     app()
 
 

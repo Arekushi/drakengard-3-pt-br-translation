@@ -2,7 +2,7 @@ import typer
 from rich.console import Console
 
 from config.config import settings, ROOT_DIR
-from src.helpers.pandas_helper import read_raw_file, transform_raw_df, save_df
+from src.helpers.pandas_helper import read_raw_file, transform_raw_df, save_df_csv
 from src.helpers.path_helper import get_all_files, make_dir, update_dir
 
 
@@ -33,8 +33,8 @@ def make_translation_folder_command():
 def create_translation_folder():
     raw_files = get_all_files(raw_texts_files_path)
     
-    for file in raw_files:
-        df = read_raw_file(file)
+    for file_path in raw_files:
+        df = read_raw_file(file_path)
         df = transform_raw_df(df)
-        new_file_path = update_dir(file, translation_folder_path)
-        save_df(df, new_file_path)
+        new_file_path = update_dir(file_path, translation_folder_path)
+        save_df_csv(df, new_file_path)

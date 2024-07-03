@@ -7,6 +7,7 @@ settings = Dynaconf(
         './toml/settings.toml',
         './toml/cli.toml',
         './toml/typer.toml',
+        './toml/llm.toml',
     ],
     load_dotenv=True,
     envvar_prefix=False
