@@ -1,0 +1,164 @@
+Next
+Select
+Experience Earned:
+Longest Chain:
+Damage Taken:
+No-continue Bonus:
+Total Experience Earned:
+hits
+exp
+Lv.
+Next Level:
+Health
+Stamina
+Attack
+Loyalty
+Rank
+Next Rank
+The mere thought of her using my weapon...{LF}Such...wondrous humiliation...
+{04}
+Your trust with {04}
+Total Gold:
+Gold Earned:
+Gold
+Treasure Chest
+New weapon obtained!
+{04}
+{04}
+Here you go, "Lady Zero." Maybe this'll help.
+Mikhail evolved into his second form!
+Mikhail evolved into his final form!
+Mikhail devolved!
+Request #{04}
+Completion Time:
+Enemies Defeated:
+Objects Destroyed:
+Spheres Obtained:
+Experience Earned:
+Gold Earned:
+{04}
+×
+＝
+Base Materials
+Exit the results screen?
+Iron Ore
+Low-Quality Iron Ore
+High-Quality Iron Ore
+{04}
+Enemies Defeated:
+Objects Destroyed:
+Spheres Obtained:
+Completion Time:
+{04}
+Damage: 
+xyz
+yza
+zab
+? ? ?
+{04}
+Branch A complete.
+Branch B complete.
+Branch C complete.
+All lost verses complete.
+Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Mountains.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Forests.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Sands.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Cathedral City.{LF}Access it from the Chapter Select menu.
+Zero's Blade is now Lv. {04}
+Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.
+I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.
+Airship acquired!
+Zero's Blade is now Lv. 2!
+Zero's Blade is now Lv. 3!
+Zero's Blade is now Lv. 4!
+You've been cleanin' up lately.{LF}Maybe you can handle this now.
+Permit me to repay you for your...kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
+A symbol of loyalty from me to you, my lady. {LF}May our mutual enjoyment endure for all time...and then some.
+Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
+Accord has posted a new request:
+Access it from the Chapter Select menu!
+Three Land of Seas requests completed!{LF}Bonus request "{04}
+Three Land of Mountains requests completed!{LF}Bonus request "{04}
+Three Land of Forests requests completed!{LF}Bonus request "{04}
+Three Land of Sands requests completed!{LF}Bonus request "{04}
+Three Cathedral City requests completed!{LF}Bonus request "{04}
+Completion Bonus:
+Mission Completion Bonus!
+{04}
+Mission Completion Bonus!
+Slayer Bonus:
+Request Bonus 2:
+Request Bonus 3:
+Request Completion Bonus:
+Gold Soldier Bonus:
+Perfect Bonus
+Request Bonus 7:
+Request Bonus 8:
+Request Bonus 9:
+Request Bonus 10:
+I've got a new job I need help with,
+and I think you're just the woman to handle it.
+I posted it to my list of requests,
+so check it out when you have a sec!
+Sincerely, Accord (from the Weapon Shop)
+Dropped by the boss!
+Found in a chest!
+Gift obtained!
+First-time Completion Bonus!
+Completion Bonus!
+Treasure obtained!
+Lost verse "Accord's Song" unlocked.
+Lost verse "Accord's Prayer" unlocked.
+THE END
+"{04}
+You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.
+Branch B unlocked.
+Branch C unlocked.
+Lost verses unlocked.
+Branch D unlocked.
+The Beloved Stones
+Horn Hunting
+Book Club: Hope
+Pinkstone Pilgrimage
+Communicorns
+Book Club: Ambition
+Seaside Payday
+The First Survival
+The Second Survival
+The Third Survival
+The Final Survival
+Flint Stint
+Hawk Whisperer
+Book Club: Reticence
+Mountain Payday
+The Amberstone Zone
+Eagle Scout
+Book Club: Stoicism
+On the Move
+Lucky Fangs
+Book Club: Mystery
+Forest Payday
+Food Festival
+Stinger Meds
+Book Club: Sanctity
+Like a Floating Stone
+Famous Fossils
+Book Club: Purity
+Compass Cash-in
+Plant Your Claim
+Book Club: Innocence
+Desert Payday
+Shooting Stars
+Ancient Treasures
+Book Club: Discipline
+The Comet's Trail
+History Unearthed
+Book Club: Doctrine
+Cathedral Payday
+Survival
+"Memoirs of the Intoners" menu unlocked.
+Raising this character's level has unlocked a new bonus story.{LF}You can view it from the Memoirs of the Intoners menu.
+All missions complete! Obtained {04}
+All missions complete! Obtained {04}
+Gold Soldiers will now appear somewhere within these missions.

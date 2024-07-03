@@ -1,0 +1,32 @@
+ゼロ
+Zero
+Dito
+ 
+ミハイル
+トウモ
+説明文
+Soldier B
+Soldier C
+Soldier F
+Soldier G
+Soldier A
+Soldier D
+Soldier E
+兵士B
+325
+289
+415
+兵士G
+451
+127
+343
+109
+ディト
+307
+649
+Mikhail
+433
+163
+379
+兵士A
+テスト

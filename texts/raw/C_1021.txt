@@ -1,0 +1,13 @@
+Proceed to the next mission?{#Name=" "}
+みんなで一つの場所に集まり話すデモ{#Name=" "}
+So no one was in the shop, huh?{#Name="Mikhail"}
+Nope. Pretty stupid of 'em to leave it unguarded.{#Name="Zero"}
+Why don't you stand in until the shopkeeper comes back?{#Name="Mikhail"}
+That's a terrible idea.{#Name="Zero"}
+Why? I bet you'd be a good shopkeeper!{#Name="Mikhail"}
+Heh. I'm not sure I could keep myself from{LF}stealing everything.{#Name="Zero"}
+You're pretty scary, Zero...{#Name="Mikhail"}
+Let's go.{#Name="Zero"}
+Huh? Already? Can't we rest a little longer?{#Name="Mikhail"}
+Shut it. I'm leaving, and so are you.{#Name="Zero"}
+Fine...{#Name="Mikhail"}

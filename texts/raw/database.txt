@@ -1,0 +1,19 @@
+Characters
+Weapons
+View detailed character information.
+View weapon stories and other weapon information.
+Database
+{04}
+? ? ?
+Swords
+Spears
+Combat Bracers
+Chakrams
+DLC Weapons
+{04}
+Select/Rotate Model CONFIRMED NOT USED 1126
+View character animation. CONFIRMED NOT USED 1126
+Select a weapon to view its weapon story and additional details.
+Select a character to view.
+Select an animation to view. CONFIRMED NOT USED 1126
+デモ

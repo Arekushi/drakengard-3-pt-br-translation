@@ -1,0 +1,89 @@
+Campaign
+クエスト
+Download Missions
+Database
+Story Flow
+Switch Tabs
+Select/Switch Tabs
+Return to the main menu?
+You haven't satisfied the conditions required to choose this mission.
+未読です
+You need to collect every weapon before you can choose this branch.{LF}Your current weapon completion percentage is {04}
+現在の武器収集率は{04}
+You won't earn any experience during this mission.{LF}Do you still wish to proceed?
+You need to fulfill {04}
+Description
+Conditions
+Days until next payday: {04}
+Chapter 0
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 3
+Chapter 4
+Chapter 5
+Lost Verses
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+V1
+V2
+V1
+V2
+V3
+V4
+V1
+V2
+V3
+V4
+V5
+V6
+V1
+V2
+V3
+V4
+V5
+V6
+V1
+V2
+V3
+V4
+V1
+V2
+V3
+V4
+V1
+V2
+V3
+V4
+V5
+V1
+V2
+V3
+V4
+V5
+LV
+LV
+LV
+V1
+V2
+V3
+V4
+V5
+V6
+V7
+V8
+Final
+Branch A
+Branch B
+Branch C
+Branch D
+You need to complete Branch A before you can choose this mission.
+Land of Seas
+Land of Mountains
+Land of Forests
+Land of Sands
+Cathedral City

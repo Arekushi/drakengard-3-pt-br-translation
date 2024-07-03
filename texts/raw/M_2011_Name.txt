@@ -1,0 +1,25 @@
+ミハイル
+ゼロ
+敵兵Ａ
+敵兵Ｂ
+Zero
+Mikhail
+Dito
+説明文
+Soldier C
+Soldier D
+Soldier A
+Soldier F
+兵士B
+Soldier G
+Soldier E
+兵士C
+兵士D
+Soldier B
+兵士E
+兵士A
+ディト
+兵士G
+兵士F
+ディト・ミハイル
+Accord

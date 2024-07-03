@@ -1,0 +1,386 @@
+Enemy
+Soldier
+Soldier
+Soldier
+Soldier
+Gold Soldier
+Enhanced Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Cannoneer
+Cannoneer
+Cannoneer
+Cannoneer
+Cannoneer
+-
+Wolf
+Sandwolf
+-
+Wolf
+Sandwolf
+-
+Lancer
+Lancer Captain
+-
+Spirit
+Greater Spirit
+-
+Imp
+-
+-
+Ogre
+Sand Ogre
+-
+Troll
+Brute Troll
+-
+Wizard
+-
+Necromancer
+Sorcerer
+-
+Undead
+Undead Soldier
+Undead Paladin
+-
+-
+Wyvern
+-
+-
+Specter
+-
+-
+Wyvern
+Wyvern
+-
+Gigas
+Gigas
+Undead Gigas
+-
+Titan
+Titan Lord
+Arch Titan
+-
+Cerberus
+-
+Flame Cerberus
+Gray Cerberus
+Golem
+-
+花（ワン）
+花（トウ）
+花（スリイ）
+花（フォウ）
+花（ファイブ）
+-
+Centaur
+Flame Centaur
+-
+-
+Gargoyle Cube
+-
+-
+-
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Bomber
+Phanuel
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+-
+Armisael
+Armisael
+Armisael
+Egregori
+Gabriel
+Gabriel
+Gabriel
+Zophiel
+Zero
+Greater Gigas
+False Zero
+Homunculus
+Galgaliel
+Galgaliel
+Galgaliel
+Galgaliel
+Ezrael
+Raphael
+Abdiel
+Abdiel
+Abdiel
+Big, Juicy Crab
+Little Juicy Crab
+Michael
+Airship
+Air Skiff
+Evil Elf Pirate Ship
+-
+One
+One
+Two
+Three
+Four
+Five
+Zero
+Cent
+Three Statue
+バリケード小
+バリケード中
+バリケード大
+バリケード大 2
+Cannon
+Heavy Cannon
+Hyper Cannon
+戦艦大砲台
+戦艦長距離大砲台
+ハイパー砲台透明
+ハイパー砲台 (アルマロス周囲)
+ハイパー砲台 (アルマロス上部)
+大砲台(4020)
+浮遊石S
+ガーゴイルキューブ（OBJ）
+壊せる人面木
+壊せる蔦柱
+壊せる木0
+壊せる木1
+壊せる蔦壁小
+壊せる蔦壁大
+引っ込む蔦
+Landing Craft
+Battleship
+木汎用
+ZH00 ゼロ家柱
+アイテムボックス（木箱）
+ワイバーンの岩
+宝箱
+爆弾（クエスト用）
+Metallic Chest
+Cannon
+Hyper Cannon
+Battleship
+Battleship
+Soldier
+Southern Tower
+Eastern Tower
+Western Tower
+Northern Tower
+Soldier
+Soldier
+Enhanced Ogre
+Enhanced Imp
+Enhanced Cerberus
+Female Soldier
+Enemies
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Gold Soldiers
+Enhanced Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Cannoneers
+Cannoneers
+Cannoneers
+Cannoneers
+Cannoneers
+-
+Wolves
+Sandwolves
+-
+Wolves
+Sandwolves
+-
+Lancers
+Lancer Captains
+-
+Spirits
+Greater Spirits
+-
+Imps
+-
+-
+Ogres
+Sand Ogres
+-
+Trolls
+Brute Trolls
+-
+Wizards
+-
+Necromancers
+Sorcerers
+-
+Undead
+Undead Soldiers
+Undead Paladins
+-
+-
+Wyverns
+-
+-
+Specters
+-
+-
+Wyverns
+Wyverns
+-
+Gigantes
+Gigantes
+Undead Gigantes
+-
+Titans
+Titan Lords
+Arch Titans
+-
+Cerberuses
+-
+Flame Cerberuses
+Gray Cerberuses
+Golems
+-
+花（ワン）
+花（トウ）
+花（スリイ）
+花（フォウ）
+花（ファイブ）
+-
+Centaurs
+Flame Centaurs
+-
+-
+Gargoyle Cubes
+-
+-
+-
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Bombers
+Phanuel
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+-
+Armisaels
+Armisaels
+Armisaels
+Egregori
+Gabriel
+Gabriel
+ガブリエル（傷）
+Zophiel
+花（ゼロ）
+Greater Gigantes
+False Zeros
+Homunculi
+Galgaliels
+Galgaliels
+Galgaliels
+Galgaliels
+Ezrael
+Raphael
+Abdiel
+Abdiel
+Abdiel
+Big, Juicy Crabs
+Little Juicy Crabs
+Michael
+Airships
+Air Skiffs
+Evil Elf Pirate Ships
+-
+One
+One
+Two
+Three
+Four
+Five
+ゼロ最終
+Cent
+Three Statues
+バリケード小
+バリケード中
+バリケード大
+バリケード大 2
+Cannons
+Heavy Cannons
+Hyper Cannons
+戦艦大砲台
+戦艦長距離大砲台
+ハイパー砲台透明
+ハイパー砲台 (アルマロス周囲)
+ハイパー砲台 (アルマロス上部)
+大砲台(4020)
+浮遊石S
+ガーゴイルキューブ（OBJ）
+壊せる人面木
+壊せる蔦柱
+壊せる木0
+壊せる木1
+壊せる蔦壁小
+壊せる蔦壁大
+引っ込む蔦
+Landing Crafts
+Battleships
+木汎用
+ZH00 ゼロ家柱
+アイテムボックス（木箱）
+ワイバーンの岩
+宝箱
+爆弾（クエスト用）
+Metallic Chests
+Cannons
+Hyper Cannons
+Battleships
+Battleships
+Soldiers
+Southern Towers
+Eastern Towers
+Western Towers
+Northern Towers
+Soldiers
+Soldiers
+Enhanced Ogres
+Enhanced Imps
+Enhanced Cerberuses
+Female Soldiers

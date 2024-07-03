@@ -1,0 +1,10 @@
+Settings
+Abandon Mission
+Adjust various game settings.
+Abandon the current mission and return to the Chapter Select menu.
+Abandon the current mission and return to the Chapter Select menu?
+Music
+Change the background music that plays during the mission.
+Abandon the current mission and return to the Main Menu.
+Abandon the current mission and return to the Main Menu?
+Select Menu

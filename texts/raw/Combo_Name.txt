@@ -1,0 +1,85 @@
+-
+2-hit
+3-hit
+4-hit
+5-hit
+6-hit
+7-hit
+8-hit
+Spinslash
+Great Spinslash
+Maximum Spinslash
+Sigil Wave
+Earthstriker
+Rising Spinslash
+Earthstriker
+Sigil Burst
+Forward Spinslash
+Sigil Strike
+Aerial Strike
+Aerial 2-hit
+Aerial 3-hit
+Helmcrusher
+Aerial Assault
+-
+2-hit
+3-hit
+4-hit
+5-hit
+Forward Charge
+-
+Forward Blitz
+Forward Burst
+Swing 'n Slam
+Vaulting Finisher
+Aerial Swirl
+Gliding Thrust
+Downward Thrust
+-
+2-hit
+3-hit
+4-hit
+5-hit
+6-hit
+7-hit
+Graceful Storm
+Charged Bullet Kick
+Earthstriker
+Endless Earthstriker
+Aerial Spinkick
+Aerial Double Spinkick
+Aerial Triple Spinkick
+Fury Sphere
+Spin Slicer
+Aerial Strike
+Aerial 2-hit
+Aerial 3-hit
+Aerial 4-hit
+Smackdown
+Downward Kick
+Aerial Storm
+-
+2-hit
+3-hit
+4-hit
+5-hit
+6-hit
+Ring Toss
+Draw In
+Spinning Ring Toss
+Meteor Crash
+Whirlwind Strike
+Lasso Strike
+Aerial Strike
+Aerial Swirl
+Aerial Cyclone
+Aerial Draw-In
+8-hit
+9-hit
+Infinite-hit
+Thrash
+Thrash (+Surge)
+Cyclone Strike
+Thrash 'n Slash
+Aerial Thrash
+Grand Slam

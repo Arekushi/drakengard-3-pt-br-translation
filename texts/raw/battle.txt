@@ -1,0 +1,37 @@
+クエストスフィア残り {04}
+金袋を全て集めた！
+{04}
+{04}
+目標達成 ： 敵を殲滅した！
+目標達成 ： {04}
+{04}
+{04}
+目標達成：全ての{04}
+目標達成：{04}
+{04}
+{04}
+{04}
+{04}
+Time's up!
+Continue
+Return to Chapter Select
+Start from Checkpoint
+Start from Beginning
+Abandon the current mission?
+Target item obtained!
+Call for Help
+Checkpoint reached!
+Weapon obtained!
+Gold obtained!
+Base material obtained!
+All medals collected!
+All jewels collected!
+All claws collected!
+All books collected!
+All cloths collected!
+All hearts collected!
+Return to Main Menu
+Abandon the current mission and return to the main menu?
+Enemies defeated!
+Enemy soldiers defeated!
+Jewel obtained!

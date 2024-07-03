@@ -1,0 +1,23 @@
+Soldier B
+Soldier C
+Soldier A
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+Accord
+Zero
+セント
+オクタ
+ディト
+デカート
+Octa
+Decadus
+Dito
+Mikhail
+ゼロ
+Cent
+Dito/Cent/Octa/Decadus
+説明文
+アコール
+ 

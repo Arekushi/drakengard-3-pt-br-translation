@@ -1,0 +1,19 @@
+Mikhail
+ 
+Soldier A
+Soldier B
+Soldier G
+Soldier E
+Soldier F
+Soldier C
+Soldier D
+兵士Ｆ
+兵士Ａ
+兵士Ｅ
+Zero
+One
+145
+? ? ?
+? ? ?{0A}(One's Brother)
+One{0A}(One's Brother)
+? ? ?{0A}(Accord)

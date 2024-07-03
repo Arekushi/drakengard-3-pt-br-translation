@@ -1,0 +1,146 @@
+Controls: Evading
+Press {01}{0B} to evade in the direction you're facing.{LF}Use it while locked on to quickly get around your foes.
+Controls: Changing Weapons
+Press {01}{09} or {01}{0C} to open the weapons menu, then press{LF}the button that corresponds to the weapon you want to use.
+Zero's Weapons: Spears
+Spears not only pack power and have a long reach,{LF}they can also be used to break through the enemy's guard.
+Controls: Guarding
+Press {01} to guard against enemy attacks. Guarding depletes stamina;{LF}if your Stamina Gauge hits 0, your guard will be broken.
+Zero's Weapons: Chakrams
+Chakrams are long-range weapons that are effective{LF}against airborne enemies and faraway foes.
+Controls: Intoner Mode
+Press {01}{0A} and {01}{0D} simultaneously to activate Intoner Mode.{LF}Press them again to end Intoner Mode.
+エネミー / 盾兵
+盾兵は、{01}{04}によるスキル攻撃によって、{LF}盾を破壊する事ができます。
+Treasure Chests
+Attack a chest to reveal the contents inside.{LF}Check the results screen at the end of the stage for more info.
+ミハイルの操作２
+ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}で、モードを解除して地上に降りることができます。
+Controls: Basic Actions
+Use the left stick to move the targeting reticle.{LF}Press {01}{03} to breathe fire at the targeted location.
+Controls: Multi Lock-on
+Hold {01}{03} and use the left stick to lock on to multiple foes.{LF}Release {01}{03} to attack all targeted foes at once.
+Controls: Rolling
+Press {01}{0B} or {01} to perform an evasive roll that protects you{LF}from attacks. Use it with the left stick for speedier movement.
+Zero's Weapons: Combat Bracers
+Combat bracers are ideal for piling on combos{LF}against single enemies in tight spaces.
+操作 / 回り込み動作
+ロックオンした状態で左右ステップを行うと、{LF}敵の背後に回り込めます。
+エネミー / 小砲台兵
+大砲から発射される弾丸は、{LF}着弾カーソルの位置に落下します。
+ゼロの武器 / 剣
+剣は俊敏さと一定範囲に対する攻撃に優れた武器です。{LF}大勢に囲まれたときにその威力を発揮します。
+エネミー / アンデッド
+相手の攻撃を無効化する盾を装備しています。{LF}確実にとどめを刺さない限り、何度でも蘇ります。
+エネミー / ウルフ
+俊敏な動きと跳躍をいかしたリーチのある攻撃が得意です。{LF}リーダーウルフを中心に群れで行動します。
+戦輪の特徴 / チャージ攻撃
+{01}{03}、{01}{04}を長押しすることでチャージ攻撃ができます。{LF}{01}{04}では、技自体も強化されます。
+エネミー / スピリット
+周囲の敵兵に憑依することができる特殊なエネミーです。{LF}憑依された相手は瞬間的に攻撃力・防御力が上昇します。
+エネミー / 戦艦砲台
+大砲から発射される弾丸は、{LF}着弾カーソルの位置に落下します。
+Controls: Basic Actions
+While flying, you will gradually lose altitude. Press {01}{01} to flap{LF}your wings and ascend. Press {01}{03} to fire a breath attack.
+エネミー / 弓兵
+長距離攻撃を得意とする兵士です。{LF}打たれ弱く、接近戦を苦手とします。
+Controls: Charge Attacks
+Press {01}{04} while flying to perform a powerful{LF}charging attack that costs stamina to use.
+ミハイルの操作 / ロックオン
+{01}{08}で、敵をロックオンできます。{LF}狙いの敵を中心に移動し、攻撃できるようになります。
+エネミー / トロル
+動きは緩慢ですが、獲物を狙う攻撃は素早いエネミーです。{LF}痛みに鈍く、ダメージを受けても怯みにくい体質です。
+エネミー / インプ
+地上と上空を自由に行き来する飛行型エネミーです。{LF}誘導弾と上空からの素早い突進攻撃が得意です。
+操作 / 移動
+左スティックで、プレイヤーを操作します。
+操作 / カメラ
+右アナログスティックで、カメラを操作します。
+Controls: Navigation
+Press {01}{0D} to display a navigation arrow that will{LF}point you in the direction of your next goal.
+Controls: Mini-map
+Use the mini-map at the top-right of the screen to check your{LF}current surroundings. Press {01}{0A} to change the zoom level.
+操作 / 通常攻撃
+{01}{03}ボタンを押すと通常攻撃を行います。{LF}連打することで攻撃が変化します。
+Controls: Locking On
+Press {01}{08} to lock on to a foe; press it again to cancel.{LF}Use the right stick to switch between targets.
+Controls: Stamina Attacks
+Press {01}{04} to perform a stamina attack, a powerful move{LF}that consumes energy from your Stamina Gauge.
+The Blood Gauge
+Your blood gauge fills up as you defeat foes and take damage;{LF}once it fills to a certain point, you can activate Intoner Mode.
+操作 / ウタウタイ
+ウタウタイ
+操作 / ジャンプ斬り
+ジャンプ斬り
+エネミー / 槍兵
+エネミー / 槍兵のチュートリアル
+Controls: Fire Breath
+Press {01}{04} while on the ground to breathe fire,{LF}unleashing a powerful attack that consumes stamina.
+Controls: Parrying
+Guard just before an attack hits, and you can counter with{LF}a powerful attack of your own, without consuming any stamina.
+エネミー / 小盾兵
+エネミー / 小盾兵のチュートリアル
+使徒アビリティ / ディト
+使徒アビリティ / ディトのチュートリアル
+Fall Lines
+Fall off a ledge beyond the fall line,{LF}and you'll take damage and be warped back to the top.
+操作 / 武器チェンジ攻撃
+操作 / 武器チェンジ攻撃のチュートリアル
+エネミー / オーガ
+エネミー / オーガのチュートリアル
+エネミー / スピリット
+エネミー / スピリットのチュートリアル
+使徒アビリティ / デカート
+使徒アビリティ / デカートのチュートリアル
+使徒アビリティ / オクタ
+使徒アビリティ / オクタのチュートリアル
+Controls: Chakram Multi Lock-on
+Hold {01}{04} and use the left stick to lock on to multiple foes.{LF}Release {01}{04} to attack all targeted foes at once.
+エネミー / 騎馬兵
+エネミー / 騎馬兵のチュートリアル
+エネミー / 魔導士
+エネミー / 魔導士のチュートリアル
+Sun Damage
+If you enter the magically enhanced sunlight, you'll take damage.{LF}Retreat into shaded areas to recover your health.
+使徒アビリティ / セント
+使徒アビリティ / セントのチュートリアル
+宝箱
+宝箱のチュートリアル
+The Weapon Shop: Buying and Upgrading
+Stock up on items and purchase or upgrade weapons{LF}between missions using gold and base materials.
+ショップ / 強化
+ショップ / 強化のチュートリアル
+Controls: Summon Circles
+Enter a summon circle and press {01} to call Mikhail over{LF}to the battlefield to attack as the situation demands.
+The Blood Gauge
+Your blood gauge fills up as you defeat foes and take damage;{LF}once it fills to a certain point, you can activate Intoner Mode.
+Controls: Intoner Mode (When Mounted)
+Press {01}{0A} and {01}{0D} simultaneously to activate Intoner Mode.{LF}Press them again to end Intoner Mode.
+Cold Damage
+The magically enhanced cold will cause you to take damage.{LF}Warm up by a fire to recover your health.
+Accord's Requests: Item Raiding
+Certain foes will be carrying special items into combat;{LF}defeat them and recover the items to succeed.
+Accord's Requests: Item Raiding
+Collect all the requested items to earn a reward from Accord,{LF}including a first-time-only special completion bonus.
+Using Bombs
+Some soldiers carry deadly bombs that drop (and ignite!){LF}when defeated. Use them to your advantage!
+Bombs and the Undead
+As it happens, the undead are weak against explosives.{LF}If a bomb were to go off nearby...
+Accord's Requests: Treasure Hunting
+Fend off the attacking foes and recover the items{LF}locked away in the treasure chests they're guarding.
+Accord's Requests: Treasure Hunting
+Unlock all the treasure chests to earn a reward from Accord,{LF}including a first-time-only special completion bonus.
+Steel Treasure Chests
+Steel-reinforced treasure chests don't open as easily as normal ones;{LF}you'll need to hit them numerous times to break all the chains.
+Accord's Requests: Survival Challenges
+Defeat the enemies that attack you in each round{LF}and try to stay alive until the end.
+Accord's Requests: Survival Challenges
+Complete every round to earn a reward from Accord,{LF}including a first-time-only special completion bonus.
+Challenge Circles
+Win a round, and a challenge circle will appear. Collect the experience{LF}and gold that emerges, and then choose whether to continue or retire.
+Accord's Requests: Failing a Survival Challenge
+If you fail in a Survival Challenge, you'll lose all earned experience and gold.{LF}If you retire, however, you can keep what you've earned so far.
+Accord's Requests: Gold Farming
+Land attacks on your foes and they'll drop gold coins.{LF}Defeat them and grab as much gold as you can!
+Multiply your Money
+Gold soldiers are worth a fortune—literally! Defeat as many{LF}as you can to increase the multiplier for money earned.

@@ -1,0 +1,5 @@
+[TYPER.MAKE_TRANSLATION_FOLDER]
+help = 'Pega os textos e agrupa em arquivos .CSV amigáveis para tradução e revisão.'
+
+[TYPER.BUILDER]
+help = 'Módulo com capacidades de organizar e traduzir os textos, usando alguma ferramenta de tradução.'

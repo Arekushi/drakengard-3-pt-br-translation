@@ -1,0 +1,696 @@
+名前無し
+Recovery Potion (S)
+Recovery Potion (M)
+Recovery Potion (L)
+生命の小瓶
+Recovery Potion (Max)
+神秘の欠片
+神秘の結晶
+霊長薬
+再生の刃
+Strength Potion
+高揚のコロン
+Defense Potion
+精力のコロン
+加虐の丸薬
+被虐の丸薬
+絶倫の丸薬
+衆愚の丸薬
+予備
+Healsphere (S)
+Healsphere (M)
+Healsphere (L)
+Bloodsphere (S)
+Bloodsphere (L)
+EXP Sphere
+Copper Base Material
+Silver Base Material
+Gold Base Material
+White Base Material
+Black Base Material
+海のメダル
+Rusted Copper Coin
+森のメダル
+Cracked Copper Coin
+Antique Silver Coin
+Polished Copper Coin
+Antique Gold Coin
+剣兵のメダルC
+Chalky Silver Coin
+剣兵のメダルE
+Copper Goblin Coin
+槍兵のメダルB
+Silver Merrow Coin
+Gold Valkyrie Coin
+Gold Phoenix Coin
+Copper Angelos Coin
+Silver Arche Coin
+Silver Thrones Coin
+Silver Cherub Coin
+Silver Seraph Coin
+弓兵のメダルA
+Devotion Coin
+弓兵のメダルC
+弓兵のメダルD
+Benevolence Coin
+Kindness Coin
+Affection Coin
+砲兵のメダルC
+砲兵のメダルD
+砲兵のメダルE
+魔導師のメダル
+魔導師２のメダル
+魔導師３のメダル
+アンデッドのメダル
+アンデッド２のメダル
+アンデッド３のメダル
+オーガのメダル
+オーガ２のメダル
+トロルのメダル
+トロル２のメダル
+オオカミのメダル
+オオカミ２のメダル
+騎馬兵のメダル
+騎馬兵２のメダル
+スピリットのメダル
+スピリット２のメダル
+インプのメダル
+ギガースのメダル
+ギガース２のメダル
+ギガース３のメダル
+巨人剣士のメダル
+巨人剣士２のメダル
+巨人剣士３のメダル
+ケルベロスのメダル
+ケルベロス２のメダル
+ケルベロス３のメダル
+ゴーレムのメダル
+ケンタウロスのメダル
+イーフリートのメダル
+ファヌエルのメダル
+アルサミエルのメダル
+エグリゴリのメダル
+ラファエルのメダル
+ガルガリエルのメダル
+アプディエルのメダル
+ゾフィエルのメダル
+ガブリエルのメダル
+予備のメダル１
+予備のメダル２
+予備のメダル３
+予備のメダル４
+予備のメダル５
+予備のメダル６
+予備のメダル７
+予備のメダル８
+予備のメダル９
+予備のメダル１０
+予備のメダル１１
+予備のメダル１２
+予備のメダル１３
+予備のメダル１４
+予備のメダル１５
+予備のメダル１６
+予備のメダル１７
+予備のメダル１８
+予備のメダル１９
+予備のメダル２０
+予備のメダル２１
+予備のメダル２２
+予備のメダル２３
+予備のメダル２４
+予備のメダル２５
+予備のメダル２６
+予備のメダル２７
+予備のメダル２８
+予備のメダル２９
+予備のメダル３０
+予備のメダル３１
+予備のメダル３２
+予備のメダル３３
+海の宝石
+山の宝石
+森の宝石
+Broken Jewel
+教会の宝石
+剣兵の宝石A
+Chipped Jewel
+剣兵の宝石C
+Clouded Jewel
+Polished Jewel
+槍兵の宝石A
+Hypnos Jewel
+Sylph Jewel
+Undine Jewel
+Gnome Jewel
+Salamander Jewel
+盾兵の宝石B
+Wyrm Flamestone
+Faerie Stone
+Saintly Agate
+Vivid Topaz
+Perplexing Jasper
+Silent Onyx
+Abyssal Sapphire
+Streaked Emerald
+Nornir Jewel
+b
+Aurora Jewel
+Serket Jewel
+Heavenly Jewel
+魔導師の宝石
+魔導師２の宝石
+魔導師３の宝石
+アンデッドの宝石
+アンデッド２の宝石
+アンデッド３の宝石
+オーガの宝石
+オーガ２の宝石
+トロルの宝石
+トロル２の宝石
+オオカミの宝石
+オオカミ２の宝石
+騎馬兵の宝石
+騎馬兵２の宝石
+スピリットの宝石
+スピリット２の宝石
+インプの宝石
+ギガースの宝石
+ギガース２の宝石
+ギガース３の宝石
+巨人剣士の宝石
+巨人剣士２の宝石
+巨人剣士３の宝石
+ケルベロスの宝石
+ケルベロス２の宝石
+ケルベロス３の宝石
+ゴーレムの宝石
+ケンタウロスの宝石
+イーフリートの宝石
+ファヌエルの宝石
+アルサミエルの宝石
+エグリゴリの宝石
+ラファエルの宝石
+ガルガリエルの宝石
+アプディエルの宝石
+ゾフィエルの宝石
+ガブリエルの宝石
+予備の宝石１
+予備の宝石２
+予備の宝石３
+予備の宝石４
+予備の宝石５
+予備の宝石６
+予備の宝石７
+予備の宝石８
+予備の宝石９
+予備の宝石１０
+予備の宝石１１
+予備の宝石１２
+予備の宝石１３
+予備の宝石１４
+予備の宝石１５
+予備の宝石１６
+予備の宝石１７
+予備の宝石１８
+予備の宝石１９
+予備の宝石２０
+予備の宝石２１
+予備の宝石２２
+予備の宝石２３
+予備の宝石２４
+予備の宝石２５
+予備の宝石２６
+予備の宝石２７
+予備の宝石２８
+予備の宝石２９
+予備の宝石３０
+予備の宝石３１
+予備の宝石３２
+予備の宝石３３
+海のナイフ
+Fragile Claw
+森のナイフ
+Soft Claw
+Long Claw
+Pointed Claw
+Dreameater Claw
+Crimson Claw
+剣兵の剣E
+Dead Man's Claw
+槍兵の剣B
+Silver Claw
+Beautiful Talon
+Sharp Talon
+盾兵の剣A
+Emerald Talon
+Roc Talon
+Water Spirit Hoof
+Pegasus Hoof
+弓兵の剣A
+Lightning Hoof Fragment
+弓兵の剣C
+弓兵の剣D
+Millennial Hoof
+Flame Hoof Fragment
+Heaven-sent Hoof
+砲兵の剣C
+砲兵の剣D
+砲兵の剣E
+Child's Rib
+Man's Femur
+Girl's Skull
+Woman's Pelvis
+アンデッド２の剣
+アンデッド３の剣
+オーガの角
+オーガ２の角
+トロルの爪
+トロル２の爪
+オオカミの爪
+オオカミ２の爪
+騎馬兵の剣
+騎馬兵２の剣
+スピリットの爪
+スピリット２の爪
+インプの爪
+ギガースの爪
+ギガース２の爪
+ギガース３の爪
+巨人剣士の爪
+巨人剣士２の爪
+巨人剣士３の爪
+ケルベロスの爪
+ケルベロス２の爪
+ケルベロス３の爪
+ゴーレムの手
+ケンタウロスの爪
+イーフリートの爪
+ファヌエルの爪
+アルサミエルの爪
+エグリゴリの爪
+ラファエルの爪
+ガルガリエルの爪
+アプディエルの爪
+ゾフィエルの爪
+ガブリエルの爪
+予備の爪１
+予備の爪２
+予備の爪３
+予備の爪４
+予備の爪５
+予備の爪６
+予備の爪７
+予備の爪８
+予備の爪９
+予備の爪１０
+予備の爪１１
+予備の爪１２
+予備の爪１３
+予備の爪１４
+予備の爪１５
+予備の爪１６
+予備の爪１７
+予備の爪１８
+予備の爪１９
+予備の爪２０
+予備の爪２１
+予備の爪２２
+予備の爪２３
+予備の爪２４
+予備の爪２５
+予備の爪２６
+予備の爪２７
+予備の爪２８
+予備の爪２９
+予備の爪３０
+予備の爪３１
+予備の爪３２
+予備の爪３３
+海の本
+山の本
+森の本
+砂の本
+Torn-up Book
+剣兵の本A
+剣兵の本B
+剣兵の本C
+Stained Book
+剣兵の本E
+Ancient Book
+槍兵の本B
+Dian Cecht Book
+Epona Book
+Toutatis Book
+盾兵の本A
+Taranis Page
+盾兵の本C
+Heaven's Mandate Page
+Heaven-sent Book
+弓兵の本A
+弓兵の本B
+弓兵の本C
+弓兵の本D
+弓兵の本E
+砲兵の本A
+砲兵の本B
+砲兵の本C
+砲兵の本D
+砲兵の本E
+魔導師の本
+魔導師２の本
+魔導師３の本
+アンデッドの本
+アンデッド２の本
+アンデッド３の本
+オーガの本
+オーガ２の本
+トロルの本
+トロル２の本
+オオカミの本
+オオカミ２の本
+騎馬兵の本
+騎馬兵２の本
+スピリットの本
+スピリット２の本
+インプの本
+ギガースの本
+ギガース２の本
+ギガース３の本
+巨人本士の本
+巨人本士２の本
+巨人本士３の本
+ケルベロスの本
+ケルベロス２の本
+ケルベロス３の本
+ゴーレムの本
+ケンタウロスの本
+イーフリートの本
+ファヌエルの本
+アルサミエルの本
+エグリゴリの本
+ラファエルの本
+ガルガリエルの本
+アプディエルの本
+ゾフィエルの本
+ガブリエルの本
+予備の本１
+予備の本２
+予備の本３
+予備の本４
+予備の本５
+予備の本６
+予備の本７
+予備の本８
+予備の本９
+予備の本１０
+予備の本１１
+予備の本１２
+予備の本１３
+予備の本１４
+予備の本１５
+予備の本１６
+予備の本１７
+予備の本１８
+予備の本１９
+予備の本２０
+予備の本２１
+予備の本２２
+予備の本２３
+予備の本２４
+予備の本２５
+予備の本２６
+予備の本２７
+予備の本２８
+予備の本２９
+予備の本３０
+予備の本３１
+予備の本３２
+予備の本３３
+Tattered Cloth
+Worn Cloth
+Soft Cloth
+Bloodied Cloth
+Sturdy Cloth
+Shamrock Fabric
+剣兵の服B
+Panacea Fabric
+Bountiful Fabric
+Raincloth Fabric
+Gleipnir Weave
+槍兵の服B
+Goldfleece Weave
+槍兵の服D
+Worldtree Weave
+Ancient Shroud
+盾兵の服B
+Heaven-sent Garb
+盾兵の服D
+盾兵の服E
+弓兵の服A
+弓兵の服B
+弓兵の服C
+弓兵の服D
+弓兵の服E
+砲兵の服A
+砲兵の服B
+砲兵の服C
+砲兵の服D
+砲兵の服E
+魔導師の服
+魔導師２の服
+魔導師３の服
+アンデッドの服
+アンデッド２の服
+アンデッド３の服
+オーガの服
+オーガ２の服
+トロルの服
+トロル２の服
+オオカミの服
+オオカミ２の服
+騎馬兵の服
+騎馬兵２の服
+スピリットの服
+スピリット２の服
+インプの服
+ギガースの服
+ギガース２の服
+ギガース３の服
+巨人剣士の服
+巨人剣士２の服
+巨人剣士３の服
+ケルベロスの服
+ケルベロス２の服
+ケルベロス３の服
+ゴーレムの服
+ケンタウロスの服
+イーフリートの服
+ファヌエルの服
+アルサミエルの服
+エグリゴリの服
+ラファエルの服
+ガルガリエルの服
+アプディエルの服
+ゾフィエルの服
+ガブリエルの服
+予備の服１
+予備の服２
+予備の服３
+予備の服４
+予備の服５
+予備の服６
+予備の服７
+予備の服８
+予備の服９
+予備の服１０
+予備の服１１
+予備の服１２
+予備の服１３
+予備の服１４
+予備の服１５
+予備の服１６
+予備の服１７
+予備の服１８
+予備の服１９
+予備の服２０
+予備の服２１
+予備の服２２
+予備の服２３
+予備の服２４
+予備の服２５
+予備の服２６
+予備の服２７
+予備の服２８
+予備の服２９
+予備の服３０
+予備の服３１
+予備の服３２
+予備の服３３
+ギガースの心臓
+ギガース２の心臓
+ギガース３の心臓
+巨人剣士の心臓
+巨人剣士２の心臓
+巨人剣士３の心臓
+ケルベロスの心臓
+ケルベロス２の心臓
+Weakened Heart
+ゴーレムの心臓
+ケンタウロスの心臓
+イーフリートの心臓
+Withered Heart
+アルサミエルの心臓
+Foolish Heart
+Emboldened Heart
+ガルガリエルの心臓
+Saintly Heart
+Purified Heart
+ガブリエルの心臓
+Noble Heart
+Searing Core
+Frozen Core
+ウタウタイの心臓
+Golden Core
+Crystal Core
+Sacred Core
+Ebon Core
+Dragon Heart
+Pegasus Heart
+Shining Nucleus
+Stout Nucleus
+Binding Nucleus
+Justice Nucleus
+Heroic Nucleus
+Bumbling Nucleus
+Festive Nucleus
+Uplifting Nucleus
+Flowery Nucleus
+Redemptive Nucleus
+予備の心臓１７
+予備の心臓１８
+予備の心臓１９
+予備の心臓２０
+予備の心臓２１
+予備の心臓２２
+予備の心臓２３
+予備の心臓２４
+予備の心臓２５
+予備の心臓２６
+未鑑定メダル
+未鑑定メダル（レア）
+未鑑定宝石
+未鑑定宝石（レア）
+未鑑定武器
+未鑑定武器（レア）
+未鑑定本
+未鑑定本（レア）
+未鑑定服
+未鑑定服（レア）
+未鑑定心臓
+未鑑定心臓（レア）
+クエスト用メダル１
+クエスト用メダル２
+クエスト用メダル３
+クエスト用メダル４
+クエスト用メダル５
+クエスト用メダル６
+クエスト用メダル７
+クエスト用メダル８
+クエスト用メダル９
+クエスト用メダル１０
+クエスト用メダル１１
+クエスト用メダル１２
+クエスト用メダル１３
+クエスト用メダル１４
+クエスト用メダル１５
+クエスト用メダル１６
+クエスト用メダル１７
+クエスト用メダル１８
+クエスト用メダル１９
+クエスト用メダル２０
+クエスト用メダル２１
+Tealstone
+Pinkstone
+Flintstone
+Amberstone
+Foodstone
+Movestone
+Floatstone
+Magnetite
+Cometstone
+Meteorite
+クエスト用宝石１１
+クエスト用宝石１２
+クエスト用宝石１３
+クエスト用宝石１４
+クエスト用宝石１５
+クエスト用宝石１６
+クエスト用宝石１７
+クエスト用宝石１８
+クエスト用宝石１９
+クエスト用宝石２０
+クエスト用宝石２１
+Book of Hope
+Book of Ambition
+Book of Reticence
+Book of Stoicism
+Book of Sanctity
+Book of Mystery
+Book of Purity
+Book of Innocence
+Book of Doctrine
+Book of Discipline
+クエスト用本１１
+クエスト用本１２
+クエスト用本１３
+クエスト用本１４
+クエスト用本１５
+クエスト用本１６
+クエスト用本１７
+クエスト用本１８
+クエスト用本１９
+クエスト用本２０
+クエスト用本２１
+クエスト用服１
+クエスト用服２
+クエスト用服３
+クエスト用服４
+クエスト用服５
+クエスト用服６
+クエスト用服７
+クエスト用服８
+クエスト用服９
+クエスト用服１０
+クエスト用服１１
+クエスト用服１２
+クエスト用服１３
+クエスト用服１４
+クエスト用服１５
+クエスト用服１６
+クエスト用服１７
+クエスト用服１８
+クエスト用服１９
+クエスト用服２０
+クエスト用服２１
+Ox Horn
+Unicorn Horn
+Hawk Talon
+Eagle Talon
+Toad Stinger
+Viper Fang
+Bone Fossil
+Plant Fossil
+Old-World Artifact
+Old-World Shard
+クエスト用武器１１
+クエスト用武器１２
+クエスト用武器１３
+クエスト用武器１４
+クエスト用武器１５
+クエスト用武器１６
+クエスト用武器１７
+クエスト用武器１８
+クエスト用武器１９
+クエスト用武器２０
+クエスト用武器２１

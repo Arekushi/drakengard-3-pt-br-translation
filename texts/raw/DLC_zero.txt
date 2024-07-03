@@ -1,0 +1,15 @@
+Zero's standard outfit.{#Name="Standard Garb"}
+衣装の説明が入ります{#Name="欠番"}
+An outfit stained in the color of blood.{LF}Fills the Blood Gauge automatically.{#Name="Bloodstained Garb"}
+-{#Name="衣装４"}
+-{#Name="衣装５"}
+-{#Name="衣装６"}
+-{#Name="衣装７"}
+-{#Name="衣装８"}
+-{#Name="衣装９"}
+-{#Name="衣装１０"}
+-{#Name="衣装１１"}
+-{#Name="衣装１２"}
+-{#Name="衣装１３"}
+衣装の説明が入ります{#Name="予備"}
+衣装の説明が入ります{#Name="予備"}

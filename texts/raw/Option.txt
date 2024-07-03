@@ -1,0 +1,80 @@
+On
+Off
+Max
+Min
+Controller Settings
+Visual Settings
+Audio Settings
+カメラ操作
+画面表示
+Restore Defaults
+Adjust settings related to the controller.
+Adjust settings related to the game screen.
+Adjust settings related to audio volume.
+カメラの操作方式について設定します
+画面の表示物について設定します
+Restore all settings to the default configuration.
+通常攻撃
+固有攻撃
+ジャンプ
+回避ステップ
+ロックオン
+武器チェンジ
+魔法
+籠手チェンジ
+ロックオン方式
+切り替えタイプ
+ホールドタイプ
+Air Battle Controls
+Normal
+Inverted
+Brightness
+Music Volume
+SFX Volume
+Voice Volume
+音質
+ステレオ
+5.1ch サラウンド
+Camera Control (Left/Right)
+Camera Sensitivity (Left/Right)
+Camera Control (Up/Down)
+Camera Sensitivity (Up/Down)
+カメラ距離
+近
+Normal
+遠
+カメラディレイ
+Chase Cam
+Air Battle Controls
+ロックオン方式
+Normal
+Inverted
+Blood Splatter
+字幕
+敵体力表示
+チェイン表示
+Leave the settings screen.
+Leave without confirming changes?
+Apply Changes
+操作タイプ
+Vibration
+Settings
+{04}
+切り替え
+ガード
+ステップ
+Toggle controller vibration on and off.
+Choose between normal and inverted controls during air battle stages.
+Choose between normal and inverted horizontal camera control.
+Adjust the camera's horizontal movement sensitivity.
+Choose between normal and inverted vertical camera control.
+Adjust the camera's vertical movement sensitivity.
+Adjust whether the camera auto-follows behind Zero or remains static.
+Adjust the brightness level of the screen.
+Adjust the gamma value of the screen.
+Adjust the volume of background music.
+Adjust the volume of sound effects.
+Adjust the volume of character voices.
+Choose whether to have blood splattering on the screen during combat.
+Gamma
+Restore all settings to the default configuration?

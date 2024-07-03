@@ -1,0 +1,3 @@
+[CLI.MAKE_TRANSLATION_FOLDER]
+rule= ':hammer_and_wrench: [b]Criação da pasta de tradução[/]'
+status = 'Criando...'

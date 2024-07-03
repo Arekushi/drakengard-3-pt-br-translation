@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "drakengard-3-pt-br-translation"
+version = "0.1.0"
+description = ""
+authors = [
+    "Alexandre Ferreira de Lima <alexandre.ferreira1445@gmail.com>"
+]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+tqdm = "^4.65.0"
+dynaconf = "^3.1.12"
+toml = "^0.10.2"
+pandas = "^1.5.3"
+asyncio = "^3.4.3"
+typer = {extras = ["all"], version = "^0.7.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

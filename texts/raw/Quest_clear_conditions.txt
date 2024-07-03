@@ -1,0 +1,73 @@
+Quest Clear Conditions
+クエストクリア条件を表示　　１０１０＿１
+Acquire 7 Tealstones.{LF}You may only fight with swords.
+Acquire 8 Ox Horns.{LF}You may only fight with swords.
+Acquire 9 Books of Hope.
+クエストクリア条件を表示　　１０２０＿１
+Acquire 3 Pinkstones.{LF}You may only fight with swords.
+Acquire 3 Unicorn Horns.{LF}You may only fight with swords.
+Acquire 3 Books of Ambition.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　１０３０＿２
+クエストクリア条件を表示　　１０４０＿１
+クエストクリア条件を表示　　１０４０＿２
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+クエストクリア条件を表示　　２０１０＿１
+クエストクリア条件を表示　　２０１０＿２
+クエストクリア条件を表示　　２０２０＿１
+Acquire 7 Flintstones.{LF}You may only fight with spears.
+Acquire 8 Hawk Talons.{LF}You may only fight with spears.
+Acquire 9 Books of Reticence.
+クエストクリア条件を表示　　２０３０＿１
+クエストクリア条件を表示　　２０３０＿２
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　２０４０＿２
+クエストクリア条件を表示　　２０５０＿１
+Acquire 3 Amberstones.{LF}You may only fight with spears.
+Acquire 3 Eagle Talons.{LF}You may only fight with spears.
+Acquire 3 Books of Stoicism.
+クエストクリア条件を表示　　２０６０＿１
+クエストクリア条件を表示　　２０６０＿２
+クエストクリア条件を表示　　３０１０＿１
+Acquire 3 Movestones.{LF}You may only fight with combat bracers.
+Acquire 3 Viper Fangs.{LF}You may only fight with combat bracers.
+Acquire 3 Books of Mystery.
+クエストクリア条件を表示　　３０２０＿１
+クエストクリア条件を表示　　３０２０＿２
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　３０３０＿２
+クエストクリア条件を表示　　３０４０＿１
+クエストクリア条件を表示　　３０４０＿２
+クエストクリア条件を表示　　３０５０＿１
+Acquire 7 Foodstones.{LF}You may only fight with combat bracers.
+Acquire 8 Toad Stingers.{LF}You may only fight with combat bracers.
+Acquire 9 Books of Sanctity.
+クエストクリア条件を表示　　３０６０＿１
+クエストクリア条件を表示　　３０６０＿２
+クエストクリア条件を表示　　４０１０＿１
+Acquire 7 Floatstones.{LF}You may only fight with chakrams.
+Acquire 8 Bone Fossils.{LF}You may only fight with chakrams.
+Acquire 9 Books of Purity.
+クエストクリア条件を表示　　４０２０＿１
+Acquire 3 Magnetite stones.{LF}You may only fight with chakrams.
+Acquire 3 Plant Fossils.{LF}You may only fight with chakrams.
+Acquire 3 Books of Innocence.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　４０３０＿２
+クエストクリア条件を表示　　４０４０＿１
+クエストクリア条件を表示　　４０４０＿２
+クエストクリア条件を表示　　５０１０＿１
+クエストクリア条件を表示　　５０１０＿２
+クエストクリア条件を表示　　５０２０＿１
+Acquire 3 Meteorite stones.
+Acquire 3 Old-World Shards.
+Acquire 3 Books of Discipline.
+クエストクリア条件を表示　　５０３０＿１
+Acquire 7 Cometstones.
+Acquire 8 Old-World Artifacts.
+Acquire 9 Books of Doctrine.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　５０４０＿２

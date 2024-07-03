@@ -1,0 +1,11 @@
+[ARGS]
+paths_to_translate = [
+    'translation'
+]
+
+[FOLDERS]
+raw_texts_folder_name = 'raw'
+translation_folder_name = 'translation'
+
+[FILES]
+to_backup = []

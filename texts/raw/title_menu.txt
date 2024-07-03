@@ -1,0 +1,28 @@
+Novo Jogo
+Continuar
+Configurações
+Database
+Change Outfits/Music
+Pressione o botão START
+Select a recording file to use.
+Delete Recording File
+Delete this recording file?
+Begin a new campaign.
+Continue a campaign in progress.
+Adjust various game settings.
+View the weapons and characters that appear in the story.
+Change Zero's outfit, Mikhail's appearance, or the background music.
+Checking current data.{LF}Do not turn off your PlayStation®3 system.
+Recording {04}
+Novo Jogo
+Any unsaved progress will be lost.{LF}Return to the title screen?
+Deleting recording file.{LF}Do not turn off your PlayStation®3 system.
+Save data created by another user was loaded.{LF}This save data cannot be used.{LF}Overwrite this data and create new save data?
+No current save data found.{LF}The system will create new save data.
+Creating new save data.{LF}Do not turn off your PlayStation®3 system.
+New save data created.
+Overwriting save data.{LF}Do not turn off your PlayStation®3 system.
+Checking for valid downloadable content.{LF}Do not turn off your PlayStation®3 system.
+{06}>
+{06}>
+{06}>

@@ -1,0 +1,100 @@
+Buy Items
+Change Weapons
+Choose Disciples
+Change Outfits/Music
+Settings
+Save
+Continue Campaign
+Begin Mission
+Gold
+G
+Buy Weapons
+Upgrade Weapons
+Items
+Swords
+Spears
+Combat Bracers
+Chakrams
+Purchase?
+Cost: {04}
+You don't have enough gold.
+{04}
+How many would you like?
+You can't carry any more.
+Upgrade {04}
+{04}
+You don't have the required base material.
+Lv. {04}
+Power:
+Size:
+Light Sword CONFIRMED NOT USED 1126
+Medium Sword CONFIRMED NOT USED 1126
+Heavy Sword CONFIRMED NOT USED 1126
+Long Sword CONFIRMED NOT USED 1126
+Light Spear CONFIRMED NOT USED 1126
+Medium Spear CONFIRMED NOT USED 1126
+Heavy Spear CONFIRMED NOT USED 1126
+Long Spear CONFIRMED NOT USED 1126
+Light Chakram CONFIRMED NOT USED 1126
+Medium Chakram CONFIRMED NOT USED 1126
+Heavy Chakram CONFIRMED NOT USED 1126
+Long Chakram CONFIRMED NOT USED 1126
+Light Combat Bracers CONFIRMED NOT USED 1126
+Medium Combat Bracers CONFIRMED NOT USED 1126
+Heavy Combat Bracers CONFIRMED NOT USED 1126
+Long Combat Bracers CONFIRMED NOT USED 1126
+Save your progress?
+Now saving...{LF}Please do not turn off the PlayStation®3 system.
+Progress saved.
+Ability: {04}
+Choose two disciples to bring along on this mission.
+Begin the mission?
+Purchase items and upgrade weapons.
+Choose which weapons to equip.
+Choose which disciples to bring along on missions.
+Change Zero's outfit, Mikhail's appearance, or the background music.
+Adjust various game settings.
+Save your current game progress.
+Finish battle preparations and begin the mission.
+--- 
+Purchase items.
+Purchase weapons.
+Upgrade the weapons in your possession.
+You don't have this weapon.
+You don't have any other weapons.
+Purchase items and weapons.
+→
+No purchasable weapons available.
+No further upgrades available.
+New Items in Stock!
+Thank you for your support!
+Accord's Items
+Currently Equipped:
+Current Disciples
+Lv. 
+This weapon cannot be upgraded in the shop!
+You need at least three disciples in order to change party members.
+CONFIRMED NOT USED 1126
+Empty
+You don't have any weapons of this type yet.
+Accord's Rules:
+1. Don't rely on your items.
+2. Don't rely on your companions.
+3. Don't whine at me about rules 1 or 2.
+Select the disciple to replace.
+Select the disciple to bring with you.
+(No data.)
+Chapter Select
+Finish battle preparations and return to the Chapter Select menu.
+Weapons Collected: {04}
+Memoirs of the Intoners
+View the bonus stories you've unlocked via DLC.
+ファイブ　「納品書」
+フォウ　「みんなに伝えたい事」
+スリイ　「ある兵士の追憶」
+トウ　「二人のレシピ帳」
+ワン　「七つの言葉」
+ゼロ　「ミハイル日記」
+Choose the Intoner whose stories you would like to read.
+Choose a story to read.
+Memoirs of the Intoners

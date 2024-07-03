@@ -1,0 +1,2 @@
+start:
+	python main.py

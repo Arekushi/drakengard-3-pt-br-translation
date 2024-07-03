@@ -1,0 +1,25 @@
+Change Outfits/Music
+Zero
+Mikhail
+Music
+Change Zero's outfit.
+Change Mikhail's appearance.
+Change the music that plays during battle.
+Play
+Purchase Content
+Connect to PlayStation®Store to purchase downloadable content.
+This will end the current game. Are you sure?
+Zero
+Mikhail
+Music
+You must end your game before connecting to PlayStation®Store.{LF}Would you like to save your current progress?
+Connect to PlayStation®Store without saving?{LF}All unsaved progress will be lost.
+Stop
+You must sign in with your Sony Entertainment Network account to access this option.
+The parental control settings on your Sony Entertainment Network account prevent you from using online services.
+Voice
+Language
+Japanese
+English
+Switch the voice language used in the main game.
+Changing voices...
