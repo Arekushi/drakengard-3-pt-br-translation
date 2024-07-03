@@ -105,8 +105,8 @@ If you want the project for development, some prerequisites are necessary.
 <br>
 
 ## Contributors
-| [<div><img width=115 src="https://avatars.githubusercontent.com/u/54884313?v=4"><br><sub>Alexandre Ferreira de Lima</sub></div>][arekushi] <div title="Code and Translation">💻</div> | [<div><img width=115 src="https://avatars.githubusercontent.com/u/131723671?v=4"><br><sub>Cristian Kirsch</sub></div>][omainha] <div title="Translation and Review">📚</div> |
-| :---: | :---: |
+| [<div><img width=115 src="https://avatars.githubusercontent.com/u/54884313?v=4"><br><sub>Alexandre Ferreira de Lima</sub></div>][arekushi] <div title="Code and Translation">💻</div> | [<div><img width=115 src="https://avatars.githubusercontent.com/u/131723671?v=4"><br><sub>Cristian Kirsch</sub></div>][omainha] <div title="Translation and Review">📚</div> | [<div><img width=115 src="https://avatars.githubusercontent.com/u/174618134?v=4"><br><sub>Paul Paulo HNKBR</sub></div>][paulo] <div title="Translation and Review">📚</div> |
+| :---: | :---: | :---: |
 
 <!-- [Build With] -->
 [python]: https://www.python.org/downloads/
@@ -120,3 +120,4 @@ If you want the project for development, some prerequisites are necessary.
 <!-- [Contributors] -->
 [arekushi]: https://github.com/Arekushi
 [omainha]: https://github.com/MainhaLisa
+[paulo]: https://github.com/PaulPauloHNKBR
