@@ -11,7 +11,7 @@
 <p align="center">
   Aplicação para instalar e criar traduções para o Drakengard 3 (BLUS31197)
   <br>
-  English version of this README.md <a href="https://github.com/Arekushi/drakengard3-pt-br-translation/blob/master/README.en.md">here</a>
+  English version of this README.md <a href="https://github.com/Arekushi/drakengard-3-pt-br-translation/blob/master/README.en.md">here</a>
 </p>
 
 <br>
@@ -86,7 +86,7 @@ Se quiser o projeto para desenvolver, alguns pré-requisitos são necessários.
 ### Instalação e Uso
 1. Clone o repositório.
     ```sh
-    git clone https://github.com/Arekushi/drakengard3-pt-br-translation.git
+    git clone https://github.com/Arekushi/drakengard-3-pt-br-translation.git
     ```
 
 2. Instale os pacotes com o `Poetry`
