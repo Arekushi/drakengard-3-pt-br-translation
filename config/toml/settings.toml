@@ -3,6 +3,9 @@ raw_texts_folder_name = 'raw'
 translation_folder_name = 'translation'
 result_folder_name = 'result'
 
+[FILES]
+result_file_name = 'Sqex03DataMessage.txt'
+
 [TRANSLATION.FILES]
 to_not_translate = []
 to_translate = []

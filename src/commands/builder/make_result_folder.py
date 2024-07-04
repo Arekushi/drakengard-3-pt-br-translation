@@ -40,4 +40,4 @@ def create_result_folder():
         result_df = pd.concat([result_df, df['translation']])
     
     result_df = result_df.rename(columns={0: 'translation'})
-    save_df_txt(result_df['translation'], f'{result_folder_path}\\result.txt')
+    save_df_txt(result_df['translation'], f'{result_folder_path}\\{settings.FILES.result_file_name}')
