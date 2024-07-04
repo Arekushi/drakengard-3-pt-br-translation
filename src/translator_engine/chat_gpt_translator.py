@@ -32,9 +32,13 @@ class ChatGPTTranslator(TranslatorEngine):
         translation_column = []
         
         for _, grouped_phrases in enumerate(grouped_phrases_list):
-            translated_phrases = await self.send_message_to_translate(grouped_phrases)
-            translation_column.extend([phrase[1] for phrase in translated_phrases])
-            df_temp = df.assign(translation=translation_column)
+            translated_response = await self.send_message_to_translate(grouped_phrases)
+            phrases = [response[1] for response in translated_response]
+            indexes = [response[0] for response in translated_response]
+            translation_column.extend(phrases)
+            
+            df_temp = df.copy()
+            df_temp.loc[indexes[0]:indexes[len(indexes) - 1], 'translation'] = phrases
             save_df_csv(df_temp, update_dir(file_path, f'{ROOT_DIR}\\temp'))
         
         df = df.assign(translation=translation_column)
@@ -51,7 +55,7 @@ class ChatGPTTranslator(TranslatorEngine):
                 translated_phrases = get_list_from_response(message_response)
                 
                 if (len(translated_phrases) != len(grouped_phrases)):
-                    console.print(settings.CLI.TRANSLATOR.wrong_response)
+                    console.print(settings.CLI.TRANSLATE.wrong_response)
                     attempts += 1
                     continue
                 

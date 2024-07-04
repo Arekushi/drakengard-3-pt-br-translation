@@ -11,14 +11,12 @@ class TranslatorEngine(ABC):
     async def init(self):
         raise NotImplementedError()
     
-    async def translate_multiple_files(self, files):
-        await self.init()
-        
+    async def translate_multiple_files(self, files):        
         count_all = len(files)
 
         for i, file in enumerate(files):
             console.print(
-                settings.CLI.TRANSLATOR.translating_file
+                settings.CLI.TRANSLATE.translating_file
                     .replace('<file>', str(file))
                     .replace('<i>', str(i + 1))
                     .replace('<count_all>', str(count_all))

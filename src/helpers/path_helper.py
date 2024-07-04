@@ -1,6 +1,14 @@
 import os
 
 
+def has_folder(folder_path: str) -> bool:
+    return os.path.exists(folder_path)
+
+
+def has_file(file_path: str) -> bool:
+    return os.path.isfile(file_path)
+
+
 def get_all_files(path: str) -> list[str]:
     files = [
         os.path.join(parent, name)

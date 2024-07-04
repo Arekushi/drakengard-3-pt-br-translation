@@ -215,6 +215,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.secrets.*
 .env
 .venv
 env/

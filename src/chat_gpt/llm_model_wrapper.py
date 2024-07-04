@@ -42,13 +42,13 @@ class LLMModelWrapper(ABC):
                 
                 console.print(e)
                 console.print(
-                    settings.CLI.TRANSLATOR.repeted.replace('<i>', str(attempts))
+                    settings.CLI.TRANSLATE.repeted.replace('<i>', str(attempts))
                 )
                 
                 await self.init(True)
                 continue
         
-        console.print(settings.CLI.TRANSLATOR.null_return)
+        console.print(settings.CLI.TRANSLATE.null_return)
         raise EmptyMessageError()
 
     @staticmethod

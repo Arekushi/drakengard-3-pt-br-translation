@@ -2,7 +2,7 @@
 rule= ':hammer_and_wrench: [b]Criação da pasta de tradução[/]'
 status = 'Criando...'
 
-[CLI.TRANSLATOR]
+[CLI.TRANSLATE]
 rule = ':mechanical_arm: [b]Traduzindo[/]'
 repeted = '[bold white on red]Repetindo o envio das frases novamente... (<i>)[/]'
 wrong_response = '[bold white on red]Error. Ou a quantidade de frases é diferente ou a mensagem não está no padrão...[/]'

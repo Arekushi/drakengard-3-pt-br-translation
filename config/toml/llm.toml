@@ -1,5 +1,5 @@
 [CHATGPT]
-max_characters_phrases = 1000
+max_characters_phrases = 750
 
 translate_text_request = '''
     Então traduza essas frases, OBEDECENDO o contexto que lhe informei e as REGRAS também.
@@ -56,8 +56,5 @@ rules = [
     ''',
     '''
         Frases em branco como por exemplo ("") ou (" ") é para manter da mesma forma, não apague por favor
-    ''',
-    '''
-        Não traduza os textos em japonês
     '''
 ]

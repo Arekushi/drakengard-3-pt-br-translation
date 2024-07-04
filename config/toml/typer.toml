@@ -3,3 +3,6 @@ help = 'Pega os textos e agrupa em arquivos .CSV amigáveis para tradução e re
 
 [TYPER.BUILDER]
 help = 'Módulo com capacidades de organizar e traduzir os textos, usando alguma ferramenta de tradução.'
+
+[TYPER.TRANSLATE]
+help = 'Comando que traduz de forma automática os arquivos de textos.'

@@ -4,10 +4,11 @@ from dynaconf import Dynaconf
 
 settings = Dynaconf(
     settings_files=[
-        './toml/settings.toml',
         './toml/cli.toml',
         './toml/typer.toml',
         './toml/llm.toml',
+        './toml/settings.toml',
+        './toml/.secrets.toml',
     ],
     load_dotenv=True,
     envvar_prefix=False
