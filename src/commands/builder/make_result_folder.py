@@ -1,4 +1,5 @@
 import typer
+import pandas as pd
 from rich.console import Console
 
 from config.config import settings, ROOT_DIR
@@ -32,8 +33,11 @@ def make_result_folder_command():
 
 def create_result_folder():
     translation_files = get_all_files(translation_folder_path)
+    result_df = pd.DataFrame()
     
     for file_path in translation_files:
         df = read_csv_file(file_path)
-        new_file_path = update_dir(file_path, result_folder_path)
-        save_df_txt(df['translation'], new_file_path)
+        result_df = pd.concat([result_df, df['translation']])
+    
+    result_df = result_df.rename(columns={0: 'translation'})
+    save_df_txt(result_df['translation'], f'{result_folder_path}\\result.txt')
