@@ -1,6 +1,7 @@
 [FOLDERS]
 raw_texts_folder_name = 'raw'
 translation_folder_name = 'translation'
+result_folder_name = 'result'
 
 [TRANSLATION.FILES]
 to_not_translate = []

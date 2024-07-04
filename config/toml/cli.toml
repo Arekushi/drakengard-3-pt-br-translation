@@ -2,6 +2,10 @@
 rule= ':hammer_and_wrench: [b]Criação da pasta de tradução[/]'
 status = 'Criando...'
 
+[CLI.MAKE_RESULT_FOLDER]
+rule= ':hammer_and_wrench: [b]Criação da pasta de result[/]'
+status = 'Criando...'
+
 [CLI.TRANSLATE]
 rule = ':mechanical_arm: [b]Traduzindo[/]'
 repeted = '[bold white on red]Repetindo o envio das frases novamente... (<i>)[/]'

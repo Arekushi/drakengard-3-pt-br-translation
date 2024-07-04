@@ -1,6 +1,7 @@
 import csv
 import os
 import pandas as pd
+import numpy as np
 
 from src.helpers.path_helper import make_dir
 
@@ -37,7 +38,10 @@ def transform_raw_df(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def save_df_csv(df: pd.DataFrame, file_path: str) -> None:
+def save_df_csv(
+    df: pd.DataFrame | pd.Series,
+    file_path: str
+) -> None:
     file_name, _ = os.path.splitext(file_path)
     new_file_path = f'{file_name}.csv'
     make_dir(os.path.dirname(file_path))
@@ -49,3 +53,19 @@ def save_df_csv(df: pd.DataFrame, file_path: str) -> None:
         encoding='utf-8',
         quoting=csv.QUOTE_ALL
     )
+
+
+def save_df_txt(
+    df: pd.DataFrame | pd.Series,
+    file_path: str
+) -> None:
+    file_name, _ = os.path.splitext(file_path)
+    new_file_path = f'{file_name}.txt'
+    make_dir(os.path.dirname(file_path))
+    
+    with open(new_file_path, 'w', newline='', encoding='utf-8') as file:
+        np.savetxt(file, df.values, fmt = "%s", encoding='utf-8')
+        
+    with open(new_file_path, 'r+', encoding='utf-8') as file:
+        file.seek(0, os.SEEK_END)
+        file.truncate(file.tell() - 1)
