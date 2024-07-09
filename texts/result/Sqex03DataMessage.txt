@@ -1748,19 +1748,19 @@ Se agarre a mim, Zero.{#Name="Mikhail"}
 Cent
 Dito
 Zero
-Oitavo
+Octa
 Decimus
 Mikhail
 ゼロ
-Setenta e três
-Quatrocentos e cinquenta e um
-Trezentos e quarenta e três
-Duzentos e setenta e um
-Trezentos e sessenta e um
-Cento e sessenta e três
-Sessenta
-Cento e nove
-Cento e noventa e nove
+73
+451
+343
+271
+361
+163
+60
+109
+199
 Personagens
 Armas
 Ver informações detalhadas do personagem.
@@ -6298,7 +6298,7 @@ Michael...{#Name="Zero"}
 ★ゼロと敵のやりとり。{#Name="ゼロ"}
 ★ゼロとミカエルのやりとり。{#Name="ゼロ"}
 ★ゼロがウタヒメである事、裏切り者である事の説明。{#Name="ゼロ"}
-Zero! Vá! Derrote suas irmãs!{#Name="Michael"}
+Zero! Vá! Derrote as irmãs!{#Name="Michael"}
 {06}>{#Name="Zero"}
 Não! Você não tem força para isso!{#Name="Zero"}
 Esses bonecos não são páreos para um dragão!{#Name="Michael"}
