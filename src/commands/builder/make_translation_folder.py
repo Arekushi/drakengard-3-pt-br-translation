@@ -6,14 +6,14 @@ from src.helpers.pandas_helper import read_raw_file, transform_raw_df, save_df_c
 from src.helpers.path_helper import get_all_files, make_dir, update_dir
 
 
-texts_path = f'{ROOT_DIR}\\texts'
-raw_texts_files_path = f'{texts_path}\\{settings.FOLDERS.raw_texts_folder_name}'
-translation_folder_path = f'{texts_path}\\{settings.FOLDERS.translation_folder_name}'
+TEXTS_PATH = f'{ROOT_DIR}\\texts'
+RAW_TEXTS_FILES_PATH = f'{TEXTS_PATH}\\{settings.FOLDERS.raw_texts_folder_name}'
+TRANSLATION_FOLDER_PATH = f'{TEXTS_PATH}\\{settings.FOLDERS.translation_folder_name}'
 
 console = Console()
 app = typer.Typer(
     help=settings.TYPER.MAKE_TRANSLATION_FOLDER.help,
-    callback=lambda: make_dir(translation_folder_path)
+    callback=lambda: make_dir(TRANSLATION_FOLDER_PATH)
 )
 
 @app.command(
@@ -31,10 +31,10 @@ def make_translation_folder_command():
 
 
 def create_translation_folder():
-    raw_files = get_all_files(raw_texts_files_path)
+    raw_files = get_all_files(RAW_TEXTS_FILES_PATH)
     
     for file_path in raw_files:
         df = read_raw_file(file_path)
         df = transform_raw_df(df)
-        new_file_path = update_dir(file_path, translation_folder_path)
+        new_file_path = update_dir(file_path, TRANSLATION_FOLDER_PATH)
         save_df_csv(df, new_file_path)

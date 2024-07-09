@@ -2,9 +2,17 @@
 raw_texts_folder_name = 'raw'
 translation_folder_name = 'translation'
 result_folder_name = 'result'
+patch_folder_name = 'patch'
+source_folder_name = 'source'
+temp_folder_name = 'temp'
 
 [FILES]
 result_file_name = 'Sqex03DataMessage.txt'
+update_xxx_log = 'update_xxx_log.csv'
+to_edit_hex = [
+    'ALLMESSAGE_SF.XXX',
+    'MISSIONMESSAGE_SF.XXX'
+]
 
 [TRANSLATION.FILES]
 to_not_translate = []

@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import numpy as np
 
-from src.helpers.path_helper import make_dir
+from src.helpers.path_helper import get_all_files, make_dir
 
 
 def read_raw_file(file_path: str) -> pd.DataFrame:
@@ -15,6 +15,7 @@ def read_raw_file(file_path: str) -> pd.DataFrame:
     )
     
     return df
+
 
 def read_csv_file(file_path: str, line_index=0) -> pd.DataFrame:
     df = pd.read_csv(
@@ -69,3 +70,15 @@ def save_df_txt(
     with open(new_file_path, 'r+', encoding='utf-8') as file:
         file.seek(0, os.SEEK_END)
         file.truncate(file.tell() - 1)
+
+
+def concatenate_csv_files(folder_path: str) -> pd.DataFrame:
+    dfs = []
+    
+    for file in get_all_files(folder_path):
+        if file.endswith('.csv'):
+            file_path = os.path.join(folder_path, file)
+            df = read_csv_file(file_path)
+            dfs.append(df)
+    
+    return pd.concat(dfs, ignore_index=True)

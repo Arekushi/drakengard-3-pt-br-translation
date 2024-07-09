@@ -11,8 +11,9 @@ from src.chat_gpt.llm_model_wrapper import LLMModelWrapper
 from src.translator_engine import TranslatorEngine
 
 
-max_characters_phrases = settings.CHATGPT.max_characters_phrases
-translate_text_request = settings.CHATGPT.translate_text_request
+TEMP_FOLDER_PATH = f'{ROOT_DIR}\\{settings.FOLDERS.temp_folder_name}'
+MAX_CHARACTERS_PHRASES = settings.CHATGPT.max_characters_phrases
+TRANSLATE_TEXT_REQUEST = settings.CHATGPT.translate_text_request
 
 
 console = Console()
@@ -28,7 +29,7 @@ class ChatGPTTranslator(TranslatorEngine):
 
     async def translate_single_file(self, file_path):
         df = read_csv_file(file_path)
-        grouped_phrases_list = list(group_phrases(df['translation'].to_list(), max_characters_phrases))
+        grouped_phrases_list = list(group_phrases(df['translation'].to_list(), MAX_CHARACTERS_PHRASES))
         translation_column = []
         
         for _, grouped_phrases in enumerate(grouped_phrases_list):
@@ -39,13 +40,13 @@ class ChatGPTTranslator(TranslatorEngine):
             
             df_temp = df.copy()
             df_temp.loc[indexes[0]:indexes[len(indexes) - 1], 'translation'] = phrases
-            save_df_csv(df_temp, update_dir(file_path, f'{ROOT_DIR}\\temp'))
+            save_df_csv(df_temp, update_dir(file_path, TEMP_FOLDER_PATH))
         
         df = df.assign(translation=translation_column)
         save_df_csv(df, file_path)
 
     async def send_message_to_translate(self, grouped_phrases: list[str]) -> list[str]:
-        message_to_send = translate_text_request.replace('<phrases>', str(grouped_phrases))
+        message_to_send = TRANSLATE_TEXT_REQUEST.replace('<phrases>', str(grouped_phrases))
         attempts = 0
         max_attempts = 5
         
