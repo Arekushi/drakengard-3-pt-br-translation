@@ -15,7 +15,7 @@ def replace_hex(
         pattern = re.compile(re.escape(search_hex), re.IGNORECASE)
         modified_content = pattern.sub(replace_hex, content)
         
-        if modified_content != content:            
+        if modified_content != content:
             modified_bytes = bytes.fromhex(modified_content)
             
             if dest_file_path:
