@@ -1,4 +1,3 @@
-from gc import callbacks
 import typer
 import pandas as pd
 from rich.console import Console
