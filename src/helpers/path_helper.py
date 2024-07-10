@@ -27,5 +27,13 @@ def update_dir(file_path: str, new_dir: str) -> str:
     return new_file_path
 
 
+def remove_file(file_path: str, raise_exception=False):
+    try:
+        os.remove(file_path)
+    except FileNotFoundError as e:
+        if (raise_exception):
+            raise e
+
+
 def make_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)

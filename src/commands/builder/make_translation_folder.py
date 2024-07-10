@@ -12,8 +12,7 @@ TRANSLATION_FOLDER_PATH = f'{TEXTS_PATH}\\{settings.FOLDERS.translation_folder_n
 
 console = Console()
 app = typer.Typer(
-    help=settings.TYPER.MAKE_TRANSLATION_FOLDER.help,
-    callback=lambda: make_dir(TRANSLATION_FOLDER_PATH)
+    help=settings.TYPER.MAKE_TRANSLATION_FOLDER.help
 )
 
 @app.command(
@@ -22,6 +21,7 @@ app = typer.Typer(
 )
 def make_translation_folder_command():
     console.rule(settings.CLI.MAKE_TRANSLATION_FOLDER.rule)
+    make_dir(TRANSLATION_FOLDER_PATH)
     
     with console.status(
         settings.CLI.MAKE_TRANSLATION_FOLDER.status,

@@ -17,14 +17,11 @@ def replace_hex(
         
         if modified_content != content:
             modified_bytes = bytes.fromhex(modified_content)
-            
-            if dest_file_path:
-                with open(dest_file_path, 'wb') as dest_file:
-                    dest_file.write(modified_bytes)
-            else:
-                file.seek(0)
-                file.write(modified_bytes)
-                file.truncate()
+            new_file = file if not dest_file_path else open(dest_file_path, 'wb+')
+            new_file.seek(0)
+            new_file.write(modified_bytes)
+            new_file.truncate()
+            new_file.close()
 
 
 def convert_str_to_hex(
