@@ -71,13 +71,12 @@ def update_xxx_files():
         except (UnicodeDecodeError, UnicodeEncodeError):
             continue
     
-    if (translations_needing_padding):
-        translations_needing_padding = pd.concat(
-            [pd.DataFrame(translations_needing_padding)],
-            ignore_index=True
-        )
-        
-        save_df_csv(
-            translations_needing_padding,
-            LOG_FILE_PATH
-        )
+    translations_needing_padding = pd.concat(
+        [pd.DataFrame(translations_needing_padding)],
+        ignore_index=True
+    )
+    
+    save_df_csv(
+        translations_needing_padding,
+        LOG_FILE_PATH
+    )
