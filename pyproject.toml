@@ -21,6 +21,7 @@ curl-cffi = "^0.7.0"
 gpt4all = "^2.7.0"
 g4f = {extras = ["all"], version = "^0.3.2.1"}
 progress = "^1.6"
+aiofiles = "^24.1.0"
 
 
 [build-system]

@@ -7,21 +7,22 @@ def replace_hex(
     replace_hex: str,
     dest_file_path: str = None
 ):
-    with open(file_path, 'rb+') as file:
-        content = file.read().hex()
-        search_hex = search_hex.replace(' ', '')
-        replace_hex = replace_hex.replace(' ', '')
-        
-        pattern = re.compile(re.escape(search_hex), re.IGNORECASE)
-        modified_content = pattern.sub(replace_hex, content)
-        
-        if modified_content != content:
-            modified_bytes = bytes.fromhex(modified_content)
-            new_file = file if not dest_file_path else open(dest_file_path, 'wb+')
-            new_file.seek(0)
-            new_file.write(modified_bytes)
-            new_file.truncate()
-            new_file.close()
+    file = open(file_path, 'rb+')
+    content = file.read().hex()
+    search_hex = search_hex.replace(' ', '')
+    replace_hex = replace_hex.replace(' ', '')
+    
+    pattern = re.compile(re.escape(search_hex), re.IGNORECASE)
+    modified_content = pattern.sub(replace_hex, content)
+    
+    if modified_content != content:
+        modified_bytes = bytes.fromhex(modified_content)
+        file = file if not dest_file_path else open(dest_file_path, 'wb+')
+        file.seek(0)
+        file.write(modified_bytes)
+        file.truncate()
+    
+    file.close()
 
 
 def convert_str_to_hex(

@@ -1,5 +1,6 @@
 import typer
 import pandas as pd
+import asyncio
 from rich.console import Console
 
 from config.config import settings, ROOT_DIR
@@ -23,18 +24,13 @@ app = typer.Typer(
 )
 
 
-def remove_xxx_files():    
-    for file in settings.FILES.to_edit_hex:
-        remove_file(f'{PATCH_FOLDER_PATH}\\{file}')
-
-
 @app.command(
     'update-xxx',
     help=settings.TYPER.UPDATE_XXX.help
 )
 def update_xxx_command():
     console.rule(settings.CLI.UPDATE_XXX.rule)
-    remove_xxx_files()
+    asyncio.run(remove_xxx_files())
     
     with console.status(
         settings.CLI.UPDATE_XXX.status,
@@ -43,7 +39,12 @@ def update_xxx_command():
         update_xxx_files()
 
 
-def update_xxx_files():
+async def remove_xxx_files():
+    for file in settings.FILES.to_edit_hex:
+        await remove_file(f'{PATCH_FOLDER_PATH}\\{file}')
+
+
+def update_xxx_files():    
     df = concatenate_csv_files(TRANSLATION_FOLDER_PATH)
     df = df.query("can_modify == '0'")
     df = df.applymap(remove_brackets)
@@ -51,7 +52,7 @@ def update_xxx_files():
     
     for transalation, source in zip(df['translation'].to_list(), df['source'].to_list()):
         try:
-            translation_hex = convert_str_to_hex(transalation, encoding='latin-1')
+            translation_hex = convert_str_to_hex(transalation, encoding='utf-8')
             source_hex = convert_str_to_hex(source, encoding='latin-1')
             len_diff = len(source_hex) - len(translation_hex)
             

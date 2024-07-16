@@ -1,4 +1,5 @@
 import os
+from aiofiles import os as async_os
 
 
 def has_folder(folder_path: str) -> bool:
@@ -27,9 +28,9 @@ def update_dir(file_path: str, new_dir: str) -> str:
     return new_file_path
 
 
-def remove_file(file_path: str, raise_exception=False):
+async def remove_file(file_path: str, raise_exception=False):
     try:
-        os.remove(file_path)
+        await async_os.remove(file_path)
     except FileNotFoundError as e:
         if (raise_exception):
             raise e
