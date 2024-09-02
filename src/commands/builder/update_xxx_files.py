@@ -52,18 +52,18 @@ def update_xxx_files():
     
     for transalation, source in zip(df['translation'].to_list(), df['source'].to_list()):
         try:
-            translation_hex = convert_str_to_hex(transalation, encoding='utf-8')
+            translation_hex = convert_str_to_hex(transalation, encoding='latin-1')
             source_hex = convert_str_to_hex(source, encoding='latin-1')
             len_diff = len(source_hex) - len(translation_hex)
             
-            if (len_diff < 0):
+            if (len_diff >= 0):
+                translation_hex = translation_hex.ljust(len(source_hex), '0')
+            elif (len_diff < 0):
                 translations_needing_padding.append({
                     'translation': transalation,
                     'source': source
                 })
                 continue
-            elif (len_diff > 0):
-                translation_hex = translation_hex.ljust(len(source_hex), '0')
             
             for file_name in settings.FILES.to_edit_hex:
                 file_path = f'{SOURCE_FOLDER_PATH}\\{file_name}'
