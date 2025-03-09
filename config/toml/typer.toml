@@ -11,4 +11,4 @@ help = 'Módulo com capacidades de organizar e traduzir os textos, usando alguma
 help = 'Comando que traduz de forma automática os arquivos de textos.'
 
 [TYPER.UPDATE_XXX]
-help = 'Atualiza os arquivos .XXX usando hexadecimal para aplicar tradução em textos que não foram possíveis serem traduzidos.'
+help = '[DEPRECIADO] Atualiza os arquivos .XXX usando hexadecimal para aplicar tradução em textos que não foram possíveis serem traduzidos.'
