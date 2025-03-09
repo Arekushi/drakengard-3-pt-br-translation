@@ -1,9 +1,9 @@
-Novo Jogo
-Continuar
-Configurações
+New Game
+Continue
+Settings
 Database
 Change Outfits/Music
-Pressione o botão START
+Press the START Button
 Select a recording file to use.
 Delete Recording File
 Delete this recording file?
@@ -14,7 +14,7 @@ View the weapons and characters that appear in the story.
 Change Zero's outfit, Mikhail's appearance, or the background music.
 Checking current data.{LF}Do not turn off your PlayStation®3 system.
 Recording {04}
-Novo Jogo
+New Game
 Any unsaved progress will be lost.{LF}Return to the title screen?
 Deleting recording file.{LF}Do not turn off your PlayStation®3 system.
 Save data created by another user was loaded.{LF}This save data cannot be used.{LF}Overwrite this data and create new save data?

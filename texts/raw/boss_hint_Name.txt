@@ -38,39 +38,21 @@ Recording 4320_30: Ezrael
 Recording 4320_40: Ezrael
 Recording 4320_50: Ezrael
 Recording 4320_60: Ezrael
-Yummy-looking Crab (1)
-Yummy-looking Crab (2)
-Yummy-looking Crab (3)
-Pirate fleet (1)
-Pirate fleet (2)
-Pirate fleet (3)
-Special Gigas (1)
-Special Gigas (2)
-Special Gigas (3)
-Homunculus (1)
-Homunculus (2)
-Homunculus (3)
-Fake Zero (1)
-Fake Zero (2)
-Fake Zero (3)
-Michael (1)
-Michael (2)
-Michael (3)
-Yummy-looking Crab (4)
-Yummy-looking Crab (5)
-Yummy-looking Crab (6)
-Pirate fleet (4)
-Pirate fleet (5)
-Pirate fleet (6)
-Special Gigas (4)
-Special Gigas (5)
-Special Gigas (6)
-Homunculus (4)
-Homunculus (5)
-Homunculus (6)
-Fake Zero (4)
-Fake Zero (5)
-Fake Zero (6)
-Michael (4)
-Michael (5)
-Michael (6)
+Yummy-looking Crab (temp)
+Pirate fleet (temp)
+Special Gigas (temp)
+Homunculus (temp)
+Fake Zero (temp)
+Michael (temp)
+美味しそうなカニ４
+美味しそうなカニ５
+美味しそうなカニ６
+海賊船団４
+海賊船団５
+海賊船団６
+特殊ギガース４
+特殊ギガース５
+特殊ギガース６
+ホムンクルス４
+ホムンクルス５
+ホムンクルス６

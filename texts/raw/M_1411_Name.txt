@@ -17,7 +17,7 @@ Dito
 Mikhail
 ゼロ
 Cent
-Dito/Cent/Octa/Decadus
+Dito{0A}Cent{0A}Octa{0A}Decadus
 説明文
 アコール
  

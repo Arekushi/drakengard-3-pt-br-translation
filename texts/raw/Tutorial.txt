@@ -5,7 +5,7 @@ Press {01}{09} or {01}{0C} to open the weapons menu, then press{LF}the button th
 Zero's Weapons: Spears
 Spears not only pack power and have a long reach,{LF}they can also be used to break through the enemy's guard.
 Controls: Guarding
-Press {01} to guard against enemy attacks. Guarding depletes stamina;{LF}if your Stamina Gauge hits 0, your guard will be broken.
+Press {01}{02} to guard against enemy attacks. Guarding depletes stamina;{LF}if your Stamina Gauge hits 0, your guard will be broken.
 Zero's Weapons: Chakrams
 Chakrams are long-range weapons that are effective{LF}against airborne enemies and faraway foes.
 Controls: Intoner Mode
@@ -15,13 +15,13 @@ Press {01}{0A} and {01}{0D} simultaneously to activate Intoner Mode.{LF}Press th
 Treasure Chests
 Attack a chest to reveal the contents inside.{LF}Check the results screen at the end of the stage for more info.
 ミハイルの操作２
-ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}で、モードを解除して地上に降りることができます。
+ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}{02}で、モードを解除して地上に降りることができます。
 Controls: Basic Actions
 Use the left stick to move the targeting reticle.{LF}Press {01}{03} to breathe fire at the targeted location.
 Controls: Multi Lock-on
 Hold {01}{03} and use the left stick to lock on to multiple foes.{LF}Release {01}{03} to attack all targeted foes at once.
 Controls: Rolling
-Press {01}{0B} or {01} to perform an evasive roll that protects you{LF}from attacks. Use it with the left stick for speedier movement.
+Press {01}{0B} or {01}{02} to perform an evasive roll that protects you{LF}from attacks. Use it with the left stick for speedier movement.
 Zero's Weapons: Combat Bracers
 Combat bracers are ideal for piling on combos{LF}against single enemies in tight spaces.
 操作 / 回り込み動作
@@ -111,7 +111,7 @@ Stock up on items and purchase or upgrade weapons{LF}between missions using gold
 ショップ / 強化
 ショップ / 強化のチュートリアル
 Controls: Summon Circles
-Enter a summon circle and press {01} to call Mikhail over{LF}to the battlefield to attack as the situation demands.
+Enter a summon circle and press {01}{02} to call Mikhail over{LF}to the battlefield to attack as the situation demands.
 The Blood Gauge
 Your blood gauge fills up as you defeat foes and take damage;{LF}once it fills to a certain point, you can activate Intoner Mode.
 Controls: Intoner Mode (When Mounted)

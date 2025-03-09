@@ -87,14 +87,14 @@ Select the disciple to bring with you.
 Chapter Select
 Finish battle preparations and return to the Chapter Select menu.
 Weapons Collected: {04}
-Memoirs of the Intoners
-View the bonus stories you've unlocked via DLC.
+Memories of the Intoners
+View the memories of the Intoners.
 ファイブ　「納品書」
 フォウ　「みんなに伝えたい事」
 スリイ　「ある兵士の追憶」
 トウ　「二人のレシピ帳」
 ワン　「七つの言葉」
 ゼロ　「ミハイル日記」
-Choose the Intoner whose stories you would like to read.
-Choose a story to read.
-Memoirs of the Intoners
+Choose a character to view their bonus stories.
+Choose a bonus story to view.
+Memories of the Intoners

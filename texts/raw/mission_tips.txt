@@ -1,5 +1,5 @@
-Guarding with {01} blocks attacks in all directions.{LF}However, guarding saps stamina, so be careful{LF}not to block too many attacks in succession or{LF}you'll run the risk of having your guard broken.{#Name="Guarding"}
-To parry, press {01} just before an attack lands.{LF}If you parry an enemy's arrow, you can{LF}deflect the arrow back toward your foe.{#Name="Parrying"}
+Guarding with {01}{02} blocks attacks in all directions.{LF}However, guarding saps stamina, so be careful{LF}not to block too many attacks in succession or{LF}you'll run the risk of having your guard broken.{#Name="Guarding"}
+To parry, press {01}{02} just before an attack lands.{LF}If you parry an enemy's arrow, you can{LF}deflect the arrow back toward your foe.{#Name="Parrying"}
 Use the mini-map on the top right of the{LF}screen to view your current position.{LF}You can press {01}{0A} to zoom in and out; if you{LF}get lost, try zooming out to view the full map.{#Name="The Mini-map"}
 Press {01}{0A} + {01}{0D} to activate Intoner Mode.{LF}Press it again at any time to exit this mode while{LF}keeping your Blood Gauge at its current level.{#Name="Intoner Mode"}
 You can string together special combo attacks{LF}by pressing {01}{03} and {01}{04} in various sequences.{LF}View the Combo List in the Pause Menu to see all{LF}the possible combo routes for a particular weapon.{#Name="Combo Attacks"}
@@ -11,7 +11,7 @@ You can also evade while jumping. This can be{LF}useful for dodging attacks whil
 Press {01}{0D} to display an arrow indicator that{LF}points toward your next goal. Use this along with{LF}the mini-map if you ever find yourself lost.{#Name="Navigation Help"}
 Press {01}{09} or {01}{0C} to switch weapons.{LF}You can even do so in the middle of an attack,{LF}which will trigger an extra strike as you{LF}move from one weapon to the next.{#Name="Switching Weapons"}
 Your chain (hit) count will rise as you strike foes{LF}in rapid succession. Once it's high enough, you'll{LF}start to earn bonus bloodspheres and other drops.{#Name="Chain Combos"}
-Enter a summon circle and press {01} to call your{LF}dragon to fight alongside you. He will attack{LF}in various ways depending on the situation.{#Name="Summon Circles"}
+Enter a summon circle and press {01}{02} to call your{LF}dragon to fight alongside you. He will attack{LF}in various ways depending on the situation.{#Name="Summon Circles"}
 Visit the Database from the Main Menu{LF}to view Weapon Stories. Each time you{LF}upgrade a weapon and raise its level,{LF}you'll reveal more of its story.{#Name="Weapon Stories"}
 You can upgrade weapons at the Battle Preparation{LF}menu. This requires both gold and base materials,{LF}which can be found in treasure chests and elsewhere.{LF}Base materials come in several varieties, and each{LF}weapon requires a specific one in order to upgrade.{#Name="Upgrading Weapons"}
 Though limited in range, swords allow for swift{LF}attacks, making them handy all-around weapons.{LF}They can be especially useful if you find{LF}yourself surrounded by a large force.{#Name="Swords"}

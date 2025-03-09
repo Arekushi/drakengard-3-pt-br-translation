@@ -73,8 +73,8 @@ Zero's Blade is now Lv. 2!
 Zero's Blade is now Lv. 3!
 Zero's Blade is now Lv. 4!
 You've been cleanin' up lately.{LF}Maybe you can handle this now.
-Permit me to repay you for your...kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
-A symbol of loyalty from me to you, my lady. {LF}May our mutual enjoyment endure for all time...and then some.
+Permit me to repay you for your kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
+A symbol of loyalty from me to you, my lady.{LF}May our mutual enjoyment endure for all time...and then some.
 Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
 Accord has posted a new request:
 Access it from the Chapter Select menu!
@@ -157,8 +157,8 @@ History Unearthed
 Book Club: Doctrine
 Cathedral Payday
 Survival
-"Memoirs of the Intoners" menu unlocked.
-Raising this character's level has unlocked a new bonus story.{LF}You can view it from the Memoirs of the Intoners menu.
-All missions complete! Obtained {04}
-All missions complete! Obtained {04}
-Gold Soldiers will now appear somewhere within these missions.
+Memories of the Intoners{LF}has been unlocked.
+Raising this character's level has unlocked a new memory.{LF}You can view it from the Memories of the Intoners menu.
+All missions complete. You've obtained {04}
+All missions complete. You've obtained {04}
+Gold Soldiers will now appear somewhere in the mission.
