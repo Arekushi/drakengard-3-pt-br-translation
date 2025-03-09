@@ -89,7 +89,7 @@
 "É isso o tipo de coisa que um dragão come habitualmente?{#Name=""Decadus""}","Is that the sort of thing a dragon usually eats?{#Name=""Decadus""}","1"
 "Não, mas é isso que Zero come,{LF}então eu só vou junto com isso.{#Name=""Mikhail""}","No, but that's what Zero eats,{LF}so I just go along with it.{#Name=""Mikhail""}","1"
 "Vocês querem um pouco?{#Name=""Zero""}","You guys want some?{#Name=""Zero""}","1"
-"Não, obrigado!{#Name=""Dito/Cent/Octa/Decadus""}","No thanks!{#Name=""Dito/Cent/Octa/Decadus""}","1"
+"Não, obrigado!{#Name=""Dito{0A}Cent{0A}Octa{0A}Decadus""}","No thanks!{#Name="Dito{0A}Cent{0A}Octa{0A}Decadus"}","1"
 "Vocês ficam aqui. Eu preciso ir procurar algo.","You guys stay here. I need to go look for something.{#Name=""Zero""}","1"
 "Acordo... O que eu disse sobre invadir aqui!?","Accord... What did I tell you about barging in here!?{#Name=""Zero""}","1"
 "Huh? Eu poderia jurar que bati...","Huh? I could have sworn I knocked...{#Name=""Accord""}","1"
