@@ -7,6 +7,7 @@ source_folder_name = 'source'
 temp_folder_name = 'temp'
 
 [FILES]
+export_json_file = 'export.json'
 result_file_name = 'Sqex03DataMessage.txt'
 update_xxx_log = 'update_xxx_log.csv'
 to_edit_hex = [

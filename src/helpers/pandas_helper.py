@@ -1,5 +1,6 @@
 import csv
 import os
+from typing import List
 import pandas as pd
 import numpy as np
 
@@ -72,13 +73,11 @@ def save_df_txt(
         file.truncate(file.tell() - 1)
 
 
-def concatenate_csv_files(folder_path: str) -> pd.DataFrame:
+def concatenate_csv_files(files_path: List[str]) -> pd.DataFrame:
     dfs = []
     
-    for file in get_all_files(folder_path):
-        if file.endswith('.csv'):
-            file_path = os.path.join(folder_path, file)
-            df = read_csv_file(file_path)
-            dfs.append(df)
+    for file in files_path:
+        df = read_csv_file(file)
+        dfs.append(df)
     
     return pd.concat(dfs, ignore_index=True)
