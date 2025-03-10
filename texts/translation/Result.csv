@@ -42,9 +42,9 @@
 "＝","＝","1"
 "Materiais Básicos","Base Materials","1"
 "Sair da tela de resultados?","Exit the results screen?","1"
-"Minério de Ferro","Iron Ore","1"
-"Minério de Ferro de Baixa Qualidade","Low-Quality Iron Ore","1"
-"Minério de Ferro de Alta Qualidade","High-Quality Iron Ore","1"
+"Iron Ore","Iron Ore","1"
+"Low-Quality Iron Ore","Low-Quality Iron Ore","1"
+"High-Quality Iron Ore","High-Quality Iron Ore","1"
 "{04}","{04}","1"
 "Inimigos Derrotados:","Enemies Defeated:","1"
 "Objetos Destruídos:","Objects Destroyed:","1"
@@ -57,9 +57,9 @@
 "zab","zab","1"
 "? ? ?","? ? ?","1"
 "{04}","{04}","1"
-"Ramificação A completa.","Branch A complete.","1"
-"Ramificação B completa.","Branch B complete.","1"
-"Ramificação C completa.","Branch C complete.","1"
+"Rota A completa.","Branch A complete.","1"
+"Rota B completa.","Branch B complete.","1"
+"Rota C completa.","Branch C complete.","1"
 "Todas as versos perdidas completas.","All lost verses complete.","1"
 "Pedido desbloqueado no País dos Mares.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.","1"
 "Pedido desbloqueado na Terra das Montanhas.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Mountains.{LF}Access it from the Chapter Select menu.","1"
@@ -110,14 +110,14 @@
 "Bônus de Conclusão!","Completion Bonus!","1"
 "Tesouro obtido!","Treasure obtained!","1"
 "Verso perdido ""Canção do Accord"" desbloqueado.","Lost verse ""Accord's Song"" unlocked.","1"
-"Verso perdido ""Oração do Acordo"" desbloqueado.","Lost verse ""Accord's Prayer"" unlocked.","1"
+"Verso perdido ""Oração do Accord"" desbloqueado.","Lost verse ""Accord's Prayer"" unlocked.","1"
 "O FIM","THE END","1"
 "{04}
 Você agora tem três discípulos.{LF}Você pode selecionar quais discípulos levar com você{LF}no menu de Preparação de Batalha.
-Ramificação B desbloqueada.
-Ramificação C desbloqueada.
+Rota B desbloqueada.
+Rota C desbloqueada.
 Versos perdidos desbloqueados.
-Ramificação D desbloqueada.
+Rota D desbloqueada.
 As Pedras Amadas
 Caça ao Chifre
 Clube do Livro: Esperança
