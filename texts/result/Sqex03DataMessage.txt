@@ -124,11 +124,11 @@ V6
 V7
 V8
 Final
-Ramificação A
-Ramificação B
-Ramificação C
-Ramificação D
-Você precisa completar a Ramificação A antes de poder escolher essa missão.
+Rota A
+Rota B
+Rota C
+Rota D
+Você precisa completar a Rota A antes de poder escolher essa missão.
 Terra dos Mares
 Terra das Montanhas
 Terra das Florestas
@@ -1687,12 +1687,12 @@ Cent{#Name=" "}
 Decadus{#Name=" "}
 Dito{#Name=" "}
 Octa{#Name=" "}
-Cinco{#Name=" "}
-Quatro{#Name=" "}
-Três{#Name=" "}
-Dois{#Name=" "}
-Um{#Name=" "}
-Acordo{#Name=" "}
+Five{#Name=" "}
+Four{#Name=" "}
+Three{#Name=" "}
+Two{#Name=" "}
+One{#Name=" "}
+Accord{#Name=" "}
 Rolo{#Name=" "}
 Mudar Página{#Name=" "}
 Mudar Modo{#Name=" "}
@@ -1708,16 +1708,16 @@ Para liberar essa história, você precisa coletar 100% das armas.{LF}Atualmente
 Não lido{#Name=" "}
 {04}{#Name=" "}
 A porta está fechada.{#Name="Zero"}
-Eles fecharam o portão? Muito obrigado, idiotas.{#Name="Zero"}
+Eles fecharam o portão? Muito obrigado, cuzões.{#Name="Zero"}
 Merda. Está fechado.{#Name="Zero"}
 O inimigo deve ter fechado.{#Name="Zero"}
-Quem está fechando essas? Qual é o ponto?{#Name="Zero"}
+Quem está fechando isso? Qual é o sentido?{#Name="Zero"}
 Acho que eles fecharam.{#Name="Zero"}
 Heh. Eles pensam que ISSO vai me parar?{#Name="Zero"}
 Não preciso voltar.{#Name="Zero"}
-Estou feito com esse lugar.{#Name="Zero"}
-Preciso continuar em frente...{#Name="Zero"}
-Há apenas um caminho a seguir, e não é esse.{#Name="Zero"}
+Não aguento mais esse lugar.{#Name="Zero"}
+Preciso seguir em frente...{#Name="Zero"}
+Só há um caminho a seguir, e não é esse.{#Name="Zero"}
 Não preciso ir por aqui.{#Name="Zero"}
 x {04}{#Name=" "}
 Todas as armas foram completamente atualizadas.{LF}Você desbloqueou um novo traje bônus para Zero!{LF}Acesse-o no menu "Trocar Trajes/Música".{#Name=" "}
@@ -1726,23 +1726,23 @@ Você gostaria de remover os dados de salvamento antigos{LF}para garantir mais e
 Continuar o jogo sem salvar?{#Name=" "}
  {04}{#Name=" "}
 Fechar{#Name=" "}
-Você conseguiu coletar todas as armas.{LF}A ramificação D agora está desbloqueada!{#Name=" "}
+Você conseguiu coletar todas as armas.{LF}A rota D agora está desbloqueada!{#Name=" "}
 A porta está fechada.{#Name="Zero"}
-Eles fecharam o portão? Muito obrigado, idiotas.{#Name="Zero"}
+Eles fecharam o portão? Muito obrigado, cuzões.{#Name="Zero"}
 Merda. Está fechado.{#Name="Zero"}
 O inimigo deve ter fechado.{#Name="Zero"}
-Quem fecha essas coisas? Qual é o ponto?{#Name="Zero"}
+Quem está fechando isso? Qual é o sentido?{#Name="Zero"}
 Acho que eles fecharam.{#Name="Zero"}
-Heh. Eles acham que ISSO vai me parar?{#Name="Zero"}
+Heh. Eles pensam que ISSO vai me parar?{#Name="Zero"}
 Não preciso voltar.{#Name="Zero"}
-Terminei com esse lugar.{#Name="Zero"}
-Preciso continuar em frente...{#Name="Zero"}
-Só há um jeito de ir, e não é esse.{#Name="Zero"}
+Não aguento mais esse lugar.{#Name="Zero"}
+Preciso seguir em frente...{#Name="Zero"}
+Só há um caminho a seguir, e não é esse.{#Name="Zero"}
 Não preciso ir por aqui.{#Name="Zero"}
  
 Zero
 {#Name="Dito"}
-Diet
+Dito
 Personagens
 Armas
 Ver informações detalhadas do personagem.
@@ -1762,57 +1762,57 @@ Selecione uma arma para ver sua história de arma e detalhes adicionais.
 Selecione um personagem para ver.
 Selecione uma animação para ver. CONFIRMADO NÃO USADO 1126
 Demonstração
-Uma Intoner talentosa com habilidades de batalha super-humanas. Ela é aberta{LF}e desinibida com os homens, mas violenta e preguiçosa por natureza.{LF}Ela tem uma estranha flor crescendo em seu olho direito.{#Name="Zero"}
-Um dragão orgulhoso e feroz, dito ser o mais poderoso do{LF}mundo. Inteligente e forte além da medida,{LF}ele é o único verdadeiro confidente que Zero já teve.{#Name="Michael"}
-A forma pós-reencarnação de Michael que viaja{LF}com Zero. Um idealista e pacifista, ele acha que todos{LF}conflitos podem ser resolvidos com palavras apenas.{#Name="Mikhail (Stage 1)"}
-A forma pós-reencarnação de Michael que viaja{LF}com Zero. Um idealista e pacifista, ele acha que todos{LF}conflitos podem ser resolvidos com palavras apenas.{#Name="Mikhail (Stage 2)"}
-A forma pós-reencarnação de Michael que viaja{LF}com Zero. Um idealista e pacifista, ele acha que todos{LF}conflitos podem ser resolvidos com palavras apenas.{#Name="Mikhail (Stage 3)"}
-Um discípulo que empunha uma lança com um traço sádico extremo{LF}e a habilidade de rapidamente detectar as fraquezas dos outros.{LF}Ele deriva grande prazer dos gritos de seus inimigos.{#Name="Dito"}
+Uma Intoner talentosa com habilidades de batalha super-humanas.{LF}Ela é aberta e desinibida com os homens, mas violenta e preguiçosa{LF}por natureza. Ela tem uma estranha flor crescendo em seu olho direito.{#Name="Zero"}
+Um dragão orgulhoso e feroz, dito ser o mais poderoso do mundo.{LF}Inteligente e forte além da medida,ele é o único verdadeiro{LF}confidente que Zero já teve.{#Name="Michael"}
+A forma pós-reencarnação de Michael que viaja com Zero.{LF}Um idealista e pacifista, ele acha que todos conflitos podem{LF}ser resolvidos com palavras apenas.{#Name="Mikhail (Estágio 1)"}
+A forma pós-reencarnação de Michael que viaja{LF}com Zero. Um idealista e pacifista, ele acha que todos conflitos podem{LF}ser resolvidos com palavras apenas.{#Name="Mikhail (Estágio 2)"}
+A forma pós-reencarnação de Michael que viaja{LF}com Zero. Um idealista e pacifista, ele acha que todos conflitos podem{LF}ser resolvidos com palavras apenas.{#Name="Mikhail (Estágio 3)"}
+Um discípulo que empunha uma lança com um traço sádico{LF}extremo e a habilidade de rapidamente detectar as fraquezas{LF}dos outros.Ele deriva grande prazer dos gritos de seus inimigos.{#Name="Dito"}
 Um discípulo bem-construído que luta com os punhos. O mais{LF}sensato de seus colegas, ele sempre se comporta como um cavalheiro, {LF}mas é na verdade um masoquista que desfruta de dor sem fim.{#Name="Decadus"}
 Um discípulo com aparência de idoso que luta com chakrams.{LF}Ele se orgulha de uma apetite sexual insaciável,{LF}e é dito que carrega alguma...anatomia impressionante.{#Name="Octa"}
 Um discípulo narcisista que luta com lâminas gêmeas. Apesar de{LF}sua extrema confiança em si mesmo, o "conhecimento" que ele escolhe{LF}impartir é frequentemente falso e acaba apenas irritando todos.{#Name="Cent"}
 O Intoner mais jovem e governante da Terra dos Mares. Ganancioso{LF}e superficial, ela deseja tudo o que vê (incluindo Zero), mas{LF}perde interesse assim que o obtém. Gosta de insinuações sexuais.{#Name="Five"}
-A virgem solitária Intoner, e governante da Terra das Montanhas.{LF}Ela finge uma postura superior para esconder seu complexo de inferioridade{LF}profundo e inibições.{#Name="Quatro"}
-A Intoner indolente que governa a Terra das Florestas. Ela tem{LF}gostos sexuais distorcidos e uma personalidade desligada e bizarra.{LF}Ela gosta de experimentar em humanos para transformá-los em bonecas.{#Name="Três"}
-Uma Intoner brilhante e alegre que governa a Terra das Areias.{LF}Ela está apaixonada por Cent, embora um incidente infeliz{LF}tenha destruído sua mente, deixando-a em um estado infantil.{#Name="Dois"}
-A Intoner que governa a Cidade da Catedral. Ela é a mais{LF}madura e inteligente das irmãs, e também a única{LF}que fully entende as verdadeiras intenções da Zero.{#Name="Um"}
-O irmão gêmeo de Um, criado por Um mesma. Ele foi escondido{LF}como um plano de contingência para destruir Zero e as outras Intoners.{LF}Ele idolatra Um como irmã e mãe.{#Name="Irmão de Um"}
+A virgem solitária Intoner, e governante da Terra das Montanhas.{LF}Ela finge uma postura superior para esconder seu complexo de{LF}inferioridade profundo e inibições.{#Name="Four"}
+A Intoner indolente que governa a Terra das Florestas. Ela tem{LF}gostos sexuais distorcidos e uma personalidade desligada e bizarra.{LF}Ela gosta de experimentar em humanos para transformá-los em bonecas.{#Name="Three"}
+Uma Intoner brilhante e alegre que governa a Terra das Areias.{LF}Ela está apaixonada por Cent, embora um incidente infeliz{LF}tenha destruído sua mente, deixando-a em um estado infantil.{#Name="Two"}
+A Intoner que governa a Cidade da Catedral. Ela é a mais{LF}madura e inteligente das irmãs, e também a única{LF}que entende completamente as verdadeiras intenções da Zero.{#Name="One"}
+O irmão gêmeo de One, criado pela mesma. Ele foi escondido{LF}como um plano de contingência para destruir Zero e as outras Intoners.{LF}Ele idolatra One como irmã e mãe.{#Name="Irmão de One"}
 Um comerciante do País dos Mares que carrega uma grande{LF}mala ao redor dela. Como observadora e Registradora,{LF}ela vê Zero como uma singularidade de alto nível em seu trabalho.{#Name="Accord"}
-Um anjo convocado por Dito usando o poder da canção de Cinco.{#Name="Phanuel"}
-Um anjo convocado por Decadus usando o poder da canção de Quatro.{#Name="Armaros"}
-Um anjo convocado por Octa usando o poder da canção de Três.{#Name="Armisael"}
-Um anjo convocado por Cent usando o poder da canção de Dois.{#Name="Egregori"}
-Um dragão que foi transformado em um anjo por Um.{#Name="Gabriel"}
-Um anjo convocado por Dois e Cent.{#Name="Raphael"}
-Um anjo convocado por Um.{#Name="Abdiel"}
-Um anjo dragão convocado por Quatro após sua mente ser quebrada.{#Name="Zophiel"}
-Um anjo convocado por Cinco após sua mente ser quebrada.{#Name="Galgaliel"}
-Um anjo—e um antigo dragão—convocado por Três{LF}após sua mente ser quebrada.{#Name="Ezrael"}
+Um anjo convocado por Dito usando o poder da canção de Five.{#Name="Fanuel"}
+Um anjo convocado por Decadus usando o poder da canção de Four.{#Name="Armaros"}
+Um anjo convocado por Octa usando o poder da canção de Three.{#Name="Armisael"}
+Um anjo convocado por Cent usando o poder da canção de Two.{#Name="Egregori"}
+Um dragão que foi transformado em um anjo por One.{#Name="Gabriel"}
+Um anjo convocado por Two e Cent.{#Name="Rafael"}
+Um anjo convocado por One.{#Name="Abdiel"}
+Um anjo dragão convocado por Four após sua mente ser quebrada.{#Name="Zofiel"}
+Um anjo convocado por Five após sua mente ser quebrada.{#Name="Galgaliel"}
+Um anjo—e um antigo dragão—convocado por Three{LF}após sua mente ser quebrada.{#Name="Ezrael"}
 Zero
-Miguel
+Michael
 Mikhail (Estágio 1)
 Mikhail (Estágio 2)
 Mikhail (Estágio 3)
 Dito
 Decadus
-Oito
-Cento
-Cinco
-Quatro
-Três
-Dois
-Um
-Irmão de Um
-Acordo
+Octa
+Cent
+Five
+Four
+Three
+Two
+One
+Irmão de One
+Accord
 Fanuel
 Armaros
 Armisael
-Egregório
+Egregori
 Gabriel
 Rafael
 Abdiel
 Zofiel
-Galgaliele
+Galgaliel
 Ezrael
 Mudar Roupas/Música
 Zero
@@ -1834,10 +1834,10 @@ Parar
 Você deve entrar com sua conta da Sony Entertainment Network para acessar essa opção.
 As configurações de controle parental na sua conta da Sony Entertainment Network impedem que você use serviços online.
 Voz
-Língua
+Idioma
 Japonês
 Inglês
-Alternar a língua de voz usada no jogo principal.
+Alternar a língua de voz usada no jogo.
 Mudando vozes...
 Default
 -
@@ -1920,16 +1920,16 @@ Costume 13
 Spare
 {null}{#Name=""}
 {null}{#Name=""}
-Luva{#Name=""}
+Manopla{#Name=""}
 3-2{#Name=""}
 3-2{#Name=""}
-Luva{#Name=""}
+Manopla{#Name=""}
 4-2{#Name=""}
 4-3{#Name=""}
-Luva{#Name=""}
+Manopla{#Name=""}
 5-2{#Name=""}
 5-3{#Name=""}
-Luva{#Name=""}
+Manopla{#Name=""}
 6-2{#Name=""}
 6-3{#Name=""}
 7-1{#Name=""}
@@ -1978,66 +1978,66 @@ Luva{#Name=""}
 22-1{#Name=""}
 22-2{#Name=""}
 22-3{#Name=""}
-Glove 1-1
-Glove 2-1
-Glove 3-1
-Glove 3-2
-Glove 3-3
-Glove 4-1
-Glove 4-2
-Glove 4-3
-Glove 5-1
-Glove 5-2
-Glove 5-3
-Glove 6-1
-Glove 6-2
-Glove 6-3
-Glove 7-1
-Glove 7-2
-Glove 7-3
-Glove 8-1
-Glove 8-2
-Glove 8-3
-Glove 9-1
-Glove 10-1
-Glove 10-2
-Glove 10-3
-Glove 11-1
-Glove 11-2
-Glove 11-3
-Glove 12-1
-Glove 12-2
-Glove 12-3
-Glove 13-1
-Glove 13-2
-Glove 13-3
-Glove 14-1
-Glove 14-2
-Glove 14-3
-Glove 15-1
-Glove 15-2
-Glove 15-3
-Glove 16-1
-Glove 16-2
-Glove 16-3
-Glove 17-1
-Glove 17-2
-Glove 17-3
-Glove 18-1
-Glove 18-2
-Glove 18-3
-Glove 19-1
-Glove 19-2
-Glove 19-3
-Glove 20-1
-Glove 20-2
-Glove 20-3
-Glove 21-1
-Glove 21-2
-Glove 21-3
-Glove 22-1
-Glove 22-2
-Glove 22-3
+Manopla 1-1
+Manopla 2-1
+Manopla 3-1
+Manopla 3-2
+Manopla 3-3
+Manopla 4-1
+Manopla 4-2
+Manopla 4-3
+Manopla 5-1
+Manopla 5-2
+Manopla 5-3
+Manopla 6-1
+Manopla 6-2
+Manopla 6-3
+Manopla 7-1
+Manopla 7-2
+Manopla 7-3
+Manopla 8-1
+Manopla 8-2
+Manopla 8-3
+Manopla 9-1
+Manopla 10-1
+Manopla 10-2
+Manopla 10-3
+Manopla 11-1
+Manopla 11-2
+Manopla 11-3
+Manopla 12-1
+Manopla 12-2
+Manopla 12-3
+Manopla 13-1
+Manopla 13-2
+Manopla 13-3
+Manopla 14-1
+Manopla 14-2
+Manopla 14-3
+Manopla 15-1
+Manopla 15-2
+Manopla 15-3
+Manopla 16-1
+Manopla 16-2
+Manopla 16-3
+Manopla 17-1
+Manopla 17-2
+Manopla 17-3
+Manopla 18-1
+Manopla 18-2
+Manopla 18-3
+Manopla 19-1
+Manopla 19-2
+Manopla 19-3
+Manopla 20-1
+Manopla 20-2
+Manopla 20-3
+Manopla 21-1
+Manopla 21-2
+Manopla 21-3
+Manopla 22-1
+Manopla 22-2
+Manopla 22-3
 Comprar Itens
 Trocar Armas
 Escolher Discípulos
@@ -2047,7 +2047,7 @@ Salvar
 Continuar Campanha
 Iniciar Missão
 Ouro
-O
+G
 Comprar Armas
 Atualizar Armas
 Itens
@@ -2138,24 +2138,24 @@ Zero 「Diário de Mikhail」
 Escolha o Intoner cujas histórias você gostaria de ler.
 Escolha uma história para ler.
 Memórias dos Intoners
-Item sem nome para uso genérico{#Name="Sem nome"}
-Restaura uma pequena quantidade de saúde.{#Name="Poção de Recuperação (P)"}
-Restaura uma quantidade moderada de{LF}saúde.{#Name="Poção de Recuperação (M)"}
-Restaura uma grande quantidade de saúde.{#Name="Poção de Recuperação (G)"}
-Restaura 350 pontos de saúde.{#Name="Pequena Garrafa de Vida"}
-Restaura completamente sua saúde.{#Name="Poção de Recuperação (Máx)"}
-Aumenta o medidor de tensão em 25%{#Name="Fragmento Misterioso"}
-Aumenta o medidor de tensão para o máximo{#Name="Cristal Misterioso"}
-Restaura completamente sua saúde e medidor de tensão{#Name="Elixir de Longevidade"}
-Permite reviver uma vez no local se estiver morto{#Name="Lâmina de Ressurreição"}
+Item sem nome para uso genérico.{#Name="Sem nome"}
+Restaura uma pequena quantidade de vida.{#Name="Poção de Recuperação (P)"}
+Restaura uma quantidade moderada de vida.{#Name="Poção de Recuperação (M)"}
+Restaura uma grande quantidade de vida.{#Name="Poção de Recuperação (G)"}
+Restaura 350 pontos de vida.{#Name="Garrafa de Recuperação (P)"}
+Restaura completamente sua vida.{#Name="Poção de Recuperação (Máx)"}
+Aumenta o medidor de tensão em 25%.{#Name="Fragmento Misterioso"}
+Aumenta o medidor de tensão para o máximo.{#Name="Cristal Misterioso"}
+Restaura completamente sua vida e medidor de tensão.{#Name="Elixir de Longevidade"}
+Permite reviver uma vez no local se estiver morto.{#Name="Lâmina de Ressurreição"}
 Aumenta o poder de ataque por um tempo limitado.{#Name="Poção de Força"}
-Aumenta a taxa de aumento do medidor de tensão em 1.3 vezes por 60 segundos{#Name="Colônio de Exaltação"}
+Aumenta a taxa de aumento do medidor de tensão em 1.3 vezes por 60 segundos{#Name="Colônia de Exaltação"}
 Reduz o dano recebido por um tempo limitado.{#Name="Poção de Defesa"}
-Reduz a taxa de redução de estamina em 70% por 60 segundos{#Name="Colônio de Vitalidade"}
-Restaura a habilidade de Dit.{#Name="Pílula de Tortura"}
-Restaura a habilidade de Decart.{#Name="Pílula de Sofrimento"}
-Restaura a habilidade de Octa.{#Name="Pílula de Supremacia"}
-Restaura a habilidade de Cent.{#Name="Pílula de Ignorância"}
+Reduz a taxa de redução de estamina em 70% por 60 segundos.{#Name="Colônia de Vitalidade"}
+Restaura a habilidade de Dito.{#Name="Pílula da Tortura"}
+Restaura a habilidade de Decart.{#Name="Pílula do Masoquismo"}
+Restaura a habilidade de Octa.{#Name="Pílula da Supremacia"}
+Restaura a habilidade de Cent.{#Name="Pílula da Ignorância"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
@@ -2169,1511 +2169,1511 @@ Restaura a habilidade de Cent.{#Name="Pílula de Ignorância"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
-Restaura 25% da saúde.{#Name="Esfera de Cura (P)"}
-Restaura 50% da vida{#Name="Healsphere (M)"}
-Restaura 100% da vida{#Name="Healsphere (L)"}
-Restaura 25% do medidor de tensão{#Name="Bloodsphere (S)"}
-Restaura o medidor de tensão ao máximo{#Name="Bloodsphere (L)"}
-Esfera que concede experiência{#Name="EXP Sphere"}
+Restaura 25% da vida.{#Name="Esfera de Cura (P)"}
+Restaura 50% da vida.{#Name="Esfera de Cura (M)"}
+Restaura 100% da vida.{#Name="Esfera de Cura (G)"}
+Restaura 25% do medidor de tensão.{#Name="Esfera de Sangue (P)"}
+Restaura o medidor de tensão ao máximo.{#Name="Esfera de Sangue (G)"}
+Esfera que concede experiência.{#Name="Esfera de EXP"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
-Um item misterioso necessário para{LF}atualizar armas.{#Name="Material de Base de Cobre"}
-Um item misterioso necessário para{LF}atualizar armas.{#Name="Material de Base de Prata"}
-Um item misterioso necessário para{LF}atualizar armas.{#Name="Material de Base de Ouro"}
-Um item misterioso necessário para{LF}atualizar armas.{#Name="Material de Base Branco"}
-Um item misterioso necessário para{LF}atualizar armas.{#Name="Material de Base Preto"}
+Um item misterioso necessário para{LF}atualizar armas.{#Name="Material Base de Cobre"}
+Um item misterioso necessário para{LF}atualizar armas.{#Name="Material Base de Prata"}
+Um item misterioso necessário para{LF}atualizar armas.{#Name="Material Base de Ouro"}
+Um item misterioso necessário para{LF}atualizar armas.{#Name="Material Base Branco"}
+Um item misterioso necessário para{LF}atualizar armas.{#Name="Material Base Preto"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
  {#Name="Reserva"}
-Item de troca: Medalha{#Name="Medalha do Mar"}
-Item de troca: Medalha{#Name="Moeda de Cobre Oxidada"}
-Item de troca: Medalha{#Name="Medalha da Floresta"}
-Item de troca: Medalha{#Name="Moeda de Cobre Rachada"}
-Item de troca: Medalha{#Name="Moeda de Prata Antiga"}
-Item de troca: Medalha{#Name="Moeda de Cobre Polida"}
-Item de troca: Medalha{#Name="Moeda de Ouro Antiga"}
-Item de troca: Medalha{#Name="Medalha do Soldado C"}
-Exchange item: Medal {#Name="Chalky Silver Coin"}
-Exchange item: Medal {#Name="Sword Soldier's Medal E"}
-Exchange item: Medal {#Name="Copper Goblin Coin"}
-Exchange item: Medal {#Name="Spear Soldier's Medal B"}
-Exchange item: Medal {#Name="Silver Merrow Coin"}
-Exchange item: Medal {#Name="Gold Valkyrie Coin"}
-Exchange item: Medal {#Name="Gold Phoenix Coin"}
-Exchange item: Medal {#Name="Copper Angelos Coin"}
-Exchange item: Medal {#Name="Silver Arche Coin"}
-Exchange item: Medal {#Name="Silver Thrones Coin"}
-Exchange item: Medal {#Name="Silver Cherub Coin"}
-Exchange item: Medal {#Name="Silver Seraph Coin"}
-Exchange item: Medal {#Name="Archer's Medal A"}
-Exchange item: Medal {#Name="Devotion Coin"}
-Exchange item: Medal {#Name="Archer's Medal C"}
-Exchange item: Medal {#Name="Archer's Medal D"}
-Exchange item: Medal {#Name="Benevolence Coin"}
-Exchange item: Medal {#Name="Kindness Coin"}
-Exchange item: Medal {#Name="Affection Coin"}
-Exchange item: Medal {#Name="Cannon Soldier's Medal C"}
-Exchange item: Medal {#Name="Cannon Soldier's Medal D"}
-Exchange item: Medal {#Name="Cannon Soldier's Medal E"}
-Exchange item: Medal {#Name="Mage's Medal"}
-Exchange item: Medal {#Name="Mage 2's Medal"}
-Exchange item: Medal {#Name="Mage 3's Medal"}
-Exchange item: Medal {#Name="Undead's Medal"}
-Exchange item: Medal {#Name="Undead 2's Medal"}
-Exchange item: Medal {#Name="Undead 3's Medal"}
-Exchange item: Medal {#Name="Ogre's Medal"}
-Exchange item: Medal {#Name="Ogre 2's Medal"}
-Exchange item: Medal {#Name="Troll's Medal"}
-Exchange item: Medal {#Name="Troll 2's Medal"}
-Exchange item: Medal {#Name="Ookami's Medal"}
-Exchange item: Medal {#Name="Ookami 2's Medal"}
-Exchange item: Medal {#Name="Cavalryman's Medal"}
-Exchange item: Medal {#Name="Cavalryman 2's Medal"}
-Exchange item: Medal {#Name="Spirit's Medal"}
-Exchange item: Medal {#Name="Spirit 2's Medal"}
-Exchange item: Medal {#Name="Imp's Medal"}
-Exchange item: Medal {#Name="Gigas's Medal"}
-Exchange item: Medal {#Name="Gigas 2's Medal"}
-Exchange item: Medal {#Name="Gigas 3's Medal"}
-Exchange item: Medal {#Name="Giant Swordsman's Medal"}
-Exchange item: Medal {#Name="Giant Swordsman 2's Medal"}
-Exchange item: Medal {#Name="Giant Swordsman 3's Medal"}
-Exchange item: Medal {#Name="Cerberus's Medal"}
-Exchange item: Medal {#Name="Cerberus 2's Medal"}
-Exchange item: Medal {#Name="Cerberus 3's Medal"}
-Exchange item: Medal {#Name="Golem's Medal"}
-Exchange item: Medal {#Name="Centaur's Medal"}
-Exchange item: Medal {#Name="Ifrit's Medal"}
-Exchange item: Medal {#Name="Fanuel's Medal"}
-Exchange item: Medal {#Name="Arsamiel's Medal"}
-Exchange item: Medal {#Name="Eggrigor's Medal"}
-Exchange item: Medal {#Name="Raphael's Medal"}
-Exchange item: Medal {#Name="Gargariel's Medal"}
-Exchange item: Medal {#Name="Aptdiel's Medal"}
-Exchange item: Medal {#Name="Zophiel's Medal"}
-Exchange item: Medal {#Name="Gabriel's Medal"}
-Exchange item: Medal {#Name="Spare Medal 1"}
-Exchange item: Medal {#Name="Spare Medal 2"}
-Exchange item: Medal {#Name="Spare Medal 3"}
-Exchange item: Medal {#Name="Spare Medal 4"}
-Exchange item: Medal {#Name="Spare Medal 5"}
-Exchange item: Medal {#Name="Spare Medal 6"}
-Exchange item: Medal {#Name="Spare Medal 7"}
-Exchange Item: Medal{#Name="Spare Medal 8"}
-Exchange Item: Medal{#Name="Spare Medal 9"}
-Exchange Item: Medal{#Name="Spare Medal 10"}
-Exchange Item: Medal{#Name="Spare Medal 11"}
-Exchange Item: Medal{#Name="Spare Medal 12"}
-Exchange Item: Medal{#Name="Spare Medal 13"}
-Exchange Item: Medal{#Name="Spare Medal 14"}
-Exchange Item: Medal{#Name="Spare Medal 15"}
-Exchange Item: Medal{#Name="Spare Medal 16"}
-Exchange Item: Medal{#Name="Spare Medal 17"}
-Exchange Item: Medal{#Name="Spare Medal 18"}
-Exchange Item: Medal{#Name="Spare Medal 19"}
-Exchange Item: Medal{#Name="Spare Medal 20"}
-Exchange Item: Medal{#Name="Spare Medal 21"}
-Exchange Item: Medal{#Name="Spare Medal 22"}
-Exchange Item: Medal{#Name="Spare Medal 23"}
-Exchange Item: Medal{#Name="Spare Medal 24"}
-Exchange Item: Medal{#Name="Spare Medal 25"}
-Exchange Item: Medal{#Name="Spare Medal 26"}
-Exchange Item: Medal{#Name="Spare Medal 27"}
-Exchange Item: Medal{#Name="Spare Medal 28"}
-Exchange Item: Medal{#Name="Spare Medal 29"}
-Exchange Item: Medal{#Name="Spare Medal 30"}
-Exchange Item: Medal{#Name="Spare Medal 31"}
-Exchange Item: Medal{#Name="Spare Medal 32"}
-Exchange Item: Medal{#Name="Spare Medal 33"}
-Exchange Item: Jewel{#Name="Sea Jewel"}
-Exchange Item: Jewel{#Name="Mountain Jewel"}
-Exchange Item: Jewel{#Name="Forest Jewel"}
-Exchange Item: Jewel{#Name="Broken Jewel"}
-Exchange Item: Jewel{#Name="Church Jewel"}
-Exchange Item: Jewel{#Name="Sword Soldier Jewel A"}
-Exchange Item: Jewel{#Name="Chipped Jewel"}
-Exchange Item: Jewel{#Name="Sword Soldier Jewel C"}
-Exchange Item: Jewel{#Name="Clouded Jewel"}
-Exchange Item: Jewel{#Name="Polished Jewel"}
-Exchange Item: Gemstone {#Name="Spearman's Gemstone A"}
-Exchange Item: Gemstone {#Name="Hypnos Jewel"}
-Exchange Item: Gemstone {#Name="Sylph Jewel"}
-Exchange Item: Gemstone {#Name="Undine Jewel"}
-Exchange Item: Gemstone {#Name="Gnome Jewel"}
-Exchange Item: Gemstone {#Name="Salamander Jewel"}
-Exchange Item: Gemstone {#Name="Shieldman's Gemstone B"}
-Exchange Item: Gemstone {#Name="Wyrm Flamestone"}
-Exchange Item: Gemstone {#Name="Faerie Stone"}
-Exchange Item: Gemstone {#Name="Saintly Agate"}
-Exchange Item: Gemstone {#Name="Vivid Topaz"}
-Exchange Item: Gemstone {#Name="Perplexing Jasper"}
-Exchange Item: Gemstone {#Name="Silent Onyx"}
-Exchange Item: Gemstone {#Name="Abyssal Sapphire"}
-Exchange Item: Gemstone {#Name="Streaked Emerald"}
-Exchange Item: Gemstone {#Name="Nornir Jewel"}
-Exchange Item: Gemstone {#Name="b"}
-Exchange Item: Gemstone {#Name="Aurora Jewel"}
-Exchange Item: Gemstone {#Name="Serket Jewel"}
-Exchange Item: Gemstone {#Name="Heavenly Jewel"}
-Exchange Item: Gemstone {#Name="Mage's Gemstone"}
-Exchange Item: Gemstone {#Name="Mage 2's Gemstone"}
-Exchange Item: Gemstone {#Name="Mage 3's Gemstone"}
-Exchange Item: Gemstone {#Name="Undead's Gemstone"}
-Exchange Item: Gemstone {#Name="Undead 2's Gemstone"}
-Exchange Item: Gemstone {#Name="Undead 3's Gemstone"}
-Exchange Item: Gemstone {#Name="Ogre's Gemstone"}
-Exchange Item: Gemstone {#Name="Ogre 2's Gemstone"}
-Exchange Item: Gemstone {#Name="Troll's Gemstone"}
-Exchange Item: Gemstone {#Name="Troll 2's Gemstone"}
-Exchange Item: Gemstone {#Name="Werewolf's Gemstone"}
-Exchange Item: Gemstone {#Name="Werewolf 2's Gemstone"}
-Exchange Item: Gemstone {#Name="Cavalryman's Gemstone"}
-Exchange Item: Gemstone {#Name="Cavalryman 2's Gemstone"}
-Exchange Item: Jewel {#Name="Spirit's Jewel"}
-Exchange Item: Jewel {#Name="Spirit 2's Jewel"}
-Exchange Item: Jewel {#Name="Imp's Jewel"}
-Exchange Item: Jewel {#Name="Gigas's Jewel"}
-Exchange Item: Jewel {#Name="Gigas 2's Jewel"}
-Exchange Item: Jewel {#Name="Gigas 3's Jewel"}
-Exchange Item: Jewel {#Name="Giant Swordsman's Jewel"}
-Exchange Item: Jewel {#Name="Giant Swordsman 2's Jewel"}
-Exchange Item: Jewel {#Name="Giant Swordsman 3's Jewel"}
-Exchange Item: Jewel {#Name="Cerberus's Jewel"}
-Exchange Item: Jewel {#Name="Cerberus 2's Jewel"}
-Exchange Item: Jewel {#Name="Cerberus 3's Jewel"}
-Exchange Item: Jewel {#Name="Golem's Jewel"}
-Exchange Item: Jewel {#Name="Centaur's Jewel"}
-Exchange Item: Jewel {#Name="Ifrit's Jewel"}
-Exchange Item: Jewel {#Name="Fanuel's Jewel"}
-Exchange Item: Jewel {#Name="Arsamiel's Jewel"}
-Exchange Item: Jewel {#Name="Eggrigori's Jewel"}
-Exchange Item: Jewel {#Name="Raphael's Jewel"}
-Exchange Item: Jewel {#Name="Gargariel's Jewel"}
-Exchange Item: Jewel {#Name="Aptdiel's Jewel"}
-Exchange Item: Jewel {#Name="Zophiel's Jewel"}
-Exchange Item: Jewel {#Name="Gabriel's Jewel"}
-Exchange Item: Jewel {#Name="Spare Jewel 1"}
-Exchange Item: Jewel {#Name="Spare Jewel 2"}
-Exchange Item: Jewel {#Name="Spare Jewel 3"}
-Exchange Item: Jewel {#Name="Spare Jewel 4"}
-Exchange Item: Jewel {#Name="Spare Jewel 5"}
-Exchange Item: Jewel {#Name="Spare Jewel 6"}
-Exchange Item: Jewel {#Name="Spare Jewel 7"}
-Exchange Item: Jewel {#Name="Spare Jewel 8"}
-Exchange Item: Jewel {#Name="Spare Jewel 9"}
-Exchange Item: Jewel {#Name="Spare Jewel 10"}
-Exchange Item: Jewel {#Name="Spare Jewel 11"}
-Exchange Item: Jewel {#Name="Spare Jewel 12"}
-Exchange Item: Jewel {#Name="Spare Jewel 13"}
-Exchange Item: Jewel {#Name="Spare Jewel 14"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 15"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 16"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 17"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 18"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 19"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 20"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 21"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 22"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 23"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 24"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 25"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 26"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 27"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 28"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 29"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 30"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 31"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 32"}
-Exchange Item: Gemstone{#Name="Spare Gemstone 33"}
-Exchange Item: Weapon{#Name="Sea Knife"}
-Exchange Item: Weapon{#Name="Fragile Claw"}
-Exchange Item: Weapon{#Name="Forest Knife"}
-Exchange Item: Weapon{#Name="Soft Claw"}
-Exchange Item: Weapon{#Name="Long Claw"}
-Exchange Item: Weapon{#Name="Pointed Claw"}
-Exchange Item: Weapon{#Name="Dreameater Claw"}
-Exchange Item: Weapon{#Name="b"}
-Exchange Item: Weapon{#Name="Crimson Claw"}
-Exchange Item: Weapon{#Name="Sword Soldier's Sword E"}
-Exchange Item: Weapon{#Name="Dead Man's Claw"}
-Exchange Item: Weapon{#Name="Spear Soldier's Sword B"}
-Exchange Item: Weapon{#Name="Silver Claw"}
-Exchange Item: Weapon{#Name="Beautiful Talon"}
-Exchange Item: Weapon{#Name="Sharp Talon"}
-Exchange Item: Weapon{#Name="Shield Soldier's Sword A"}
-Exchange Item: Weapon{#Name="Emerald Talon"}
-Exchange Item: Weapon {#Name="Roc Talon"}
-Exchange Item: Weapon {#Name="Water Spirit Hoof"}
-Exchange Item: Weapon {#Name="Pegasus Hoof"}
-Exchange Item: Weapon {#Name="Archer's Sword A"}
-Exchange Item: Weapon {#Name="Lightning Hoof Fragment"}
-Exchange Item: Weapon {#Name="Archer's Sword C"}
-Exchange Item: Weapon {#Name="Archer's Sword D"}
-Exchange Item: Weapon {#Name="Millennial Hoof"}
-Exchange Item: Weapon {#Name="Flame Hoof Fragment"}
-Exchange Item: Weapon {#Name="Heaven-sent Hoof"}
-Exchange Item: Weapon {#Name="Cannonier's Sword C"}
-Exchange Item: Weapon {#Name="Cannonier's Sword D"}
-Exchange Item: Weapon {#Name="Cannonier's Sword E"}
-Exchange Item: Weapon {#Name="Child's Rib"}
-Exchange Item: Weapon {#Name="Man's Femur"}
-Exchange Item: Weapon {#Name="Girl's Skull"}
-Exchange Item: Weapon {#Name="Woman's Pelvis"}
-Exchange Item: Weapon {#Name="Undead 2's Sword"}
-Exchange Item: Weapon {#Name="Undead 3's Sword"}
-Exchange Item: Weapon {#Name="Ogre's Horn"}
-Exchange Item: Weapon {#Name="Ogre 2's Horn"}
-Exchange Item: Weapon {#Name="Troll's Claw"}
-Exchange Item: Weapon {#Name="Troll 2's Claw"}
-Exchange Item: Weapon {#Name="Wolf's Claw"}
-Exchange Item: Weapon {#Name="Wolf 2's Claw"}
-Exchange Item: Weapon {#Name="Cavalryman's Sword"}
-Exchange Item: Weapon {#Name="Cavalryman 2's Sword"}
-Exchange Item: Weapon {#Name="Spirit's Claw"}
-Exchange Item: Weapon {#Name="Spirit 2's Claw"}
-Exchange Item: Weapon {#Name="Imp's Claw"}
-Exchange Item: Weapon {#Name="Gigas' Claw"}
-Exchange Item: Weapon {#Name="Gigas 2's Claw"}
-Exchange Item: Weapon {#Name="Gigas 3's Claw"}
-Exchange Item: Weapon {#Name="Giant Swordsman's Claw"}
-Exchange Item: Weapon {#Name="Giant Swordsman 2's Claw"}
-Exchange Item: Weapon {#Name="Giant Swordsman 3's Claw"}
-Exchange Item: Weapon {#Name="Cerberus's Claw"}
-Exchange Item: Weapon {#Name="Cerberus 2's Claw"}
-Exchange Item: Weapon {#Name="Cerberus 3's Claw"}
-Exchange Item: Weapon {#Name="Golem's Hand"}
-Exchange Item: Weapon {#Name="Centaur's Claw"}
-Exchange Item: Weapon {#Name="Ifrit's Claw"}
-Exchange Item: Weapon {#Name="Fanuel's Claw"}
-Exchange Item: Weapon {#Name="Arsamiel's Claw"}
-Exchange Item: Weapon {#Name="Eggrigor's Claw"}
-Exchange Item: Weapon {#Name="Raphael's Claw"}
-Exchange Item: Weapon {#Name="Galgaliel's Claw"}
-Exchange Item: Weapon {#Name="Aptdiel's Claw"}
-Exchange Item: Weapon {#Name="Zophiel's Claw"}
-Exchange Item: Weapon {#Name="Gabriel's Claw"}
-Exchange Item: Weapon {#Name="Spare Claw 1"}
-Exchange Item: Weapon {#Name="Spare Claw 2"}
-Exchange Item: Weapon {#Name="Spare Claw 3"}
-Exchange Item: Weapon {#Name="Spare Claw 4"}
-Exchange Item: Weapon {#Name="Spare Claw 5"}
-Exchange Item: Weapon {#Name="Spare Claw 6"}
-Exchange Item: Weapon {#Name="Spare Claw 7"}
-Exchange Item: Weapon {#Name="Spare Claw 8"}
-Exchange Item: Weapon {#Name="Spare Claw 9"}
-Exchange Item: Weapon {#Name="Spare Claw 10"}
-Exchange Item: Weapon {#Name="Spare Claw 11"}
-Exchange Item: Weapon {#Name="Spare Claw 12"}
-Exchange Item: Weapon {#Name="Spare Claw 13"}
-Exchange Item: Weapon {#Name="Spare Claw 14"}
-Exchange Item: Weapon {#Name="Spare Claw 15"}
-Exchange Item: Weapon {#Name="Spare Claw 16"}
-Exchange Item: Weapon {#Name="Spare Claw 17"}
-Exchange Item: Weapon {#Name="Spare Claw 18"}
-Exchange Item: Weapon {#Name="Spare Claw 19"}
-Exchange Item: Weapon {#Name="Spare Claw 20"}
-Exchange Item: Weapon {#Name="Spare Claw 21"}
-Exchange Item: Weapon {#Name="Spare Claw 22"}
-Exchange Item: Weapon {#Name="Spare Claw 23"}
-Exchange Item: Weapon {#Name="Spare Claw 24"}
-Exchange Item: Weapon {#Name="Spare Claw 25"}
-Exchange Item: Weapon{#Name="Spare Claw 26"}
-Exchange Item: Weapon{#Name="Spare Claw 27"}
-Exchange Item: Weapon{#Name="Spare Claw 28"}
-Exchange Item: Weapon{#Name="Spare Claw 29"}
-Exchange Item: Weapon{#Name="Spare Claw 30"}
-Exchange Item: Weapon{#Name="Spare Claw 31"}
-Exchange Item: Weapon{#Name="Spare Claw 32"}
-Exchange Item: Weapon{#Name="Spare Claw 33"}
-Exchange Item: Book{#Name="Ocean Book"}
-Exchange Item: Book{#Name="Mountain Book"}
-Exchange Item: Book{#Name="Forest Book"}
-Exchange Item: Book{#Name="Sand Book"}
-Exchange Item: Book{#Name="Torn-up Book"}
-Exchange Item: Book{#Name="Sword Soldier Book A"}
-Exchange Item: Book{#Name="Sword Soldier Book B"}
-Exchange Item: Book{#Name="Sword Soldier Book C"}
-Exchange Item: Book{#Name="Stained Book"}
-Exchange Item: Book{#Name="Sword Soldier Book E"}
-Exchange Item: Book{#Name="Ancient Book"}
-Exchange Item: Book{#Name="Spear Soldier Book B"}
-Exchange Item: Book{#Name="Dian Cecht Book"}
-Exchange Item: Book{#Name="Epona Book"}
-Exchange Item: Book{#Name="Toutatis Book"}
-Exchange Item: Book{#Name="Shield Soldier Book A"}
-Exchange Item: Book{#Name="Taranis Page"}
-Exchange Item: Book{#Name="Shield Soldier Book C"}
-Exchange Item: Book{#Name="Heaven's Mandate Page"}
-Exchange Item: Book{#Name="Heaven-sent Book"}
-Exchange Item: Book{#Name="Bow Soldier Book A"}
-Exchange Item: Book{#Name="Bow Soldier Book B"}
-Exchange Item: Book{#Name="Bow Soldier Book C"}
-Exchange Item: Book{#Name="Bow Soldier Book D"}
-Exchange Item: Book{#Name="Bow Soldier Book E"}
-Exchange Item: Book{#Name="Cannon Soldier Book A"}
-Exchange Item: Book{#Name="Cannon Soldier Book B"}
-Exchange Item: Book{#Name="Cannon Soldier Book C"}
-Exchange Item: Book{#Name="Cannon Soldier Book D"}
-Exchange Item: Book{#Name="Cannon Soldier Book E"}
-Exchange Item: Book{#Name="Mage's Book"}
-Exchange Item: Book of {#Name="Mage 2"}
-Exchange Item: Book of {#Name="Mage 3"}
-Exchange Item: Book of {#Name="Undead"}
-Exchange Item: Book of {#Name="Undead 2"}
-Exchange Item: Book of {#Name="Undead 3"}
-Exchange Item: Book of {#Name="Ogre"}
-Exchange Item: Book of {#Name="Ogre 2"}
-Exchange Item: Book of {#Name="Troll"}
-Exchange Item: Book of {#Name="Troll 2"}
-Exchange Item: Book of {#Name="Werewolf"}
-Exchange Item: Book of {#Name="Werewolf 2"}
-Exchange Item: Book of {#Name="Cavalryman"}
-Exchange Item: Book of {#Name="Cavalryman 2"}
-Exchange Item: Book of {#Name="Spirit"}
-Exchange Item: Book of {#Name="Spirit 2"}
-Exchange Item: Book of {#Name="Imp"}
-Exchange Item: Book of {#Name="Gigas"}
-Exchange Item: Book of {#Name="Gigas 2"}
-Exchange Item: Book of {#Name="Gigas 3"}
-Exchange Item: Book of {#Name="Giant Warrior"}
-Exchange Item: Book of {#Name="Giant Warrior 2"}
-Exchange Item: Book of {#Name="Giant Warrior 3"}
-Exchange Item: Book of {#Name="Cerberus"}
-Exchange Item: Book of {#Name="Cerberus 2"}
-Exchange Item: Book of {#Name="Cerberus 3"}
-Exchange Item: Book of {#Name="Golem"}
-Exchange Item: Book of {#Name="Centaur"}
-Exchange Item: Book of {#Name="Ifrit"}
-Exchange Item: Book of {#Name="Fanuel"}
-Exchange Item: Book of {#Name="Arsamiel"}
-Exchange Item: Book of {#Name="Eggrigori"}
-Exchange Item: Book of {#Name="Raphael"}
-Exchange Item: Book of {#Name="Gargariel"}
-Exchange Item: Book of {#Name="Aptdiel"}
-Exchange Item: Book of {#Name="Zophiel"}
-Exchange Item: Book of {#Name="Gabriel"}
-Exchange Item: Book of {#Name="Spare Book 1"}
-Exchange Item: Book of {#Name="Spare Book 2"}
-Exchange Item: Book of {#Name="Spare Book 3"}
-Exchange Item: Book of {#Name="Spare Book 4"}
-Exchange Item: Book{#Name="Spare Book 5"}
-Exchange Item: Book{#Name="Spare Book 6"}
-Exchange Item: Book{#Name="Spare Book 7"}
-Exchange Item: Book{#Name="Spare Book 8"}
-Exchange Item: Book{#Name="Spare Book 9"}
-Exchange Item: Book{#Name="Spare Book 10"}
-Exchange Item: Book{#Name="Spare Book 11"}
-Exchange Item: Book{#Name="Spare Book 12"}
-Exchange Item: Book{#Name="Spare Book 13"}
-Exchange Item: Book{#Name="Spare Book 14"}
-Exchange Item: Book{#Name="Spare Book 15"}
-Exchange Item: Book{#Name="Spare Book 16"}
-Exchange Item: Book{#Name="Spare Book 17"}
-Exchange Item: Book{#Name="Spare Book 18"}
-Exchange Item: Book{#Name="Spare Book 19"}
-Exchange Item: Book{#Name="Spare Book 20"}
-Exchange Item: Book{#Name="Spare Book 21"}
-Exchange Item: Book{#Name="Spare Book 22"}
-Exchange Item: Book{#Name="Spare Book 23"}
-Exchange Item: Book{#Name="Spare Book 24"}
-Exchange Item: Book{#Name="Spare Book 25"}
-Exchange Item: Book{#Name="Spare Book 26"}
-Exchange Item: Book{#Name="Spare Book 27"}
-Exchange Item: Book{#Name="Spare Book 28"}
-Exchange Item: Book{#Name="Spare Book 29"}
-Exchange Item: Book{#Name="Spare Book 30"}
-Exchange Item: Book{#Name="Spare Book 31"}
-Exchange Item: Book{#Name="Spare Book 32"}
-Exchange Item: Book{#Name="Spare Book 33"}
-Exchange Item: Clothing{#Name="Tattered Cloth"}
-Exchange Item: Clothing{#Name="Worn Cloth"}
-Exchange Item: Clothing{#Name="Soft Cloth"}
-Exchange Item: Clothing{#Name="Bloodied Cloth"}
-Exchange Item: Clothing{#Name="Sturdy Cloth"}
-Exchange Item: Clothing{#Name="Shamrock Fabric"}
-Exchange Item: Clothing{#Name="Sword Soldier's Clothing B"}
-Exchange Item: Clothing{#Name="Panacea Fabric"}
-Exchange Item: Clothing{#Name="Bountiful Fabric"}
-Exchange Item: Clothing{#Name="Raincloth Fabric"}
-Exchange Item: Clothing {#Name="Gleipnir Weave"}
-Exchange Item: Clothing {#Name="Spearman's Clothing B"}
-Exchange Item: Clothing {#Name="Goldfleece Weave"}
-Exchange Item: Clothing {#Name="Spearman's Clothing D"}
-Exchange Item: Clothing {#Name="Worldtree Weave"}
-Exchange Item: Clothing {#Name="Ancient Shroud"}
-Exchange Item: Clothing {#Name="Shieldman's Clothing B"}
-Exchange Item: Clothing {#Name="Heaven-sent Garb"}
-Exchange Item: Clothing {#Name="Shieldman's Clothing D"}
-Exchange Item: Clothing {#Name="Shieldman's Clothing E"}
-Exchange Item: Clothing {#Name="Archer's Clothing A"}
-Exchange Item: Clothing {#Name="Archer's Clothing B"}
-Exchange Item: Clothing {#Name="Archer's Clothing C"}
-Exchange Item: Clothing {#Name="Archer's Clothing D"}
-Exchange Item: Clothing {#Name="Archer's Clothing E"}
-Exchange Item: Clothing {#Name="Cannonman's Clothing A"}
-Exchange Item: Clothing {#Name="Cannonman's Clothing B"}
-Exchange Item: Clothing {#Name="Cannonman's Clothing C"}
-Exchange Item: Clothing {#Name="Cannonman's Clothing D"}
-Exchange Item: Clothing {#Name="Cannonman's Clothing E"}
-Exchange Item: Clothing {#Name="Mage's Clothing"}
-Exchange Item: Clothing {#Name="Mage 2's Clothing"}
-Exchange Item: Clothing {#Name="Mage 3's Clothing"}
-Exchange Item: Clothing {#Name="Undead's Clothing"}
-Exchange Item: Clothing {#Name="Undead 2's Clothing"}
-Exchange Item: Clothing {#Name="Undead 3's Clothing"}
-Exchange Item: Clothing {#Name="Ogre's Clothing"}
-Exchange Item: Clothing {#Name="Ogre 2's Clothing"}
-Exchange Item: Clothing {#Name="Troll's Clothing"}
-Exchange Item: Clothing {#Name="Troll 2's Clothing"}
-Exchange Item: Clothing {#Name="Wolf's Clothing"}
-Exchange Item: Clothing {#Name="Wolf 2's Clothing"}
-Exchange Item: Clothing {#Name="Cavalryman's Clothing"}
-Exchange Item: Clothing {#Name="Cavalryman 2's Clothing"}
-Exchange Item: Clothing {#Name="Spirit's Clothing"}
-Exchange Item: Clothing {#Name="Spirit 2's Clothing"}
-Exchange Item: Clothing {#Name="Imp's Clothing"}
-Exchange Item: Clothing {#Name="Gigas's Clothing"}
-Exchange Item: Clothing {#Name="Gigas 2's Clothing"}
-Exchange Item: Clothing {#Name="Gigas 3's Clothing"}
-Exchange Item: Giant Warrior's Armor
-Exchange Item: Giant Warrior 2's Armor
-Exchange Item: Giant Warrior 3's Armor
-Exchange Item: Cerberus' Armor
-Exchange Item: Cerberus 2's Armor
-Exchange Item: Cerberus 3's Armor
-Exchange Item: Golem's Armor
-Exchange Item: Centaur's Armor
-Exchange Item: Ifrit's Armor
-Exchange Item: Fanuel's Armor
-Exchange Item: Arsamiel's Armor
-Exchange Item: Eggrigor's Armor
-Exchange Item: Raphael's Armor
-Exchange Item: Gargariel's Armor
-Exchange Item: Apudiel's Armor
-Exchange Item: Zophiel's Armor
-Exchange Item: Gabriel's Armor
-Exchange Item: Spare Armor 1
-Exchange Item: Spare Armor 2
-Exchange Item: Spare Armor 3
-Exchange Item: Spare Armor 4
-Exchange Item: Spare Armor 5
-Exchange Item: Spare Armor 6
-Exchange Item: Spare Armor 7
-Exchange Item: Spare Armor 8
-Exchange Item: Spare Armor 9
-Exchange Item: Spare Armor 10
-Exchange Item: Spare Armor 11
-Exchange Item: Spare Armor 12
-Exchange Item: Spare Armor 13
-Exchange Item: Spare Armor 14
-Exchange Item: Spare Armor 15
-Exchange Item: Spare Armor 16
-Exchange Item: Spare Armor 17
-Exchange Item: Spare Armor 18
-Exchange Item: Spare Armor 19
-Exchange Item: Spare Armor 20
-Exchange Item: Spare Armor 21
-Exchange Item: Spare Armor 22
-Exchange Item: Spare Armor 23
-Exchange Item: Spare Armor 24
-Exchange Item: Clothing {#Name="Spare Clothing 25"}
-Exchange Item: Clothing {#Name="Spare Clothing 26"}
-Exchange Item: Clothing {#Name="Spare Clothing 27"}
-Exchange Item: Clothing {#Name="Spare Clothing 28"}
-Exchange Item: Clothing {#Name="Spare Clothing 29"}
-Exchange Item: Clothing {#Name="Spare Clothing 30"}
-Exchange Item: Clothing {#Name="Spare Clothing 31"}
-Exchange Item: Clothing {#Name="Spare Clothing 32"}
-Exchange Item: Clothing {#Name="Spare Clothing 33"}
-Exchange Item: Heart {#Name="Gigas' Heart"}
-Exchange Item: Heart {#Name="Gigas 2's Heart"}
-Exchange Item: Heart {#Name="Gigas 3's Heart"}
-Exchange Item: Heart {#Name="Giant Swordsman's Heart"}
-Exchange Item: Heart {#Name="Giant Swordsman 2's Heart"}
-Exchange Item: Heart {#Name="Giant Swordsman 3's Heart"}
-Exchange Item: Heart {#Name="Cerberus' Heart"}
-Exchange Item: Heart {#Name="Cerberus 2's Heart"}
-Exchange Item: Heart {#Name="Weakened Heart"}
-Exchange Item: Heart {#Name="Golem's Heart"}
-Exchange Item: Heart {#Name="Centaur's Heart"}
-Exchange Item: Heart {#Name="Ifrit's Heart"}
-Exchange Item: Heart {#Name="Withered Heart"}
-Exchange Item: Heart {#Name="Arsamiel's Heart"}
-Exchange Item: Heart {#Name="Foolish Heart"}
-Exchange Item: Heart {#Name="Emboldened Heart"}
-Exchange Item: Heart {#Name="Garriel's Heart"}
-Exchange Item: Heart {#Name="Saintly Heart"}
-Exchange Item: Heart {#Name="Purified Heart"}
-Exchange Item: Heart {#Name="Gabriel's Heart"}
-Exchange Item: Heart {#Name="Noble Heart"}
-Exchange Item: Heart {#Name="Searing Core"}
-Exchange Item: Heart {#Name="Frozen Core"}
-Exchange Item: Heart {#Name="Utawatai's Heart"}
-Exchange Item: Heart {#Name="Golden Core"}
-Exchange Item: Heart {#Name="Crystal Core"}
-Exchange Item: Heart {#Name="Sacred Core"}
-Exchange Item: Heart {#Name="Ebon Core"}
-Exchange Item: Heart {#Name="Dragon Heart"}
-Exchange Item: Heart {#Name="Pegasus Heart"}
-Exchange Item: Heart {#Name="Shining Nucleus"}
-Exchange Item: Heart {#Name="Stout Nucleus"}
-Exchange Item: Heart {#Name="Binding Nucleus"}
-Exchange Item: Heart {#Name="Justice Nucleus"}
-Exchange Item: Heart {#Name="Heroic Nucleus"}
-Exchange Item: Heart {#Name="Bumbling Nucleus"}
-Exchange Item: Heart {#Name="Festive Nucleus"}
-Exchange Item: Heart {#Name="Uplifting Nucleus"}
-Exchange Item: Heart {#Name="Flowery Nucleus"}
-Exchange Item: Heart {#Name="Redemptive Nucleus"}
-Exchange Item: Heart {#Name="Spare Heart 17"}
-Exchange Item: Heart {#Name="Spare Heart 18"}
-Exchange Item: Heart {#Name="Spare Heart 19"}
-Exchange Item: Heart {#Name="Spare Heart 20"}
-Exchange Item: Heart {#Name="Spare Heart 21"}
-Exchange Item: Heart {#Name="Spare Heart 22"}
-Exchange Item: Heart {#Name="Spare Heart 23"}
-Exchange Item: Heart {#Name="Spare Heart 24"}
-Exchange Item: Heart {#Name="Spare Heart 25"}
-Exchange Item: Heart {#Name="Spare Heart 26"}
-Exchange Item: Unidentified Medal {#Name="Unidentified Medal"}
-Exchange Item: Unidentified Medal (Rare) {#Name="Unidentified Medal (Rare)"}
-Exchange Item: Unidentified Gemstone {#Name="Unidentified Gemstone"}
-Exchange Item: Unidentified Gemstone (Rare) {#Name="Unidentified Gemstone (Rare)"}
-Exchange Item: Unidentified Weapon {#Name="Unidentified Weapon"}
-Exchange Item: Unidentified Weapon (Rare) {#Name="Unidentified Weapon (Rare)"}
-Exchange Item: Unidentified Book {#Name="Unidentified Book"}
-Exchange Item: Unidentified Book (Rare) {#Name="Unidentified Book (Rare)"}
-Exchange Item: Unidentified Clothing {#Name="Unidentified Clothing"}
-Exchange Item: Unidentified Rare Outfit {#Name="Unidentified Rare Outfit"}
-Exchange Item: Unidentified Heart {#Name="Unidentified Heart"}
-Exchange Item: Unidentified Rare Heart {#Name="Unidentified Rare Heart"}
- {#Name="Quest Medal 1"}
- {#Name="Quest Medal 2"}
- {#Name="Quest Medal 3"}
- {#Name="Quest Medal 4"}
- {#Name="Quest Medal 5"}
- {#Name="Quest Medal 6"}
- {#Name="Quest Medal 7"}
- {#Name="Quest Medal 8"}
- {#Name="Quest Medal 9"}
- {#Name="Quest Medal 10"}
- {#Name="Quest Medal 11"}
- {#Name="Quest Medal 12"}
- {#Name="Quest Medal 13"}
- {#Name="Quest Medal 14"}
- {#Name="Quest Medal 15"}
- {#Name="Quest Medal 16"}
- {#Name="Quest Medal 17"}
- {#Name="Quest Medal 18"}
- {#Name="Quest Medal 19"}
- {#Name="Quest Medal 20"}
- {#Name="Quest Medal 21"}
- {#Name="Tealstone"}
- {#Name="Pinkstone"}
- {#Name="Flintstone"}
- {#Name="Amberstone"}
- {#Name="Foodstone"}
- {#Name="Movestone"}
- {#Name="Floatstone"}
- {#Name="Magnetite"}
- {#Name="Cometstone"}
- {#Name="Meteorite"}
- {#Name="Quest Gem 11"}
- {#Name="Quest Gem 12"}
- {#Name="Quest Gem 13"}
- {#Name="Quest Gem 14"}
- {#Name="Quest Gem 15"}
- {#Name="Quest Gem 16"}
- {#Name="Quest Gem 17"}
- {#Name="Quest Gem 18"}
- {#Name="Quest Gem 19"}
- {#Name="Quest Gem 20"}
- {#Name="Quest Gem 21"}
- {#Name="Book of Hope"}
-#Name="Livro da Ambição"}
-#Name="Livro da Reticência"}
-#Name="Livro do Estoicismo"}
-#Name="Livro da Santidade"}
-#Name="Livro do Mistério"}
-#Name="Livro da Pureza"}
-#Name="Livro da Inocência"}
-#Name="Livro da Doutrina"}
-#Name="Livro da Disciplina"}
-#Name="Livro de Quest 11"}
-#Name="Livro de Quest 12"}
-#Name="Livro de Quest 13"}
-#Name="Livro de Quest 14"}
-#Name="Livro de Quest 15"}
-#Name="Livro de Quest 16"}
-#Name="Livro de Quest 17"}
-#Name="Livro de Quest 18"}
-#Name="Livro de Quest 19"}
-#Name="Livro de Quest 20"}
-#Name="Livro de Quest 21"}
-#Name="Vestimenta de Quest 1"}
-#Name="Vestimenta de Quest 2"}
-#Name="Vestimenta de Quest 3"}
-#Name="Vestimenta de Quest 4"}
-#Name="Vestimenta de Quest 5"}
-#Name="Vestimenta de Quest 6"}
-#Name="Vestimenta de Quest 7"}
-#Name="Vestimenta de Quest 8"}
-#Name="Vestimenta de Quest 9"}
-#Name="Vestimenta de Quest 10"}
-#Name="Vestimenta de Quest 11"}
-#Name="Vestimenta de Quest 12"}
-#Name="Vestimenta de Quest 13"}
-#Name="Vestimenta de Quest 14"}
-#Name="Vestimenta de Quest 15"}
-#Name="Vestimenta de Quest 16"}
-#Name="Vestimenta de Quest 17"}
-#Name="Vestimenta de Quest 18"}
-#Name="Vestimenta de Quest 19"}
-#Name="Vestimenta de Quest 20"}
-#Name="Vestimenta de Quest 21"}
-#Name="Chifre de Boi"}
-#Name="Chifre de Unicórnio"}
-#Name="Garra de Falcão"}
-#Name="Garra de Águia"}
-#Name="Ferrão de Sapo"}
-#Name="Presa de Víbora"}
-#Name="Fóssil de Osso"}
-#Name="Fóssil de Planta"}
-#Name="Artefato do Mundo Antigo"}
-#Name="Caco do Mundo Antigo"}
-#Name="Arma de Quest 11"}
-#Name="Arma de Quest 12"}
-#Name="Arma de Quest 13"}
-#Name="Arma de Quest 14"}
-#Name="Arma de Quest 15"}
-#Name="Arma de Quest 16"}
-#Name="Arma de Quest 17"}
-#Name="Arma de Quest 18"}
-#Name="Arma de Quest 19"}
-#Name="Arma de Quest 20"}
-#Name="Arma de Quest 21"}
-Nameless
-Recovery Potion (Small)
-Recovery Potion (Medium)
-Recovery Potion (Large)
-Small Life Bottle
-Recovery Potion (Max)
-Mysterious Fragment
-Mysterious Crystal
-Spiritual Medicine
-Regeneration Blade
-Strength Potion
-High Spirits Cologne
-Defense Potion
-Vitality Cologne
-Cruelty Pill
-Masochism Pill
-Exhaustion Pill
-Foolishness Pill
-Spare
-Healsphere (Small)
-Healsphere (Medium)
-Healsphere (Large)
-Bloodsphere (Small)
-Bloodsphere (Large)
-EXP Sphere
-Copper Base Material
-Silver Base Material
-Gold Base Material
-White Base Material
-Black Base Material
-Sea Medal
-Rusted Copper Coin
-Forest Medal
-Cracked Copper Coin
-Antique Silver Coin
-Polished Copper Coin
-Antique Gold Coin
-Sword Warrior Medal C
-Chalky Silver Coin
-Sword Warrior Medal E
-Copper Goblin Coin
-Spear Warrior Medal B
-Silver Merrow Coin
-Gold Valkyrie Coin
-Gold Phoenix Coin
-Copper Angelos Coin
-Silver Arche Coin
-Silver Thrones Coin
-Silver Cherub Coin
-Silver Seraph Coin
-Bow Warrior Medal A
-Devotion Coin
-Bow Warrior Medal C
-Bow Warrior Medal D
-Benevolence Coin
-Kindness Coin
-Affection Coin
-Cannon Warrior Medal C
-Cannon Warrior Medal D
-Cannon Warrior Medal E
-Mage Medal
-Mage 2 Medal
-Mage 3 Medal
-Undead Medal
-Undead 2 Medal
-Undead 3 Medal
-Ogre Medal
-Ogre 2 Medal
-Troll Medal
-Troll 2 Medal
-Wolf Medal
-Wolf 2 Medal
-Cavalry Warrior Medal
-Cavalry Warrior 2 Medal
-Spirit Medal
-Spirit 2 Medal
-Imp Medal
-Gigas Medal
-Gigas 2 Medal
-Gigas 3 Medal
-Giant Swordsman Medal
-Giant Swordsman 2 Medal
-Giant Swordsman 3 Medal
-Cerberus Medal
-Cerberus 2 Medal
-Cerberus 3 Medal
-Golem Medal
-Centaur Medal
-Ifrit Medal
-ファヌエルのメダル
-アルサミエルのメダル
-エグリゴリのメダル
-ラファエルのメダル
-ガルガリエルのメダル
-アプディエルのメダル
-ゾフィエルのメダル
-ガブリエルのメダル
-予備のメダル１
-予備のメダル２
-予備のメダル３
-予備のメダル４
-予備のメダル５
-予備のメダル６
-予備のメダル７
-予備のメダル８
-予備のメダル９
-予備のメダル１０
-予備のメダル１１
-予備のメダル１２
-予備のメダル１３
-予備のメダル１４
-予備のメダル１５
-予備のメダル１６
-予備のメダル１７
-予備のメダル１８
-予備のメダル１９
-予備のメダル２０
-予備のメダル２１
-予備のメダル２２
-予備のメダル２３
-予備のメダル２４
-予備のメダル２５
-予備のメダル２６
-予備のメダル２７
-予備のメダル２８
-予備のメダル２９
-予備のメダル３０
-予備のメダル３１
-予備のメダル３２
-予備のメダル３３
-海の宝石
-山の宝石
-森の宝石
-Broken Jewel
-教会の宝石
-剣兵の宝石A
-Chipped Jewel
-剣兵の宝石C
-Clouded Jewel
-Polished Jewel
-槍兵の宝石A
-Hypnos Jewel
-Sylph Jewel
-Undine Jewel
-Gnome Jewel
-Salamander Jewel
-盾兵の宝石B
-Wyrm Flamestone
-Faerie Stone
-Saintly Agate
-Vivid Topaz
-Perplexing Jasper
-Silent Onyx
-Abyssal Sapphire
-Streaked Emerald
-Nornir Jewel
+Item de troca: Medalha {#Name="Medalha do Mar"}
+Item de troca: Medalha {#Name="Moeda de Cobre Enferrujada"}
+Item de troca: Medalha {#Name="Medalha da Floresta"}
+Item de troca: Medalha {#Name="Moeda de Cobre Rachada"}
+Item de troca: Medalha {#Name="Moeda de Prata Antiga"}
+Item de troca: Medalha {#Name="Moeda de Cobre Polida"}
+Item de troca: Medalha {#Name="Moeda de Ouro Antiga"}
+Item de troca: Medalha {#Name="Medalha de Espadachim C"}
+Item de troca: Medalha {#Name="Moeda de Prata Opaca"}
+Item de troca: Medalha {#Name="Medalha de Espadachim E"}
+Item de troca: Medalha {#Name="Moeda de Cobre Goblin"}
+Item de troca: Medalha {#Name="Medalha de Lanceiro B"}
+Item de troca: Medalha {#Name="Moeda de Prata Merrow"}
+Item de troca: Medalha {#Name="Moeda de Ouro Valquíria"}
+Item de troca: Medalha {#Name="Moeda de Ouro Fênix"}
+Item de troca: Medalha {#Name="Moeda de Cobre Angelos"}
+Item de troca: Medalha {#Name="Moeda de Prata Arche"}
+Item de troca: Medalha {#Name="Moeda de Prata Tronos"}
+Item de troca: Medalha {#Name="Moeda de Prata Querubim"}
+Item de troca: Medalha {#Name="Moeda de Prata Serafim"}
+Item de troca: Medalha {#Name="Medalha de Arqueiro A"}
+Item de troca: Medalha {#Name="Moeda da Devoção"}
+Item de troca: Medalha {#Name="Medalha de Arqueiro C"}
+Item de troca: Medalha {#Name="Medalha de Arqueiro D"}
+Item de troca: Medalha {#Name="Moeda da Benevolência"}
+Item de troca: Medalha {#Name="Moeda da Gentileza"}
+Item de troca: Medalha {#Name="Moeda da Afeição"}
+Item de troca: Medalha {#Name="Medalha de Canhoneiro C"}
+Item de troca: Medalha {#Name="Medalha de Canhoneiro D"}
+Item de troca: Medalha {#Name="Medalha de Canhoneiro E"}
+Item de troca: Medalha {#Name="Medalha de Mago"}
+Item de troca: Medalha {#Name="Medalha de Mago 2"}
+Item de troca: Medalha {#Name="Medalha de Mago 3"}
+Item de troca: Medalha {#Name="Medalha de Morto-Vivo"}
+Item de troca: Medalha {#Name="Medalha de Morto-Vivo 2"}
+Item de troca: Medalha {#Name="Medalha de Morto-Vivo 3"}
+Item de troca: Medalha {#Name="Medalha de Ogro"}
+Item de troca: Medalha {#Name="Medalha de Ogro 2"}
+Item de troca: Medalha {#Name="Medalha de Troll"}
+Item de troca: Medalha {#Name="Medalha de Troll 2"}
+Item de troca: Medalha {#Name="Medalha de Lobo"}
+Item de troca: Medalha {#Name="Medalha de Lobo 2"}
+Item de troca: Medalha {#Name="Medalha de Cavaleiro"}
+Item de troca: Medalha {#Name="Medalha de Cavaleiro 2"}
+Item de troca: Medalha {#Name="Medalha de Espírito"}
+Item de troca: Medalha {#Name="Medalha de Espírito 2"}
+Item de troca: Medalha {#Name="Medalha de Diabinho"}
+Item de troca: Medalha {#Name="Medalha de Gigas"}
+Item de troca: Medalha {#Name="Medalha de Gigas 2"}
+Item de troca: Medalha {#Name="Medalha de Gigas 3"}
+Item de troca: Medalha {#Name="Medalha de Espadachim Gigante"}
+Item de troca: Medalha {#Name="Medalha de Espadachim Gigante 2"}
+Item de troca: Medalha {#Name="Medalha de Espadachim Gigante 3"}
+Item de troca: Medalha {#Name="Medalha de Cerberus"}
+Item de troca: Medalha {#Name="Medalha de Cerberus 2"}
+Item de troca: Medalha {#Name="Medalha de Cerberus 3"}
+Item de troca: Medalha {#Name="Medalha de Golem"}
+Item de troca: Medalha {#Name="Medalha de Centauro"}
+Item de troca: Medalha {#Name="Medalha de Ifrite"}
+Item de troca: Medalha {#Name="Medalha de Fanuel"}
+Item de troca: Medalha {#Name="Medalha de Armisael"}
+Item de troca: Medalha {#Name="Medalha de Egregori"}
+Item de troca: Medalha {#Name="Medalha de Rafael"}
+Item de troca: Medalha {#Name="Medalha de Galgaliel"}
+Item de troca: Medalha {#Name="Medalha de Abdiel"}
+Item de troca: Medalha {#Name="Medalha de Zofiel"}
+Item de troca: Medalha {#Name="Medalha de Gabriel"}
+Item de troca: Medalha {#Name="Medalha de Reserva 1"}
+Item de troca: Medalha {#Name="Medalha de Reserva 2"}
+Item de troca: Medalha {#Name="Medalha de Reserva 3"}
+Item de troca: Medalha {#Name="Medalha de Reserva 4"}
+Item de troca: Medalha {#Name="Medalha de Reserva 5"}
+Item de troca: Medalha {#Name="Medalha de Reserva 6"}
+Item de troca: Medalha {#Name="Medalha de Reserva 7"}
+Item de troca: Medalha {#Name="Medalha de Reserva 8"}
+Item de troca: Medalha {#Name="Medalha de Reserva 9"}
+Item de troca: Medalha {#Name="Medalha de Reserva 10"}
+Item de troca: Medalha {#Name="Medalha de Reserva 11"}
+Item de troca: Medalha {#Name="Medalha de Reserva 12"}
+Item de troca: Medalha {#Name="Medalha de Reserva 13"}
+Item de troca: Medalha {#Name="Medalha de Reserva 14"}
+Item de troca: Medalha {#Name="Medalha de Reserva 15"}
+Item de troca: Medalha {#Name="Medalha de Reserva 16"}
+Item de troca: Medalha {#Name="Medalha de Reserva 17"}
+Item de troca: Medalha {#Name="Medalha de Reserva 18"}
+Item de troca: Medalha {#Name="Medalha de Reserva 19"}
+Item de troca: Medalha {#Name="Medalha de Reserva 20"}
+Item de troca: Medalha {#Name="Medalha de Reserva 21"}
+Item de troca: Medalha {#Name="Medalha de Reserva 22"}
+Item de troca: Medalha {#Name="Medalha de Reserva 23"}
+Item de troca: Medalha {#Name="Medalha de Reserva 24"}
+Item de troca: Medalha {#Name="Medalha de Reserva 25"}
+Item de troca: Medalha {#Name="Medalha de Reserva 26"}
+Item de troca: Medalha {#Name="Medalha de Reserva 27"}
+Item de troca: Medalha {#Name="Medalha de Reserva 28"}
+Item de troca: Medalha {#Name="Medalha de Reserva 29"}
+Item de troca: Medalha {#Name="Medalha de Reserva 30"}
+Item de troca: Medalha {#Name="Medalha de Reserva 31"}
+Item de troca: Medalha {#Name="Medalha de Reserva 32"}
+Item de troca: Medalha {#Name="Medalha de Reserva 33"}
+Item de troca: Gema {#Name="Gema da Mar"}
+Item de troca: Gema {#Name="Gema da Montanha"}
+Item de troca: Gema {#Name="Gema da Floresta"}
+Item de troca: Gema {#Name="Gema Quebrada"}
+Item de troca: Gema {#Name="Gema da Igreja"}
+Item de troca: Gema {#Name="Gema de Espadachim A"}
+Item de troca: Gema {#Name="Gema Lascada"}
+Item de troca: Gema {#Name="Gema de Espadachim C"}
+Item de troca: Gema {#Name="Gema Turva"}
+Item de troca: Gema {#Name="Gema Polida"}
+Item de troca: Gema {#Name="Gema de Lanceiro A"}
+Item de troca: Gema {#Name="Gema de Hypnos"}
+Item de troca: Gema {#Name="Gema de Sylph"}
+Item de troca: Gema {#Name="Gema de Undine"}
+Item de troca: Gema {#Name="Gema de Gnome"}
+Item de troca: Gema {#Name="Gema de Salamandra"}
+Item de troca: Gema {#Name="Gema de Escudeiro B"}
+Item de troca: Gema {#Name="Pedra Flamejante de Wyrm"}
+Item de troca: Gema {#Name="Pedra das Fadas"}
+Item de troca: Gema {#Name="Ágata Sagrada"}
+Item de troca: Gema {#Name="Topázio Vívido"}
+Item de troca: Gema {#Name="Jaspe Enigmático"}
+Item de troca: Gema {#Name="Ônix Silencioso"}
+Item de troca: Gema {#Name="Safira Abissal"}
+Item de troca: Gema {#Name="Esmeralda Rajada"}
+Item de troca: Gema {#Name="Gema das Nornir"}
+Item de troca: Gema {#Name="b"}
+Item de troca: Gema {#Name="Gema da Aurora"}
+Item de troca: Gema {#Name="Gema de Serket"}
+Item de troca: Gema {#Name="Gema Celestial"}
+Item de troca: Gema {#Name="Gema de Mago"}
+Item de troca: Gema {#Name="Gema de Mago 2"}
+Item de troca: Gema {#Name="Gema de Mago 3"}
+Item de troca: Gema {#Name="Gema de Morto-Vivo"}
+Item de troca: Gema {#Name="Gema de Morto-Vivo 2"}
+Item de troca: Gema {#Name="Gema de Morto-Vivo 3"}
+Item de troca: Gema {#Name="Gema de Ogro"}
+Item de troca: Gema {#Name="Gema de Ogro 2"}
+Item de troca: Gema {#Name="Gema de Troll"}
+Item de troca: Gema {#Name="Gema de Troll 2"}
+Item de troca: Gema {#Name="Gema de Lobo"}
+Item de troca: Gema {#Name="Gema de Lobo 2"}
+Item de troca: Gema {#Name="Gema de Cavaleiro"}
+Item de troca: Gema {#Name="Gema de Cavaleiro 2"}
+Item de troca: Gema {#Name="Gema de Espírito"}
+Item de troca: Gema {#Name="Gema de Espírito 2"}
+Item de troca: Gema {#Name="Gema de Diabinho"}
+Item de troca: Gema {#Name="Gema de Gigas"}
+Item de troca: Gema {#Name="Gema de Gigas 2"}
+Item de troca: Gema {#Name="Gema de Gigas 3"}
+Item de troca: Gema {#Name="Gema de Espadachim Gigante"}
+Item de troca: Gema {#Name="Gema de Espadachim Gigante 2"}
+Item de troca: Gema {#Name="Gema de Espadachim Gigante 3"}
+Item de troca: Gema {#Name="Gema de Cerberus"}
+Item de troca: Gema {#Name="Gema de Cerberus 2"}
+Item de troca: Gema {#Name="Gema de Cerberus 3"}
+Item de troca: Gema {#Name="Gema de Golem"}
+Item de troca: Gema {#Name="Gema de Centauro"}
+Item de troca: Gema {#Name="Gema de Ifrite"}
+Item de troca: Gema {#Name="Gema de Fanuel"}
+Item de troca: Gema {#Name="Gema de Armisael"}
+Item de troca: Gema {#Name="Gema de Egregori"}
+Item de troca: Gema {#Name="Gema de Rafael"}
+Item de troca: Gema {#Name="Gema de Galgaliel"}
+Item de troca: Gema {#Name="Gema de Abdiel"}
+Item de troca: Gema {#Name="Gema de Zofiel"}
+Item de troca: Gema {#Name="Gema de Gabriel"}
+Item de troca: Gema {#Name="Gema de Reserva 1"}
+Item de troca: Gema {#Name="Gema de Reserva 2"}
+Item de troca: Gema {#Name="Gema de Reserva 3"}
+Item de troca: Gema {#Name="Gema de Reserva 4"}
+Item de troca: Gema {#Name="Gema de Reserva 5"}
+Item de troca: Gema {#Name="Gema de Reserva 6"}
+Item de troca: Gema {#Name="Gema de Reserva 7"}
+Item de troca: Gema {#Name="Gema de Reserva 8"}
+Item de troca: Gema {#Name="Gema de Reserva 9"}
+Item de troca: Gema {#Name="Gema de Reserva 10"}
+Item de troca: Gema {#Name="Gema de Reserva 11"}
+Item de troca: Gema {#Name="Gema de Reserva 12"}
+Item de troca: Gema {#Name="Gema de Reserva 13"}
+Item de troca: Gema {#Name="Gema de Reserva 14"}
+Item de troca: Gema {#Name="Gema de Reserva 15"}
+Item de troca: Gema {#Name="Gema de Reserva 16"}
+Item de troca: Gema {#Name="Gema de Reserva 17"}
+Item de troca: Gema {#Name="Gema de Reserva 18"}
+Item de troca: Gema {#Name="Gema de Reserva 19"}
+Item de troca: Gema {#Name="Gema de Reserva 20"}
+Item de troca: Gema {#Name="Gema de Reserva 21"}
+Item de troca: Gema {#Name="Gema de Reserva 22"}
+Item de troca: Gema {#Name="Gema de Reserva 23"}
+Item de troca: Gema {#Name="Gema de Reserva 24"}
+Item de troca: Gema {#Name="Gema de Reserva 25"}
+Item de troca: Gema {#Name="Gema de Reserva 26"}
+Item de troca: Gema {#Name="Gema de Reserva 27"}
+Item de troca: Gema {#Name="Gema de Reserva 28"}
+Item de troca: Gema {#Name="Gema de Reserva 29"}
+Item de troca: Gema {#Name="Gema de Reserva 30"}
+Item de troca: Gema {#Name="Gema de Reserva 31"}
+Item de troca: Gema {#Name="Gema de Reserva 32"}
+Item de troca: Gema {#Name="Gema de Reserva 33"}
+Item de troca: Arma {#Name="Faca do Mar"}
+Item de troca: Arma {#Name="Garra Frágil"}
+Item de troca: Arma {#Name="Faca da Floresta"}
+Item de troca: Arma {#Name="Garra Macia"}
+Item de troca: Arma {#Name="Garra Longa"}
+Item de troca: Arma {#Name="Garra Pontiaguda"}
+Item de troca: Arma {#Name="Garra Devoradora de Sonhos"}
+Item de troca: Arma {#Name="b"}
+Item de troca: Arma {#Name="Garra Carmesim"}
+Item de troca: Arma {#Name="Espada de Espadachim E"}
+Item de troca: Arma {#Name="Garra de Defunto"}
+Item de troca: Arma {#Name="Espada de Lanceiro B"}
+Item de troca: Arma {#Name="Garra de Prata"}
+Item de troca: Arma {#Name="Garra Elegante"}
+Item de troca: Arma {#Name="Garra Afiada"}
+Item de troca: Arma {#Name="Espada de Escudeiro A"}
+Item de troca: Arma {#Name="Garra Esmeralda"}
+Item de troca: Arma {#Name="Garra de Roc"}
+Item de troca: Arma {#Name="Casco de Espírito da Água"}
+Item de troca: Arma {#Name="Casco de Pégasos"}
+Item de troca: Arma {#Name="Espada de Arqueiro A"}
+Item de troca: Arma {#Name="Fragmento de Casco Relampejante"}
+Item de troca: Arma {#Name="Espada de Arqueiro C"}
+Item de troca: Arma {#Name="Espada de Arqueiro D"}
+Item de troca: Arma {#Name="Casco Milenar"}
+Item de troca: Arma {#Name="Fragmento de Casco Flamejante"}
+Item de troca: Arma {#Name="Casco Celestial"}
+Item de troca: Arma {#Name="Espada de Canhoneiro C"}
+Item de troca: Arma {#Name="Espada de Canhoneiro D"}
+Item de troca: Arma {#Name="Espada de Canhoneiro E"}
+Item de troca: Arma {#Name="Costela de Criança"}
+Item de troca: Arma {#Name="Fêmur de Homem"}
+Item de troca: Arma {#Name="Crânio de Menina"}
+Item de troca: Arma {#Name="Pélvis de Mulher"}
+Item de troca: Arma {#Name="Espada de Defunto 2"}
+Item de troca: Arma {#Name="Espada de Defunto 3"}
+Item de troca: Arma {#Name="Chifre de Ogro"}
+Item de troca: Arma {#Name="Chifre de Ogro 2"}
+Item de troca: Arma {#Name="Garra de Troll"}
+Item de troca: Arma {#Name="Garra de Troll 2"}
+Item de troca: Arma {#Name="Garra de Lobo"}
+Item de troca: Arma {#Name="Garra de Lobo 2"}
+Item de troca: Arma {#Name="Espada de Cavaleiro"}
+Item de troca: Arma {#Name="Espada de Cavaleiro 2"}
+Item de troca: Arma {#Name="Garra de Espírito"}
+Item de troca: Arma {#Name="Garra de Espírito 2"}
+Item de troca: Arma {#Name="Garra de Diabinho"}
+Item de troca: Arma {#Name="Garra de Gigas"}
+Item de troca: Arma {#Name="Garra de Gigas 2"}
+Item de troca: Arma {#Name="Garra de Gigas 3"}
+Item de troca: Arma {#Name="Garra de Espadachim Gigante"}
+Item de troca: Arma {#Name="Garra de Espadachim Gigante 2"}
+Item de troca: Arma {#Name="Garra de Espadachim Gigante 3"}
+Item de troca: Arma {#Name="Garra de Cerberus"}
+Item de troca: Arma {#Name="Garra de Cerberus 2"}
+Item de troca: Arma {#Name="Garra de Cerberus 3"}
+Item de troca: Arma {#Name="Mão de Golem"}
+Item de troca: Arma {#Name="Garra de Centauro"}
+Item de troca: Arma {#Name="Garra de Ifrite"}
+Item de troca: Arma {#Name="Garra de Fanuel"}
+Item de troca: Arma {#Name="Garra de Armisael"}
+Item de troca: Arma {#Name="Garra de Egregori"}
+Item de troca: Arma {#Name="Garra de Rafael"}
+Item de troca: Arma {#Name="Garra de Galgaliel"}
+Item de troca: Arma {#Name="Garra de Abdiel"}
+Item de troca: Arma {#Name="Garra de Zofiel"}
+Item de troca: Arma {#Name="Garra de Gabriel"}
+Item de troca: Arma {#Name="Garra de Reserva 1"}
+Item de troca: Arma {#Name="Garra de Reserva 2"}
+Item de troca: Arma {#Name="Garra de Reserva 3"}
+Item de troca: Arma {#Name="Garra de Reserva 4"}
+Item de troca: Arma {#Name="Garra de Reserva 5"}
+Item de troca: Arma {#Name="Garra de Reserva 6"}
+Item de troca: Arma {#Name="Garra de Reserva 7"}
+Item de troca: Arma {#Name="Garra de Reserva 8"}
+Item de troca: Arma {#Name="Garra de Reserva 9"}
+Item de troca: Arma {#Name="Garra de Reserva 10"}
+Item de troca: Arma {#Name="Garra de Reserva 11"}
+Item de troca: Arma {#Name="Garra de Reserva 12"}
+Item de troca: Arma {#Name="Garra de Reserva 13"}
+Item de troca: Arma {#Name="Garra de Reserva 14"}
+Item de troca: Arma {#Name="Garra de Reserva 15"}
+Item de troca: Arma {#Name="Garra de Reserva 16"}
+Item de troca: Arma {#Name="Garra de Reserva 17"}
+Item de troca: Arma {#Name="Garra de Reserva 18"}
+Item de troca: Arma {#Name="Garra de Reserva 19"}
+Item de troca: Arma {#Name="Garra de Reserva 20"}
+Item de troca: Arma {#Name="Garra de Reserva 21"}
+Item de troca: Arma {#Name="Garra de Reserva 22"}
+Item de troca: Arma {#Name="Garra de Reserva 23"}
+Item de troca: Arma {#Name="Garra de Reserva 24"}
+Item de troca: Arma {#Name="Garra de Reserva 25"}
+Item de troca: Arma {#Name="Garra de Reserva 26"}
+Item de troca: Arma {#Name="Garra de Reserva 27"}
+Item de troca: Arma {#Name="Garra de Reserva 28"}
+Item de troca: Arma {#Name="Garra de Reserva 29"}
+Item de troca: Arma {#Name="Garra de Reserva 30"}
+Item de troca: Arma {#Name="Garra de Reserva 31"}
+Item de troca: Arma {#Name="Garra de Reserva 32"}
+Item de troca: Arma {#Name="Garra de Reserva 33"}
+Item de troca: Livro {#Name="Livro do Mar"}
+Item de troca: Livro {#Name="Livro da Montanha"}
+Item de troca: Livro {#Name="Livro da Floresta"}
+Item de troca: Livro {#Name="Livro da Areia"}
+Item de troca: Livro {#Name="Livro Rasgado"}
+Item de troca: Livro {#Name="Livro de Espadachim A"}
+Item de troca: Livro {#Name="Livro de Espadachim B"}
+Item de troca: Livro {#Name="Livro de Espadachim C"}
+Item de troca: Livro {#Name="Livro Manchado"}
+Item de troca: Livro {#Name="Livro de Espadachim E"}
+Item de troca: Livro {#Name="Livro Antigo"}
+Item de troca: Livro {#Name="Livro de Lanceiro B"}
+Item de troca: Livro {#Name="Livro de Dian Cecht"}
+Item de troca: Livro {#Name="Livro de Epona"}
+Item de troca: Livro {#Name="Livro de Toutatis"}
+Item de troca: Livro {#Name="Livro de Escudeiro A"}
+Item de troca: Livro {#Name="Página de Taranis"}
+Item de troca: Livro {#Name="Livro de Escudeiro C"}
+Item de troca: Livro {#Name="Página do Mandato Celestial"}
+Item de troca: Livro {#Name="Livro Celestial"}
+Item de troca: Livro {#Name="Livro de Arqueiro A"}
+Item de troca: Livro {#Name="Livro de Arqueiro B"}
+Item de troca: Livro {#Name="Livro de Arqueiro C"}
+Item de troca: Livro {#Name="Livro de Arqueiro D"}
+Item de troca: Livro {#Name="Livro de Arqueiro E"}
+Item de troca: Livro {#Name="Livro de Canhoneiro A"}
+Item de troca: Livro {#Name="Livro de Canhoneiro B"}
+Item de troca: Livro {#Name="Livro de Canhoneiro C"}
+Item de troca: Livro {#Name="Livro de Canhoneiro D"}
+Item de troca: Livro {#Name="Livro de Canhoneiro E"}
+Item de troca: Livro {#Name="Livro de Mago"}
+Item de troca: Livro {#Name="Livro de Mago 2"}
+Item de troca: Livro {#Name="Livro de Mago 3"}
+Item de troca: Livro {#Name="Livro de Morto-Vivo"}
+Item de troca: Livro {#Name="Livro de Morto-Vivo 2"}
+Item de troca: Livro {#Name="Livro de Morto-Vivo 3"}
+Item de troca: Livro {#Name="Livro de Ogro"}
+Item de troca: Livro {#Name="Livro de Ogro 2"}
+Item de troca: Livro {#Name="Livro de Troll"}
+Item de troca: Livro {#Name="Livro de Troll 2"}
+Item de troca: Livro {#Name="Livro de Lobo"}
+Item de troca: Livro {#Name="Livro de Lobo 2"}
+Item de troca: Livro {#Name="Livro de Cavaleiro"}
+Item de troca: Livro {#Name="Livro de Cavaleiro 2"}
+Item de troca: Livro {#Name="Livro de Espírito"}
+Item de troca: Livro {#Name="Livro de Espírito 2"}
+Item de troca: Livro {#Name="Livro de Diabinho"}
+Item de troca: Livro {#Name="Livro de Gigas"}
+Item de troca: Livro {#Name="Livro de Gigas 2"}
+Item de troca: Livro {#Name="Livro de Gigas 3"}
+Item de troca: Livro {#Name="Livro de Guerreiro Gigante"}
+Item de troca: Livro {#Name="Livro de Guerreiro Gigante 2"}
+Item de troca: Livro {#Name="Livro de Guerreiro Gigante 3"}
+Item de troca: Livro {#Name="Livro de Cerberus"}
+Item de troca: Livro {#Name="Livro de Cerberus 2"}
+Item de troca: Livro {#Name="Livro de Cerberus 3"}
+Item de troca: Livro {#Name="Livro de Golem"}
+Item de troca: Livro {#Name="Livro de Centauro"}
+Item de troca: Livro {#Name="Livro de Ifrite"}
+Item de troca: Livro {#Name="Livro de Fanuel"}
+Item de troca: Livro {#Name="Livro de Armisael"}
+Item de troca: Livro {#Name="Livro de Egregori"}
+Item de troca: Livro {#Name="Livro de Rafael"}
+Item de troca: Livro {#Name="Livro de Galgaliel"}
+Item de troca: Livro {#Name="Livro de Abdiel"}
+Item de troca: Livro {#Name="Livro de Zofiel"}
+Item de troca: Livro {#Name="Livro de Gabriel"}
+Item de troca: Livro {#Name="Livro de Reserva 1"}
+Item de troca: Livro {#Name="Livro de Reserva 2"}
+Item de troca: Livro {#Name="Livro de Reserva 3"}
+Item de troca: Livro {#Name="Livro de Reserva 4"}
+Item de troca: Livro {#Name="Livro de Reserva 5"}
+Item de troca: Livro {#Name="Livro de Reserva 6"}
+Item de troca: Livro {#Name="Livro de Reserva 7"}
+Item de troca: Livro {#Name="Livro de Reserva 8"}
+Item de troca: Livro {#Name="Livro de Reserva 9"}
+Item de troca: Livro {#Name="Livro de Reserva 10"}
+Item de troca: Livro {#Name="Livro de Reserva 11"}
+Item de troca: Livro {#Name="Livro de Reserva 12"}
+Item de troca: Livro {#Name="Livro de Reserva 13"}
+Item de troca: Livro {#Name="Livro de Reserva 14"}
+Item de troca: Livro {#Name="Livro de Reserva 15"}
+Item de troca: Livro {#Name="Livro de Reserva 16"}
+Item de troca: Livro {#Name="Livro de Reserva 17"}
+Item de troca: Livro {#Name="Livro de Reserva 18"}
+Item de troca: Livro {#Name="Livro de Reserva 19"}
+Item de troca: Livro {#Name="Livro de Reserva 20"}
+Item de troca: Livro {#Name="Livro de Reserva 21"}
+Item de troca: Livro {#Name="Livro de Reserva 22"}
+Item de troca: Livro {#Name="Livro de Reserva 23"}
+Item de troca: Livro {#Name="Livro de Reserva 24"}
+Item de troca: Livro {#Name="Livro de Reserva 25"}
+Item de troca: Livro {#Name="Livro de Reserva 26"}
+Item de troca: Livro {#Name="Livro de Reserva 27"}
+Item de troca: Livro {#Name="Livro de Reserva 28"}
+Item de troca: Livro {#Name="Livro de Reserva 29"}
+Item de troca: Livro {#Name="Livro de Reserva 30"}
+Item de troca: Livro {#Name="Livro de Reserva 31"}
+Item de troca: Livro {#Name="Livro de Reserva 32"}
+Item de troca: Livro {#Name="Livro de Reserva 33"}
+Item de troca: Vestimenta {#Name="Pano Esfarrapado"}
+Item de troca: Vestimenta {#Name="Pano Gasto"}
+Item de troca: Vestimenta {#Name="Pano Macio"}
+Item de troca: Vestimenta {#Name="Pano Ensanguentado"}
+Item de troca: Vestimenta {#Name="Pano Resistente"}
+Item de troca: Vestimenta {#Name="Tecido de Trevo"}
+Item de troca: Vestimenta {#Name="Vestimenta de Espadachim B"}
+Item de troca: Vestimenta {#Name="Tecido da Panaceia"}
+Item de troca: Vestimenta {#Name="Tecido Abundante"}
+Item de troca: Vestimenta {#Name="Tecido da Chuva"}
+Item de troca: Vestimenta {#Name="Trançado de Gleipnir"}
+Item de troca: Vestimenta {#Name="Vestimenta de Lanceiro B"}
+Item de troca: Vestimenta {#Name="Trançado do Velocino de Ouro"}
+Item de troca: Vestimenta {#Name="Vestimenta de Lanceiro D"}
+Item de troca: Vestimenta {#Name="Trançado da Árvore do Mundo"}
+Item de troca: Vestimenta {#Name="Manto Ancestral"}
+Item de troca: Vestimenta {#Name="Vestimenta de Escudeiro B"}
+Item de troca: Vestimenta {#Name="Traje Celestial"}
+Item de troca: Vestimenta {#Name="Vestimenta de Escudeiro D"}
+Item de troca: Vestimenta {#Name="Vestimenta de Escudeiro E"}
+Item de troca: Vestimenta {#Name="Vestimenta de Arqueiro A"}
+Item de troca: Vestimenta {#Name="Vestimenta de Arqueiro B"}
+Item de troca: Vestimenta {#Name="Vestimenta de Arqueiro C"}
+Item de troca: Vestimenta {#Name="Vestimenta de Arqueiro D"}
+Item de troca: Vestimenta {#Name="Vestimenta de Arqueiro E"}
+Item de troca: Vestimenta {#Name="Vestimenta de Canhoneiro A"}
+Item de troca: Vestimenta {#Name="Vestimenta de Canhoneiro B"}
+Item de troca: Vestimenta {#Name="Vestimenta de Canhoneiro C"}
+Item de troca: Vestimenta {#Name="Vestimenta de Canhoneiro D"}
+Item de troca: Vestimenta {#Name="Vestimenta de Canhoneiro E"}
+Item de troca: Vestimenta {#Name="Vestimenta de Mago"}
+Item de troca: Vestimenta {#Name="Vestimenta de Mago 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Mago 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Morto-Vivo"}
+Item de troca: Vestimenta {#Name="Vestimenta de Morto-Vivo 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Morto-Vivo 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Ogro"}
+Item de troca: Vestimenta {#Name="Vestimenta de Ogro 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Troll"}
+Item de troca: Vestimenta {#Name="Vestimenta de Troll 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Lobo"}
+Item de troca: Vestimenta {#Name="Vestimenta de Lobo 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Cavaleiro"}
+Item de troca: Vestimenta {#Name="Vestimenta de Cavaleiro 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Espírito"}
+Item de troca: Vestimenta {#Name="Vestimenta de Espírito 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Diabinho"}
+Item de troca: Vestimenta {#Name="Vestimenta de Gigas"}
+Item de troca: Vestimenta {#Name="Vestimenta de Gigas 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Gigas 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Guerreiro Gigante"}
+Item de troca: Vestimenta {#Name="Vestimenta de Guerreiro Gigante 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Guerreiro Gigante 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Cerberus"}
+Item de troca: Vestimenta {#Name="Vestimenta de Cerberus 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Cerberus 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Golem"}
+Item de troca: Vestimenta {#Name="Vestimenta de Centauro"}
+Item de troca: Vestimenta {#Name="Vestimenta de Ifrite"}
+Item de troca: Vestimenta {#Name="Vestimenta de Fanuel"}
+Item de troca: Vestimenta {#Name="Vestimenta de Armisael"}
+Item de troca: Vestimenta {#Name="Vestimenta de Egregori"}
+Item de troca: Vestimenta {#Name="Vestimenta de Rafael"}
+Item de troca: Vestimenta {#Name="Vestimenta de Galgaliel"}
+Item de troca: Vestimenta {#Name="Vestimenta de Abdiel"}
+Item de troca: Vestimenta {#Name="Vestimenta de Zofiel"}
+Item de troca: Vestimenta {#Name="Vestimenta de Gabriel"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 1"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 2"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 3"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 4"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 5"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 6"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 7"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 8"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 9"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 10"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 11"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 12"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 13"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 14"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 15"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 16"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 17"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 18"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 19"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 20"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 21"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 22"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 23"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 24"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 25"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 26"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 27"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 28"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 29"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 30"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 31"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 32"}
+Item de troca: Vestimenta {#Name="Vestimenta de Reserva 33"}
+Item de troca: Coração {#Name="Coração de Gigas"}
+Item de troca: Coração {#Name="Coração de Gigas 2"}
+Item de troca: Coração {#Name="Coração de Gigas 3"}
+Item de troca: Coração {#Name="Coração de Espadachim Gigante"}
+Item de troca: Coração {#Name="Coração de Espadachim Gigante 2"}
+Item de troca: Coração {#Name="Coração de Espadachim Gigante 3"}
+Item de troca: Coração {#Name="Coração de Cerberus"}
+Item de troca: Coração {#Name="Coração de Cerberus 2"}
+Item de troca: Coração {#Name="Coração Enfraquecido"}
+Item de troca: Coração {#Name="Coração de Golem"}
+Item de troca: Coração {#Name="Coração de Centauro"}
+Item de troca: Coração {#Name="Coração de Ifrite"}
+Item de troca: Coração {#Name="Coração Murchado"}
+Item de troca: Coração {#Name="Coração de Armisael"}
+Item de troca: Coração {#Name="Coração Tolo"}
+Item de troca: Coração {#Name="Coração Corajoso"}
+Item de troca: Coração {#Name="Coração de Galgaliel"}
+Item de troca: Coração {#Name="Coração Santificado"}
+Item de troca: Coração {#Name="Coração Purificado"}
+Item de troca: Coração {#Name="Coração de Gabriel"}
+Item de troca: Coração {#Name="Coração Nobre"}
+Item de troca: Coração {#Name="Núcleo Abrasador"}
+Item de troca: Coração {#Name="Núcleo Congelado"}
+Item de troca: Coração {#Name="Coração de Utautai"}
+Item de troca: Coração {#Name="Núcleo Dourado"}
+Item de troca: Coração {#Name="Núcleo Cristalino"}
+Item de troca: Coração {#Name="Núcleo Sagrado"}
+Item de troca: Coração {#Name="Núcleo Ébano"}
+Item de troca: Coração {#Name="Coração de Dragão"}
+Item de troca: Coração {#Name="Coração de Pégasos"}
+Item de troca: Coração {#Name="Núcleo Brilhante"}
+Item de troca: Coração {#Name="Núcleo Robusto"}
+Item de troca: Coração {#Name="Núcleo Vinculante"}
+Item de troca: Coração {#Name="Núcleo da Justiça"}
+Item de troca: Coração {#Name="Núcleo Heroico"}
+Item de troca: Coração {#Name="Núcleo Desajeitado"}
+Item de troca: Coração {#Name="Núcleo Festivo"}
+Item de troca: Coração {#Name="Núcleo Inspirador"}
+Item de troca: Coração {#Name="Núcleo Florido"}
+Item de troca: Coração {#Name="Núcleo Redentor"}
+Item de troca: Coração {#Name="Coração de Reserva 17"}
+Item de troca: Coração {#Name="Coração de Reserva 18"}
+Item de troca: Coração {#Name="Coração de Reserva 19"}
+Item de troca: Coração {#Name="Coração de Reserva 20"}
+Item de troca: Coração {#Name="Coração de Reserva 21"}
+Item de troca: Coração {#Name="Coração de Reserva 22"}
+Item de troca: Coração {#Name="Coração de Reserva 23"}
+Item de troca: Coração {#Name="Coração de Reserva 24"}
+Item de troca: Coração {#Name="Coração de Reserva 25"}
+Item de troca: Coração {#Name="Coração de Reserva 26"}
+Item de troca: Medalha Desconhecida {#Name="Medalha Desconhecida"}
+Item de troca: Medalha Desconhecida (Rara) {#Name="Medalha Desconhecida (Rara)"}
+Item de troca: Gema Desconhecida {#Name="Gema Desconhecida"}
+Item de troca: Gema Desconhecida (Rara) {#Name="Gema Desconhecida (Rara)"}
+Item de troca: Arma Desconhecida {#Name="Arma Desconhecida"}
+Item de troca: Arma Desconhecida (Rara) {#Name="Arma Desconhecida (Rara)"}
+Item de troca: Livro Desconhecido {#Name="Livro Desconhecido"}
+Item de troca: Livro Desconhecido (Raro) {#Name="Livro Desconhecido (Raro)"}
+Item de troca: Vestimenta Desconhecida {#Name="Vestimenta Desconhecida"}
+Item de troca: Vestimenta Desconhecida (Rara) {#Name="Vestimenta Desconhecida (Rara)"}
+Item de troca: Coração Desconhecido {#Name="Coração Desconhecido"}
+Item de troca: Coração Desconhecido (Raro) {#Name="Coração Desconhecido (Raro)"}
+ {#Name="Medalha de Missão 1"}
+ {#Name="Medalha de Missão 2"}
+ {#Name="Medalha de Missão 3"}
+ {#Name="Medalha de Missão 4"}
+ {#Name="Medalha de Missão 5"}
+ {#Name="Medalha de Missão 6"}
+ {#Name="Medalha de Missão 7"}
+ {#Name="Medalha de Missão 8"}
+ {#Name="Medalha de Missão 9"}
+ {#Name="Medalha de Missão 10"}
+ {#Name="Medalha de Missão 11"}
+ {#Name="Medalha de Missão 12"}
+ {#Name="Medalha de Missão 13"}
+ {#Name="Medalha de Missão 14"}
+ {#Name="Medalha de Missão 15"}
+ {#Name="Medalha de Missão 16"}
+ {#Name="Medalha de Missão 17"}
+ {#Name="Medalha de Missão 18"}
+ {#Name="Medalha de Missão 19"}
+ {#Name="Medalha de Missão 20"}
+ {#Name="Medalha de Missão 21"}
+ {#Name="Pedra Azul-Esverdeada"}
+ {#Name="Pedra Rosada"}
+ {#Name="Pedra de Sílex"}
+ {#Name="Pedra Âmbar"}
+ {#Name="Pedra Nutritiva"}
+ {#Name="Pedra do Movimento"}
+ {#Name="Pedra Flutuante"}
+ {#Name="Magnetita"}
+ {#Name="Pedra de Cometa"}
+ {#Name="Meteorito"}
+ {#Name="Gema de Missão 11"}
+ {#Name="Gema de Missão 12"}
+ {#Name="Gema de Missão 13"}
+ {#Name="Gema de Missão 14"}
+ {#Name="Gema de Missão 15"}
+ {#Name="Gema de Missão 16"}
+ {#Name="Gema de Missão 17"}
+ {#Name="Gema de Missão 18"}
+ {#Name="Gema de Missão 19"}
+ {#Name="Gema de Missão 20"}
+ {#Name="Gema de Missão 21"}
+ {#Name="Livro da Esperança"}
+ {#Name="Livro da Ambição"}
+ {#Name="Livro da Reticência"}
+ {#Name="Livro do Estoicismo"}
+ {#Name="Livro da Santidade"}
+ {#Name="Livro do Mistério"}
+ {#Name="Livro da Pureza"}
+ {#Name="Livro da Inocência"}
+ {#Name="Livro da Doutrina"}
+ {#Name="Livro da Disciplina"}
+ {#Name="Livro de Missão 11"}
+ {#Name="Livro de Missão 12"}
+ {#Name="Livro de Missão 13"}
+ {#Name="Livro de Missão 14"}
+ {#Name="Livro de Missão 15"}
+ {#Name="Livro de Missão 16"}
+ {#Name="Livro de Missão 17"}
+ {#Name="Livro de Missão 18"}
+ {#Name="Livro de Missão 19"}
+ {#Name="Livro de Missão 20"}
+ {#Name="Livro de Missão 21"}
+ {#Name="Vestimenta de Missão 1"}
+ {#Name="Vestimenta de Missão 2"}
+ {#Name="Vestimenta de Missão 3"}
+ {#Name="Vestimenta de Missão 4"}
+ {#Name="Vestimenta de Missão 5"}
+ {#Name="Vestimenta de Missão 6"}
+ {#Name="Vestimenta de Missão 7"}
+ {#Name="Vestimenta de Missão 8"}
+ {#Name="Vestimenta de Missão 9"}
+ {#Name="Vestimenta de Missão 10"}
+ {#Name="Vestimenta de Missão 11"}
+ {#Name="Vestimenta de Missão 12"}
+ {#Name="Vestimenta de Missão 13"}
+ {#Name="Vestimenta de Missão 14"}
+ {#Name="Vestimenta de Missão 15"}
+ {#Name="Vestimenta de Missão 16"}
+ {#Name="Vestimenta de Missão 17"}
+ {#Name="Vestimenta de Missão 18"}
+ {#Name="Vestimenta de Missão 19"}
+ {#Name="Vestimenta de Missão 20"}
+ {#Name="Vestimenta de Missão 21"}
+ {#Name="Chifre de Boi"}
+ {#Name="Chifre de Unicórnio"}
+ {#Name="Garra de Falcão"}
+ {#Name="Garra de Águia"}
+ {#Name="Ferrão de Sapo"}
+ {#Name="Presa de Víbora"}
+ {#Name="Fóssil de Osso"}
+ {#Name="Fóssil de Planta"}
+ {#Name="Artefato do Velho Mundo"}
+ {#Name="Fragmento do Velho Mundo"}
+ {#Name="Arma de Quest 11"}
+ {#Name="Arma de Quest 12"}
+ {#Name="Arma de Quest 13"}
+ {#Name="Arma de Quest 14"}
+ {#Name="Arma de Quest 15"}
+ {#Name="Arma de Quest 16"}
+ {#Name="Arma de Quest 17"}
+ {#Name="Arma de Quest 18"}
+ {#Name="Arma de Quest 19"}
+ {#Name="Arma de Quest 20"}
+ {#Name="Arma de Quest 21"}
+Sem nome
+Poção de Recuperação (P)
+Poção de Recuperação (M)
+Poção de Recuperação (G)
+Garrafa de Recuperação (P)
+Poção de Recuperação (Max)
+Fragmento Misterioso
+Cristal Misterioso
+Elixir de Longevidade
+Lâmina de Ressurreição
+Poção de Força
+Colônia de Exaltação
+Poção de Defesa
+Colônia de Vitalidade
+Pílula da Tortura
+Pílula do Masoquismo
+Pílula da Supremacia
+Pílula da Ignorância
+Reserva
+Esfera de Cura (P)
+Esfera de Cura (M)
+Esfera de Cura (G)
+Esfera de Sangue (P)
+Esfera de Sangue (G)
+Esfera de EXP
+Material Base de Cobre
+Material Base de Prata
+Material Base de Ouro
+Material Base Branco
+Material Base Preto
+Medalha do Mar
+Moeda de Cobre Enferrujada
+Medalha da Floresta
+Moeda de Cobre Rachada
+Moeda de Prata Antiga
+Moeda de Cobre Polida
+Moeda de Ouro Antiga
+Medalha de Espadachim C
+Moeda de Prata Opaca
+Medalha de Espadachim E
+Moeda de Cobre Goblin
+Medalha de Lanceiro B
+Moeda de Prata Merrow
+Moeda de Ouro Valquíria
+Moeda de Ouro Fênix
+Moeda de Cobre Angelos
+Moeda de Prata Arche
+Moeda de Prata Tronos
+Moeda de Prata Querubim
+Moeda de Prata Serafim
+Medalha de Arqueiro A
+Moeda da Devoção
+Medalha de Arqueiro C
+Medalha de Arqueiro D
+Moeda da Benevolência
+Moeda da Gentileza
+Moeda da Afeição
+Medalha de Canhoneiro C
+Medalha de Canhoneiro D
+Medalha de Canhoneiro E
+Medalha de Mago
+Medalha de Mago 2
+Medalha de Mago 3
+Medalha de Morto-Vivo
+Medalha de Morto-Vivo 2
+Medalha de Morto-Vivo 3
+Medalha de Ogro
+Medalha de Ogro 2
+Medalha de Troll
+Medalha de Troll 2
+Medalha de Lobo
+Medalha de Lobo 2
+Medalha de Cavaleiro
+Medalha de Cavaleiro 2
+Medalha de Espírito
+Medalha de Espírito 2
+Medalha de Diabinho
+Medalha de Gigas
+Medalha de Gigas 2
+Medalha de Gigas 3
+Medalha de Espadachim Gigante
+Medalha de Espadachim Gigante 2
+Medalha de Espadachim Gigante 3
+Medalha de Cerberus
+Medalha de Cerberus 2
+Medalha de Cerberus 3
+Medalha de Golem
+Medalha de Centauro
+Medalha de Ifrite
+Medalha de Fanuel
+Medalha de Armisael
+Medalha de Egregori
+Medalha de Rafael
+Medalha de Galgaliel
+Medalha de Abdiel
+Medalha de Zofiel
+Medalha de Gabriel
+Medalha de Reserva 1
+Medalha de Reserva 2
+Medalha de Reserva 3
+Medalha de Reserva 4
+Medalha de Reserva 5
+Medalha de Reserva 6
+Medalha de Reserva 7
+Medalha de Reserva 8
+Medalha de Reserva 9
+Medalha de Reserva 10
+Medalha de Reserva 11
+Medalha de Reserva 12
+Medalha de Reserva 13
+Medalha de Reserva 14
+Medalha de Reserva 15
+Medalha de Reserva 16
+Medalha de Reserva 17
+Medalha de Reserva 18
+Medalha de Reserva 19
+Medalha de Reserva 20
+Medalha de Reserva 21
+Medalha de Reserva 22
+Medalha de Reserva 23
+Medalha de Reserva 24
+Medalha de Reserva 25
+Medalha de Reserva 26
+Medalha de Reserva 27
+Medalha de Reserva 28
+Medalha de Reserva 29
+Medalha de Reserva 30
+Medalha de Reserva 31
+Medalha de Reserva 32
+Medalha de Reserva 33
+Gema da Mar
+Gema da Montanha
+Gema da Floresta
+Gema Quebrada
+Gema da Igreja
+Gema de Espadachim A
+Gema Lascada
+Gema de Espadachim C
+Gema Turva
+Gema Polida
+Gema de Lanceiro A
+Gema de Hypnos
+Gema de Sylph
+Gema de Undine
+Gema de Gnome
+Gema de Salamandra
+Gema de Escudeiro B
+Pedra Flamejante de Wyrm
+Pedra das Fadas
+Ágata Sagrada
+Topázio Vívido
+Jaspe Enigmático
+Ônix Silencioso
+Safira Abissal
+Esmeralda Rajada
+Gema das Nornir
 b
-Aurora Jewel
-Serket Jewel
-Heavenly Jewel
-魔導師の宝石
-魔導師２の宝石
-魔導師３の宝石
-アンデッドの宝石
-アンデッド２の宝石
-アンデッド３の宝石
-オーガの宝石
-オーガ２の宝石
-トロルの宝石
-トロル２の宝石
-オオカミの宝石
-オオカミ２の宝石
-騎馬兵の宝石
-騎馬兵２の宝石
-スピリットの宝石
-スピリット２の宝石
-インプの宝石
-ギガースの宝石
-ギガース２の宝石
-ギガース３の宝石
-巨人剣士の宝石
-巨人剣士２の宝石
-巨人剣士３の宝石
-ケルベロスの宝石
-ケルベロス２の宝石
-ケルベロス３の宝石
-ゴーレムの宝石
-ケンタウロスの宝石
-イーフリートの宝石
-ファヌエルの宝石
-アルサミエルの宝石
-エグリゴリの宝石
-ラファエルの宝石
-ガルガリエルの宝石
-アプディエルの宝石
-ゾフィエルの宝石
-ガブリエルの宝石
-予備の宝石１
-予備の宝石２
-予備の宝石３
-予備の宝石４
-予備の宝石５
-予備の宝石６
-予備の宝石７
-予備の宝石８
-予備の宝石９
-予備の宝石１０
-予備の宝石１１
-予備の宝石１２
-予備の宝石１３
-予備の宝石１４
-予備の宝石１５
-予備の宝石１６
-予備の宝石１７
-予備の宝石１８
-予備の宝石１９
-予備の宝石２０
-予備の宝石２１
-予備の宝石２２
-予備の宝石２３
-予備の宝石２４
-予備の宝石２５
-予備の宝石２６
-予備の宝石２７
-予備の宝石２８
-予備の宝石２９
-予備の宝石３０
-予備の宝石３１
-予備の宝石３２
-予備の宝石３３
-海のナイフ
-Fragile Claw
-森のナイフ
-Soft Claw
-Long Claw
-Pointed Claw
-Dreameater Claw
-Crimson Claw
-剣兵の剣E
-Dead Man's Claw
-槍兵の剣B
-Silver Claw
-Beautiful Talon
-Sharp Talon
-盾兵の剣A
-Emerald Talon
-Roc Talon
-Water Spirit Hoof
-Pegasus Hoof
-弓兵の剣A
-Lightning Hoof Fragment
-弓兵の剣C
-弓兵の剣D
-Millennial Hoof
-Flame Hoof Fragment
-Heaven-sent Hoof
-砲兵の剣C
-砲兵の剣D
-砲兵の剣E
-Child's Rib
-Man's Femur
-Girl's Skull
-Woman's Pelvis
-アンデッド２の剣
-アンデッド３の剣
-オーガの角
-オーガ２の角
-トロルの爪
-トロル２の爪
-オオカミの爪
-オオカミ２の爪
-騎馬兵の剣
-騎馬兵２の剣
-スピリットの爪
-スピリット２の爪
-インプの爪
-ギガースの爪
-ギガース２の爪
-ギガース３の爪
-巨人剣士の爪
-巨人剣士２の爪
-巨人剣士３の爪
-ケルベロスの爪
-ケルベロス２の爪
-ケルベロス３の爪
-ゴーレムの手
-ケンタウロスの爪
-イーフリートの爪
-ファヌエルの爪
-アルサミエルの爪
-エグリゴリの爪
-ラファエルの爪
-ガルガリエルの爪
-アプディエルの爪
-ゾフィエルの爪
-ガブリエルの爪
-予備の爪１
-予備の爪２
-予備の爪３
-予備の爪４
-予備の爪５
-予備の爪６
-予備の爪７
-予備の爪８
-予備の爪９
-予備の爪１０
-予備の爪１１
-予備の爪１２
-予備の爪１３
-予備の爪１４
-予備の爪１５
-予備の爪１６
-予備の爪１７
-予備の爪１８
-予備の爪１９
-予備の爪２０
-予備の爪２１
-予備の爪２２
-予備の爪２３
-予備の爪２４
-予備の爪２５
-予備の爪２６
-予備の爪２７
-予備の爪２８
-予備の爪２９
-予備の爪３０
-予備の爪３１
-予備の爪３２
-予備の爪３３
-海の本
-山の本
-森の本
-砂の本
-Torn-up Book
-剣兵の本A
-剣兵の本B
-剣兵の本C
-Stained Book
-剣兵の本E
-Ancient Book
-槍兵の本B
-Dian Cecht Book
-Epona Book
-Toutatis Book
-盾兵の本A
-Taranis Page
-盾兵の本C
-Heaven's Mandate Page
-Heaven-sent Book
-弓兵の本A
-弓兵の本B
-弓兵の本C
-弓兵の本D
-弓兵の本E
-砲兵の本A
-砲兵の本B
-砲兵の本C
-砲兵の本D
-砲兵の本E
-魔導師の本
-魔導師２の本
-魔導師３の本
-アンデッドの本
-アンデッド２の本
-アンデッド３の本
-オーガの本
-オーガ２の本
-トロルの本
-トロル２の本
-オオカミの本
-オオカミ２の本
-騎馬兵の本
-騎馬兵２の本
-スピリットの本
-スピリット２の本
-インプの本
-ギガースの本
-ギガース２の本
-ギガース３の本
-巨人本士の本
-巨人本士２の本
-巨人本士３の本
-ケルベロスの本
-ケルベロス２の本
-ケルベロス３の本
-ゴーレムの本
-ケンタウロスの本
-イーフリートの本
-ファヌエルの本
-アルサミエルの本
-エグリゴリの本
-ラファエルの本
-ガルガリエルの本
-アプディエルの本
-ゾフィエルの本
-ガブリエルの本
-予備の本１
-予備の本２
-予備の本３
-予備の本４
-予備の本５
-予備の本６
-予備の本７
-予備の本８
-予備の本９
-予備の本１０
-予備の本１１
-予備の本１２
-予備の本１３
-予備の本１４
-予備の本１５
-予備の本１６
-予備の本１７
-予備の本１８
-予備の本１９
-予備の本２０
-予備の本２１
-予備の本２２
-予備の本２３
-予備の本２４
-予備の本２５
-予備の本２６
-予備の本２７
-予備の本２８
-予備の本２９
-予備の本３０
-予備の本３１
-予備の本３２
-予備の本３３
-Tattered Cloth
-Worn Cloth
-Soft Cloth
-Bloodied Cloth
-Sturdy Cloth
-Shamrock Fabric
-剣兵の服B
-Panacea Fabric
-Bountiful Fabric
-Raincloth Fabric
-Gleipnir Weave
-槍兵の服B
-Goldfleece Weave
-槍兵の服D
-Worldtree Weave
-Ancient Shroud
-盾兵の服B
-Heaven-sent Garb
-盾兵の服D
-盾兵の服E
-弓兵の服A
-弓兵の服B
-弓兵の服C
-弓兵の服D
-弓兵の服E
-砲兵の服A
-砲兵の服B
-砲兵の服C
-砲兵の服D
-砲兵の服E
-魔導師の服
-魔導師２の服
-魔導師３の服
-アンデッドの服
-アンデッド２の服
-アンデッド３の服
-オーガの服
-オーガ２の服
-トロルの服
-トロル２の服
-オオカミの服
-オオカミ２の服
-騎馬兵の服
-騎馬兵２の服
-スピリットの服
-スピリット２の服
-インプの服
-ギガースの服
-ギガース２の服
-ギガース３の服
-巨人剣士の服
-巨人剣士２の服
-巨人剣士３の服
-ケルベロスの服
-ケルベロス２の服
-ケルベロス３の服
-ゴーレムの服
-ケンタウロスの服
-イーフリートの服
-ファヌエルの服
-アルサミエルの服
-エグリゴリの服
-ラファエルの服
-ガルガリエルの服
-アプディエルの服
-ゾフィエルの服
-ガブリエルの服
-予備の服１
-予備の服２
-予備の服３
-予備の服４
-予備の服５
-予備の服６
-予備の服７
-予備の服８
-予備の服９
-予備の服１０
-予備の服１１
-予備の服１２
-予備の服１３
-予備の服１４
-予備の服１５
-予備の服１６
-予備の服１７
-予備の服１８
-予備の服１９
-予備の服２０
-予備の服２１
-予備の服２２
-予備の服２３
-予備の服２４
-予備の服２５
-予備の服２６
-予備の服２７
-予備の服２８
-予備の服２９
-予備の服３０
-予備の服３１
-予備の服３２
-予備の服３３
-ギガースの心臓
-ギガース２の心臓
-ギガース３の心臓
-巨人剣士の心臓
-巨人剣士２の心臓
-巨人剣士３の心臓
-ケルベロスの心臓
-ケルベロス２の心臓
-Weakened Heart
-ゴーレムの心臓
-ケンタウロスの心臓
-イーフリートの心臓
-Withered Heart
-アルサミエルの心臓
-Foolish Heart
-Emboldened Heart
-ガルガリエルの心臓
-Saintly Heart
-Purified Heart
-ガブリエルの心臓
-Noble Heart
-Searing Core
-Frozen Core
-ウタウタイの心臓
-Golden Core
-Crystal Core
-Sacred Core
-Ebon Core
-Dragon Heart
-Pegasus Heart
-Shining Nucleus
-Stout Nucleus
-Binding Nucleus
-Justice Nucleus
-Heroic Nucleus
-Bumbling Nucleus
-Festive Nucleus
-Uplifting Nucleus
-Flowery Nucleus
-Redemptive Nucleus
-予備の心臓１７
-予備の心臓１８
-予備の心臓１９
-予備の心臓２０
-予備の心臓２１
-予備の心臓２２
-予備の心臓２３
-予備の心臓２４
-予備の心臓２５
-予備の心臓２６
-未鑑定メダル
-未鑑定メダル（レア）
-未鑑定宝石
-未鑑定宝石（レア）
-未鑑定武器
-未鑑定武器（レア）
-未鑑定本
-未鑑定本（レア）
-未鑑定服
-未鑑定服（レア）
-未鑑定心臓
-未鑑定心臓（レア）
-クエスト用メダル１
-クエスト用メダル２
-クエスト用メダル３
-クエスト用メダル４
-クエスト用メダル５
-クエスト用メダル６
-クエスト用メダル７
-クエスト用メダル８
-Quest Medal 9
-Quest Medal 10
-Quest Medal 11
-Quest Medal 12
-Quest Medal 13
-Quest Medal 14
-Quest Medal 15
-Quest Medal 16
-Quest Medal 17
-Quest Medal 18
-Quest Medal 19
-Quest Medal 20
-Quest Medal 21
-Tealstone
-Pinkstone
-Flintstone
-Amberstone
-Foodstone
-Movestone
-Floatstone
-Magnetite
-Cometstone
-Meteorite
-Quest Gem 11
-Quest Gem 12
-Quest Gem 13
-Quest Gem 14
-Quest Gem 15
-Quest Gem 16
-Quest Gem 17
-Quest Gem 18
-Quest Gem 19
-Quest Gem 20
-Quest Gem 21
-Book of Hope
-Book of Ambition
-Book of Reticence
-Book of Stoicism
-Book of Sanctity
-Book of Mystery
-Book of Purity
-Book of Innocence
-Book of Doctrine
-Book of Discipline
-Quest Book 11
-Quest Book 12
-Quest Book 13
-Quest Book 14
-Quest Book 15
-Quest Book 16
-Quest Book 17
-Quest Book 18
-Quest Book 19
-Quest Book 20
-Quest Book 21
-Quest Costume 1
-Quest Costume 2
-Quest Costume 3
-Quest Costume 4
-Quest Costume 5
-Quest Costume 6
-Quest Costume 7
-Quest Costume 8
-Quest Costume 9
-Quest Costume 10
-Quest Costume 11
-Quest Costume 12
-Quest Costume 13
-Quest Costume 14
-Quest Costume 15
-Quest Costume 16
-Quest Costume 17
-Quest Costume 18
-Quest Costume 19
-Quest Costume 20
-Quest Costume 21
-Ox Horn
-Unicorn Horn
-Hawk Talon
-Eagle Talon
-Toad Stinger
-Viper Fang
-Bone Fossil
-Plant Fossil
-Old-World Artifact
-Old-World Shard
-Quest Weapon 11
-Quest Weapon 12
-Quest Weapon 13
-Quest Weapon 14
-Quest Weapon 15
-Quest Weapon 16
-Quest Weapon 17
-Quest Weapon 18
-Quest Weapon 19
-Quest Weapon 20
-Quest Weapon 21
-Há muito tempo, em uma era marcada por conflitos sem fim,{#Name="Velho Homem"}
-Cinco belas deusas desceram sobre a Terra.{#Name="Velho Homem"}
-Com suas canções místicas, as deusas restauraram{LF}a paz e a harmonia do mundo em ruínas.{#Name="Velho Homem"}
-O povo começou a venerar essas cantoras sagradas,{#Name="Velho Homem"}
-e passou a chamá-las de "Intoners."{#Name="Velho Homem"}
-Graças aos esforços das Intoners,{LF}o caos da guerra ficou no passado.{#Name="Velho Homem"}
-E, como resultado, a humanidade gozou de uma era de sonhos,{#Name="Velho Homem"}
-banhando-se na nova luz e bele-{#Name="Velho Homem"}
-V-Você... Sua assassina...{#Name="Velho Homem"}
-Assassina? Acho que você quis dizer Intoner.{#Name="Zero"}
+Gema da Aurora
+Gema de Serket
+Gema Celestial
+Gema de Mago
+Gema de Mago 2
+Gema de Mago 3
+Gema de Morto-Vivo
+Gema de Morto-Vivo 2
+Gema de Morto-Vivo 3
+Gema de Ogro
+Gema de Ogro 2
+Gema de Troll
+Gema de Troll 2
+Gema de Lobo
+Gema de Lobo 2
+Gema de Cavaleiro
+Gema de Cavaleiro 2
+Gema de Espírito
+Gema de Espírito 2
+Gema de Diabinho
+Gema de Gigas
+Gema de Gigas 2
+Gema de Gigas 3
+Gema de Espadachim Gigante
+Gema de Espadachim Gigante 2
+Gema de Espadachim Gigante 3
+Gema de Cerberus
+Gema de Cerberus 2
+Gema de Cerberus 3
+Gema de Golem
+Gema de Centauro
+Gema de Ifrite
+Gema de Fanuel
+Gema de Armisael
+Gema de Egregori
+Gema de Rafael
+Gema de Galgaliel
+Gema de Abdiel
+Gema de Zofiel
+Gema de Gabriel
+Gema de Reserva 1
+Gema de Reserva 2
+Gema de Reserva 3
+Gema de Reserva 4
+Gema de Reserva 5
+Gema de Reserva 6
+Gema de Reserva 7
+Gema de Reserva 8
+Gema de Reserva 9
+Gema de Reserva 10
+Gema de Reserva 11
+Gema de Reserva 12
+Gema de Reserva 13
+Gema de Reserva 14
+Gema de Reserva 15
+Gema de Reserva 16
+Gema de Reserva 17
+Gema de Reserva 18
+Gema de Reserva 19
+Gema de Reserva 20
+Gema de Reserva 21
+Gema de Reserva 22
+Gema de Reserva 23
+Gema de Reserva 24
+Gema de Reserva 25
+Gema de Reserva 26
+Gema de Reserva 27
+Gema de Reserva 28
+Gema de Reserva 29
+Gema de Reserva 30
+Gema de Reserva 31
+Gema de Reserva 32
+Gema de Reserva 33
+Faca do Mar
+Garra Frágil
+Faca da Floresta
+Garra Macia
+Garra Longa
+Garra Pontiaguda
+Garra Devoradora de Sonhos
+Garra Carmesim
+Espada de Espadachim E
+Garra de Defunto
+Espada de Lanceiro B
+Garra de Prata
+Garra Elegante
+Garra Afiada
+Espada de Escudeiro A
+Garra Esmeralda
+Garra de Roc
+Casco de Espírito da Água
+Casco de Pégasos
+Espada de Arqueiro A
+Fragmento de Casco Relampejante
+Espada de Arqueiro C
+Espada de Arqueiro D
+Casco Milenar
+Fragmento de Casco Flamejante
+Casco Celestial
+Espada de Canhoneiro C
+Espada de Canhoneiro D
+Espada de Canhoneiro E
+Costela de Criança
+Fêmur de Homem
+Crânio de Menina
+Pélvis de Mulher
+Espada de Defunto 2
+Espada de Defunto 3
+Chifre de Ogro
+Chifre de Ogro 2
+Garra de Troll
+Garra de Troll 2
+Garra de Lobo
+Garra de Lobo 2
+Espada de Cavaleiro
+Espada de Cavaleiro 2
+Garra de Espírito
+Garra de Espírito 2
+Garra de Diabinho
+Garra de Gigas
+Garra de Gigas 2
+Garra de Gigas 3
+Garra de Espadachim Gigante
+Garra de Espadachim Gigante 2
+Garra de Espadachim Gigante 3
+Garra de Cerberus
+Garra de Cerberus 2
+Garra de Cerberus 3
+Mão de Golem
+Garra de Centauro
+Garra de Ifrite
+Garra de Fanuel
+Garra de Armisael
+Garra de Egregori
+Garra de Rafael
+Garra de Galgaliel
+Garra de Abdiel
+Garra de Zofiel
+Garra de Gabriel
+Garra de Reserva 1
+Garra de Reserva 2
+Garra de Reserva 3
+Garra de Reserva 4
+Garra de Reserva 5
+Garra de Reserva 6
+Garra de Reserva 7
+Garra de Reserva 8
+Garra de Reserva 9
+Garra de Reserva 10
+Garra de Reserva 11
+Garra de Reserva 12
+Garra de Reserva 13
+Garra de Reserva 14
+Garra de Reserva 15
+Garra de Reserva 16
+Garra de Reserva 17
+Garra de Reserva 18
+Garra de Reserva 19
+Garra de Reserva 20
+Garra de Reserva 21
+Garra de Reserva 22
+Garra de Reserva 23
+Garra de Reserva 24
+Garra de Reserva 25
+Garra de Reserva 26
+Garra de Reserva 27
+Garra de Reserva 28
+Garra de Reserva 29
+Garra de Reserva 30
+Garra de Reserva 31
+Garra de Reserva 32
+Garra de Reserva 33
+Livro do Mar
+Livro da Montanha
+Livro da Floresta
+Livro da Areia
+Livro Rasgado
+Livro de Espadachim A
+Livro de Espadachim B
+Livro de Espadachim C
+Livro Manchado
+Livro de Espadachim E
+Livro Antigo
+Livro de Lanceiro B
+Livro de Dian Cecht
+Livro de Epona
+Livro de Toutatis
+Livro de Escudeiro A
+Página de Taranis
+Livro de Escudeiro C
+Página do Mandato Celestial
+Livro Celestial
+Livro de Arqueiro A
+Livro de Arqueiro B
+Livro de Arqueiro C
+Livro de Arqueiro D
+Livro de Arqueiro E
+Livro de Canhoneiro A
+Livro de Canhoneiro B
+Livro de Canhoneiro C
+Livro de Canhoneiro D
+Livro de Canhoneiro E
+Livro de Mago
+Livro de Mago 2
+Livro de Mago 3
+Livro de Morto-Vivo
+Livro de Morto-Vivo 2
+Livro de Morto-Vivo 3
+Livro de Ogro
+Livro de Ogro 2
+Livro de Troll
+Livro de Troll 2
+Livro de Lobo
+Livro de Lobo 2
+Livro de Cavaleiro
+Livro de Cavaleiro 2
+Livro de Espírito
+Livro de Espírito 2
+Livro de Diabinho
+Livro de Gigas
+Livro de Gigas 2
+Livro de Gigas 3
+Livro de Guerreiro Gigante
+Livro de Guerreiro Gigante 2
+Livro de Guerreiro Gigante 3
+Livro de Cerberus
+Livro de Cerberus 2
+Livro de Cerberus 3
+Livro de Golem
+Livro de Centauro
+Livro de Ifrite
+Livro de Fanuel
+Livro de Armisael
+Livro de Egregori
+Livro de Rafael
+Livro de Galgaliel
+Livro de Abdiel
+Livro de Zofiel
+Livro de Gabriel
+Livro de Reserva 1
+Livro de Reserva 2
+Livro de Reserva 3
+Livro de Reserva 4
+Livro de Reserva 5
+Livro de Reserva 6
+Livro de Reserva 7
+Livro de Reserva 8
+Livro de Reserva 9
+Livro de Reserva 10
+Livro de Reserva 11
+Livro de Reserva 12
+Livro de Reserva 13
+Livro de Reserva 14
+Livro de Reserva 15
+Livro de Reserva 16
+Livro de Reserva 17
+Livro de Reserva 18
+Livro de Reserva 19
+Livro de Reserva 20
+Livro de Reserva 21
+Livro de Reserva 22
+Livro de Reserva 23
+Livro de Reserva 24
+Livro de Reserva 25
+Livro de Reserva 26
+Livro de Reserva 27
+Livro de Reserva 28
+Livro de Reserva 29
+Livro de Reserva 30
+Livro de Reserva 31
+Livro de Reserva 32
+Livro de Reserva 33
+Pano Esfarrapado
+Pano Gasto
+Pano Macio
+Pano Ensanguentado
+Pano Resistente
+Tecido de Trevo
+Vestimenta de Espadachim B
+Tecido da Panaceia
+Tecido Abundante
+Tecido da Chuva
+Trançado de Gleipnir
+Vestimenta de Lanceiro B
+Trançado do Velocino de Ouro
+Vestimenta de Lanceiro D
+Trançado da Árvore do Mundo
+Manto Ancestral
+Vestimenta de Escudeiro B
+Traje Celestial
+Vestimenta de Escudeiro D
+Vestimenta de Escudeiro E
+Vestimenta de Arqueiro A
+Vestimenta de Arqueiro B
+Vestimenta de Arqueiro C
+Vestimenta de Arqueiro D
+Vestimenta de Arqueiro E
+Vestimenta de Canhoneiro A
+Vestimenta de Canhoneiro B
+Vestimenta de Canhoneiro C
+Vestimenta de Canhoneiro D
+Vestimenta de Canhoneiro E
+Vestimenta de Mago
+Vestimenta de Mago 2
+Vestimenta de Mago 3
+Vestimenta de Morto-Vivo
+Vestimenta de Morto-Vivo 2
+Vestimenta de Morto-Vivo 3
+Vestimenta de Ogro
+Vestimenta de Ogro 2
+Vestimenta de Troll
+Vestimenta de Troll 2
+Vestimenta de Lobo
+Vestimenta de Lobo 2
+Vestimenta de Cavaleiro
+Vestimenta de Cavaleiro 2
+Vestimenta de Espírito
+Vestimenta de Espírito 2
+Vestimenta de Diabinho
+Vestimenta de Gigas
+Vestimenta de Gigas 2
+Vestimenta de Gigas 3
+Vestimenta de Guerreiro Gigante
+Vestimenta de Guerreiro Gigante 2
+Vestimenta de Guerreiro Gigante 3
+Vestimenta de Cerberus
+Vestimenta de Cerberus 2
+Vestimenta de Cerberus 3
+Vestimenta de Golem
+Vestimenta de Centauro
+Vestimenta de Ifrite
+Vestimenta de Fanuel
+Vestimenta de Armisael
+Vestimenta de Egregori
+Vestimenta de Rafael
+Vestimenta de Galgaliel
+Vestimenta de Abdiel
+Vestimenta de Zofiel
+Vestimenta de Gabriel
+Vestimenta de Reserva 1
+Vestimenta de Reserva 2
+Vestimenta de Reserva 3
+Vestimenta de Reserva 4
+Vestimenta de Reserva 5
+Vestimenta de Reserva 6
+Vestimenta de Reserva 7
+Vestimenta de Reserva 8
+Vestimenta de Reserva 9
+Vestimenta de Reserva 10
+Vestimenta de Reserva 11
+Vestimenta de Reserva 12
+Vestimenta de Reserva 13
+Vestimenta de Reserva 14
+Vestimenta de Reserva 15
+Vestimenta de Reserva 16
+Vestimenta de Reserva 17
+Vestimenta de Reserva 18
+Vestimenta de Reserva 19
+Vestimenta de Reserva 20
+Vestimenta de Reserva 21
+Vestimenta de Reserva 22
+Vestimenta de Reserva 23
+Vestimenta de Reserva 24
+Vestimenta de Reserva 25
+Vestimenta de Reserva 26
+Vestimenta de Reserva 27
+Vestimenta de Reserva 28
+Vestimenta de Reserva 29
+Vestimenta de Reserva 30
+Vestimenta de Reserva 31
+Vestimenta de Reserva 32
+Vestimenta de Reserva 33
+Coração de Gigas
+Coração de Gigas 2
+Coração de Gigas 3
+Coração de Espadachim Gigante
+Coração de Espadachim Gigante 2
+Coração de Espadachim Gigante 3
+Coração de Cerberus
+Coração de Cerberus 2
+Coração Enfraquecido
+Coração de Golem
+Coração de Centauro
+Coração de Ifrite
+Coração Murchado
+Coração de Armisael
+Coração Tolo
+Coração Corajoso
+Coração de Galgaliel
+Coração Santificado
+Coração Purificado
+Coração de Gabriel
+Coração Nobre
+Núcleo Abrasador
+Núcleo Congelado
+Coração de Utautai
+Núcleo Dourado
+Núcleo Cristalino
+Núcleo Sagrado
+Núcleo Ébano
+Coração de Dragão
+Coração de Pégasos
+Núcleo Brilhante
+Núcleo Robusto
+Núcleo Vinculante
+Núcleo da Justiça
+Núcleo Heroico
+Núcleo Desajeitado
+Núcleo Festivo
+Núcleo Inspirador
+Núcleo Florido
+Núcleo Redentor
+Coração de Reserva 17
+Coração de Reserva 18
+Coração de Reserva 19
+Coração de Reserva 20
+Coração de Reserva 21
+Coração de Reserva 22
+Coração de Reserva 23
+Coração de Reserva 24
+Coração de Reserva 25
+Coração de Reserva 26
+Medalha Desconhecida
+Medalha Desconhecida (Rara)
+Gema Desconhecida
+Gema Desconhecida (Rara)
+Arma Desconhecida
+Arma Desconhecida (Rara)
+Livro Desconhecido
+Livro Desconhecido (Raro)
+Vestimenta Desconhecida
+Vestimenta Desconhecida (Rara)
+Coração Desconhecido
+Coração Desconhecido (Raro)
+Medalha de Missão 1
+Medalha de Missão 2
+Medalha de Missão 3
+Medalha de Missão 4
+Medalha de Missão 5
+Medalha de Missão 6
+Medalha de Missão 7
+Medalha de Missão 8
+Medalha de Missão 9
+Medalha de Missão 10
+Medalha de Missão 11
+Medalha de Missão 12
+Medalha de Missão 13
+Medalha de Missão 14
+Medalha de Missão 15
+Medalha de Missão 16
+Medalha de Missão 17
+Medalha de Missão 18
+Medalha de Missão 19
+Medalha de Missão 20
+Medalha de Missão 21
+Pedra Azul-Esverdeada
+Pedra Rosada
+Pedra de Sílex
+Pedra Âmbar
+Pedra Nutritiva
+Pedra do Movimento
+Pedra Flutuante
+Magnetita
+Pedra de Cometa
+Meteorito
+Gema de Missão 11
+Gema de Missão 12
+Gema de Missão 13
+Gema de Missão 14
+Gema de Missão 15
+Gema de Missão 16
+Gema de Missão 17
+Gema de Missão 18
+Gema de Missão 19
+Gema de Missão 20
+Gema de Missão 21
+Livro da Esperança
+Livro da Ambição
+Livro da Reticência
+Livro do Estoicismo
+Livro da Santidade
+Livro do Mistério
+Livro da Pureza
+Livro da Inocência
+Livro da Doutrina
+Livro da Disciplina
+Livro de Missão 11
+Livro de Missão 12
+Livro de Missão 13
+Livro de Missão 14
+Livro de Missão 15
+Livro de Missão 16
+Livro de Missão 17
+Livro de Missão 18
+Livro de Missão 19
+Livro de Missão 20
+Livro de Missão 21
+Vestimenta de Missão 1
+Vestimenta de Missão 2
+Vestimenta de Missão 3
+Vestimenta de Missão 4
+Vestimenta de Missão 5
+Vestimenta de Missão 6
+Vestimenta de Missão 7
+Vestimenta de Missão 8
+Vestimenta de Missão 9
+Vestimenta de Missão 10
+Vestimenta de Missão 11
+Vestimenta de Missão 12
+Vestimenta de Missão 13
+Vestimenta de Missão 14
+Vestimenta de Missão 15
+Vestimenta de Missão 16
+Vestimenta de Missão 17
+Vestimenta de Missão 18
+Vestimenta de Missão 19
+Vestimenta de Missão 20
+Vestimenta de Missão 21
+Chifre de Boi
+Chifre de Unicórnio
+Garra de Falcão
+Garra de Águia
+Ferrão de Sapo
+Presa de Víbora
+Fóssil de Osso
+Fóssil de Planta
+Artefato do Velho Mundo
+Fragmento do Velho Mundo
+Arma de Missão 11
+Arma de Missão 12
+Arma de Missão 13
+Arma de Missão 14
+Arma de Missão 15
+Arma de Missão 16
+Arma de Missão 17
+Arma de Missão 18
+Arma de Missão 19
+Arma de Missão 20
+Arma de Missão 21
+Há muito tempo, em uma era marcada por conflitos sem fim,{#Name="Velhote"}
+Cinco belas deusas desceram sobre a Terra.{#Name="Velhote"}
+Com suas canções místicas, as deusas restauraram{LF}a paz e a harmonia do mundo em ruínas.{#Name="Velhote"}
+O povo começou a venerar essas cantoras sagradas,{#Name="Velhote"}
+e passou a chamá-las de "Intoners."{#Name="Velhote"}
+Graças aos esforços das Intoners,{LF}o caos da guerra ficou no passado.{#Name="Velhote"}
+E, como resultado, a humanidade gozou de uma era de sonhos,{#Name="Velhote"}
+banhando-se na nova luz e bele-{#Name="Velhote"}
+V-Você...assassina selvagem...{#Name="Velhote"}
+Selvagem? Acho que você quis dizer Intoner.{#Name="Zero"}
 Ela está lá dentro! Ataquem-na!{#Name="Soldado A"}
-Matem esse demônio!{#Name="Soldado C"}
+Matem esse demônio traidor!{#Name="Soldado C"}
 Michael...{#Name="Zero"}
 É hora...de darmos fim às Intoners.{#Name="Zero"}
 ★ゼロと敵のやりとり。{#Name="ゼロ"}
 ★ゼロとミカエルのやりとり。{#Name="ゼロ"}
 ★ゼロがウタヒメである事、裏切り者である事の説明。{#Name="ゼロ"}
-Vá, Zero! Vá atrás de suas irmãs!{#Name="Michael"}
+Zero! Vai! Derrote suas irmãs!{#Name="Michael"}
 {06}>{#Name="Zero"}
-Não! Você não tem força pra isso!{#Name="Zero"}
-Eles não são páreos para um dragão!{#Name="Michael"}
+Não! Você não tem força para isso!{#Name="Zero"}
+Essas marionetes não tem chance contra um dragão!{#Name="Michael"}
 Tudo bem. Só não morra por mim.{#Name="Zero"}
-Adeus, sua tola...{#Name="Michael"}
-Seja lá quem for...{#Name="Zero"}
-Mulheres, crianças, idosos... Não importa.{LF}Quem estiver no meu caminho, morrerá.{#Name="Zero"}
+Adeus, boba...{#Name="Michael"}
+Todos vocês...{#Name="Zero"}
+Mulheres, crianças ou idosos... Não importa.{LF}Se ficarem no meu caminho, vocês morrerão.{#Name="Zero"}
 343{#Name="343"}
-Então entre na fila quem quiser morrer!{#Name="Zero"}
+Se é isso que querem, então entrem na fila!{#Name="Zero"}
 É ela! É a Zero!{#Name="Soldado A"}
 Ela é tão sinistra... Ela é mesmo uma Intoner?{#Name="Soldado F"}
-Atenção, homens! Protejam nossas Intoners!{#Name="Soldado B"}
-Sejam espertos! Não morram em vão!{#Name="Soldado E"}
-O dragão é muito poderoso!{#Name="Soldado C"}
-Socorro, alguém!{#Name="Soldado D"}
-Uma guerra entre Intoners... O mundo não é mais o mesmo.{#Name="Soldado F"}
-É o fim... Nós vamos todos morrer...{#Name="Soldado G"}
-Homens! Não percam as esperanças!{#Name="Soldado F"}
-Coragem! A Zero deve ser parada!{#Name="Soldado A"}
-Esse demônio está tentando matar suas próprias irmãs!{#Name="Soldier B"}
-Matem-na! Precisamos proteger nossa terra!{#Name="Soldier E"}
-Se isso não acabar, será o fim do mundo...{#Name="Soldier F"}
-Isso não vai acontecer!{#Name="Soldier B"}
-O meu arco já era!{#Name="Soldier G"}
-Aqui, use o meu!{#Name="Soldier A"}
-Mas...{#Name="Soldier G"}
-Vocês, vivam para lutar no amanhã.{#Name="Soldier A"}
-Esse maldito dragão...{#Name="Soldier C"}
-Ele deve ter um ponto fraco!{#Name="Soldier E"}
-Graaarrrgh!{#Name="Soldier F"}
-Você está bem?{#Name="Soldier B"}
-Vá. Não morra por minha causa...{#Name="Soldier F"}
-Não... Droga, não!{#Name="Soldier B"}
-Ugh. Ela é muito forte!{#Name="Soldier A"}
-Desse jeito, ela alcançará as outras Intoners!{#Name="Soldier G"}
-Nunca! Nem que demos nossas vidas!{#Name="Soldier A"}
-Como vamos vencer uma Intoner e um dragão?{#Name="Soldier E"}
-E nós temos escolha? Ataquem, homens!{#Name="Soldier A"}
-Morra de uma vez!{#Name="Soldier B"}
-Morra, traidora!{#Name="Soldier G"}
-Eu te levaria à serio mas sei{LF}que você tá se borrando...{#Name="Zero"}
-Por que ela quer matar as outras Intoners?{#Name="Soldier A"}
-Contamos à eles? Parecem bastante curiosos.{#Name="Michael"}
-Pra quê?. Logo eles estarão mortos.{#Name="Zero"}
-O fim está próximo...{#Name="Soldier F"}
+Homens, fiquem atentos! Protejam nossas Intoners!{#Name="Soldado B"}
+Sejam espertos! Morrer aqui não resolve nada!{#Name="Soldado E"}
+O dragão é muito forte!{#Name="Soldado C"}
+Alguém me ajude!{#Name="Soldado D"}
+Uma guerra entre Intoners... Realmente o mundo enlouqueceu.{#Name="Soldado F"}
+Acabou... Vamos todos morrer...{#Name="Soldado G"}
+Continuem! Não percam as esperanças!{#Name="Soldado F"}
+Não recuem! A Zero deve ser parada!{#Name="Soldado A"}
+Esse demônio está tentando matar suas próprias irmãs!{#Name="Soldado B"}
+Matem a traidora! Devemos proteger nossa pátria!{#Name="Soldado E"}
+Se isso continuar, o mundo como conhecemos estará acabado...{#Name="Soldier F"}
+Não iremos deixar isso acontecer!{#Name="Soldado B"}
+Merda! O meu arco já era!{#Name="Soldado G"}
+Aqui, use o meu!{#Name="Soldado A"}
+Mas...{#Name="Soldado G"}
+Vocês, jovens recrutas, precisam viver para lutar outro dia..{#Name="Soldier A"}
+Temos que parar esse dragão...{#Name="Soldado C"}
+Ele deve ter um ponto fraco! Encontrem!{#Name="Soldado E"}
+Graaarrrgh!{#Name="Soldado F"}
+Ei! Você está bem?{#Name="Soldado B"}
+Vá. Não morra por minha causa...{#Name="Soldado F"}
+Não... Droga, não!{#Name="Soldado B"}
+Ugh. Ela é muito forte!{#Name="Soldado A"}
+Desse jeito, logo ela alcançará as outras Intoners!{#Name="Soldado G"}
+Nunca! Devemos protegê-las com nossas vidas!{#Name="Soldado A"}
+Como vamos vencer uma Intoner e um dragão?{#Name="Soldado E"}
+E nós temos escolha? Todos, em posição, ataaaquem!{#Name="Soldado A"}
+Seu túmulo acena, traidora!{#Name="Soldado B"}
+Morra, traidora maldita!{#Name="Soldado G"}
+Eu daria mais importância se sua voz{LF}não estivesse trêmula...{#Name="Zero"}
+Por que uma Intoner quer matar suas irmãs?{#Name="Soldado A"}
+Vamos contar a eles? Eles parecem estar realmente curiosos.{#Name="Michael"}
+Por que se preocupar? Eles estão prestes a morrer de qualquer maneira.{#Name="Zero"}
+O fim do mundo está próximo...{#Name="Soldado F"}
 343{#Name="343"}
-Eu acreditava que as Intoners{LF}eram da paz!{#Name="Soldier E"}
-Que merda que andaram{LF}te ensinando?{#Name="Zero"}
-Tragam um médico! Ela vai matar a todos nós!{#Name="Soldier C"}
-Seria bom. Ainda não matei nenhum médico.{#Name="Zero"}
-Saiam da droga do meu caminho!{#Name="Zero"}
-Acalme-se, Zero. Sua espada depende disso.{#Name="Michael"}
-Eu sei, mas... Ah, dane-se!{#Name="Zero"}
+Eles... Eles me disseram que as Intoners{LF}deveriam ser pacíficas!{#Name="Soldado E"}
+Que tipo de porcaria eles andam{LF}ensinando as pessoas hoje em dia?{#Name="Zero"}
+Tragam um médico! Essa louca vai matar todos nós!{#Name="Soldado C"}
+Claro, por que não? Ainda não matei nenhum médico.{#Name="Zero"}
+Saiam do meu caminho, que inferno!{#Name="Zero"}
+Mantenha a calma, Zero. A fúria apenas fará sua espada{LF}se mover mais lentamente..{#Name="Michael"}
+Bem, eu sei disso, mas... Esquece!{#Name="Zero"}
 Acabe com eles, Michael!{#Name="Zero"}
 Como quiser.{#Name="Michael"}
-Onde diabos elas estão?{#Name="Zero"}
-Você quer mesmo isso, Zero?{LF}Quer eliminar as suas irmãs?{#Name="Michael"}
+Em que inferno estão minhas irmãs?{#Name="Zero"}
+Você tem certeza disso, Zero?{LF}Sobre matar todas as Intoners?{#Name="Michael"}
 Claro. Por que mais eu faria essa chacina?{#Name="Zero"}
-Sua...traidora...maldita!{#Name="Soldier A"}
-Você ouviu? Estão todos te chamando de traidora.{#Name="Michael"}
-Já ouvi coisa pior.{#Name="Zero"}
-Matem esta besta vil! Derrubem-no!{#Name="Soldier B"}
+Intoner...traidora...maldita!{#Name="Soldado A"}
+Você ouviu isso? Estão todos te chamando de traidora.{#Name="Michael"}
+Já me chamaram de coisa pior.{#Name="Zero"}
+Matem esta besta imunda! Derrubem-no!{#Name="Soldado B"}
 Parece que eu sou um monstro pra eles.{#Name="Michael"}
-Não ligue pra isso.{#Name="Zero"}
+Pois é, eu não me importaria com isso.{#Name="Zero"}
 Eu não sou um monstro.{#Name="Michael"}
-Heh. Você é muito sensível.{#Name="Zero"}
-Eu não sou um monstro!{#Name="Michael"}
-Que diabos é isso?{#Name="Zero"}
-Não é humano... Muito menos uma fera.{#Name="Michael"}
-Deve ser um tipo de criação{LF}das Intoners.{#Name="Michael"}
+hehehe. Você é muito sensível.{#Name="Zero"}
+Sou nada disso!{#Name="Michael"}
+Oh, inferno, O que é essa coisa?{#Name="Zero"}
+Não é humano... tampouco um monstro.{#Name="Michael"}
+Provavelmente algum tipo de automato{LF}criado pelas Intoners.{#Name="Michael"}
 Pirralhas engenhosas...{#Name="Zero"}
-Em suas posições, homens! Força!{#Name="Soldier A"}
-Saiam. Da. Minha. FRENTE!{#Name="Zero"}
-Ela não pode passar!
-Saiam!
-{06}>
-Como ela pode ser uma Intoner...!
-Ela é um demônio maldito...
-Acabou pra nós! Nós vamos morrer!
-Não seja covarde! Lute!
-Ah, Deus... Não, não, não, não, nãoooo!
-Seus malditos chorões... Atirem! Agora!
-Os mensageiros já eram! Chamem mais!
-Eles não chegarão a tempo!
-Meu Deus... Como ela é rápida!
-Merda! Ela tá vindo pra cá! Corram!
-O mundo não sobreviverá sem as Intoners.
-Se nós temos valor à vida...
-então devemos matá-la!
-Vocês podem calar a boca?
-Recuem! Recuem!
-Se recuarmos, as Intoners{LF}estarão em perigo!{#Name="Soldier B"}
-Você acha que eu tô ligando pra isso!?{#Name="Soldier A"}
-Seu covarde!{LF}Você é um soldado!{#Name="Soldier B"}
-Saiam, saiam, SAIAM!{#Name="Zero"}
-É a Zero! A traidora!{#Name="Soldier E"}
+Homens, assumam suas posições! Permaneçam firmes!{#Name="Soldado A"}
+SAIAM. DA PORRA. DO MEU CAMINHO!{#Name="Zero"}
+Não deixem ela passar!{#Name="Soldado B"}
+Saiam!{#Name="Zero"}
+{06}>{#Name="Soldado B"}
+Como ela pode ser uma Intoner... Não faz sentido!{#Name="Soldier G"}
+Ela é um demônio maldito...{#Name="Soldado F"}
+Acabou para nós! Nós vamos morrer!{#Name="Soldado G"}
+Não é hora de ser covarde! Se recomponha e lute!{#Name="Soldado B"}
+Oh, Deus... Não, não, não, não, nããããoo!{#Name="Soldado G"}
+Malditos chorões... Atirem! Atirem Agora!{#Name="Soldado B"}
+Nossos mensageiros estão mortos! Chamem mais!{#Name="Soldado C"}
+Eles nunca chegarão a tempo!{#Name="Soldado D"}
+Reparem nela... Quão rápida é!{#Name="Soldado C"}
+Merda! Ela tá vindo pra cá! Corram!{#Name="Soldado D"}
+O mundo não sobreviverá sem as Intoners.{#Name="Soldado F"}
+Se quisermos que as Intoners boas vivam..{#Name="Soldado F"}
+Logo a traidora deverá morrer!{#Name="Soldado F"}
+Podem parar de falar merda, beleza?{#Name="Zero"}
+Recuem! Recuem, todos!{#Name="Soldado A"}
+Quê? Se abandonarmos nossos postos, as Intoners{LF}estarão em perigo!{#Name="Soldier B"}
+Você realmente acha que eu tô ligando{LF}pra essa merda agora!?{#Name="Soldier A"}
+Sai dessa, seu patético covarde!{LF}Você é um soldado!{#Name="Soldier B"}
+Vão, Vão, Vão, VÃÃO!{#Name="Zero"}
+É a Zero! A traidora!{#Name="Soldado E"}
 Sumam da minha frente!{#Name="Zero"}
-Merda, ela está aqui! Recuem!{#Name="Soldier D"}
-Saiam!{#Name="Soldier C"}
-Como...isso pode ter acontecido...?{#Name="Soldier D"}
-Aguardem, minhas queridas irmãs.{LF}A hora de vocês chegou.{#Name="Zero"}
+Merda, ela está aqui! Recuar! Recuaaaar!{#Name="Soldado D"}
+Sai da minha frente!{#Name="Soldado C"}
+Como...como isso pôde acontecer...?{#Name="Soldado D"}
+Aguardem, minhas amadas irmãs.{LF}Estou indo para matar todas vocês.{#Name="Zero"}
 Derrote o Titã!{#Name=" "}
-Encontre e derrote as suas irmãs na Catedral.{#Name=" "}
-Velho Homem
+Encontre e derrote suas irmãs na Catedral.{#Name=" "}
+Velhote
 Zero
 Soldado A
 Soldado C
@@ -3953,13 +3953,13 @@ Vingue-se de suas irmãs.{#Name=" "}
 Derrote os soldados inimigos!{#Name=" "}
 Dummy
 Mikhail
-Soldier B
-Soldier A
-Soldier G
-Soldier E
-Soldier C
-Soldier D
-Soldier F
+Soldado B
+Soldado A
+Soldado G
+Soldado E
+Soldado C
+Soldado D
+Soldado F
 Zero
 Zero
 199
@@ -4086,15 +4086,15 @@ Tipo isso.{#Name="Zero"}
 Dummy
 Zero
 Explanation
-Soldier G
-Soldier A
-Soldier B
-Soldier E
-Soldier C
-Soldier D
-Soldier F
-Soldiers C/D
-Soldier C
+Soldado G
+Soldado A
+Soldado B
+Soldado E
+Soldado C
+Soldado D
+Soldado F
+Soldados C/D
+Soldado C
 Mikhail
 163
 361
@@ -4258,15 +4258,15 @@ Description
 Mikhail
 Zero
 271
-Soldier B
-Soldier G
-Soldier A
-Soldier F
+Soldado B
+Soldado G
+Soldado A
+Soldado F
 Mikhail
 Zero
-Soldier E
-Soldier C
-Soldier D
+Soldado E
+Soldado C
+Soldado D
  
 Já faz muito tempo, Irmã.{#Name="Five"}
 Bem, se não é a princesa bonita.{#Name="Zero"}
@@ -5029,27 +5029,27 @@ Ela torna TUDO esquisito!{#Name="Mikhail"}
 Que a luz brilhe sobre nossa ícone impecável, Lady Four!{#Name="Soldier C"}
 Mikhail
 Zero
-Enemy Soldier A
-Enemy Soldier B
+Soldado Inimigo A
+Soldado Inimigo B
 Zero
 Mikhail
 Dito
 Explanation
-Soldier C
-Soldier D
-Soldier A
-Soldier F
-Soldier B
-Soldier G
-Soldier E
-Soldier C
-Soldier D
-Soldier B
-Soldier E
-Soldier A
+Soldado C
+Soldado D
+Soldado A
+Soldado F
+Soldado B
+Soldado G
+Soldado E
+Soldado C
+Soldado D
+Soldado B
+Soldado E
+Soldado A
 Dito
-Soldier G
-Soldier F
+Soldado G
+Soldado F
 Dito Mikhail
 Accord
 Faça seu caminho em direção à fortaleza de Quatro.{#Name="説明文"}
@@ -5643,23 +5643,23 @@ Teste 199 {#Name="Test"}
 Teste 200 {#Name="Test"}
 Zero
 Zero
-Said
+Dito
  
 Mikhail
 Tomo
 Explanation
-Soldier B
-Soldier C
-Soldier F
-Soldier G
-Soldier A
-Soldier D
-Soldier E
-Soldier B
+Soldado B
+Soldado C
+Soldado F
+Soldado G
+Soldado A
+Soldado D
+Soldado E
+Soldado B
 325
 289
 415
-Soldier G
+Soldado G
 451
 127
 343
@@ -5671,7 +5671,7 @@ Mikhail
 433
 163
 379
-Soldier A
+Soldado A
 Test
 Derrote o Cérbero!{#Name="説明文"}
 Derrote o Titã!{#Name="説明文"}
@@ -10457,13 +10457,13 @@ Ugh. Nojento.{#Name="Dito"}
 Vem aqui, vira-lata! Eu tenho uma casinha de cachorro para você...no inferno!{#Name="Dito"}
 Description
 (Reserve)
-Soldier A
-Soldier B
-Soldier C
-Soldier D
-Soldier E
-Soldier F
-Soldier G
+Soldado A
+Soldado B
+Soldado C
+Soldado D
+Soldado E
+Soldado F
+Soldado G
 Agreement
 Zero
 Said
@@ -10957,13 +10957,13 @@ TIPS_74 One line{LF}TIPS_74 Two lines{LF}TIPS_74 Three lines{LF}TIPS_74 Four lin
 ＴＩＰＳ_７７　　　　　　　　　　一行目{LF}ＴＩＰＳ_７７　　　　　　　　　　二行目{LF}ＴＩＰＳ_７７　　　　　　　　　　三行目{LF}ＴＩＰＳ_７７　　　　　　　　　　四行目{LF}ＴＩＰＳ_７７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７７"}
 ＴＩＰＳ_７８　　　　　　　　　　一行目{LF}ＴＩＰＳ_７８　　　　　　　　　　二行目{LF}ＴＩＰＳ_７８　　　　　　　　　　三行目{LF}ＴＩＰＳ_７８　　　　　　　　　　四行目{LF}ＴＩＰＳ_７８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７８"}
 ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}
-Defesa
-Parada
+Protegendo
+Aparando
 O Mini-mapa
-Modo Intonador
+Modo Intoner
 Ataques em Combinação
-Combinações Aéreas
-Trancamento
+Combo Aéreo
+Bloqueio
 O Menu de Pausa
 Evasão
 Evasão Aérea
@@ -11037,7 +11037,7 @@ DICA_76
 DICA_77
 DICA_78
 DICA_79
-{04}
+{04}{#Name=" "}
 Capítulo 0:{#Name=" "}
 Capítulo 1:{#Name=" "}
 Capítulo 2:{#Name=" "}
@@ -12146,7 +12146,7 @@ Tenth item Missing number DLC_0030{#Name=" "}
 9th item DLCS_0050{#Name=" "}
 10th item DLCS_0050{#Name=" "}
 11th item DLCS_0050{#Name=" "}
-Completed through {04}{#Name=" "}
+Concluído até o {04}{#Name=" "}
 All branches complete.{#Name=" "}
  
 1010
@@ -12343,8 +12343,8 @@ Story summary DL0020 First line{LF}Story summary DL0020 Second line{LF}Story sum
 Story summary DL0030 First line{LF}Story summary DL0030 Second line{LF}Story summary DL0030 Third line{LF}Story summary DL0030 Fourth line{LF}Story summary DL0030 Fifth line
 Story summary DL0040 First line{LF}Story summary DL0040 Second line{LF}Story summary DL0040 Third line{LF}Story summary DL0040 Fourth line{LF}Story summary DL0040 Fifth line
 Story summary DL0050 First line{LF}Story summary DL0050 Second line{LF}Story summary DL0050 Third line{LF}Story summary DL0050 Fourth line{LF}Story summary DL0050 Fifth line
-Cutscene → Game{LF}With sword in hand and her faithful{LF}dragon Michael at her side, Zero{LF}storms into the Cathedral City. Why{LF}is this pair taking on an army alone?
-Cutscene → Game{LF}Surrounded on all sides by towering foes,{LF}Michael decides to stay behind and fight{LF}in order to allow Zero to proceed.
+Cutscene → Jogo{LF}Com a espada na mão e seu fiel{LF}dragão Michael ao seu lado, Zero{LF}invade a Cidade da Catedral. Por que{LF}essa dupla está enfrentando sozinhos um exército?
+Cutscene → Jogo{LF}Surrounded on all sides by towering foes,{LF}Michael decides to stay behind and fight{LF}in order to allow Zero to proceed.
 Story summary third item 0010 First line{LF}Story summary third item 0010 Second line{LF}Story summary third item 0010 Third line{LF}Story summary third item 0010 Fourth line{LF}Story summary third item 0010 Fifth line
 Story summary fourth item 0010 First line{LF}Story summary fourth item 0010 Second line{LF}Story summary fourth item 0010 Third line{LF}Story summary fourth item 0010 Fourth line{LF}Story summary fourth item 0010 Fifth line
 Story summary fifth item 0010 First line{LF}Story summary fifth item 0010 Second line{LF}Story summary fifth item 0010 Third line{LF}Story summary fifth item 0010 Fourth line{LF}Story summary fifth item 0010 Fifth line
@@ -12354,9 +12354,9 @@ Resumo do item 8　００１０　linha 1{LF}Resumo do item 8　００１０　l
 Resumo do item 9　００１０　linha 1{LF}Resumo do item 9　００１０　linha 2{LF}Resumo do item 9　００１０　linha 3{LF}Resumo do item 9　００１０　linha 4{LF}Resumo do item 9　００１０　linha 5
 Resumo do item 10　００１０　linha 1{LF}Resumo do item 10　００１０　linha 2{LF}Resumo do item 10　００１０　linha 3{LF}Resumo do item 10　００１０　linha 4{LF}Resumo do item 10　００１０　linha 5
 Resumo do item 11　００１０　linha 1{LF}Resumo do item 11　００１０　linha 2{LF}Resumo do item 11　００１０　linha 3{LF}Resumo do item 11　００１０　linha 4{LF}Resumo do item 11　００１０　linha 5
-Cena de corte → Jogo{LF}As outras Intoners, irmãs mais novas da Zero, a esperam na catedral.{LF}Todas as cinco estão unidas em sua{LF}determinação de derrotar Zero a qualquer custo.
-Cena de corte → Jogo{LF}Frustrada pela resistência da Zero, One{LF}invoca um daemon maciço{LF}na forma de um dragão horrível.
-Cena de corte{LF}One tenta dar um golpe mortal em{LF}Zero, mas a Intoner ferida consegue{LF}fugir antes de ser aniquilada.
+Cutscene → Jogo{LF}As outras Intoners, irmãs mais novas{LF} da Zero, a esperam na catedral.{LF}Todas as cinco estão unidas em sua{LF}determinação de derrotar Zero a{LF}qualquer custo.
+Cutscene → Jogo{LF}Frustrada pela resistência da Zero, One{LF}invoca um daemon maciço{LF}na forma de um dragão horrível.
+Cutscene → Jogo{LF}One tenta dar um golpe mortal em{LF}Zero, mas a Intoner ferida consegue{LF}fugir antes de ser aniquilada.
 Resumo do item 4　００２０　linha 1{LF}Resumo do item 4　００２０　linha 2{LF}Resumo do item 4　００２０　linha 3{LF}Resumo do item 4　００２０　linha 4{LF}Resumo do item 4　００２０　linha 5
 Resumo do Quinto Item　００２０　Primeira linha{LF}Resumo do Quinto Item　００２０　Segunda linha{LF}Resumo do Quinto Item　００２０　Terceira linha{LF}Resumo do Quinto Item　００２０　Quarta linha{LF}Resumo do Quinto Item　００２０　Quinta linha
 Resumo do Sexto Item　００２０　Primeira linha{LF}Resumo do Sexto Item　００２０　Segunda linha{LF}Resumo do Sexto Item　００２０　Terceira linha{LF}Resumo do Sexto Item　００２０　Quarta linha{LF}Resumo do Sexto Item　００２０　Quinta linha
@@ -12366,7 +12366,7 @@ Resumo do Nonagésimo Item　００２０　Primeira linha{LF}Resumo do Nonagés
 Resumo do Décimo Item　００２０　Primeira linha{LF}Resumo do Décimo Item　００２０　Segunda linha{LF}Resumo do Décimo Item　００２０　Terceira linha{LF}Resumo do Décimo Item　００２０　Quarta linha{LF}Resumo do Décimo Item　００２０　Quinta linha
 Resumo do Décimo Primeiro Item　００２０　Primeira linha{LF}Resumo do Décimo Primeiro Item　００２０　Segunda linha{LF}Resumo do Décimo Primeiro Item　００２０　Terceira linha{LF}Resumo do Décimo Primeiro Item　００２０　Quarta linha{LF}Resumo do Décimo Primeiro Item　００２０　Quinta linha
 Mapa → Casa da Zero{LF}Um ano se passou desde a derrota da Zero{LF}nas mãos de suas irmãs. Depois de se curar{LF}no País dos Mares, ela agora tem{LF}seus olhos fixos em outro ataque.
-Cena de corte → Jogo{LF}Depois de acordar de um pesadelo, Zero é{LF}cumprimentada por seu dragão, que regrediu para{LF}uma versão mais jovem de si mesmo chamada Mikhail.{LF}Depois que ela grita com ele, ele foge chorando.
+Cutscene → Jogo{LF}Depois de acordar de um pesadelo, Zero é{LF}cumprimentada por seu dragão, que regrediu para{LF}uma versão mais jovem de si mesmo chamada Mikhail.{LF}Depois que ela grita com ele, ele foge chorando.
 Jogo{LF}Uma força inimiga embosca Zero na{LF}Terra dos Mares. Impelida pela raiva contra suas{LF}irmãs, Zero luta seu caminho através do{LF}exército reunido.
 Resumo do quarto item　１０１０　linha 1{LF}Resumo do quarto item　１０１０　linha 2{LF}Resumo do quarto item　１０１０　linha 3{LF}Resumo do quarto item　１０１０　linha 4{LF}Resumo do quarto item　１０１０　linha 5
 Resumo do quinto item　１０１０　linha 1{LF}Resumo do quinto item　１０１０　linha 2{LF}Resumo do quinto item　１０１０　linha 3{LF}Resumo do quinto item　１０１０　linha 4{LF}Resumo do quinto item　１０１０　linha 5
@@ -12379,7 +12379,7 @@ Resumo do item 11{LF}1010{LF}linha 1{LF}Resumo do item 11{LF}1010{LF}linha 2{LF}
 Acampamento{LF}Depois de lutar seu caminho até o domínio de Cinco, Zero e Mikhail param para conversar sobre roubar da loja e outros objetivos valiosos.
 Jogo{LF}À medida que Zero continua sua avanço pela costa, o inimigo se recusa a desistir. Eventualmente, eles desencadeiam suas embarcações de desembarque, uma manobra que irrita Zero sem fim.
 Jogo{LF}Zero e Mikhail seguem em direção ao Santuário das Mares através de um canyon estreito. Mas à frente, um inimigo específico os aguarda...
-Cena de corte{LF}Com o inimigo derrotado, uma ruína de uma civilização desconhecida emerge das ondas. É uma armadilha? Ou é Cinco apenas recebendo-os com um tapete vermelho?
+Cutscene{LF}Com o inimigo derrotado, uma ruína de uma civilização desconhecida emerge das ondas. É uma armadilha? Ou é Cinco apenas recebendo-os com um tapete vermelho?
 Resumo do item 5{LF}1020{LF}linha 1{LF}Resumo do item 5{LF}1020{LF}linha 2{LF}Resumo do item 5{LF}1020{LF}linha 3{LF}Resumo do item 5{LF}1020{LF}linha 4{LF}Resumo do item 5{LF}1020{LF}linha 5
 Synopsis sixth item 1020 first line{LF}Synopsis sixth item 1020 second line{LF}Synopsis sixth item 1020 third line{LF}Synopsis sixth item 1020 fourth line{LF}Synopsis sixth item 1020 fifth line
 Synopsis seventh item 1020 first line{LF}Synopsis seventh item 1020 second line{LF}Synopsis seventh item 1020 third line{LF}Synopsis seventh item 1020 fourth line{LF}Synopsis seventh item 1020 fifth line
@@ -12398,7 +12398,7 @@ Resumo do oitavo item　 1030　 linha 1{LF}Resumo do oitavo item　 1030　 lin
 Resumo do nono item　 1030　 linha 1{LF}Resumo do nono item　 1030　 linha 2{LF}Resumo do nono item　 1030　 linha 3{LF}Resumo do nono item　 1030　 linha 4{LF}Resumo do nono item　 1030　 linha 5
 Resumo do décimo item　 1030　 linha 1{LF}Resumo do décimo item　 1030　 linha 2{LF}Resumo do décimo item　 1030　 linha 3{LF}Resumo do décimo item　 1030　 linha 4{LF}Resumo do décimo item　 1030　 linha 5
 Resumo do décimo primeiro item　 1030　 linha 1{LF}Resumo do décimo primeiro item　 1030　 linha 2{LF}Resumo do décimo primeiro item　 1030　 linha 3{LF}Resumo do décimo primeiro item　 1030　 linha 4{LF}Resumo do décimo primeiro item　 1030　 linha 5
-Cena de corte → Jogo{LF}Zero finalmente alcança o Santuário dos Mares,{LF}construído sobre as ruínas de um antigo arena.{LF}Mas Cinco está esperando e usa sua canção{LF}para convocar o anjo Fanuel.
+Cutscene → Jogo{LF}Zero finalmente alcança o Santuário dos Mares,{LF}construído sobre as ruínas de um antigo arena.{LF}Mas Cinco está esperando e usa sua canção{LF}para convocar o anjo Fanuel.
 Cutscene{LF}Zero defeats her sister and prepares to{LF}leave. But first, Five's disciple, Dito,{LF}has some unfinished business with{LF}his former Intoner's corpse.
 Summary third item 1040 first line{LF}Summary third item 1040 second line{LF}Summary third item 1040 third line{LF}Summary third item 1040 fourth line{LF}Summary third item 1040 fifth line
 Summary fourth item 1040 first line{LF}Summary fourth item 1040 second line{LF}Summary fourth item 1040 third line{LF}Summary fourth item 1040 fourth line{LF}Summary fourth item 1040 fifth line
@@ -12412,7 +12412,7 @@ Resumo do item 11 1040 linha 1{LF}Resumo do item 11 1040 linha 2{LF}Resumo do it
 Mapa → Acampamento{LF}Com Cinco derrotado, Zero, Dito,{LF}e Mikhail seguem para a Terra das{LF}Montanhas, uma área rugged sob{LF}o controle da irmã da Zero, Quatro.
 Jogo{LF}O grupo corta através de um exército vasto{LF}enquanto continuam subindo a montanha.{LF}Antes de muito tempo, a escalada aparentemente{LF}interminável começa a testar a paciência da Zero.
 Jogo{LF}O exército de seguidores de Quatro lança tudo{LF}o que tem em Zero, incluindo um cérbero{LF}particularmente mal-humorado — e mortal —.
-Cena de corte{LF}Zero está gravemente ferida após sua luta{LF}com o cérbero, mas uma habilidade chocante{LF}dela a salva do limiar da morte.
+Cutscene{LF}Zero está gravemente ferida após sua luta{LF}com o cérbero, mas uma habilidade chocante{LF}dela a salva do limiar da morte.
 Resumo do item 5 2010 linha 1{LF}Resumo do item 5 2010 linha 2{LF}Resumo do item 5 2010 linha 3{LF}Resumo do item 5 2010 linha 4{LF}Resumo do item 5 2010 linha 5
 Resumo do item 6 2010 linha 1{LF}Resumo do item 6 2010 linha 2{LF}Resumo do item 6 2010 linha 3{LF}Resumo do item 6 2010 linha 4{LF}Resumo do item 6 2010 linha 5
 Resumo do item 7 2010 linha 1{LF}Resumo do item 7 2010 linha 2{LF}Resumo do item 7 2010 linha 3{LF}Resumo do item 7 2010 linha 4{LF}Resumo do item 7 2010 linha 5
@@ -12422,7 +12422,7 @@ Resumo do item 10　 2010　 linha 1{LF}Resumo do item 10　 2010　 linha 2{LF}
 Resumo do item 11　 2010　 linha 1{LF}Resumo do item 11　 2010　 linha 2{LF}Resumo do item 11　 2010　 linha 3{LF}Resumo do item 11　 2010　 linha 4{LF}Resumo do item 11　 2010　 linha 5
 Acampamento{LF}Depois de usar suas habilidades de recuperação assustadoras{LF}para se curar, Zero segue o conselho de Mikhail{LF}e vai para a área norte da Terra das Montanhas.
 Mapa → Jogo{LF}Zero enfrenta forte resistência nos quartéis inimigos{LF}perto da fortaleza. Até mesmo Mikhail{LF}encontra problemas quando o inimigo volta{LF}seus poderosos canhões contra ele.
-Cena de corte → Jogo{LF}Mikhail faz o seu melhor para lidar com uma{LF}barreira bloqueando o caminho da Zero. Mas{LF}infelizmente, seu melhor é...problemático.
+Cutscene → Jogo{LF}Mikhail faz o seu melhor para lidar com uma{LF}barreira bloqueando o caminho da Zero. Mas{LF}infelizmente, seu melhor é...problemático.
 Game{LF}The fight moves to a mine whose original{LF}purpose was to bring prosperity to the{LF}land. But the only one prospering now is{LF}Zero, who laughs as she cuts down foes.
 
 
@@ -12444,7 +12444,7 @@ Resumo do item 10　 2030　 linha 1{LF}Resumo do item 10　 2030　 linha 2{LF}
 Resumo do item 11　 2030　 linha 1{LF}Resumo do item 11　 2030　 linha 2{LF}Resumo do item 11　 2030　 linha 3{LF}Resumo do item 11　 2030　 linha 4{LF}Resumo do item 11　 2030　 linha 5
 Mapa → Acampamento{LF}O partido rastreia Quatro até uma faixa de montanhas nevadas,{LF}onde Dito ensina{LF}Mikhail algumas frases que ele provavelmente{LF}não devia saber.
 Jogo{LF}Quando uma tempestade de neve desce sobre as montanhas,{LF}o odor de Mikhail se torna muito forte para Zero{LF}aguentar, e ela continua a pé.{LF}Isso deve ser um cheiro sério mesmo...
-Cena de corte → Jogo{LF}Zero grita por Mikhail, fazendo Dito{LF}nervoso. Se apenas os dois soubessem{LF}do destino portentoso que os aguardava...{LF}(Soa emocionante, não é?!?)
+Cutscene → Jogo{LF}Zero grita por Mikhail, fazendo Dito{LF}nervoso. Se apenas os dois soubessem{LF}do destino portentoso que os aguardava...{LF}(Soa emocionante, não é?!?)
 Jogo{LF}O grupo luta em meio à neve,{LF}arrastando-se em frente em direção ao seu destino final{LF}de Mt. Qualquer.
 あらすじ第五項　 2040　 一行目{LF}あらすじ第五項　 2040　 二行目{LF}あらすじ第五項　 2040　 三行目{LF}あらすじ第五項　 2040　 四行目{LF}あらすじ第五項　 2040　 五行目
 Resumo do item 6 2040 linha 1{LF}Resumo do item 6 2040 linha 2{LF}Resumo do item 6 2040 linha 3{LF}Resumo do item 6 2040 linha 4{LF}Resumo do item 6 2040 linha 5
@@ -12476,9 +12476,9 @@ Resumo do item 9{LF}2060{LF}linha 1{LF}Resumo do item 9{LF}2060{LF}linha 2{LF}Re
 Resumo do item 10 2060 linha 1{LF}Resumo do item 10 2060 linha 2{LF}Resumo do item 10 2060 linha 3{LF}Resumo do item 10 2060 linha 4{LF}Resumo do item 10 2060 linha 5
 Resumo do item 11 2060 linha 1{LF}Resumo do item 11 2060 linha 2{LF}Resumo do item 11 2060 linha 3{LF}Resumo do item 11 2060 linha 4{LF}Resumo do item 11 2060 linha 5
 Mapa → Dirigível{LF}Com quatro mortos e Decadus agora ao lado da Zero, ela se dirige para a Terra das Florestas. Com seu brilhante novo dirigível, parece que nada pode quebrar seu espírito.
-Cena de corte → Jogo{LF}O amado dirigível da Zero é derrubado por soldados inimigos antes que ela tenha chance de desfrutar dele. Não é preciso dizer, alguém vai pagar por isso.
+Cutscene → Jogo{LF}O amado dirigível da Zero é derrubado por soldados inimigos antes que ela tenha chance de desfrutar dele. Não é preciso dizer, alguém vai pagar por isso.
 Jogo{LF}Separada de Mikhail e bloqueada pelo ivy, o humor da Zero vai de ruim para pior. Mesmo assim, o partido continua em frente.
-Cena de corte{LF}O grupo descobre a localização de Mikhail de uma feliz fada florestal, mas a atitude da pequena sprite prova ser demais para Zero lidar.
+Cutscene{LF}O grupo descobre a localização de Mikhail de uma feliz fada florestal, mas a atitude da pequena sprite prova ser demais para Zero lidar.
 Resumo do item 5 3010 linha 1{LF}Resumo do item 5 3010 linha 2{LF}Resumo do item 5 3010 linha 3{LF}Resumo do item 5 3010 linha 4{LF}Resumo do item 5 3010 linha 5
 Resumo do item seis　３０１０　linha um{LF}Resumo do item seis　３０１０　linha dois{LF}Resumo do item seis　３０１０　linha três{LF}Resumo do item seis　３０１０　linha quatro{LF}Resumo do item seis　３０１０　linha cinco
 Resumo do item sete　３０１０　linha um{LF}Resumo do item sete　３０１０　linha dois{LF}Resumo do item sete　３０１０　linha três{LF}Resumo do item sete　３０１０　linha quatro{LF}Resumo do item sete　３０１０　linha cinco
@@ -12488,7 +12488,7 @@ Resumo do item dez　３０１０　linha um{LF}Resumo do item dez　３０１�
 Resumo do item onze　３０１０　linha um{LF}Resumo do item onze　３０１０　linha dois{LF}Resumo do item onze　３０１０　linha três{LF}Resumo do item onze　３０１０　linha quatro{LF}Resumo do item onze　３０１０　linha cinco
 Jogo{LF}O partido segue mais fundo na floresta{LF}em busca de Mikhail. Depois de despachar{LF}um grupo de trolls, eles encontram outro{LF}fada com atitude.
 Jogo{LF}A floresta está cheia de fadas grosseiras,{LF}tanto que Dito ameaça queimar{LF}toda a floresta. Independentemente, Zero{LF}continua a busca pelo seu dragão.
-Cena de corte{LF}O Rei das Fadas sabe onde Três está, {LF}mas decide se divertir com Zero e seus{LF}companheiros em vez de revelar. Isso{LF}vai tão bem quanto alguém poderia esperar.
+Cutscene{LF}O Rei das Fadas sabe onde Três está, {LF}mas decide se divertir com Zero e seus{LF}companheiros em vez de revelar. Isso{LF}vai tão bem quanto alguém poderia esperar.
 
 
 
@@ -12511,7 +12511,7 @@ Resumo do item 11　３０３０　linha 1{LF}Resumo do item 11　３０３０�
 Acampamento{LF}Dito desconfia do novo discípulo,{LF}mas Zero parece não se importar. Octa{LF}recompensa a confiança dela mostrando{LF}o caminho para o Santuário da Floresta de Três.
 Jogo{LF}Enquanto Octa regala o grupo com histórias{LF}das atividades recreativas de Três, Mikhail{LF}some novamente. Logo, o grupo{LF}descobre que Três tem uma armadilha esperando.
 Jogo{LF}O grupo luta contra mais cubos enquanto{LF}a voz de Três os atormenta com charadas. O{LF}maior choque de todos, no entanto, vem quando{LF}Octa revela que tem apenas vinte anos.
-Cena de corte{LF}Octa lidera o caminho através de um{LF}portão aberto para o Santuário da Floresta{LF}além, enquanto Mikhail cuida de alguns{LF}negócios urgentes seus próprios.
+Cutscene{LF}Octa lidera o caminho através de um{LF}portão aberto para o Santuário da Floresta{LF}além, enquanto Mikhail cuida de alguns{LF}negócios urgentes seus próprios.
 Resumo do Quinto Item　 3040　 Linha 1{LF}Resumo do Quinto Item　 3040　 Linha 2{LF}Resumo do Quinto Item　 3040　 Linha 3{LF}Resumo do Quinto Item　 3040　 Linha 4{LF}Resumo do Quinto Item　 3040　 Linha 5
 Resumo do Sexto Item　 3040　 Linha 1{LF}Resumo do Sexto Item　 3040　 Linha 2{LF}Resumo do Sexto Item　 3040　 Linha 3{LF}Resumo do Sexto Item　 3040　 Linha 4{LF}Resumo do Sexto Item　 3040　 Linha 5
 Resumo do Sétimo Item　 3040　 Linha 1{LF}Resumo do Sétimo Item　 3040　 Linha 2{LF}Resumo do Sétimo Item　 3040　 Linha 3{LF}Resumo do Sétimo Item　 3040　 Linha 4{LF}Resumo do Sétimo Item　 3040　 Linha 5
@@ -12520,7 +12520,7 @@ Resumo do Nonagésimo Item　 3040　 Linha 1{LF}Resumo do Nonagésimo Item　 3
 Resumo do Décimo Item　 3040　 Linha 1{LF}Resumo do Décimo Item　 3040　 Linha 2{LF}Resumo do Décimo Item　 3040　 Linha 3{LF}Resumo do Décimo Item　 3040　 Linha 4{LF}Resumo do Décimo Item　 3040　 Linha 5
 Resumo do Décimo Primeiro Item　 3040　 Linha 1{LF}Resumo do Décimo Primeiro Item　 3040　 Linha 2{LF}Resumo do Décimo Primeiro Item　 3040　 Linha 3{LF}Resumo do Décimo Primeiro Item　 3040　 Linha 4{LF}Resumo do Décimo Primeiro Item　 3040　 Linha 5
 Mapa → Jogo{LF}Seguindo Octa, o grupo segue para{LF}o Santuário da Floresta de Três. Mas eles devem{LF}primeiro passar pela Floresta Perdida,{LF}um lugar que poucos já saíram vivos.
-Cena de Corte → Jogo{LF}Mikhail está tão animado para ver sua própria{LF}reflexão em um rio que ele pisa forte{LF}em uma ponte e cai na água.
+Cutscene → Jogo{LF}Mikhail está tão animado para ver sua própria{LF}reflexão em um rio que ele pisa forte{LF}em uma ponte e cai na água.
 Game The group leaves Mikhail to his own devices and continues on, eventually reaching the Forest Shrine where Three is waiting for them.
 Story 4th item 3050 1st line Story 4th item 3050 2nd line Story 4th item 3050 3rd line Story 4th item 3050 4th line Story 4th item 3050 5th line
 Story 5th item 3050 1st line Story 5th item 3050 2nd line Story 5th item 3050 3rd line Story 5th item 3050 4th line Story 5th item 3050 5th line
@@ -12531,9 +12531,9 @@ Story 9th item 3050 1st line Story 9th item 3050 2nd line Story 9th item 3050 3r
 Story 10th item 3050 1st line Story 10th item 3050 2nd line Story 10th item 3050 3rd line Story 10th item 3050 4th line Story 10th item 3050 5th line
 Story 11th item 3050 1st line Story 11th item 3050 2nd line Story 11th item 3050 3rd line Story 11th item 3050 4th line Story 11th item 3050 5th line
 Jogo{LF}O grupo descobre Mikhail preso{LF}em hera enquanto fazem seu caminho até o{LF}segundo andar do santuário.
-Cena de corte → Jogo{LF}Depois de resgatar Mikhail (novamente), Três{LF}aparece subitamente. Estranhamente calma sobre{LF}a traição de Octa, a Intoner avisa o{LF}grupo para ter cuidado com seu entorno.
-Cena de corte → Jogo{LF}Três usa seus poderes para controlar{LF}Octa, forçando-o a convocar Armisael,{LF}um exército de humanos que ela transformou em{LF}máquinas de luta horríveis.
-Cena de corte{LF}Logo após o exército de Armisael ser derrotado,{LF}um Mikhail enfurecido engole Três inteira.{LF}Antes que alguém possa agir, o discípulo de Dois, Cent,{LF}aparece e leva o dragão embora.
+Cutscene → Jogo{LF}Depois de resgatar Mikhail (novamente), Três{LF}aparece subitamente. Estranhamente calma sobre{LF}a traição de Octa, a Intoner avisa o{LF}grupo para ter cuidado com seu entorno.
+Cutscene → Jogo{LF}Três usa seus poderes para controlar{LF}Octa, forçando-o a convocar Armisael,{LF}um exército de humanos que ela transformou em{LF}máquinas de luta horríveis.
+Cutscene{LF}Logo após o exército de Armisael ser derrotado,{LF}um Mikhail enfurecido engole Três inteira.{LF}Antes que alguém possa agir, o discípulo de Dois, Cent,{LF}aparece e leva o dragão embora.
 Resumo do quinto item{LF}3060{LF}linha 1{LF}Resumo do quinto item{LF}3060{LF}linha 2{LF}Resumo do quinto item{LF}3060{LF}linha 3{LF}Resumo do quinto item{LF}3060{LF}linha 4{LF}Resumo do quinto item{LF}3060{LF}linha 5
 Resumo do sexto item{LF}3060{LF}linha 1{LF}Resumo do sexto item{LF}3060{LF}linha 2{LF}Resumo do sexto item{LF}3060{LF}linha 3{LF}Resumo do sexto item{LF}3060{LF}linha 4{LF}Resumo do sexto item{LF}3060{LF}linha 5
 Resumo do sétimo item{LF}3060{LF}linha 1{LF}Resumo do sétimo item{LF}3060{LF}linha 2{LF}Resumo do sétimo item{LF}3060{LF}linha 3{LF}Resumo do sétimo item{LF}3060{LF}linha 4{LF}Resumo do sétimo item{LF}3060{LF}linha 5
@@ -12587,7 +12587,7 @@ Resumo do Décimo Item　 4040　 Primeira linha{LF}Resumo do Décimo Item　 40
 Resumo do Décimo Primeiro Item　 4040　 Primeira linha{LF}Resumo do Décimo Primeiro Item　 4040　 Segunda linha{LF}Resumo do Décimo Primeiro Item　 4040　 Terceira linha{LF}Resumo do Décimo Primeiro Item　 4040　 Quarta linha{LF}Resumo do Décimo Primeiro Item　 4040　 Quinta linha
 Acampamento{LF}O local de acampamento tornou-se muito{LF}animado. Depois de uma discussão,{LF}o grupo decide se mover contra{LF}a Cidade da Catedral de One pelo ar.
 Mapa → Jogo{LF}Enquanto Zero e Mikhail voam sobre{LF}a Cidade da Catedral, One e seu dragão,{LF}Gabriel, surgem repentinamente e começam{LF}a batalhar contra Zero.
-Cena de corte → Jogo{LF}Gabriel convoca um bando de wyverns{LF}e foge, deixando Mikhail irado para{LF}lidar com os criaturas problemáticas.
+Cutscene → Jogo{LF}Gabriel convoca um bando de wyverns{LF}e foge, deixando Mikhail irado para{LF}lidar com os criaturas problemáticas.
 
 
 
@@ -12597,7 +12597,7 @@ Cena de corte → Jogo{LF}Gabriel convoca um bando de wyverns{LF}e foge, deixand
 
 
 Jogo{LF}Mikhail ataca do céu enquanto Zero{LF}luta seu caminho à frente no chão,{LF}matando todos que ousam se colocar em seu caminho.
-Cena de corte → Jogo{LF}Uma ponte cai enquanto Gabriel ataca novamente,{LF}forçando Zero e seus discípulos a{LF}se separarem de Mikhail e tomar{LF}o caminho mais longo.
+Cutscene → Jogo{LF}Uma ponte cai enquanto Gabriel ataca novamente,{LF}forçando Zero e seus discípulos a{LF}se separarem de Mikhail e tomar{LF}o caminho mais longo.
 Resumo do item 3 5020 linha 1{LF}Resumo do item 3 5020 linha 2{LF}Resumo do item 3 5020 linha 3{LF}Resumo do item 3 5020 linha 4{LF}Resumo do item 3 5020 linha 5
 Resumo do item 4 5020 linha 1{LF}Resumo do item 4 5020 linha 2{LF}Resumo do item 4 5020 linha 3{LF}Resumo do item 4 5020 linha 4{LF}Resumo do item 4 5020 linha 5
 Resumo do item 5 5020 linha 1{LF}Resumo do item 5 5020 linha 2{LF}Resumo do item 5 5020 linha 3{LF}Resumo do item 5 5020 linha 4{LF}Resumo do item 5 5020 linha 5
@@ -12620,9 +12620,9 @@ Resumo do item 10　5030　linha 1{LF}Resumo do item 10　5030　linha 2{LF}Resu
 Resumo do item 11　5030　linha 1{LF}Resumo do item 11　5030　linha 2{LF}Resumo do item 11　5030　linha 3{LF}Resumo do item 11　5030　linha 4{LF}Resumo do item 11　5030　linha 5
 Jogo{LF}Quando Zero infiltra a catedral,{LF}Mikhail percebe que, embora tivesse{LF}esperado que isso fosse o fim de{LF}tudo, provavelmente estava errado.
 Jogo{LF}Zero se aproxima de seu destino final...{LF}Sua irmã, One.
-Cena de corte → Jogo{LF}Quando Zero e One se reencontram, Gabriel{LF}aparece e estraga a festa. {LF}A batalha final aguarda.
-Cena de corte → Jogo{LF}Zero suplica a Mikhail, mortalmente ferido, que{LF}reencarne, mas ele usa seu último desejo{LF}para acabar com Gabriel em vez disso, deixando{LF}Zero para lidar com sua irmã sozinha.
-Cena de corte{LF}Zero mata a última de suas irmãs.{LF}Eu me pergunto o que ela viu quando o{LF}"um" que ficou para trás{LF}realizou seu dever final?
+Cutscene → Jogo{LF}Quando Zero e One se reencontram, Gabriel{LF}aparece e estraga a festa. {LF}A batalha final aguarda.
+Cutscene → Jogo{LF}Zero suplica a Mikhail, mortalmente ferido, que{LF}reencarne, mas ele usa seu último desejo{LF}para acabar com Gabriel em vez disso, deixando{LF}Zero para lidar com sua irmã sozinha.
+Cutscene{LF}Zero mata a última de suas irmãs.{LF}Eu me pergunto o que ela viu quando o{LF}"um" que ficou para trás{LF}realizou seu dever final?
 
 
 
@@ -12642,8 +12642,8 @@ Synopsis of the tenth item{LF}3210{LF}First line{LF}Synopsis of the tenth item{L
 Resumo do item 11　 3210　 linha 1{LF}Resumo do item 11　 3210　 linha 2{LF}Resumo do item 11　 3210　 linha 3{LF}Resumo do item 11　 3210　 linha 4{LF}Resumo do item 11　 3210　 linha 5
 Acampamento{LF}Cent esqueceu o Dois, mas Decadus{LF}lembra o Quatro. Com as palavras bizarras{LF}do Três frescas em sua mente, Zero pressiona{LF}mais fundo na floresta.
 Jogo{LF}A floresta cresce cada vez mais estranha{LF}à medida que um poder desconhecido impede{LF}Mikhail de contatar Zero.
-Cena de corte → Jogo{LF}Zero está gravemente ferida e se encontra{LF}em uma situação desafortunada{LF}onde ela não consegue se regenerar.
-Cena de corte{LF}Mikhail liberta Zero, permitindo que ela use{LF}o poder de sua flor para se regenerar.{LF}Dito então oferece alguns comentários{LF}que ele rapidamente vem a lamentar.
+Cutscene → Jogo{LF}Zero está gravemente ferida e se encontra{LF}em uma situação desafortunada{LF}onde ela não consegue se regenerar.
+Cutscene{LF}Mikhail liberta Zero, permitindo que ela use{LF}o poder de sua flor para se regenerar.{LF}Dito então oferece alguns comentários{LF}que ele rapidamente vem a lamentar.
 Resumo do item 5　 3220　 linha 1{LF}Resumo do item 5　 3220　 linha 2{LF}Resumo do item 5　 3220　 linha 3{LF}Resumo do item 5　 3220　 linha 4{LF}Resumo do item 5　 3220　 linha 5
 Resumo do item 6　 3220　 linha 1{LF}Resumo do item 6　 3220　 linha 2{LF}Resumo do item 6　 3220　 linha 3{LF}Resumo do item 6　 3220　 linha 4{LF}Resumo do item 6　 3220　 linha 5
 Resumo do item 7　 3220　 linha 1{LF}Resumo do item 7　 3220　 linha 2{LF}Resumo do item 7　 3220　 linha 3{LF}Resumo do item 7　 3220　 linha 4{LF}Resumo do item 7　 3220　 linha 5
@@ -12674,10 +12674,10 @@ Resumo do Nonagésimo Item{LF}3240{LF}Primeira linha{LF}Resumo do Nonagésimo It
 Resumo do Décimo Item{LF}3240{LF}Primeira linha{LF}Resumo do Décimo Item{LF}3240{LF}Segunda linha{LF}Resumo do Décimo Item{LF}3240{LF}Terceira linha{LF}Resumo do Décimo Item{LF}3240{LF}Quarta linha{LF}Resumo do Décimo Item{LF}3240{LF}Quinta linha
 Resumo do Décimo Primeiro Item{LF}3240{LF}Primeira linha{LF}Resumo do Décimo Primeiro Item{LF}3240{LF}Segunda linha{LF}Resumo do Décimo Primeiro Item{LF}3240{LF}Terceira linha{LF}Resumo do Décimo Primeiro Item{LF}3240{LF}Quarta linha{LF}Resumo do Décimo Primeiro Item{LF}3240{LF}Quinta linha
 Jogo{LF}A floresta fica ainda mais estranha após{LF}a morte de Três, mas Zero simplesmente{LF}continua derrubando soldados como se{LF}não houvesse amanhã.
-Cena de corte → Jogo{LF}O grupo encontra Dois dançando perto do{LF}cadáver de Um em uma clareira aberta. O que{LF}deveria ser um reencontro feliz com Cent{LF}em vez disso leva a nada além de desespero.
-Cena de corte{LF}À medida que os discípulos caem um após o outro,{LF}Dois e Cent encontram-se à beira do{LF}abismo também. Os dois usam seu último{LF}pouco de poder para invocar um anjo.
+Cutscene → Jogo{LF}O grupo encontra Dois dançando perto do{LF}cadáver de Um em uma clareira aberta. O que{LF}deveria ser um reencontro feliz com Cent{LF}em vez disso leva a nada além de desespero.
+Cutscene{LF}À medida que os discípulos caem um após o outro,{LF}Dois e Cent encontram-se à beira do{LF}abismo também. Os dois usam seu último{LF}pouco de poder para invocar um anjo.
 Jogo{LF}Lutar contra Rafael na floresta envenenada{LF}começa a ter um efeito sobre Mikhail...
-Cena de corte{LF}À medida que Mikhail jaz morrendo do veneno,{LF}Zero usa a força da sua flor para salvá-lo,{LF}criando assim o conceito de um "pacto"{LF}pela primeira vez.
+Cutscene{LF}À medida que Mikhail jaz morrendo do veneno,{LF}Zero usa a força da sua flor para salvá-lo,{LF}criando assim o conceito de um "pacto"{LF}pela primeira vez.
 Resumo do item 6{LF}3250{LF}linha 1{LF}Resumo do item 6{LF}3250{LF}linha 2{LF}Resumo do item 6{LF}3250{LF}linha 3{LF}Resumo do item 6{LF}3250{LF}linha 4{LF}Resumo do item 6{LF}3250{LF}linha 5
 Resumo do item 7{LF}3250{LF}linha 1{LF}Resumo do item 7{LF}3250{LF}linha 2{LF}Resumo do item 7{LF}3250{LF}linha 3{LF}Resumo do item 7{LF}3250{LF}linha 4{LF}Resumo do item 7{LF}3250{LF}linha 5
 Resumo do item 8　 3250　 linha 1{LF}Resumo do item 8　 3250　 linha 2{LF}Resumo do item 8　 3250　 linha 3{LF}Resumo do item 8　 3250　 linha 4{LF}Resumo do item 8　 3250　 linha 5
@@ -12686,7 +12686,7 @@ Resumo do item 10　 3250　 linha 1{LF}Resumo do item 10　 3250　 linha 2{LF}
 Resumo do item 11　 3250　 linha 1{LF}Resumo do item 11　 3250　 linha 2{LF}Resumo do item 11　 3250　 linha 3{LF}Resumo do item 11　 3250　 linha 4{LF}Resumo do item 11　 3250　 linha 5
 Mapa de Ramificação → Jogo{LF}A ramificação C começa com fatores externos{LF}influenciando Mikhail, o que leva a{LF}resultados imprevisíveis. Independentemente, eles{LF}continuam avançando pela noite do deserto.
 Jogo{LF}Mikhail está se sentindo mal, talvez devido{LF}ao frio. O grupo continua lutando{LF}enquanto tenta determinar a causa.
-Cena de Corte{LF}Ao tentar entrar nas ruínas subterrâneas,{LF}Mikhail geme de dor e volta à sua forma original.
+Cutscene{LF}Ao tentar entrar nas ruínas subterrâneas,{LF}Mikhail geme de dor e volta à sua forma original.
 Resumo do item 4　 4110　 linha 1{LF}Resumo do item 4　 4110　 linha 2{LF}Resumo do item 4　 4110　 linha 3{LF}Resumo do item 4　 4110　 linha 4{LF}Resumo do item 4　 4110　 linha 5
 Resumo do item 5　 4110　 linha 1{LF}Resumo do item 5　 4110　 linha 2{LF}Resumo do item 5　 4110　 linha 3{LF}Resumo do item 5　 4110　 linha 4{LF}Resumo do item 5　 4110　 linha 5
 Resumo do item 6　 4110　 linha 1{LF}Resumo do item 6　 4110　 linha 2{LF}Resumo do item 6　 4110　 linha 3{LF}Resumo do item 6　 4110　 linha 4{LF}Resumo do item 6　 4110　 linha 5
@@ -12729,9 +12729,9 @@ Resumo do item 9 5110 linha 1{LF}Resumo do item 9 5110 linha 2{LF}Resumo do item
 Resumo do item 10 5110 linha 1{LF}Resumo do item 10 5110 linha 2{LF}Resumo do item 10 5110 linha 3{LF}Resumo do item 10 5110 linha 4{LF}Resumo do item 10 5110 linha 5
 Resumo do item 11 5110 linha 1{LF}Resumo do item 11 5110 linha 2{LF}Resumo do item 11 5110 linha 3{LF}Resumo do item 11 5110 linha 4{LF}Resumo do item 11 5110 linha 5
 Jogo{LF}Mesmo com dois mortos, a maldição de Mikhail{LF}permanece em vigor. Em busca de respostas,{LF}Zero entra em uma toca subterrânea{LF}com decoração questionável.
-Cena de corte → Jogo{LF}Zero encontra One esperando por ela. Ela{LF}declara que Zero estava certa e todos{LF}os Intoners — incluindo elas mesmas — devem{LF}morrer. As irmãs então começam a batalhar.
-Cena de corte → Jogo{LF}Um convoca o dragão Gabriel para lutar{LF}contra Mikhail, mas ambos criaturas morrem na{LF}batalha subsequente, deixando Um e Zero{LF}para enfrentar um ao outro sozinhos.
-Cena de corte{LF}Zero mata Um, mas com Mikhail e{LF}seus discípulos indo embora, seu estado{LF}mental começa a colapsar. Eu temo que{LF}devamos selar essa ramificação para sempre.
+Cutscene → Jogo{LF}Zero encontra One esperando por ela. Ela{LF}declara que Zero estava certa e todos{LF}os Intoners — incluindo elas mesmas — devem{LF}morrer. As irmãs então começam a batalhar.
+Cutscene → Jogo{LF}Um convoca o dragão Gabriel para lutar{LF}contra Mikhail, mas ambos criaturas morrem na{LF}batalha subsequente, deixando Um e Zero{LF}para enfrentar um ao outro sozinhos.
+Cutscene{LF}Zero mata Um, mas com Mikhail e{LF}seus discípulos indo embora, seu estado{LF}mental começa a colapsar. Eu temo que{LF}devamos selar essa ramificação para sempre.
 Resumo do item 5{LF}520{LF}linha 1{LF}Resumo do item 5{LF}520{LF}linha 2{LF}Resumo do item 5{LF}520{LF}linha 3{LF}Resumo do item 5{LF}520{LF}linha 4{LF}Resumo do item 5{LF}520{LF}linha 5
 Resumo do item 6{LF}520{LF}linha 1{LF}Resumo do item 6{LF}520{LF}linha 2{LF}Resumo do item 6{LF}520{LF}linha 3{LF}Resumo do item 6{LF}520{LF}linha 4{LF}Resumo do item 6{LF}520{LF}linha 5
 Resumo do item 7{LF}520{LF}linha 1{LF}Resumo do item 7{LF}520{LF}linha 2{LF}Resumo do item 7{LF}520{LF}linha 3{LF}Resumo do item 7{LF}520{LF}linha 4{LF}Resumo do item 7{LF}520{LF}linha 5
@@ -12742,7 +12742,7 @@ Resumo do item 11　 5120　 linha 1{LF}Resumo do item 11　 5120　 linha 2{LF}
 Mapa de Ramificação → Acampamento{LF}Oh não. Eu não perdi uma gravação por{LF}acidente, fiz? Vamos, isso é ridículo.{LF}Onde está... Ah, lá vamos nós. Eu acho{LF}que a Terra dos Mares veio primeiro, certo?
 Jogo{LF}Zero e sua equipe lutam em frente na Terra{LF}dos Mares. Eles parecem estar voltando{LF}para casa da Zero.
 Jogo{LF}Enquanto viajam em direção à casa da Zero,{LF}os discípulos começam a falar sobre{LF}seus alimentos favoritos.
-Cena de Corte{LF}Zero conseguiu chegar em casa, mas agora ela está{LF}sendo uma grande rabugenta com alguém{LF}que só veio dar um aviso.{LF}Poxa! Algumas pessoas...
+Cutscene{LF}Zero conseguiu chegar em casa, mas agora ela está{LF}sendo uma grande rabugenta com alguém{LF}que só veio dar um aviso.{LF}Poxa! Algumas pessoas...
 Resumo do item 5　 1410　 linha 1{LF}Resumo do item 5　 1410　 linha 2{LF}Resumo do item 5　 1410　 linha 3{LF}Resumo do item 5　 1410　 linha 4{LF}Resumo do item 5　 1410　 linha 5
 Resumo do item 6　 1410　 linha 1{LF}Resumo do item 6　 1410　 linha 2{LF}Resumo do item 6　 1410　 linha 3{LF}Resumo do item 6　 1410　 linha 4{LF}Resumo do item 6　 1410　 linha 5
 Resumo do item 7　 1410　 linha 1{LF}Resumo do item 7　 1410　 linha 2{LF}Resumo do item 7　 1410　 linha 3{LF}Resumo do item 7　 1410　 linha 4{LF}Resumo do item 7　 1410　 linha 5
@@ -12761,7 +12761,7 @@ Resumo do Oitavo Item　 2410　 Primeira linha{LF}Resumo do Oitavo Item　 2410
 Resumo do Non Item　 2410　 Primeira linha{LF}Resumo do Non Item　 2410　 Segunda linha{LF}Resumo do Non Item　 2410　 Terceira linha{LF}Resumo do Non Item　 2410　 Quarta linha{LF}Resumo do Non Item　 2410　 Quinta linha
 Resumo do Décimo Item　 2410　 Primeira linha{LF}Resumo do Décimo Item　 2410　 Segunda linha{LF}Resumo do Décimo Item　 2410　 Terceira linha{LF}Resumo do Décimo Item　 2410　 Quarta linha{LF}Resumo do Décimo Item　 2410　 Quinta linha
 Resumo do Décimo Primeiro Item　 2410　 Primeira linha{LF}Resumo do Décimo Primeiro Item　 2410　 Segunda linha{LF}Resumo do Décimo Primeiro Item　 2410　 Terceira linha{LF}Resumo do Décimo Primeiro Item　 2410　 Quarta linha{LF}Resumo do Décimo Primeiro Item　 2410　 Quinta linha
-Cena de Corte → Acampamento{LF}Voltamos aos dias em que Zero e{LF}Michael confirmaram sua resolução inquebrável.{LF}Mas a atividade mais recente da Zero{LF}requer observação contínua...{LF}
+Cutscene → Acampamento{LF}Voltamos aos dias em que Zero e{LF}Michael confirmaram sua resolução inquebrável.{LF}Mas a atividade mais recente da Zero{LF}requer observação contínua...{LF}
 Jogo Zero se junta com Mikhail para destruir as torres. Ela continua a ser distraída pelas memórias do paladar de Michael quando ela deveria se concentrar na tarefa em questão.
 Mapa de Ramificação Este conclui as reparações suplementares. Todas as condições agora estão em ordem, O que significa que o Ramo D é tudo o que resta. ...A gravação final.
 Resumo do item 4　 4510　 linha 1{LF}Resumo do item 4　 4510　 linha 2{LF}Resumo do item 4　 4510　 linha 3{LF}Resumo do item 4　 4510　 linha 4{LF}Resumo do item 4　 4510　 linha 5
@@ -12783,9 +12783,9 @@ Resumo do item 8　 2310　 linha 1{LF}Resumo do item 8　 2310　 linha 2{LF}Re
 Resumo do item 9　 2310　 linha 1{LF}Resumo do item 9　 2310　 linha 2{LF}Resumo do item 9　 2310　 linha 3{LF}Resumo do item 9　 2310　 linha 4{LF}Resumo do item 9　 2310　 linha 5
 Resumo do item 10　 2310　 linha 1{LF}Resumo do item 10　 2310　 linha 2{LF}Resumo do item 10　 2310　 linha 3{LF}Resumo do item 10　 2310　 linha 4{LF}Resumo do item 10　 2310　 linha 5
 Resumo do item 11　 2310　 linha 1{LF}Resumo do item 11　 2310　 linha 2{LF}Resumo do item 11　 2310　 linha 3{LF}Resumo do item 11　 2310　 linha 4{LF}Resumo do item 11　 2310　 linha 5
-Cena de corte → Jogo{LF}O grupo chega ao forte e{LF}encontra a mente de Quatro quebrada{LF}pela flor. Ela então invoca um{LF}dragão usando um novo poder aterrorizante.
+Cutscene → Jogo{LF}O grupo chega ao forte e{LF}encontra a mente de Quatro quebrada{LF}pela flor. Ela então invoca um{LF}dragão usando um novo poder aterrorizante.
 Jogo{LF}Com Zophiel derrotado, Zero enfrenta{LF}Quatro, cuja mente se desintegrou{LF}em um abismo de insanidade.
-Cena de corte{LF}Zero entrega a derrotada Quatro{LF}a Mikhail, que a come e evolui{LF}dois níveis ao mesmo tempo. Isso parece{LF}instalar uma nova resolução em Zero...
+Cutscene{LF}Zero entrega a derrotada Quatro{LF}a Mikhail, que a come e evolui{LF}dois níveis ao mesmo tempo. Isso parece{LF}instalar uma nova resolução em Zero...
 Summary fourth item 2320 one line{LF}Summary fourth item 2320 two lines{LF}Summary fourth item 2320 three lines{LF}Summary fourth item 2320 four lines{LF}Summary fourth item 2320 five lines
 Summary fifth item 2320 one line{LF}Summary fifth item 2320 two lines{LF}Summary fifth item 2320 three lines{LF}Summary fifth item 2320 four lines{LF}Summary fifth item 2320 five lines
 Summary sixth item 2320 one line{LF}Summary sixth item 2320 two lines{LF}Summary sixth item 2320 three lines{LF}Summary sixth item 2320 four lines{LF}Summary sixth item 2320 five lines
@@ -12806,8 +12806,8 @@ Resumo do nono item{LF}3310{LF}linha 1{LF}Resumo do nono item{LF}3310{LF}linha 2
 Resumo do décimo item{LF}3310{LF}linha 1{LF}Resumo do décimo item{LF}3310{LF}linha 2{LF}Resumo do décimo item{LF}3310{LF}linha 3{LF}Resumo do décimo item{LF}3310{LF}linha 4{LF}Resumo do décimo item{LF}3310{LF}linha 5
 Resumo do item 11 3310 linha 1{LF}Resumo do item 11 3310 linha 2{LF}Resumo do item 11 3310 linha 3{LF}Resumo do item 11 3310 linha 4{LF}Resumo do item 11 3310 linha 5
 Jogo{LF}Decadus está chateado com o estado terrível{LF}da floresta, mas Dito está{LF}extremamente feliz com os horrores{LF}que ela contém.
-Cena de corte → Jogo{LF}O grupo é recebido por Cinco, que{LF}devia estar morta. Sua carne podre{LF}e exército de zumbis são o suficiente{LF}para deixar Dito louco de alegria.
-Cena de corte{LF}Cinco é morta, mas como Dito e Cent{LF}invocam anjos sem o poder de um{LF}Intonador, eles aprendem que há um preço{LF}a ser pago por tais coisas...
+Cutscene → Jogo{LF}O grupo é recebido por Cinco, que{LF}devia estar morta. Sua carne podre{LF}e exército de zumbis são o suficiente{LF}para deixar Dito louco de alegria.
+Cutscene{LF}Cinco é morta, mas como Dito e Cent{LF}invocam anjos sem o poder de um{LF}Intonador, eles aprendem que há um preço{LF}a ser pago por tais coisas...
 Resumo do item 4 3320 linha 1{LF}Resumo do item 4 3320 linha 2{LF}Resumo do item 4 3320 linha 3{LF}Resumo do item 4 3320 linha 4{LF}Resumo do item 4 3320 linha 5
 Resumo do item 5 3320 linha 1{LF}Resumo do item 5 3320 linha 2{LF}Resumo do item 5 3320 linha 3{LF}Resumo do item 5 3320 linha 4{LF}Resumo do item 5 3320 linha 5
 Resumo do item 6 3320 linha 1{LF}Resumo do item 6 3320 linha 2{LF}Resumo do item 6 3320 linha 3{LF}Resumo do item 6 3320 linha 4{LF}Resumo do item 6 3320 linha 5
@@ -12849,10 +12849,10 @@ Resumo do oitavo item　１３１０　linha 1{LF}Resumo do oitavo item　１３
 Resumo do item 9　 1310　 linha 1{LF}Resumo do item 9　 1310　 linha 2{LF}Resumo do item 9　 1310　 linha 3{LF}Resumo do item 9　 1310　 linha 4{LF}Resumo do item 9　 1310　 linha 5
 Resumo do item 10　 1310　 linha 1{LF}Resumo do item 10　 1310　 linha 2{LF}Resumo do item 10　 1310　 linha 3{LF}Resumo do item 10　 1310　 linha 4{LF}Resumo do item 10　 1310　 linha 5
 Resumo do item 11　 1310　 linha 1{LF}Resumo do item 11　 1310　 linha 2{LF}Resumo do item 11　 1310　 linha 3{LF}Resumo do item 11　 1310　 linha 4{LF}Resumo do item 11　 1310　 linha 5
-Mapa de Ramificação → Cena de Corte{LF}À medida que nos aproximamos do fim desta{LF}ramificação, Zero deixa Gabriel com{LF}Mikhail e segue em direção à Cidade da Catedral sozinha.
+Mapa de Ramificação → Cutscene{LF}À medida que nos aproximamos do fim desta{LF}ramificação, Zero deixa Gabriel com{LF}Mikhail e segue em direção à Cidade da Catedral sozinha.
 Jogo{LF}Mikhail e Gabriel lutam no céu,{LF}enquanto Zero e Octa tomam o chão.{LF}Mas Zero começa a se esforçar à medida que{LF}a flor continua a consumi-la.
-Cena de Corte → Jogo{LF}Zero está pronta para enfrentar sua irmã One.{LF}Dois cadáveres, outrora impulsionados apenas pela{LF}flor, ganharam suas próprias vontades,{LF}e agora escolhem seus próprios futuros.
-Cena de Corte{LF}Zero acorrala One. Octa se sacrifica{LF}ao convocar um anjo. E um observador{LF}proibido de interferir nos eventos{LF}dá um passo à frente...
+Cutscene → Jogo{LF}Zero está pronta para enfrentar sua irmã One.{LF}Dois cadáveres, outrora impulsionados apenas pela{LF}flor, ganharam suas próprias vontades,{LF}e agora escolhem seus próprios futuros.
+Cutscene{LF}Zero acorrala One. Octa se sacrifica{LF}ao convocar um anjo. E um observador{LF}proibido de interferir nos eventos{LF}dá um passo à frente...
 Synopsis fifth item 5310 first line{LF}Synopsis fifth item 5310 second line{LF}Synopsis fifth item 5310 third line{LF}Synopsis fifth item 5310 fourth line{LF}Synopsis fifth item 5310 fifth line
 Synopsis sixth item 5310 first line{LF}Synopsis sixth item 5310 second line{LF}Synopsis sixth item 5310 third line{LF}Synopsis sixth item 5310 fourth line{LF}Synopsis sixth item 5310 fifth line
 Synopsis seventh item 5310 first line{LF}Synopsis seventh item 5310 second line{LF}Synopsis seventh item 5310 third line{LF}Synopsis seventh item 5310 fourth line{LF}Synopsis seventh item 5310 fifth line
@@ -14747,9 +14747,9 @@ yza
 zab
 ? ? ?
 {04}
-Ramificação A completa.
-Ramificação B completa.
-Ramificação C completa.
+Rota A completa.
+Rota B completa.
+Rota C completa.
 Todas as versos perdidas completas.
 Pedido desbloqueado no País dos Mares.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Montanhas.{LF}Acesse-o no menu de seleção de capítulo.
@@ -14800,14 +14800,14 @@ Bônus de Conclusão pela Primeira Vez!
 Bônus de Conclusão!
 Tesouro obtido!
 Verso perdido "Canção do Accord" desbloqueado.
-Verso perdido "Oração do Acordo" desbloqueado.
+Verso perdido "Oração do Accord" desbloqueado.
 O FIM
 {04}
 Você agora tem três discípulos.{LF}Você pode selecionar quais discípulos levar com você{LF}no menu de Preparação de Batalha.
-Ramificação B desbloqueada.
-Ramificação C desbloqueada.
+Rota B desbloqueada.
+Rota C desbloqueada.
 Versos perdidos desbloqueados.
-Ramificação D desbloqueada.
+Rota D desbloqueada.
 As Pedras Amadas
 Caça ao Chifre
 Clube do Livro: Esperança
@@ -15466,7 +15466,7 @@ Continuar
 Configurações
 Banco de Dados
 Mudar Trajes/Música
-Pressione o botão INICIAR
+Pressione o botão START
 Selecione um arquivo de gravação para usar.
 Excluir Arquivo de Gravação
 Excluir este arquivo de gravação?
@@ -15476,9 +15476,9 @@ Ajustar configurações de jogo variadas.
 Ver as armas e personagens que aparecem na história.
 Mudar o traje da Zero, a aparência de Mikhail ou a música de fundo.
 Verificando dados atuais.{LF}Não desligue seu sistema PlayStation®3.
-Gravando {04}
+Gravação {04}
 Novo Jogo
-Qualquer progresso não salvo será perdido.{LF}Retornar à tela de título?
+Qualquer progresso não salvo será perdido.{LF}Retornar à tela inicial?
 Excluindo arquivo de gravação.{LF}Não desligue seu sistema PlayStation®3.
 Dados de salvamento criados por outro usuário foram carregados.{LF}Esses dados de salvamento não podem ser usados.{LF}Sobrescrever esses dados e criar novos dados de salvamento?
 Nenhum dado de salvamento atual encontrado.{LF}O sistema criará novos dados de salvamento.
