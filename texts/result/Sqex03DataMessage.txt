@@ -1678,8 +1678,8 @@ Nova arma obtida!{#Name=" "}
 アクセサリーを入手しました！{#Name=" "}
 Bolsa de itens obtida!{#Name=" "}
 Você não pode usar isso mais.{#Name=" "}
-Selecionar{#Name=" "}
-Confirmar{#Name=" "}
+Selec.{#Name=" "}
+Aceitar{#Name=" "}
 Voltar{#Name=" "}
 Zero{#Name=" "}
 Mikhail{#Name=" "}
@@ -2093,7 +2093,7 @@ Compre itens e atualize armas.
 Escolha quais armas equipar.
 Escolha quais discípulos levar junto nas missões.
 Mude a roupa da Zero, a aparência do Mikhail ou a música de fundo.
-Ajuste configurações de jogo variadas.
+Ajuste configurações de jogo.
 Salve o progresso do jogo atual.
 Termine os preparativos de batalha e inicie a missão.
 --- 
@@ -2712,7 +2712,7 @@ Item de troca: Coração {#Name="Coração de Gabriel"}
 Item de troca: Coração {#Name="Coração Nobre"}
 Item de troca: Coração {#Name="Núcleo Abrasador"}
 Item de troca: Coração {#Name="Núcleo Congelado"}
-Item de troca: Coração {#Name="Coração de Utautai"}
+Item de troca: Coração {#Name="Coração da Cantoria"}
 Item de troca: Coração {#Name="Núcleo Dourado"}
 Item de troca: Coração {#Name="Núcleo Cristalino"}
 Item de troca: Coração {#Name="Núcleo Sagrado"}
@@ -2772,15 +2772,15 @@ Item de troca: Coração Desconhecido (Raro) {#Name="Coração Desconhecido (Rar
  {#Name="Medalha de Missão 19"}
  {#Name="Medalha de Missão 20"}
  {#Name="Medalha de Missão 21"}
- {#Name="Pedra Azul-Esverdeada"}
+ {#Name="Pedra Turquesa"}
  {#Name="Pedra Rosada"}
  {#Name="Pedra de Sílex"}
  {#Name="Pedra Âmbar"}
  {#Name="Pedra Nutritiva"}
- {#Name="Pedra do Movimento"}
+ {#Name="Pedra de Movimento"}
  {#Name="Pedra Flutuante"}
  {#Name="Magnetita"}
- {#Name="Pedra de Cometa"}
+ {#Name="Pedra Cometa"}
  {#Name="Meteorito"}
  {#Name="Gema de Missão 11"}
  {#Name="Gema de Missão 12"}
@@ -2843,8 +2843,8 @@ Item de troca: Coração Desconhecido (Raro) {#Name="Coração Desconhecido (Rar
  {#Name="Presa de Víbora"}
  {#Name="Fóssil de Osso"}
  {#Name="Fóssil de Planta"}
- {#Name="Artefato do Velho Mundo"}
- {#Name="Fragmento do Velho Mundo"}
+ {#Name="Artefato do Mundo Antigo"}
+ {#Name="Fragmento do Mundo Antigo"}
  {#Name="Arma de Quest 11"}
  {#Name="Arma de Quest 12"}
  {#Name="Arma de Quest 13"}
@@ -3408,7 +3408,7 @@ Coração de Gabriel
 Coração Nobre
 Núcleo Abrasador
 Núcleo Congelado
-Coração de Utautai
+Coração da Cantoria
 Núcleo Dourado
 Núcleo Cristalino
 Núcleo Sagrado
@@ -3468,15 +3468,15 @@ Medalha de Missão 18
 Medalha de Missão 19
 Medalha de Missão 20
 Medalha de Missão 21
-Pedra Azul-Esverdeada
+Pedra Turquesa
 Pedra Rosada
 Pedra de Sílex
 Pedra Âmbar
 Pedra Nutritiva
-Pedra do Movimento
+Pedra de Movimento
 Pedra Flutuante
 Magnetita
-Pedra de Cometa
+Pedra Cometa
 Meteorito
 Gema de Missão 11
 Gema de Missão 12
@@ -3539,8 +3539,8 @@ Ferrão de Sapo
 Presa de Víbora
 Fóssil de Osso
 Fóssil de Planta
-Artefato do Velho Mundo
-Fragmento do Velho Mundo
+Artefato do Mundo Antigo
+Fragmento do Mundo Antigo
 Arma de Missão 11
 Arma de Missão 12
 Arma de Missão 13
@@ -10877,14 +10877,14 @@ Accord C
 Accords
 ZERO
 Section 1 0100 Objective
-Protegendo com {01}{02} bloqueia ataques em todas as direções.{LF}No entanto, proteger consome estamina, então seja cuidadoso{LF}não bloqueie muitos ataques em sucessão ou{LF}você corre o risco de ter sua guarda quebrada.{#Name="Protegendo"}
-Para parar, pressione {01}{02} justo antes de um ataque aterrissar.{LF}Se você parar uma flecha inimiga, você pode{LF}desviar a flecha de volta em direção ao seu inimigo.{#Name="Parando"}
-Use o mini-mapa na parte superior direita da{LF}tela para visualizar sua posição atual.{LF}Você pode pressionar {01}{0A} para zoom in e out; se você{LF}se perder, tente zoom out para visualizar o mapa completo.{#Name="O Mini-mapa"}
+Protegendo com {01}{02} bloqueia ataques em todas as direções.{LF}No entanto, proteger consome estamina, então seja cuidadoso{LF}não bloqueie muitos ataques em sucessão ou{LF}você corre o risco de ter sua guarda quebrada.{#Name="Defesa"}
+Para parar, pressione {01}{02} justo antes de um ataque aterrissar.{LF}Se você parar uma flecha inimiga, você pode{LF}desviar a flecha de volta em direção ao seu inimigo.{#Name="Parry"}
+Use o mini-mapa na parte superior direita da{LF}tela para visualizar sua posição atual.{LF}Você pode pressionar {01}{0A} para zoom in e out; se você{LF}se perder, tente zoom out para visualizar o mapa completo.{#Name="Mini-mapa"}
 Pressione {01}{0A} + {01}{0D} para ativar o Modo de Intoner.{LF}Pressione novamente a qualquer momento para sair desse modo enquanto{LF}mantém seu Medidor de Sangue no nível atual.{#Name="Modo de Intoner"}
 Você pode concatenar ataques de combo especiais{LF}pressionando {01}{03} e {01}{04} em sequências variadas.{LF}Veja a Lista de Combos no Menu de Pausa para ver todas{LF}as rotas de combo possíveis para uma arma particular.{#Name="Ataques de Combo"}
 Use {01}{01} enquanto ataca com {01}{03} para lançar ambos{LF}você e seu inimigo no ar, permitindo que você{LF}dispare golpes aéreos. Inimigos mais pesados não{LF}podem ser jogados, então julgue um inimigo cuidadosamente{LF}antes de tentar essa manobra.{#Name="Combos Aéreos"}
 Pressione {01}{08} para se concentrar em um inimigo. Mova {01}{0F} para cima, para baixo,{LF}à esquerda ou à direita para alternar entre alvos disponíveis.{#Name="Bloqueio de Alvo"}
-Pressione o botão START para abrir o Menu de Pausa.{LF}Pressione o botão para cima para abrir a Lista de Combos,{LF}ou o botão para baixo para abrir a tela de Itens.{#Name="O Menu de Pausa"}
+Pressione o botão START para abrir o Menu de Pausa.{LF}Pressione o botão para cima para abrir a Lista de Combos,{LF}ou o botão para baixo para abrir a tela de Itens.{#Name="Menu de Pausa"}
 Pressione {01}{0B} para esquivar. Tente se concentrar em um inimigo,{LF}então esquive para a esquerda ou para a direita para ficar{LF}atrás deles e ganhar a vantagem.{#Name="Esquivar"}
 Você também pode esquivar enquanto pula. Isso pode ser{LF}útil para evitar ataques enquanto está no ar, ou para{LF}obter distância extra quando pula sobre lacunas.{LF}Observe que, ao contrário de quando está no chão, você não{LF}pode esquivar várias vezes em sucessão quando está no ar.{#Name="Esquivar Aéreo"}
 Pressione {01}{0D} para exibir um indicador de seta que{LF}aponta para seu próximo objetivo. Use isso junto com{LF}o mini-mapa se você já se perder.{#Name="Ajuda de Navegação"}
@@ -10899,7 +10899,7 @@ Accord emitirá recompensas à medida que você completa seus{LF}pedidos. Sempre
 As lanças são pesadas e lentas, mas oferecem o poder{LF}e alcance necessários para quebrar as defesas inimigas.{LF}Elas podem ser úteis quando lutam contra inimigos mais fortes.{#Name="Spears"}
 Ao lutar contra inimigos fortes, toque {01}{03} rapidamente para{LF}diminuir a saúde deles com rajadas de fogo de dragão letal.{LF}Para grupos de inimigos mais fracos, segure {01}{03}{LF}para travar e atirar em vários inimigos ao mesmo tempo.{LF}Misture suas táticas de acordo com a situação.{#Name="Ataque Aéreo"}
 Pressione {01}{0B} para realizar um rolo que o torna invencível{LF}por um breve período. Se você atrair inimigos próximos e rolar{LF}em direção aos ataques deles, você pode voar direto através deles.{LF}Aproveite essa tática quando não tiver{LF}espaço suficiente para evitar completamente um ataque iminente.{#Name="Evasão Aérea"}
-Braceletes de combate são bons para concatenar{LF}combos. Eles também fornecem acesso a muitos{LF}movimentos poderosos baseados em stamina. Essa mistura de{LF}encadeamento de combos e ataques de stamina os torna{LF}mais úteis quando lutam contra inimigos solitários.{#Name="Combat Bracers"}
+Braceletes de combate são bons para concatenar{LF}combos. Eles também fornecem acesso a muitos{LF}movimentos poderosos baseados em estamina. Essa mistura de{LF}encadeamento de combos e ataques de estamina os torna{LF}mais úteis quando lutam contra inimigos solitários.{#Name="Combat Bracers"}
 Chakrams são armas de longo alcance excelentes que{LF}permitem atacar de uma distância enquanto ainda{LF}mantém sua posição. Pressione e segure o botão de ataque{LF}para um ataque carregado mais forte.{#Name="Chakrams"}
 A luz solar mágica pode drenar sua saúde.{LF}Encontre uma área com sombra para se esfriar{LF}e se recuperar de danos baseados em sol.{#Name="Sun Damage"}
 Dicas 25{LF}linha 1{LF}Dicas 25{LF}linha 2{LF}Dicas 25{LF}linha 3{LF}Dicas 25{LF}linha 4{LF}Dicas 25{LF}linha 5{#Name="Dicas 25"}
@@ -10957,14 +10957,14 @@ TIPS_74 One line{LF}TIPS_74 Two lines{LF}TIPS_74 Three lines{LF}TIPS_74 Four lin
 ＴＩＰＳ_７７　　　　　　　　　　一行目{LF}ＴＩＰＳ_７７　　　　　　　　　　二行目{LF}ＴＩＰＳ_７７　　　　　　　　　　三行目{LF}ＴＩＰＳ_７７　　　　　　　　　　四行目{LF}ＴＩＰＳ_７７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７７"}
 ＴＩＰＳ_７８　　　　　　　　　　一行目{LF}ＴＩＰＳ_７８　　　　　　　　　　二行目{LF}ＴＩＰＳ_７８　　　　　　　　　　三行目{LF}ＴＩＰＳ_７８　　　　　　　　　　四行目{LF}ＴＩＰＳ_７８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７８"}
 ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}
-Protegendo
-Aparando
-O Mini-mapa
+Defesa
+Parry
+Mini-mapa
 Modo Intoner
 Ataques em Combinação
 Combo Aéreo
 Bloqueio
-O Menu de Pausa
+Menu de Pausa
 Evasão
 Evasão Aérea
 Ajuda de Navegação
@@ -13378,7 +13378,7 @@ ZH00 ゼロ家柱
 ワイバーンの岩
 宝箱
 爆弾（クエスト用）
-Baú Metálico
+Baú de Aço
 Canhão
 Canhão Hyper
 Navio de Guerra
@@ -13571,7 +13571,7 @@ ZH00 ゼロ家柱
 ワイバーンの岩
 宝箱
 爆弾（クエスト用）
-Baús Metálicos
+Baús de Aço
 Canhões
 Canhões Hyper
 Navios de Guerra
@@ -13624,21 +13624,21 @@ Volume de Voz
 Qualidade de Áudio
 Estéreo
 5.1ch Surround
-Controle de Câmera (Esquerda/Direita)
-Sensibilidade de Controle de Câmera (Esquerda/Direita)
+Controle de Câmera (Esq./Dir.)
+Sens. de Câmera (Esq./Dir.)
 Controle de Câmera (Cima/Baixo)
-Sensibilidade de Controle de Câmera (Cima/Baixo)
+Sens. de Câmera (Cima/Baixo)
 Distância da Câmera
 Perto
 Normal
 Longe
 Delay da Câmera
-Câmera de Perseguição
+Câmera de Acompanhamento
 Controles de Batalha Aérea
 Modo de Travar
 Normal
 Invertido
-Espalhamento de Sangue
+Respingos de Sangue
 Legendas
 Exibição de Vida do Inimigo
 Exibição de Corrente
@@ -13653,18 +13653,18 @@ Troca
 Defesa
 Passo
 Alternar vibração do controle.
-Escolher entre controles normais e invertidos durante estágios de batalha aérea.
-Escolher entre controles normais e invertidos de câmera horizontal.
-Ajustar a sensibilidade de movimento horizontal da câmera.
-Escolha entre controle de câmera vertical normal e invertido.
+Escolha entre controles normais e invertidos
+Escolha entre controles normais e invertidos da câmera horizontal.
+Ajuste a sensibilidade de movimento horizontal da câmera.
+Escolha entre controles normais e invertidos da câmera vertical.
 Ajuste a sensibilidade do movimento vertical da câmera.
-Ajuste se a câmera segue automaticamente atrás da Zero ou permanece estática.
+Ajuste se a câmera segue Zero ou fica estática.
 Ajuste o nível de brilho da tela.
 Ajuste o valor de gama da tela.
 Ajuste o volume da música de fundo.
 Ajuste o volume dos efeitos sonoros.
 Ajuste o volume das vozes dos personagens.
-Escolha se terá espirros de sangue na tela durante o combate.
+Escolha se terá respingos de sangue na tela durante o combate.
 Gama
 Restaurar todas as configurações para a configuração padrão?
 不使用1
@@ -13681,12 +13681,12 @@ Restaurar todas as configurações para a configuração padrão?
 不使用12
 不使用13
 不使用14
-Yes
-No
+Sim
+Não
 不使用15
-Select
-Confirm
-Back
+Selec.
+Aceitar
+Voltar
 不使用15
 不使用16
 不使用17
@@ -13825,7 +13825,7 @@ Back
 不使用150
 不使用151
 {04}
-Cannot use this item.
+Não é possível usar este item.
 不使用151
 不使用152
 不使用153
@@ -13846,55 +13846,55 @@ Cannot use this item.
 不使用168
 不使用169
 セントセリフ５
-第２章　第３節　～山の国～
-フォウのいる要塞を目指せ！
-Ride Mikhail and destroy all cannons!
-Destroy the giant cannon!
-Defeat all Gigas soldiers!
-Defeat all Gigas soldiers!
-Annihilate the soldiers!
+Capítulo 2, Seção 3 – A Terra das Montanhas
+Vá em direção à fortaleza onde Four está!
+Monte Mikhail e destrua todos os canhões!
+Destrua o canhão gigante!
+Derrote todos os soldados Gigas!
+Derrote todos os soldados Gigas!
+Aniquile os soldados!
 "Tutorial"
-"Magic Activation"
-Healing Water
-20% HP recovery
-Small Bottle of Vitality
-50% HP recovery
-Small Bottle of Magic
-50% MP recovery
-Item Stock 4
-You can hold 4 items
-Full Support
-The effect of items that recover MP is doubled
-Nosebleed
-A blood orb appears, and you become unable to fight for a certain time
+"Ativação Mágica"
+Água Curativa
+Recuperação de 20% de HP
+Poção de Vitalidade (P)
+Recuperação de 50% de HP
+Poção Mágica (P)
+Recuperação de 50% de MP
+Estoque de Itens 4
+Você pode carregar 4 itens
+Suporte Completo
+O efeito de itens que recuperam MP é duplicado
+Sangramento no Nariz
+Um orbe de sangue aparece, e você fica impossibilitado de lutar por um certo tempo
 Birmingham Dash
-No special meaning
-Item Stock 6
-You can hold 6 items
-Dedication
-The effect of items that recover HP is increased by 1.5 times
-Shoe Polish
-Your obedience rate increases for a certain time
-Human Chair
-Recover a small amount of HP from Zero
-Fallen Royal Sword
+Sem significado especial
+Estoque de Itens 6
+Você pode carregar 6 itens
+Dedicação
+O efeito de itens que recuperam HP é aumentado em 1,5 vezes
+Polidor de Sapatos
+Sua taxa de obediência aumenta por um certo tempo
+Cadeira Humana
+Recupera uma pequena quantidade de HP a partir da Zero
+Espada Real Caída
 HP +300
-None
-Zero Sword
+Nenhum
+Espada da Zero
 Zero War Wheel
-Zero Spear
-Zero Claw
-Inferno
-Forward
-Flame Gauntlet
-Ice Gauntlet
-Thunder Gauntlet
-Seashell Necklace
-HP slowly recovers automatically
-Blade Wing
-Melee attack power increases by 25%
-Panda Headgear
-Damage is cut by 30%
+Lança da Zero
+Garra da Zero
+炎上
+前方
+Manopla de Chama
+Manopla de Gelo
+Manopla de Trovão
+Colar de Concha
+HP se recupera lentamente de forma automática
+Asa de Lâmina
+Poder de ataque corpo a corpo aumenta em 25%
+Capacete de Panda
+Dano é reduzido em 30%
 60{#Name="60"}
 73{#Name="73"}
 253{#Name="253"}
@@ -13919,14 +13919,14 @@ Damage is cut by 30%
 253{#Name="253"}
 181{#Name="181"}
 307{#Name="307"}
- {#Name="ディト"}
- {#Name="オクタ"}
- {#Name="ディト"}
- {#Name="セント"}
- {#Name="デカート"}
- {#Name="オクタ"}
- {#Name="デカート"}
- {#Name="セント"}
+ {#Name="Dito"}
+ {#Name="Octa"}
+ {#Name="Dito"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
+ {#Name="Octa"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 379{#Name="379"}
 307{#Name="307"}
 289{#Name="289"}
@@ -13990,14 +13990,14 @@ Damage is cut by 30%
 199{#Name="199"}
 235{#Name="235"}
 91{#Name="91"}
- {#Name="ディト"}
- {#Name="オクタ"}
- {#Name="ディト"}
- {#Name="セント"}
- {#Name="デカート"}
- {#Name="オクタ"}
- {#Name="デカート"}
- {#Name="セント"}
+ {#Name="Dito"}
+ {#Name="Octa"}
+ {#Name="Dito"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
+ {#Name="Octa"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 199{#Name="199"}
 289{#Name="289"}
 145{#Name="145"}
@@ -14022,70 +14022,70 @@ Damage is cut by 30%
 523{#Name="523"}
 217{#Name="217"}
 505{#Name="505"}
-{#Name="253"}
-{#Name="433"}
-{#Name="235"}
-{#Name="379"}
-{#Name="451"}
-{#Name="199"}
-{#Name="289"}
-{#Name="289"}
-{#Name="379"}
-{#Name="307"}
-{#Name="73"}
-{#Name="91"}
-{#Name="181"}
-{#Name="181"}
-{#Name="217"}
-{#Name="739"}
-{#Name="199"}
-{#Name="199"}
-{#Name="60"}
-{#Name="145"}
-{#Name="235"}
-{#Name="235"}
-{#Name="60"}
-{#Name="235"}
-{#Name="307"}
-{#Name="60"}
-{#Name="559"}
-{#Name="325"}
-{#Name="379"}
-{#Name="91"}
-{#Name="253"}
-{#Name="91"}
-{#Name="60"}
-{#Name="325"}
-{#Name="271"}
-{#Name="559"}
-{#Name="60"}
-{#Name="91"}
-{#Name="469"}
-{#Name="469"}
-{#Name="181"}
-{#Name="433"}
-{#Name="271"}
-{#Name="433"}
-{#Name="60"}
-{#Name="163"}
-{#Name="325"}
-{#Name="127"}
-{#Name="343"}
-{#Name="271"}
-{#Name="451"}
-{#Name="145"}
-{#Name="397"}
-{#Name="181"}
-{#Name="397"}
-{#Name="163"}
-{#Name="60"}
-{#Name="271"}
-{#Name="307"}
-{#Name="109"}
-{#Name="271"}
-{#Name="289"}
-{#Name="415"}
-{#Name="199"}
+253{#Name="253"}
+433{#Name="433"}
+235{#Name="235"}
+379{#Name="379"}
+451{#Name="451"}
+199{#Name="199"}
+289{#Name="289"}
+289{#Name="289"}
+379{#Name="379"}
+307{#Name="307"}
+73{#Name="73"}
+91{#Name="91"}
+181{#Name="181"}
+181{#Name="181"}
+217{#Name="217"}
+739{#Name="739"}
+199{#Name="199"}
+199{#Name="199"}
+60{#Name="60"}
+145{#Name="145"}
+235{#Name="235"}
+235{#Name="235"}
+60{#Name="60"}
+235{#Name="235"}
+307{#Name="307"}
+60{#Name="60"}
+559{#Name="559"}
+325{#Name="325"}
+379{#Name="379"}
+91{#Name="91"}
+253{#Name="253"}
+91{#Name="91"}
+60{#Name="60"}
+325{#Name="325"}
+271{#Name="271"}
+559{#Name="559"}
+60{#Name="60"}
+91{#Name="91"}
+469{#Name="469"}
+469{#Name="469"}
+181{#Name="181"}
+433{#Name="433"}
+271{#Name="271"}
+433{#Name="433"}
+60{#Name="60"}
+163{#Name="163"}
+325{#Name="325"}
+127{#Name="127"}
+343{#Name="343"}
+271{#Name="271"}
+451{#Name="451"}
+145{#Name="145"}
+397{#Name="397"}
+181{#Name="181"}
+397{#Name="397"}
+163{#Name="163"}
+60{#Name="60"}
+271{#Name="271"}
+307{#Name="307"}
+109{#Name="109"}
+271{#Name="271"}
+289{#Name="289"}
+415{#Name="415"}
+199{#Name="199"}
 271{#Name="271"}
 541{#Name="541"}
 271{#Name="271"}
@@ -14100,11 +14100,11 @@ Damage is cut by 30%
  {#Name="Dito"}
  {#Name="Octa"}
  {#Name="Dito"}
- {#Name="Sexto"}
- {#Name="Décimo"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
  {#Name="Octa"}
- {#Name="Décimo"}
- {#Name="Sexto"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 271{#Name="271"}
 361{#Name="361"}
 397{#Name="397"}
@@ -14128,11 +14128,11 @@ Damage is cut by 30%
  {#Name="Dito"}
  {#Name="Octa"}
  {#Name="Dito"}
- {#Name="Sexto"}
- {#Name="Décimo"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
  {#Name="Octa"}
- {#Name="Décimo"}
- {#Name="Sexto"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 325{#Name="325"}
 415{#Name="415"}
 469{#Name="469"}
@@ -14151,14 +14151,14 @@ Damage is cut by 30%
 469{#Name="469"}
 73{#Name="73"}
 433{Name="433"}
-Name="Dito"}
-Name="Octa"}
-Name="Dito"}
-Name="Sexto"}
-Name="Decart"}
-Name="Octa"}
-Name="Decart"}
-Name="Sexto"}
+ {#Name="Dito"}
+ {#Name="Octa"}
+ {#Name="Dito"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
+ {#Name="Octa"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 631{Name="631"}
 361{Name="361"}
 109{Name="109"}
@@ -14183,14 +14183,14 @@ Name="Sexto"}
 163{Name="163"}
 433{Name="433"}
 145{Name="145"}
-Name="Dito"}
-Name="Octa"}
-Name="Dito"}
-Name="Sexto"}
-Name="Decart"}
-Name="Octa"}
-Name="Decart"}
-Name="Sexto"}
+ {#Name="Dito"}
+ {#Name="Octa"}
+ {#Name="Dito"}
+ {#Name="Cent"}
+ {#Name="Decadus"}
+ {#Name="Octa"}
+ {#Name="Decadus"}
+ {#Name="Cent"}
 289{Name="289"}
 307{Name="307"}
 307{Name="307"}
@@ -14212,10 +14212,10 @@ Name="Sexto"}
 Name="Dito"}
 Name="Octa"}
 Name="Dito"}
-Name="Sexto"}
-Name="Decart"}
+Name="Cent"}
+Name="Decadus"}
 Name="Octa"}
-#Name="Decart"}
+#Name="Decadus"}
 #Name="Cent"}
 289{#Name="289"}
 289{#Name="289"}
@@ -14227,27 +14227,27 @@ Name="Octa"}
 127{#Name="127"}
 163{#Name="163"}
 91{#Name="91"}
-Select the mission to play.{#Name="Explanation"}
-■Mission 1{LF}　Target Fou's life{LF}　Zero and Mikhail enter the mountain country.{LF}{LF}　On the way to Fou's fortress{LF}　they are exposed to enemy artillery fire{LF}　and are forced to fight on the ground.{#Name="Explanation"}
-■Mission 2{LF}　Break through the defense team{LF}　and infiltrate Fou's fortress.{LF}{LF}　There, many artillery and{LF}　soldiers are deployed.{LF}　Can Zero successfully{LF}　capture Fou?{#Name="Explanation"}
-■Select the camera type in the game.{#Name="Explanation"}
-　A Type　 (Tracking Camera){LF}　　A free camera that follows the player's gaze.{#Name="Explanation"}
-　B Type　 (Standard Free Camera){LF}　　A standard free camera.{#Name="Explanation"}
-　C Type　 (Tracking Camera){LF}　　A free camera that follows the player's gaze.{#Name="Explanation"}
-■Select the conversation content that unfolds during battle.{#Name="Explanation"}
-　A Type{LF}　　Conversations between ally characters, Dit and Decart,{LF}　　will unfold.{LF}{LF}　B Type{LF}　　Conversations between ally characters, Octa and Cent,{LF}　　will unfold.{#Name="Explanation"}
-Press the select button to return to the game.{#Name="Explanation"}
-Earned amount{#Name="Explanation"}
-G{#Name="Explanation"}
-Total number of defeats{#Name="Explanation"}
-person{#Name="Explanation"}
-CONTINUE？{#Name="Explanation"}
-Change settings with the left and right cross keys.{#Name="Explanation"}
-■Mission 1 & 2{LF}　Play Mission 1 and Mission 2 continuously.{LF}{LF}　Zero, who was exposed to the mountain country's defense team's bombardment.{LF}　Advance on the ground and aim for the fortress where Fou is staying.{LF}　Can Zero successfully capture Fou?
-■Screen blood splatter effect.{#Name="説明文"}
-■Change some button assignments.{#Name="説明文"}
-　Toggle blood splatter display on screen during attacks.{#Name="説明文"}
-　A-Type{LF}　　○ Button…　　Evasion Step{LF}　　L2 Button…　Dragon Observation/Summon{LF}{LF}　B-Type{LF}　　○ Button…　　Dragon Observation/Summon{LF}　　L2 Button…　Evasion Step{#Name="説明文"}
+Selecione a missão para jogar.{#Name="Explicação"}
+Missão 1{LF}Alvo: a vida da irmã Four{LF}Zero e Mikhail chegam a Terra das Montanhas.{LF}{LF}No caminho para a fortaleza de Four{LF}eles são expostos ao fogo de artilharia inimiga{LF}e são forçados a lutar no chão.{#Name="Explicação"}
+Missão 2{LF}Derrote a equipe de defesa{LF}e infiltre-se na fortaleza de Four.{LF}{LF}Lá, muitas peças de artilharia e{LF}soldados estão posicionados.{LF}Será que Zero conseguirá{LF}capturar Four com sucesso?{#Name="Explicação"}
+■Selecione o tipo de câmera do jogo.{#Name="Explicação"}
+Tipo A (Câmera de Rastreamento){LF}Uma câmera livre que segue o olhar do jogador.{#Name="Explicação"}
+Tipo B (Câmera Livre Padrão){LF}Uma câmera livre padrão.{#Name="Explicação"}
+Tipo C (Câmera de Rastreamento){LF}Uma câmera livre que segue o olhar do jogador.{#Name="Explicação"}
+■Selecione o conteúdo da conversa que ocorre durante a batalha.{#Name="Explicação"}
+Tipo A{LF}As conversas entre os personagens aliados, Dito e Decadus,{LF}irão se desenrolar.{LF}{LF}Tipo B{LF}As conversas entre os personagens aliados, Octa e Cent,{LF}irão se desenrolar.{#Name="Explicação"}
+Pressione o botão de seleção para voltar ao jogo.{#Name="Explicação"}
+Quantia ganha{#Name="Explicação"}
+G{#Name="Explicação"}
+Total de derrotas{#Name="Explicação"}
+人{#Name="Explicação"}
+CONTINUAR?{#Name="Explicação"}
+Altere as configurações com as teclas de direção esquerda e direita.{#Name="Explicação"}
+Missão 1 e 2{LF}　Play Mission 1 and Mission 2 continuously.{LF}{LF}　Zero, who was exposed to the mountain country's defense team's bombardment.{LF}　Advance on the ground and aim for the fortress where Fou is staying.{LF}　Can Zero successfully capture Fou?{#Name="Explicação"}
+■Efeito de respingo de sangue na tela.{#Name="Explicação"}
+■Altere algumas atribuições de botões.{#Name="Explicação"}
+Alternar exibição de respingos de sangue na tela durante os ataques.{#Name="Explicação"}
+　Ａタイプ{LF}　　○ボタン…　　回避ステップ{LF}　　Ｌ２ボタン…　ドラゴン注視／召喚{LF}{LF}　Ｂタイプ{LF}　　○ボタン…　　ドラゴン注視／召喚{LF}　　Ｌ２ボタン…　回避ステップ{#Name="Explicação"}
 163{#Name="163"}
 163{#Name="163"}
 109{#Name="109"}
@@ -14255,15 +14255,15 @@ Change settings with the left and right cross keys.{#Name="Explanation"}
 163{#Name="163"}
 343{#Name="343"}
 271{#Name="271"}
-Head for the fortress where Fou is!{#Name="説明文"}
-Destroy all cannons in the fortress!{#Name="説明文"}
-A giant cannon has appeared!{#Name="説明文"}
-Gigas soldiers and reinforcement troops have appeared!{#Name="説明文"}
-Defeat all Ogre soldiers!{#Name="説明文"}
-Defeat the Gigas soldier!{#Name="説明文"}
-Annihilate the soldiers!{#Name="説明文"}
-Goal achieved: All cannons destroyed!{#Name="説明文"}
-Goal achieved: Giant cannon destroyed!{#Name="説明文"}
+Vá para a fortaleza onde Four está!{#Name="Explicação"}
+Destrua todos os canhões da fortaleza!{#Name="Explicação"}
+Um canhão gigante apareceu!{#Name="Explicação"}
+Soldados Gigas e tropas de reforço apareceram!{#Name="Explicação"}
+Derrote todos os soldados Ogros!{#Name="Explicação"}
+Derrote o soldado Gigas!{#Name="Explicação"}
+Aniquile os soldados!{#Name="Explicação"}
+Objetivo alcançado: Todos os canhões destruídos!{#Name="Explicação"}
+Objetivo alcançado: Canhão Gigante destruído!{#Name="Explicação"}
 60
 73
 253
@@ -14275,10 +14275,10 @@ Goal achieved: Giant cannon destroyed!{#Name="説明文"}
 271
 127
 361
- Dit
+Dito
 Octa
 Cent
-Decart
+Decadus
 289
 109
 433
@@ -14303,7 +14303,7 @@ Decart
 631
 577
 649
-Explanation
+Explicação
 Missão Concluída!{#Name="Explicação"}
 Missão Falhou...{#Name="Explicação"}
 Bônus triplo de ouro conquistado!{#Name="Explicação"}
@@ -14316,115 +14316,115 @@ Você pegou um pouco de ouro.{#Name="Explicação"}
 Você pegou uma quantidade razoável de ouro.{#Name="Explicação"}
 Você pegou muito ouro!{#Name="Explicação"}
 Tempo esgotado!{#Name="Explicação"}
-Soldado de ouro a caminho.{LF}Derrote-o para um bônus de multiplicador de ouro!{#Name="Explicação"}
-Reforços adicionais de soldados de ouro.{LF}Ganhe um bônus de multiplicador de ouro para cada um derrotado!{#Name="Explicação"}
+Soldado Dourado a caminho.{LF}Derrote-o para um bônus de multiplicador de ouro!{#Name="Explicação"}
+Reforços adicionais de soldados dourados.{LF}Ganhe um bônus de multiplicador de ouro para cada um derrotado!{#Name="Explicação"}
 Bônus de multiplicador de ouro conquistado!{#Name="Explicação"}
 Todo o ouro conquistado perdido...{#Name="Explicação"}
-Todos os soldados de ouro derrotados!{#Name="Explicação"}
+Todos os soldados dourados derrotados!{#Name="Explicação"}
 Vou levar esses tolos por tudo que eles têm!{#Name="Zero"}
 Esses tesouros são meus!{#Name="Zero"}
-Eu consigo me soltar E ganhar dinheiro?{LF}O que mais uma garota pode pedir?{#Name="Zero"}
-Ei, desde que seja divertido E lucrativo...{#Name="Zero"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Coletar dinheiro e ir para o objetivo.{#Name="Explanation"}
-Se você alcançar o objetivo após coletar todo o dinheiro, você ganhará um bônus triplo!{#Name="Explanation"}
-Se você não alcançar o objetivo, o dinheiro que você coletou será magicamente transformado em cinzas.{#Name="Explanation"}
-Você coletou todo o dinheiro!{#Name="Explanation"}
-Rume para o objetivo e obtenha o dinheiro!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue o ouro dos soldados!{#Name="Explanation"}
-Derrote os soldados para ganhar o dobro do ouro!{#Name="Explanation"}
-Soldados derrotados!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue o ouro dos gigantes!{#Name="Explanation"}
-Derrote os gigantes para ganhar o dobro do ouro!{#Name="Explanation"}
-Gigantes derrotados!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue o ouro dos soldados e ogros!{#Name="Explanation"}
-Derrote os soldados e ogros para ganhar o dobro do ouro!{#Name="Explanation"}
-Soldados e ogros derrotados!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue o ouro do titã!
-Derrote o titã para ganhar o dobro do ouro!
-Titã derrotado!
-予備
-予備
-Pegue o ouro do centauro!
-Derrote o centauro para ganhar o dobro do ouro!
-Centauro derrotado!
-予備
-予備
-Pegue o ouro dos soldados e mortos-vivos!
-Derrote os soldados e mortos-vivos para ganhar o dobro do ouro!
-Soldados e mortos-vivos derrotados!
-Quando perto de uma estátua, a luz iluminará sua visão.
-予備
-Pegue o ouro dos soldados e magos!
-Derrote o soldado e mago para ganhar o dobro do ouro!
-Soldados e magos derrotados!
-予備
-予備
-Pegue o ouro do golem!
-Derrote os golems para ganhar o dobro do ouro!{#Name="Explanation"}
-Golems derrotados!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue o ouro de todos os seus inimigos!{#Name="Explanation"}
-Derrote todos os inimigos para ganhar o dobro do ouro!{#Name="Explanation"}
-Todos os inimigos derrotados!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Sobreviva por sete rodadas!{#Name="Explanation"}
-Sobreviva por oito rodadas!{#Name="Explanation"}
-Sobreviva por nove rodadas!{#Name="Explanation"}
-Sobreviva por dez rodadas!{#Name="Explanation"}
-Sobreviva em todas as rodadas e você ganhará um bônus!{#Name="Explanation"}
-Cair em batalha e você não ganhará nada!{#Name="Explanation"}
-Se você se sentir superado, se retire e você manterá qualquer ouro que tenha ganho!{#Name="Explanation"}
-Você sobreviveu em todas as rodadas!{#Name="Explanation"}
-Bônus obtido!{#Name="Explanation"}
+Eu consigo me soltar e ganhar dinheiro?{LF}O que mais uma garota pode pedir?{#Name="Zero"}
+Ei, desde que seja divertido e lucrativo...{#Name="Zero"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Colete dinheiro e vá para o objetivo.{#Name="Explicação"}
+Se você alcançar o objetivo após coletar todo o dinheiro, você ganhará um bônus triplo!{#Name="Explicação"}
+Se você não alcançar o objetivo, o dinheiro que você coletou será magicamente transformado em cinzas.{#Name="Explicação"}
+Você coletou todo o dinheiro!{#Name="Explicação"}
+Vá para o objetivo e obtenha o dinheiro!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro dos soldados!{#Name="Explicação"}
+Derrote os soldados para ganhar o dobro do ouro!{#Name="Explicação"}
+Soldados derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro dos gigas!{#Name="Explicação"}
+Derrote os gigas para ganhar o dobro do ouro!{#Name="Explicação"}
+Gigas derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro dos soldados e ogros!{#Name="Explicação"}
+Derrote os soldados e ogros para ganhar o dobro do ouro!{#Name="Explicação"}
+Soldados e ogros derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro do titã!{#Name="Explicação"}
+Derrote o titã para ganhar o dobro do ouro!{#Name="Explicação"}
+Titã derrotado!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro do centauro!{#Name="Explicação"}
+Derrote o centauro para ganhar o dobro do ouro!{#Name="Explicação"}
+Centauro derrotado!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro dos soldados e mortos-vivos!{#Name="Explicação"}
+Derrote os soldados e mortos-vivos para ganhar o dobro do ouro!{#Name="Explicação"}
+Soldados e mortos-vivos derrotados!{#Name="Explicação"}
+Quando perto de uma estátua, a luz iluminará sua visão.{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro dos soldados e magos!{#Name="Explicação"}
+Derrote os soldados e magos para ganhar o dobro do ouro!{#Name="Explicação"}
+Soldados e magos derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro do golem!{#Name="Explicação"}
+Derrote os golems para ganhar o dobro do ouro!{#Name="Explicação"}
+Golens derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue o ouro de todos os seus inimigos!{#Name="Explicação"}
+Derrote todos os inimigos para ganhar o dobro do ouro!{#Name="Explicação"}
+Todos os inimigos derrotados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Sobreviva por sete rodadas!{#Name="Explicação"}
+Sobreviva por oito rodadas!{#Name="Explicação"}
+Sobreviva por nove rodadas!{#Name="Explicação"}
+Sobreviva por dez rodadas!{#Name="Explicação"}
+Sobreviva em todas as rodadas e você ganhará um bônus!{#Name="Explicação"}
+Seja derrotado e você não ganhará nada!{#Name="Explicação"}
+Se você se sentir sobrecarregado, retire-se e manterá todo o ouro que conquistou!{#Name="Explicação"}
+Você sobreviveu em todas as rodadas!{#Name="Explicação"}
+Bônus obtido!{#Name="Explicação"}
 Continuar para a próxima rodada?{#Name="Explicação"}
-Aposentar aqui?{#Name="Explicação"}
+Se retirar?{#Name="Explicação"}
 Rodada 1{#Name="Explicação"}
 Rodada 2{#Name="Explicação"}
 Rodada 3{#Name="Explicação"}
@@ -14444,177 +14444,177 @@ Continuar para a próxima rodada?{LF}(5 rodadas restantes){#Name="Explicação"}
 Continuar para a próxima rodada?{LF}(4 rodadas restantes){#Name="Explicação"}
 Continuar para a próxima rodada?{LF}(3 rodadas restantes){#Name="Explicação"}
 Continuar para a próxima rodada?{LF}(2 rodadas restantes){#Name="Explicação"}
-Continue para a próxima rodada?{LF}(1 rodada restante){#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue as Tealstones dos alvos!{#Name="Explanation"}
-Todas as Tealstones adquiridas!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue as Flintstones dos alvos!{#Name="Explanation"}
-Todas as Flintstones adquiridas!{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Reserva{#Name="Explanation"}
-Pegue as Foodstones dos alvos!{#Name="Explanation"}
-Todas as Foodstones adquiridas!{#Name="Explanation"}
-Quando perto de uma estátua, a luz iluminará sua visão.{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue as Pedras Flutuantes dos alvos!{#Name="Explanation"}
-Todas as Pedras Flutuantes adquiridas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue as Pedras Cometa dos alvos!{#Name="Explanation"}
-Todas as Pedras Cometa adquiridas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Chifres de Boi dos alvos!{#Name="Explanation"}
-Todos os Chifres de Boi adquiridos!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue as Garras de Falcão dos alvos!{#Name="Explanation"}
-Todas as Garras de Falcão adquiridas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Ferrões de Sapo dos alvos!{#Name="Explanation"}
-Todos os Ferrões de Sapo adquiridos!{#Name="Explanation"}
-Quando perto de uma estátua, a luz iluminará sua visão!{#Name="Explanation"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
+Continuar para a próxima rodada?{LF}(1 rodada restante){#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedra Turquesa dos alvos!{#Name="Explicação"}
+Todas as Pedra Turquesa adquiridas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedra de Sílex dos alvos!{#Name="Explicação"}
+Todas as Pedra de Sílex adquiridas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedra Nutritiva dos alvos!{#Name="Explicação"}
+Todas as Pedra Nutritiva adquiridas!{#Name="Explicação"}
+Quando perto de uma estátua, a luz iluminará sua visão.{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedras Flutuantes dos alvos!{#Name="Explicação"}
+Todas as Pedras Flutuantes adquiridas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedras Cometa dos alvos!{#Name="Explicação"}
+Todas as Pedras Cometa adquiridas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Chifres de Boi dos alvos!{#Name="Explicação"}
+Todos os Chifres de Boi adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Garras de Falcão dos alvos!{#Name="Explicação"}
+Todas as Garras de Falcão adquiridas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Ferrões de Sapo dos alvos!{#Name="Explicação"}
+Todos os Ferrões de Sapo adquiridos!{#Name="Explicação"}
+Quando perto de uma estátua, a luz iluminará sua visão!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
 Pegue os Fósseis de Osso dos alvos!{#Name="Explicação"}
 Todos os Fósseis de Osso adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
 Pegue os Artefatos do Mundo Antigo dos alvos!{#Name="Explicação"}
 Todos os Artefatos do Mundo Antigo adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros de Esperança dos alvos!{#Name="Explicação"}
-Todos os Livros de Esperança adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros de Reticência dos alvos!{#Name="Explicação"}
-Todos os Livros de Reticência adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros de Santidade dos alvos!{#Name="Explicação"}
-Todos os Livros de Santidade adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Esperança dos alvos!{#Name="Explicação"}
+Todos os Livros da Esperança adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Reticência dos alvos!{#Name="Explicação"}
+Todos os Livros da Reticência adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Santidade dos alvos!{#Name="Explicação"}
+Todos os Livros da Santidade adquiridos!{#Name="Explicação"}
 Quando perto de uma estátua, a luz iluminará sua visão!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros de Pureza dos alvos!{#Name="Explicação"}
-Todos os Livros de Pureza adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros de Doutrina dos alvos!{#Name="Explicação"}
-Todos os Livros de Doutrina adquiridos!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue as Pedras Rosadas escondidas nos cofres de aço!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Pureza dos alvos!{#Name="Explicação"}
+Todos os Livros da Pureza adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Doutrina dos alvos!{#Name="Explicação"}
+Todos os Livros da Doutrina adquiridos!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedras Rosadas escondidas nos baús de aço!{#Name="Explicação"}
 Todas as Pedras Rosadas coletadas!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue as Pedras Âmbar escondidas nos cofres de aço!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedras Âmbar escondidas nos baús de aço!{#Name="Explicação"}
 Todas as Pedras Âmbar coletadas!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue as Pedras de Movimento escondidas nos cofres de aço!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Pedras de Movimento escondidas nos baús de aço!{#Name="Explicação"}
 Todas as Pedras de Movimento coletadas!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue as pedras de Magnetite escondidas nos cofres de aço!{#Name="Explanation"}
-Todas as pedras de Magnetite coletadas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue as pedras de Meteorite escondidas nos cofres de aço!{#Name="Explanation"}
-Todas as pedras de Meteorite coletadas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Chifres de Unicórnio escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Chifres de Unicórnio coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue as Garras de Águia escondidas nos cofres de aço!{#Name="Explanation"}
-Todas as Garras de Águia coletadas!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Dentes de Víbora escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Dentes de Víbora coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Fósseis de Plantas escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Fósseis de Plantas coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Cacos do Mundo Antigo escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Cacos do Mundo Antigo coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Livros de Ambição escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Livros de Ambição coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Livros de Estoicismo escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Livros de Estoicismo coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Livros de Mistério escondidos nos cofres de aço!{#Name="Explanation"}
-Todos os Livros de Mistério coletados!{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-予備{#Name="Explanation"}
-Pegue os Livros da Inocência escondidos nos cofres de aço!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Magnetita escondidas nos baús de aço!{#Name="Explicação"}
+Todas as Magnetita coletadas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Meteoritos escondidos nos baús de aço!{#Name="Explicação"}
+Todas os Meteoritos coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Chifres de Unicórnio escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Chifres de Unicórnio coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Garras de Águia escondidas nos baús de aço!{#Name="Explicação"}
+Todas as Garras de Águia coletadas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue as Presas de Víbora escondidas nos baús de aço!{#Name="Explicação"}
+Todos as Presas de Víbora coletadas!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Fósseis de Plantas escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Fósseis de Plantas coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Fragmentos do Mundo Antigo escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Fragmentos do Mundo Antigo coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Ambição escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Livros da Ambição coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros do Estoicismo escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Livros do Estoicismo coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros do Mistério escondidos nos baús de aço!{#Name="Explicação"}
+Todos os Livros do Mistério coletados!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Inocência escondidos nos baús de aço!{#Name="Explicação"}
 Todos os Livros da Inocência coletados!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Pegue os Livros da Disciplina escondidos nos cofres de aço!{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Pegue os Livros da Disciplina escondidos nos baús de aço!{#Name="Explicação"}
 Todos os Livros da Disciplina coletados!{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Reserva{#Name="Explicação"}
-Explanation
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+予備{#Name="Explicação"}
+Explicação
 Zero
 Condições de Limpeza de Quest
 Exibir Condições de Limpeza de Quest 1010_1
@@ -14690,23 +14690,23 @@ Adquira 9 Livros de Doutrina.
 Reúna tanto ouro quanto possível antes do tempo expirar.
 Exibir condições de conclusão da quest 5040_2
 Próximo
-Selecionar
+Selec.
 Experiência Ganha:
-Corrente Mais Longa:
+Combo Mais Longo:
 Dano Recebido:
-Bônus Sem Continuar:
+Bônus Sem-Continuar:
 Experiência Total Ganha:
 acertos
 exp
 Nv.
 Próximo Nível:
 Vida
-Energia
+Estamina
 Ataque
 Lealdade
 Rank
 Próximo Rank
-Apenas o pensamento dela usando minha arma...{LF}Tanta...humilhação maravilhosa...
+Apenas o pensamento dela usando minha arma...{LF}Que... humilhação maravilhosa...
 {04}
 Sua confiança com {04}
 Ouro Total:
@@ -14719,7 +14719,7 @@ Nova arma obtida!
 Aqui vai, "Lady Zero." Talvez isso ajude.
 Mikhail evoluiu para sua segunda forma!
 Mikhail evoluiu para sua forma final!
-Mikhail devolveu!
+Mikhail desevoluiu!
 Pedido #{04}
 Tempo de Conclusão:
 Inimigos Derrotados:
@@ -14750,24 +14750,24 @@ zab
 Rota A completa.
 Rota B completa.
 Rota C completa.
-Todas as versos perdidas completas.
-Pedido desbloqueado no País dos Mares.{LF}Acesse-o no menu de seleção de capítulo.
+Todas as versos perdidos completos.
+Pedido desbloqueado na Terra dos Mares.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Montanhas.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Florestas.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Areias.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Cidade da Catedral.{LF}Acesse-o no menu de seleção de capítulo.
-A Lâmina da Zero agora está no Lv. {04}
+A Lâmina da Zero agora está no Nv. {04}
 Obrigado por me deixar se juntar a você, minha senhora.{LF}Por favor, mantenha isso como um símbolo de minha lealdade.
 Não quero nada mais do que servir minha Intoner...{LF}E talvez parecer bem enquanto faço isso.
-Navio aéreo adquirido!
-A Lâmina da Zero agora está no Lv. 2!
-A Lâmina da Zero agora está no Lv. 3!
-A Lâmina da Zero agora está no Lv. 4!
+Dirigível adquirido!
+A Lâmina da Zero agora está no Nv. 2!
+A Lâmina da Zero agora está no Nv. 3!
+A Lâmina da Zero agora está no Nv. 4!
 Você tem se saído bem ultimamente.{LF}Talvez possa lidar com isso agora.
 Permita-me retribuir por sua...bondade, minha senhora.{LF}Espero sofrer mais...muito mais...disso em breve.
 Um símbolo de lealdade de mim para você, minha senhora. {LF}Que nosso prazer mútuo dure por todo o tempo...e mais um pouco.
 É, talvez sinta-se livre para me agradecer agora?{LF}Quero dizer, eu tenho sido muito útil.
-O Accord postou uma nova solicitação:
+A Accord postou uma nova solicitação:
 Acesse pelo menu Selecção de Capítulo!
 Três solicitações de Terra dos Mares concluídas!{LF}Solicitação bônus "{04}
 Três solicitações de Terra das Montanhas concluídas!{LF}Solicitação bônus "{04}
@@ -14778,7 +14778,7 @@ Bônus de Conclusão:
 Bônus de Conclusão de Missão!
 {04}
 Bônus de Conclusão de Missão!
-Bônus de Slayer:
+Bônus de Assassino:
 Bônus de Solicitação 2:
 Bônus de Solicitação 3:
 Bônus de Conclusão de Solicitação:
@@ -14799,8 +14799,8 @@ Presente obtido!
 Bônus de Conclusão pela Primeira Vez!
 Bônus de Conclusão!
 Tesouro obtido!
-Verso perdido "Canção do Accord" desbloqueado.
-Verso perdido "Oração do Accord" desbloqueado.
+Verso perdido "Canção de Accord" desbloqueado.
+Verso perdido "Oração de Accord" desbloqueado.
 O FIM
 {04}
 Você agora tem três discípulos.{LF}Você pode selecionar quais discípulos levar com você{LF}no menu de Preparação de Batalha.
@@ -14808,36 +14808,36 @@ Rota B desbloqueada.
 Rota C desbloqueada.
 Versos perdidos desbloqueados.
 Rota D desbloqueada.
-As Pedras Amadas
-Caça ao Chifre
+Pedras Benevolentes
+Caçada ao Chifre
 Clube do Livro: Esperança
-Peregrinação Pinkstone
-Comunicornos
+Peregrinação da Pedra Rosada
+Comunicónios
 Clube do Livro: Ambição
-Pagamento de Seaside
+Pagamento do Mar
 A Primeira Sobrevivência
 A Segunda Sobrevivência
 A Terceira Sobrevivência
 A Última Sobrevivência
-Restrição de Flint
-Sussurro de Falcão
+Caçada as Pedras de Sílex
+Sussurro do Falcão
 Clube do Livro: Reticência
-Pagamento de Montanha
-A Zona Amberstone
-Batedor de Águia
+Pagamento da Montanha
+A Zona Pedra Âmbar
+Escoteiro Águia
 Clube do Livro: Estoicismo
 Em Movimento
 Presas de Sorte
 Clube do Livro: Mistério
 Pagamento de Floresta
-Festival de Comida
-Medicamentos Stinger
+Festival da Comida
+Medicamentos do Ferrão
 Clube do Livro: Santidade
 Como uma Pedra Flutuante
 Fósseis Famosos
 Clube do Livro: Pureza
 Resgate de Dinheiro
-Plante Sua Reivindicação
+Reivindique seu Espaço
 Clube do Livro: Inocência
 Pagamento do Deserto
 Estrelas Cadentes
@@ -14848,14 +14848,14 @@ História Desenterrada
 Clube do Livro: Doutrina
 Pagamento da Catedral
 Sobrevivência
-Memórias dos Intoners{LF}foi desbloqueado.
-Aumentar o nível desse personagem desbloqueou uma nova história bônus.{LF}Você pode visualizá-la no menu Memórias dos Intoners.
+Memórias das Intoners{LF}foram desbloqueadas.
+Aumentar o nível desse personagem desbloqueou uma nova história bônus.{LF}Você pode visualizá-la no menu Memórias das Intoners.
 Todas as missões concluídas! Obteve {04}
 Todas as missões concluídas! Obteve {04}
-Soldados de Ouro agora aparecerão em algum lugar dentro dessas missões.
+Soldados Dourados agora aparecerão em algum lugar dentro dessas missões.
 Configurações
 Abandonar Missão
-Ajustar várias configurações do jogo.
+Ajustar configurações do jogo.
 Abandonar a missão atual e retornar ao menu de seleção de capítulo.
 Abandonar a missão atual e retornar ao menu de seleção de capítulo?
 Música
@@ -15377,43 +15377,43 @@ Stuff510(***********. ************* INC.)
 Stuff511(***********. ************* INC.)
 Stuff512(***********. ************* INC.)
 Stuff513(***********. ************* INC.)
-Coisas514(***********. ************* LTDA.)
-Coisas515(***********. ************* LTDA.)
-Coisas516(***********. ************* LTDA.)
-Coisas517(***********. ************* LTDA.)
-Coisas518(***********. ************* LTDA.)
-Coisas519(***********. ************* LTDA.)
-Coisas520(***********. ************* LTDA.)
-Coisas521(***********. ************* LTDA.)
-Coisas522(***********. ************* LTDA.)
-Coisas523(***********. ************* LTDA.)
-Coisas524(***********. ************* LTDA.)
-Coisas525(***********. ************* LTDA.)
-Coisas526(***********. ************* LTDA.)
-Coisas527(***********. ************* LTDA.)
-Coisas528(***********. ************* LTDA.)
-Coisas529(***********. ************* LTDA.)
-Coisas530(***********. ************* LTDA.)
-Coisas531(***********. ************* LTDA.)
-Coisas532(***********. ************* LTDA.)
-Coisas533(***********. ************* LTDA.)
-Coisas534(***********. ************* LTDA.)
-Coisas535(***********. ************* LTDA.)
-Coisas536(***********. ************* LTDA.)
-Coisas537(***********. ************* LTDA.)
-Artigos538(***********. ************* LTDA.)
-Artigos539(***********. ************* LTDA.)
-Artigos540(***********. ************* LTDA.)
-Artigos541(***********. ************* LTDA.)
-Artigos542(***********. ************* LTDA.)
-Artigos543(***********. ************* LTDA.)
-Artigos544(***********. ************* LTDA.)
-Artigos545(***********. ************* LTDA.)
-Artigos546(***********. ************* LTDA.)
-Artigos547(***********. ************* LTDA.)
-Artigos548(***********. ************* LTDA.)
-Artigos549(***********. ************* LTDA.)
-Artigos550(***********. ************* LTDA.)
+Stuff514(***********. ************* LTDA.)
+Stuff515(***********. ************* LTDA.)
+Stuff516(***********. ************* LTDA.)
+Stuff517(***********. ************* LTDA.)
+Stuff518(***********. ************* LTDA.)
+Stuff519(***********. ************* LTDA.)
+Stuff520(***********. ************* LTDA.)
+Stuff521(***********. ************* LTDA.)
+Stuff522(***********. ************* LTDA.)
+Stuff523(***********. ************* LTDA.)
+Stuff524(***********. ************* LTDA.)
+Stuff525(***********. ************* LTDA.)
+Stuff526(***********. ************* LTDA.)
+Stuff527(***********. ************* LTDA.)
+Stuff528(***********. ************* LTDA.)
+Stuff529(***********. ************* LTDA.)
+Stuff530(***********. ************* LTDA.)
+Stuff531(***********. ************* LTDA.)
+Stuff532(***********. ************* LTDA.)
+Stuff533(***********. ************* LTDA.)
+Stuff534(***********. ************* LTDA.)
+Stuff535(***********. ************* LTDA.)
+Stuff536(***********. ************* LTDA.)
+Stuff537(***********. ************* LTDA.)
+Stuff538(***********. ************* LTDA.)
+Stuff539(***********. ************* LTDA.)
+Stuff540(***********. ************* LTDA.)
+Stuff541(***********. ************* LTDA.)
+Stuff542(***********. ************* LTDA.)
+Stuff543(***********. ************* LTDA.)
+Stuff544(***********. ************* LTDA.)
+Stuff545(***********. ************* LTDA.)
+Stuff546(***********. ************* LTDA.)
+Stuff547(***********. ************* LTDA.)
+Stuff548(***********. ************* LTDA.)
+Stuff549(***********. ************* LTDA.)
+Stuff550(***********. ************* LTDA.)
 Story 0010
 Story 0020
 Story 1010
@@ -15472,7 +15472,7 @@ Excluir Arquivo de Gravação
 Excluir este arquivo de gravação?
 Iniciar uma nova campanha.
 Continuar uma campanha em andamento.
-Ajustar configurações de jogo variadas.
+Ajustar configurações de jogo.
 Ver as armas e personagens que aparecem na história.
 Mudar o traje da Zero, a aparência de Mikhail ou a música de fundo.
 Verificando dados atuais.{LF}Não desligue seu sistema PlayStation®3.
@@ -15489,152 +15489,152 @@ Verificando conteúdo baixável válido.{LF}Não desligue seu sistema PlayStatio
 {06}>
 {06}>
 {06}>
-Controles: Evitar
-Pressione {01}{0B} para evitar na direção em que você está enfrentando.{LF}Use-o enquanto está travado para rapidamente se esquivar de seus inimigos.
-Controles: Trocar Armas
+Controles / Esquiva
+Pressione {01}{0B} para se esquivar na direção em que está virado.{LF}Use isso enquanto estiver travado no inimigo para se mover rapidamente ao redor dos seus adversários.
+Controles / Troca de Armas
 Pressione {01}{09} ou {01}{0C} para abrir o menu de armas, então pressione{LF}o botão que corresponde à arma que você deseja usar.
-Armas da Zero: Lanças
-Lanças não apenas têm poder e alcance longo,{LF}mas também podem ser usadas para quebrar a guarda do inimigo.
-Controles: Guardar
-Pressione {01}{02} para guardar contra ataques inimigos. Guardar esgota a stamina;{LF}se sua Medição de Stamina atingir 0, sua guarda será quebrada.
-Armas da Zero: Chakrams
+Armas da Zero / Lanças
+Lanças não apenas têm poder e alcance longo,{LF}mas também podem ser usadas para quebrar a defesa do inimigo.
+Controles / Defesa
+Pressione {01}{02} para se defender dos ataques inimigos. Defender consome estamina;{LF}se seu Medidor de Estamina chegar a 0, sua defesa será quebrada.
+Armas da Zero / Chakrams
 Chakrams são armas de longo alcance que são eficazes{LF}contra inimigos aéreos e inimigos distantes.
-Controles: Modo Intoner
+Controles / Modo Intoner
 Pressione {01}{0A} e {01}{0D} simultaneamente para ativar o Modo Intoner.{LF}Pressione-os novamente para encerrar o Modo Intoner.
-Inimigo / Soldado de Escudo
-Soldados de escudo podem ter seus escudos destruídos{LF}por ataques de habilidade com {01}{04}.
+Inimigo / Escudeiro
+Escudeiros podem ter seus escudos destruídos{LF}por ataques de habilidade com {01}{04}.
 Baús de Tesouro
 Ataque um baú para revelar o conteúdo dentro.{LF}Verifique a tela de resultados no final da fase para mais informações.
 Operação de Mikhail 2
-During a jump, press {01}{01} to enter flight mode.{LF}{01}{02} to cancel the mode and land.
-Controles: Ações Básicas
-Use o stick esquerdo para mover o retículo de mira.{LF}Pressione {01}{03} para soprar fogo no local mirado.
-Controles: Bloqueio Múltiplo
-Pressione e segure {01}{03} e use o stick esquerdo para bloquear múltiplos inimigos.{LF}Solte {01}{03} para atacar todos os inimigos bloqueados ao mesmo tempo.
-Controles: Rolar
-Pressione {01}{0B} ou {01}{02} para realizar um rolo evasivo que o protege{LF}de ataques. Use-o com o stick esquerdo para movimento mais rápido.
-Armas da Zero: Punhos de Combate
-Os punhos de combate são ideais para pilhas de combos{LF}contra inimigos solitários em espaços apertados.
-Operação / Movimento de Rodeio
+Durante um salto, pressione {01}{01} para entrar no modo de voo.{LF}{01}{02} para cancelar o modo e aterrissar.
+Controles / Ações Básicas
+Use o analógico esquerdo para mover o retículo de mira.{LF}Pressione {01}{03} para soprar fogo no local mirado.
+Controles / Travamento múltiplo de alvos
+Pressione e segure {01}{03} e use o analógico esquerdo para travar a mira em múltiplos inimigos.{LF}Solte {01}{03} para atacar todos os inimigos mirados ao mesmo tempo.
+Controles / Rolamento
+Pressione {01}{0B} ou {01}{02} para realizar uma rolagem evasiva que o protege{LF}de ataques. Use-o com o analógico esquerdo para movimento mais rápido.
+Armas da Zero / Punhos de Combate
+Braçadeiras de combate são ideais para desferir combos consecutivos{LF}contra inimigos únicos em espaços apertados.
+Operação / Contornar Inimigos
 Ao realizar um passo lateral enquanto está bloqueado, você pode{LF}contornar o inimigo por trás.
-Inimigo / Soldado de Artilharia
+Inimigo / Canhoneiro
 As balas disparadas do canhão caem{LF}na posição do cursor de impacto.
-Armas da Zero: Espada
+Armas da Zero / Espada
 A espada é uma arma excelente para ataques rápidos e{LF}ataques em uma área específica. Mostra seu poder quando cercado por muitos inimigos.
 Inimigo / Morto-Vivo
 Eles estão equipados com um escudo que anula ataques.{LF}Eles continuarão a se levantar até que você os derrote definitivamente.
 Inimigo / Lobo
 Eles são habilidosos em ataques rápidos e saltos longos.{LF}Eles atacam em grupo, liderados pelo Lobo Líder.
-Características da Roda de Batalha / Ataque de Carga
-Pressione e segure {01}{03} e {01}{04} para realizar um ataque de carga.{LF}Se você pressionar {01}{04}, a técnica em si também será fortalecida.
+Características da Roda de Batalha / Ataques Carregados
+Pressione e segure {01}{03} e {01}{04} para realizar um ataque carregado.{LF}Se você pressionar {01}{04}, a técnica em si também será fortalecida.
 Inimigo / Espírito
-The special enemy that can possess surrounding enemies.{LF}The possessed opponent will instantly increase their attack and defense power.
-Enemy / Battleship Gunner
-The cannonball fired from the large gun will fall at the{LF}position of the impact cursor.
-Controls: Basic Actions
-While flying, you will gradually lose altitude. Press {01}{01} to flap{LF}your wings and ascend. Press {01}{03} to fire a breath attack.
-Enemy / Archer
-A soldier skilled in long-range attacks.{LF}Weak to direct hits and struggles with close combat.
-Controls: Charge Attacks
-Press {01}{04} while flying to perform a powerful{LF}charging attack that costs stamina to use.
-Mikhail's Operation / Lock-on
-Press {01}{08} to lock onto an enemy.{LF}You will move towards the targeted enemy and be able to attack.
-Enemy / Troll
-Although slow-moving, this enemy is quick to attack its prey.{LF}It is insensitive to pain and will not easily flinch from damage.
-Enemy / Imp
-A flying enemy that can freely move between the ground and air.{LF}It excels at guided missiles and rapid aerial assaults.
-Operation / Movement
-Use the left stick to control the player.
-Operation / Camera
-Use the right analog stick to control the camera.
-Controls: Navigation
-Press {01}{0D} to display a navigation arrow that will{LF}point you in the direction of your next goal.
-Controls: Mini-map
-Use the mini-map at the top-right of the screen to check your{LF}current surroundings. Press {01}{0A} to change the zoom level.
-Operation / Normal Attack
-Press the {01}{03} button to perform a normal attack.{LF}The attack will change if you press it repeatedly.
-Controles: Bloqueio
-Pressione {01}{08} para bloquear um inimigo; pressione novamente para cancelar.{LF}Use o stick direito para alternar entre alvos.
-Controles: Ataques de Estamina
+O inimigo especial que pode possuir os inimigos ao redor.{LF}O oponente possuído terá seu poder de ataque e defesa aumentados instantaneamente.
+Inimigo / Canhoneiro de Navio de Guerra
+A bola de canhão disparada pela grande arma cairá na{LF}posição do cursor de impacto.
+Controles / Ações Básicas
+Enquanto voa, você perderá altura gradualmente. Pressione {01}{01} para bater as asas{LF}e subir. Pressione {01}{03} para disparar um ataque de fogo.
+Inimigo / Arqueiro
+Um soldado habilidoso em ataques de longo alcance. Vulnerável a golpes diretos e tem dificuldade em combate corpo a corpo.
+Controles / Ataques Carregados
+Pressione {01}{04} enquanto voa para realizar um poderoso{LF}ataque carregado que consome resistência para usar.
+Operação de Mikhail / Lock-on
+Pressione {01}{08} para travar em um inimigo.{LF}Você se moverá em direção ao inimigo alvo e poderá atacar.
+Inimigo / Troll
+Embora o movimento seja lento, este inimigo é rápido para atacar sua presa.{LF}Ele é insensível à dor e não vai facilmente recuar do dano.
+Inimigo / Diabinho
+É um inimigo do tipo voador que se move livremente entre o solo e o ar. É especializado em projéteis teleguiados e investidas rápidas vindas do alto.
+Operação / Movimentação
+Use o analógico esquerdo para controlar o jogador.
+Operação / Câmera
+Use o analógico direito para controlar a câmera.
+Controles / Navegação
+Pressione {01}{0D} para exibir uma seta de navegação que irá{LF}apontar na direção do seu próximo objetivo.
+Controles / Mini-mapa
+Use o mini-mapa no canto superior direito da tela para verificar seus{LF}arredores. Pressione {01}{0A} para alterar o nível de zoom.
+Operação / Ataque Normal
+Pressione o botão {01}{03} para realizar um ataque normal.{LF}O ataque mudará se você pressioná-lo repetidamente.
+Controles / Travar Mira
+Pressione {01}{08} para travar a mira em um inimigo; pressione novamente para cancelar.{LF}Use o analógico direito para alternar entre alvos.
+Controles / Ataques de Estamina
 Pressione {01}{04} para realizar um ataque de estamina, um movimento poderoso{LF}que consome energia do seu Medidor de Estamina.
 O Medidor de Sangue
 Seu medidor de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que ele se encha até um certo ponto, você pode ativar o Modo de Intoner.
-Operações / Cantar
+Controles / Cantar
 Cantar
-Operações / Corte de Salto
+Controles / Corte de Salto
 Corte de Salto
-Inimigo / Soldado de Lança
-Inimigo / Tutorial do Soldado de Lança
-Controles: Sopro de Fogo
+Inimigo / Lanceiro
+Inimigo / Tutorial do Lanceiro
+Controles / Sopro de Fogo
 Pressione {01}{04} enquanto estiver no chão para soprar fogo,{LF}desencadeando um ataque poderoso que consome estamina.
-Controles: Deflexão
-Defenda justo antes de um ataque acertar, e você pode contra-atacar{LF}com um ataque poderoso próprio, sem consumir qualquer estamina.
+Controles / Parry
+Defenda momentos antes de um ataque te acertar, e você pode contra-atacar{LF}com um ataque poderoso, sem consumir estamina.
 Inimigo / Soldado de Escudo Pequeno
 Inimigo / Tutorial do Soldado de Escudo Pequeno
-Habilidade do Apóstolo / Dito
-Habilidade do Apóstolo / Tutorial de Dito
+Habilidade do Discípulo / Dito
+Habilidade do Discípulo / Tutorial de Dito
 Linhas de Queda
 Cair de uma plataforma além da linha de queda,{LF}e você sofrerá dano e será teleportado de volta para o topo.
-Operações / Ataque de Troca de Arma
-Operações / Tutorial do Ataque de Troca de Arma
+Controles / Ataque de Troca de Arma
+Controles / Tutorial do Ataque de Troca de Arma
 Inimigo / Ogro
 Inimigo / Tutorial do Ogro
 Inimigo / Espírito
 Inimigo / Tutorial do Espírito
-Habilidade do Apóstolo / Decart
-Habilidade do Apóstolo / Tutorial de Decart
-Habilidade do Apóstolo / Octa
-Habilidade do Apóstolo / Tutorial de Octa
-Controles: Multi Lock-on de Chakram
-Pressione {01}{04} e use o stick esquerdo para bloquear múltiplos inimigos.{LF}Solte {01}{04} para atacar todos os inimigos bloqueados ao mesmo tempo.
-Inimigo / Soldado a Cavalo
-Inimigo / Tutorial do Soldado a Cavalo
+Habilidade do Discípulo / Decadus
+Habilidade do Discípulo / Tutorial de Decadus
+Habilidade do Discípulo / Octa
+Habilidade do Discípulo / Tutorial de Octa
+Controles / Multi Lock-on de Chakram
+Pressione {01}{04} e use o analógico esquerdo para travar a mira em múltiplos inimigos.{LF}Solte {01}{04} para atacar todos os inimigos mirados ao mesmo tempo.
+Inimigo / Cavaleiro
+Inimigo / Tutorial do Cavaleiro
 Inimigo / Mago
 Inimigo / Tutorial do Mago
 Dano Solar
 Se você entrar na luz solar magicamente aprimorada, você sofrerá dano.{LF}Retire-se para áreas sombreadas para recuperar sua saúde.
-Habilidade do Apóstolo / Cent
-Habilidade do Apóstolo / Tutorial de Cent
-Cofre
-Tutorial do Cofre
-A Loja de Armas: Comprando e Aprimorando
+Habilidade do Discípulo / Cent
+Habilidade do Discípulo / Tutorial de Cent
+Baú
+Tutorial do Baú
+Loja de Armas / Comprando e Aprimorando
 Abasteça-se de itens e compre ou aprimore armas{LF}entre missões usando ouro e materiais básicos.
 Loja / Aprimoramento
 Loja / Tutorial de Aprimoramento
-Controles: Círculos de Invocação
-Entre em um círculo de invocação e pressione {01}{02} para chamar Mikhail ao campo de batalha{LF}para atacar conforme a situação demande.
-A Medição de Sangue
+Controles / Círculos de Invocação
+Entre em um círculo de invocação e pressione {01}{02} para chamar Mikhail ao campo de batalha{LF}para atacar conforme a situação.
+Medição de Sangue
 Sua medição de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que se encha até um certo ponto, você pode ativar o Modo de Intoner.
-Controles: Modo de Intoner (Quando Montado)
+Controles / Modo de Intoner (Quando Montado)
 Pressione {01}{0A} e {01}{0D} simultaneamente para ativar o Modo Intoner.{LF}Pressione novamente para encerrar o Modo Intoner.
 Dano Frio
 O frio magicamente aprimorado causará danos.{LF}Aqueça-se perto de uma fogueira para recuperar sua saúde.
-Pedidos de Accord: Saque de Itens
+Pedidos de Accord / Saque de Itens
 Certos inimigos carregarão itens especiais para o combate;{LF}derrote-os e recupere os itens para ter sucesso.
-Pedidos de Accord: Saque de Itens
+Pedidos de Accord / Saque de Itens
 Coletar todos os itens solicitados para ganhar uma recompensa de Accord,{LF}incluindo um bônus de conclusão especial apenas pela primeira vez.
 Usando Bombas
 Alguns soldados carregam bombas mortais que caem (e inflamam!){LF}quando derrotados. Use-as em seu favor!
 Bombas e os Mortos-Vivos
 Acontece que os mortos-vivos são fracos contra explosivos.{LF}Se uma bomba explodisse perto...
-Pedidos de Accord: Caça ao Tesouro
+Pedidos de Accord / Caça ao Tesouro
 Repelir os inimigos atacantes e recupere os itens{LF}trancados em baús que eles estão guardando.
-Pedidos de Accord: Caça ao Tesouro
-Desbloqueie todos os cofres do tesouro para ganhar uma recompensa de Accord,{LF}incluindo um bônus de conclusão especial apenas para a primeira vez.
-Cofres do Tesouro de Aço
-Os cofres do tesouro reforçados com aço não se abrem tão facilmente quanto os normais;{LF}você precisará atingi-los várias vezes para quebrar todas as correntes.
-Pedidos de Accord: Desafios de Sobrevivência
+Pedidos de Accord / Caça ao Tesouro
+Desbloqueie todos os baús do tesouro para ganhar uma recompensa de Accord,{LF}incluindo um bônus de conclusão especial apenas para a primeira vez.
+Tesouros dos Baús de Aço
+Os baús do tesouro reforçados com aço não se abrem tão facilmente quanto os normais;{LF}você precisará atingi-los várias vezes para quebrar todas as correntes.
+Pedidos de Accord / Desafios de Sobrevivência
 Derrote os inimigos que o atacam em cada rodada{LF}e tente permanecer vivo até o fim.
-Pedidos de Accord: Desafios de Sobrevivência
+Pedidos de Accord / Desafios de Sobrevivência
 Complete todas as rodadas para ganhar uma recompensa de Accord,{LF}incluindo um bônus de conclusão especial apenas para a primeira vez.
 Círculos de Desafio
-Ganhe uma rodada e um círculo de desafio aparecerá. Coletar a experiência{LF}e o ouro que emerge, e então escolha se continuar ou se aposentar.
-Pedidos de Accord: Falhando em um Desafio de Sobrevivência
-Se você falhar em um Desafio de Sobrevivência, perderá toda a experiência e ouro ganhos.{LF}Se você se aposentar, no entanto, poderá manter o que você ganhou até agora.
-Pedidos de Accord: Fazenda de Ouro
+Vença uma rodada e um círculo de desafio aparecerá. Coleta a experiência{LF}e o ouro que surgirem, e então escolha se deseja continuar ou se retirar.
+Pedidos de Accord / Falhando em um Desafio de Sobrevivência
+Se você falhar em um Desafio de Sobrevivência, perderá toda a experiência e ouro ganhos.{LF}Se você se retirar, no entanto, poderá manter o que você ganhou até agora.
+Pedidos de Accord / Farmando Ouro
 Ataque os inimigos em terra e eles vão deixar cair moedas de ouro.{LF}Derrote-os e pegue o máximo de ouro que puder!
 Multiplique seu Dinheiro
-Soldados de ouro valem uma fortuna — literalmente! Derrote quantos{LF}puder para aumentar o multiplicador do dinheiro ganho.
+Soldados Dourados valem uma fortuna — literalmente! Derrote quantos{LF}puder para aumentar o multiplicador do dinheiro ganho.
 M{#Name="Lâmina da Zero Nv. 1"}
 M{#Name="Lâmina da Zero Nv. 2"}
 M{#Name="Lâmina da Zero Nv. 3"}
@@ -15871,10 +15871,10 @@ L{#Name="Pecado da Viúva Nv. 1"}
 L{#Name="Pecado da Viúva Nv. 2"}
 L{#Name="Pecado da Viúva Nv. 3"}
 L{#Name="Pecado da Viúva Nv. 4"}
-M{#Name="Cofre Imperial Nv. 1"}
-M{#Name="Cofre Imperial Nv. 2"}
-L{#Name="Cofre Imperial Nv. 3"}
-L{#Name="Cofre Imperial Nv. 4"}
+M{#Name="Caixão Imperial Nv. 1"}
+M{#Name="Caixão Imperial Nv. 2"}
+L{#Name="Caixão Imperial Nv. 3"}
+L{#Name="Caixão Imperial Nv. 4"}
 M{#Name="Roda de Batalha 100"}
 M{#Name="Roda de Batalha 101"}
 M{#Name="Roda de Batalha 102"}
@@ -16120,10 +16120,10 @@ Pecado da Viúva Nv. 1
 Pecado da Viúva Nv. 2
 Pecado da Viúva Nv. 3
 Pecado da Viúva Nv. 4
-Cofre Imperial Nv. 1
-Cofre Imperial Nv. 2
-Cofre Imperial Nv. 3
-Cofre Imperial Nv. 4
+Caixão Imperial Nv. 1
+Caixão Imperial Nv. 2
+Caixão Imperial Nv. 3
+Caixão Imperial Nv. 4
 Roda de Batalha 100
 Roda de Batalha 101
 Roda de Batalha 102
@@ -16617,10 +16617,10 @@ Era uma vez uma menina e dois meninos que eram amigos.{LF}Um menino foi trabalha
 Um dia, o pai da menina morreu. Para prover sua família pobre,{LF}ela decidiu se casar com seu amigo, o capitão do exército. Ele estava{LF}agendado para ir para as linhas de frente no dia seguinte ao casamento.{#Name="Pecado da Viúva Nv. 2"}
 O capitão sorriu e jurou voltar. Foi a última vez{LF}que a mulher viu seu novo marido sorrir. Ele morreu logo em seguida,{LF}deixando-a sozinha com sua casa e jardim lindo.{#Name="Pecado da Viúva Nv. 3"}
 O jardim mudou com as estações, dando paz à mulher.{LF}No entanto, até o dia em que uma doença a levou em uma idade tenra, ela nunca{LF}soube que seu outro amigo de infância era quem cuidava dele.{#Name="Pecado da Viúva Nv. 4"}
-Era uma terra abençoada, um paraíso com recursos infinitos{LF}que garantiam paz e prosperidade para qualquer nação.{LF}Os homens haviam lutado entre si por ela desde tempos imemoriais.{#Name="Cofre Imperial Nv. 1"}
-O rei lutou pela terra prometida ao custo da saúde{LF}de sua nação. Com a doença o consumindo, ele perguntou ao seu{LF}filho como isso poderia ser verdadeiramente a terra prometida.{#Name="Cofre Imperial Nv. 2"}
-Por que as pessoas estavam dispostas a sustentar o derramamento{LF}de sangue pelo bem da terra? Se fosse verdadeiramente uma bênção, por que havia sido{LF}a fonte de tanto sofrimento, perda e ódio sem sentido?{#Name="Cofre Imperial Nv. 3"}
-O velho rei respirou seu último suspiro. Enquanto o príncipe sentava{LF}em silêncio ao lado do seu caixão, ele fez um juramento silencioso. Qual história ele teceria{LF}quando se tornasse rei? Ah, essa é uma história para outro dia...{#Name="Cofre Imperial Nv. 4"}
+Era uma terra abençoada, um paraíso com recursos infinitos{LF}que garantiam paz e prosperidade para qualquer nação.{LF}Os homens haviam lutado entre si por ela desde tempos imemoriais.{#Name="Caixão Imperial Nv. 1"}
+O rei lutou pela terra prometida ao custo da saúde{LF}de sua nação. Com a doença o consumindo, ele perguntou ao seu{LF}filho como isso poderia ser verdadeiramente a terra prometida.{#Name="Caixão Imperial Nv. 2"}
+Por que as pessoas estavam dispostas a sustentar o derramamento{LF}de sangue pelo bem da terra? Se fosse verdadeiramente uma bênção, por que havia sido{LF}a fonte de tanto sofrimento, perda e ódio sem sentido?{#Name="Caixão Imperial Nv. 3"}
+O velho rei respirou seu último suspiro. Enquanto o príncipe sentava{LF}em silêncio ao lado do seu caixão, ele fez um juramento silencioso. Qual história ele teceria{LF}quando se tornasse rei? Ah, essa é uma história para outro dia...{#Name="Caixão Imperial Nv. 4"}
 -{#Name="Cajado de Manah Nv. 1"}
 -{#Name="Cajado de Manah Nv. 2"}
 -{#Name="Cajado de Manah Nv. 3"}
@@ -16865,10 +16865,10 @@ Pecado da Viúva Nv. 1
 Pecado da Viúva Nv. 2
 Pecado da Viúva Nv. 3
 Pecado da Viúva Nv. 4
-Cofre Imperial Nv. 1
-Cofre Imperial Nv. 2
-Cofre Imperial Nv. 3
-Cofre Imperial Nv. 4
+Caixão Imperial Nv. 1
+Caixão Imperial Nv. 2
+Caixão Imperial Nv. 3
+Caixão Imperial Nv. 4
 Cajado de Manah Nv. 1
 Cajado de Manah Nv. 2
 Cajado de Manah Nv. 3
