@@ -1,22 +1,22 @@
 "translation","source","can_modify"
 "Próximo","Next","1"
-"Selecionar","Select","1"
+"Selec.","Select","1"
 "Experiência Ganha:","Experience Earned:","1"
-"Corrente Mais Longa:","Longest Chain:","1"
+"Combo Mais Longo:","Longest Chain:","1"
 "Dano Recebido:","Damage Taken:","1"
-"Bônus Sem Continuar:","No-continue Bonus:","1"
+"Bônus Sem-Continuar:","No-continue Bonus:","1"
 "Experiência Total Ganha:","Total Experience Earned:","1"
 "acertos","hits","1"
 "exp","exp","1"
 "Nv.","Lv.","1"
 "Próximo Nível:","Next Level:","1"
 "Vida","Health","1"
-"Energia","Stamina","1"
+"Estamina","Stamina","1"
 "Ataque","Attack","1"
 "Lealdade","Loyalty","1"
 "Rank","Rank","1"
 "Próximo Rank","Next Rank","1"
-"Apenas o pensamento dela usando minha arma...{LF}Tanta...humilhação maravilhosa...","The mere thought of her using my weapon...{LF}Such...wondrous humiliation...","1"
+"Apenas o pensamento dela usando minha arma...{LF}Que... humilhação maravilhosa...","The mere thought of her using my weapon...{LF}Such...wondrous humiliation...","1"
 "{04}","{04}","1"
 "Sua confiança com {04}","Your trust with {04}","1"
 "Ouro Total:","Total Gold:","1"
@@ -29,7 +29,7 @@
 "Aqui vai, ""Lady Zero."" Talvez isso ajude.","Here you go, ""Lady Zero."" Maybe this'll help.","1"
 "Mikhail evoluiu para sua segunda forma!","Mikhail evolved into his second form!","1"
 "Mikhail evoluiu para sua forma final!","Mikhail evolved into his final form!","1"
-"Mikhail devolveu!","Mikhail devolved!","1"
+"Mikhail desevoluiu!","Mikhail devolved!","1"
 "Pedido #{04}","Request #{04}","1"
 "Tempo de Conclusão:","Completion Time:","1"
 "Inimigos Derrotados:","Enemies Defeated:","1"
@@ -60,24 +60,24 @@
 "Rota A completa.","Branch A complete.","1"
 "Rota B completa.","Branch B complete.","1"
 "Rota C completa.","Branch C complete.","1"
-"Todas as versos perdidas completas.","All lost verses complete.","1"
-"Pedido desbloqueado no País dos Mares.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.","1"
+"Todas as versos perdidos completos.","All lost verses complete.","1"
+"Pedido desbloqueado na Terra dos Mares.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.","1"
 "Pedido desbloqueado na Terra das Montanhas.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Mountains.{LF}Access it from the Chapter Select menu.","1"
 "Pedido desbloqueado na Terra das Florestas.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Forests.{LF}Access it from the Chapter Select menu.","1"
 "Pedido desbloqueado na Terra das Areias.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Land of Sands.{LF}Access it from the Chapter Select menu.","1"
 "Pedido desbloqueado na Cidade da Catedral.{LF}Acesse-o no menu de seleção de capítulo.","Request unlocked in the Cathedral City.{LF}Access it from the Chapter Select menu.","1"
-"A Lâmina da Zero agora está no Lv. {04}","Zero's Blade is now Lv. {04}","1"
+"A Lâmina da Zero agora está no Nv. {04}","Zero's Blade is now Lv. {04}","1"
 "Obrigado por me deixar se juntar a você, minha senhora.{LF}Por favor, mantenha isso como um símbolo de minha lealdade.","Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.","1"
 "Não quero nada mais do que servir minha Intoner...{LF}E talvez parecer bem enquanto faço isso.","I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.","1"
-"Navio aéreo adquirido!","Airship acquired!","1"
-"A Lâmina da Zero agora está no Lv. 2!","Zero's Blade is now Lv. 2!","1"
-"A Lâmina da Zero agora está no Lv. 3!","Zero's Blade is now Lv. 3!","1"
-"A Lâmina da Zero agora está no Lv. 4!","Zero's Blade is now Lv. 4!","1"
+"Dirigível adquirido!","Airship acquired!","1"
+"A Lâmina da Zero agora está no Nv. 2!","Zero's Blade is now Lv. 2!","1"
+"A Lâmina da Zero agora está no Nv. 3!","Zero's Blade is now Lv. 3!","1"
+"A Lâmina da Zero agora está no Nv. 4!","Zero's Blade is now Lv. 4!","1"
 "Você tem se saído bem ultimamente.{LF}Talvez possa lidar com isso agora.","You've been cleanin' up lately.{LF}Maybe you can handle this now.","1"
 "Permita-me retribuir por sua...bondade, minha senhora.{LF}Espero sofrer mais...muito mais...disso em breve.","Permit me to repay you for your...kindness, my lady.{LF}I hope to suffer more...much more...of it soon.","1"
 "Um símbolo de lealdade de mim para você, minha senhora. {LF}Que nosso prazer mútuo dure por todo o tempo...e mais um pouco.","A symbol of loyalty from me to you, my lady. {LF}May our mutual enjoyment endure for all time...and then some.","1"
 "É, talvez sinta-se livre para me agradecer agora?{LF}Quero dizer, eu tenho sido muito útil.","Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.","1"
-"O Accord postou uma nova solicitação:","Accord has posted a new request:","1"
+"A Accord postou uma nova solicitação:","Accord has posted a new request:","1"
 "Acesse pelo menu Selecção de Capítulo!","Access it from the Chapter Select menu!","1"
 "Três solicitações de Terra dos Mares concluídas!{LF}Solicitação bônus ""{04}","Three Land of Seas requests completed!{LF}Bonus request ""{04}","1"
 "Três solicitações de Terra das Montanhas concluídas!{LF}Solicitação bônus ""{04}","Three Land of Mountains requests completed!{LF}Bonus request ""{04}","1"
@@ -88,7 +88,7 @@
 "Bônus de Conclusão de Missão!","Mission Completion Bonus!","1"
 "{04}","{04}","1"
 "Bônus de Conclusão de Missão!","Mission Completion Bonus!","1"
-"Bônus de Slayer:","Slayer Bonus:","1"
+"Bônus de Assassino:","Slayer Bonus:","1"
 "Bônus de Solicitação 2:","Request Bonus 2:","1"
 "Bônus de Solicitação 3:","Request Bonus 3:","1"
 "Bônus de Conclusão de Solicitação:","Request Completion Bonus:","1"
@@ -109,57 +109,57 @@
 "Bônus de Conclusão pela Primeira Vez!","First-time Completion Bonus!","1"
 "Bônus de Conclusão!","Completion Bonus!","1"
 "Tesouro obtido!","Treasure obtained!","1"
-"Verso perdido ""Canção do Accord"" desbloqueado.","Lost verse ""Accord's Song"" unlocked.","1"
-"Verso perdido ""Oração do Accord"" desbloqueado.","Lost verse ""Accord's Prayer"" unlocked.","1"
+"Verso perdido ""Canção de Accord"" desbloqueado.","Lost verse ""Accord's Song"" unlocked.","1"
+"Verso perdido ""Oração de Accord"" desbloqueado.","Lost verse ""Accord's Prayer"" unlocked.","1"
 "O FIM","THE END","1"
-"{04}
-Você agora tem três discípulos.{LF}Você pode selecionar quais discípulos levar com você{LF}no menu de Preparação de Batalha.
-Rota B desbloqueada.
-Rota C desbloqueada.
-Versos perdidos desbloqueados.
-Rota D desbloqueada.
-As Pedras Amadas
-Caça ao Chifre
-Clube do Livro: Esperança
-Peregrinação Pinkstone
-Comunicornos
-Clube do Livro: Ambição
-Pagamento de Seaside
-A Primeira Sobrevivência
-A Segunda Sobrevivência
-A Terceira Sobrevivência
-A Última Sobrevivência
-Restrição de Flint
-Sussurro de Falcão
-Clube do Livro: Reticência
-Pagamento de Montanha
-A Zona Amberstone
-Batedor de Águia
-Clube do Livro: Estoicismo
-Em Movimento
-Presas de Sorte
-Clube do Livro: Mistério
-Pagamento de Floresta
-Festival de Comida
-Medicamentos Stinger
-Clube do Livro: Santidade
-Como uma Pedra Flutuante
-Fósseis Famosos
-Clube do Livro: Pureza
-Resgate de Dinheiro
-Plante Sua Reivindicação
-Clube do Livro: Inocência
-Pagamento do Deserto
-Estrelas Cadentes
-Tesouros Antigos
-Clube do Livro: Disciplina
-O Rastro do Cometa
-História Desenterrada
-Clube do Livro: Doutrina
-Pagamento da Catedral
-Sobrevivência
-Memórias dos Intoners{LF}foi desbloqueado.","Memories of the Intoners{LF}has been unlocked.","1"
-"Aumentar o nível desse personagem desbloqueou uma nova história bônus.{LF}Você pode visualizá-la no menu Memórias dos Intoners.","Raising this character's level has unlocked a new bonus story.{LF}You can view it from the Memoirs of the Intoners menu.","1"
+"{04}","{04}","1"
+"Você agora tem três discípulos.{LF}Você pode selecionar quais discípulos levar com você{LF}no menu de Preparação de Batalha.","You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.","1"
+"Rota B desbloqueada.","Branch B unlocked.","1"
+"Rota C desbloqueada.","Branch C unlocked.","1"
+"Versos perdidos desbloqueados.","Lost verses unlocked.","1"
+"Rota D desbloqueada.","Branch D unlocked.","1"
+"Pedras Benevolentes","The Beloved Stones","1"
+"Caçada ao Chifre","Horn Hunting","1"
+"Clube do Livro: Esperança","Book Club: Hope","1"
+"Peregrinação da Pedra Rosada","Pinkstone Pilgrimage","1"
+"Comunicónios","Communicorns","1"
+"Clube do Livro: Ambição","Book Club: Ambition","1"
+"Pagamento do Mar","Seaside Payday","1"
+"A Primeira Sobrevivência","The First Survival","1"
+"A Segunda Sobrevivência","The Second Survival","1"
+"A Terceira Sobrevivência","The Third Survival","1"
+"A Última Sobrevivência","The Final Survival","1"
+"Caçada as Pedras de Sílex","Flint Stint","1"
+"Sussurro do Falcão","Hawk Whisperer","1"
+"Clube do Livro: Reticência","Book Club: Reticence","1"
+"Pagamento da Montanha","Mountain Payday","1"
+"A Zona Pedra Âmbar","The Amberstone Zone","1"
+"Escoteiro Águia","Eagle Scout","1"
+"Clube do Livro: Estoicismo","Book Club: Stoicism","1"
+"Em Movimento","On the Move","1"
+"Presas de Sorte","Lucky Fangs","1"
+"Clube do Livro: Mistério","Book Club: Mystery","1"
+"Pagamento de Floresta","Forest Payday","1"
+"Festival da Comida","Food Festival","1"
+"Medicamentos do Ferrão","Stinger Meds","1"
+"Clube do Livro: Santidade","Book Club: Sanctity","1"
+"Como uma Pedra Flutuante","Like a Floating Stone","1"
+"Fósseis Famosos","Famous Fossils","1"
+"Clube do Livro: Pureza","Book Club: Purity","1"
+"Resgate de Dinheiro","Compass Cash-in","1"
+"Reivindique seu Espaço","Plant Your Claim","1"
+"Clube do Livro: Inocência","Book Club: Innocence","1"
+"Pagamento do Deserto","Desert Payday","1"
+"Estrelas Cadentes","Shooting Stars","1"
+"Tesouros Antigos","Ancient Treasures","1"
+"Clube do Livro: Disciplina","Book Club: Discipline","1"
+"O Rastro do Cometa","The Comet's Trail","1"
+"História Desenterrada","History Unearthed","1"
+"Clube do Livro: Doutrina","Book Club: Doctrine","1"
+"Pagamento da Catedral","Cathedral Payday","1"
+"Sobrevivência","Survival","1"
+"Memórias das Intoners{LF}foram desbloqueadas.","Memories of the Intoners{LF}has been unlocked.","1"
+"Aumentar o nível desse personagem desbloqueou uma nova história bônus.{LF}Você pode visualizá-la no menu Memórias das Intoners.","Raising this character's level has unlocked a new bonus story.{LF}You can view it from the Memoirs of the Intoners menu.","1"
 "Todas as missões concluídas! Obteve {04}","All missions complete! Obtained {04}","1"
 "Todas as missões concluídas! Obteve {04}","All missions complete! Obtained {04}","1"
-"Soldados de Ouro agora aparecerão em algum lugar dentro dessas missões.","Gold Soldiers will now appear somewhere within these missions.","1"
+"Soldados Dourados agora aparecerão em algum lugar dentro dessas missões.","Gold Soldiers will now appear somewhere within these missions.","1"
