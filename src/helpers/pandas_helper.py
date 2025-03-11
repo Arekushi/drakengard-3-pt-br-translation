@@ -35,7 +35,6 @@ def read_csv_file(file_path: str, line_index=0) -> pd.DataFrame:
 def transform_raw_df(df: pd.DataFrame) -> pd.DataFrame:
     df = df.rename(columns={0: 'translation'})
     df = df.assign(source=df['translation'])
-    df['can_modify'] = 1
     
     return df
 
