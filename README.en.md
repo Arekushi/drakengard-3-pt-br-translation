@@ -17,7 +17,17 @@
 <br>
 
 # About the project...
-🚧 More details soon...
+Translation project for the PS3-exclusive Drakengard 3! This incredible RPG never received official support for Brazilian Portuguese, which kept many players from fully enjoying it. Now, with this translation, more people can experience this masterpiece.
+
+The translation was based on the original English texts, using ChatGPT as the main tool. Afterward, we carefully reviewed everything to ensure quality and accuracy — and in most cases, the texts were already quite satisfactory.
+
+ChatGPT was crucial for completing this translation in record time, something impossible with services like Google Translate or Bing, which still struggle with accuracy.
+
+This method can also be used to translate the game into other languages by adjusting the parameters. Just don’t forget to review the texts! 🌍
+
+This project does not intend to replace manual translation efforts, which, although more time-consuming, often have even greater attention to detail.
+
+Oh, and if you want to play Drakengard 3 today, it runs very well via the [RPCS3][rpcs3] emulator. We emphasize that **we do not support piracy** — please only play if you own a legitimate copy of the game. 🎮
 
 <br><br>
 
@@ -25,13 +35,13 @@
 Look in the `texts` folder and check the files in the `translation` folder (where the translation is).
 Make your changes and make a **pull request**, be clear about why you decided on such changes and based on that it will be approved or not.
 
-If you want to talk more about it, you can reach me on some of my social networks below:
+If you’d like to discuss this further, feel free to reach out on my Discord server or through my social media channels below:
 <p align="center">
     <a
         style="all: unset;"
         target="_blank"
-        href="">
-        <img style="padding: 10px" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="40px" src="https://i.imgur.com/WuqAV26.png">
+        href="https://discord.gg/MBHfdRsEwd">
+        <img style="padding: 10px" title="Yokoverso PT-BR - Mods" alt="Yokoverso PT-BR - Mods" width="40px" src="https://i.imgur.com/WuqAV26.png">
     </a>
     <a
         style="all: unset;"
@@ -40,6 +50,7 @@ If you want to talk more about it, you can reach me on some of my social network
         <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/3qObil8.png">
     </a>
 </p>
+
 
 <br>
 
@@ -59,7 +70,8 @@ If you want to talk more about it, you can reach me on some of my social network
 <br>
 
 ## Support tools
-🚧 More details soon...
+This project was only possible thanks to the following repositories:
+* Tool for text extraction and repacking - [Drakengard-3-Sqex03DataMessage][sqex]
 
 <br>
 
@@ -77,7 +89,7 @@ If you want the project for development, some prerequisites are necessary.
 <br>
 
 ### Variables in `.toml` files
-🚧 More details soon...
+I store a lot of information in `.toml` files inside the [`config/toml`][configtoml] directory, including some of the messages I send to ChatGPT for translation. If you’d like to customize the application, I highly recommend checking it out!
 
 <br>
 
@@ -99,6 +111,8 @@ If you want the project for development, some prerequisites are necessary.
 
 4. That's it, you can start developing 🎉
 
+<br>
+
 ### Useful commands
 🚧 More details soon...
 
@@ -116,8 +130,11 @@ If you want the project for development, some prerequisites are necessary.
 [python_tutorial_url]: https://www.digitalocean.com/community/tutorials/install-python-windows-10
 [miniconda_tutorial]: https://katiekodes.com/setup-python-windows-miniconda/
 [poetry_url]: https://python-poetry.org/docs/#installation
+[rpcs3]: https://rpcs3.net/
+[sqex]: https://github.com/lehieugch68/Drakengard-3-Sqex03DataMessage
+[configtoml]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/config/toml
 
-<!-- [Contributors] -->
+<!-- [Constributors] -->
 [arekushi]: https://github.com/Arekushi
 [omainha]: https://github.com/MainhaLisa
 [paulo]: https://github.com/PaulPauloHNKBR
