@@ -36,7 +36,7 @@ def make_result_folder_command():
 
 def create_result_folder():
     translated_files = get_all_translation_files()
-    ordered_files = order_translated_files(translated_files)    
+    ordered_files = order_translated_files(translated_files)
     df = concatenate_csv_files(ordered_files)
     save_df_txt(df['translation'], f'{RESULT_FOLDER_PATH}\\{settings.FILES.result_file_name}')
 
