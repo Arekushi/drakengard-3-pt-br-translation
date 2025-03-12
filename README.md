@@ -17,9 +17,9 @@
 <br>
 
 # Sobre o projeto...
-Projeto de tradução para PT-BR do exclusivo de PS3, Drakengard 3! Esse RPG incrível nunca recebeu suporte oficial ao PT-BR, o que afastou muitos jogadores. Agora, com essa tradução, mais pessoas poderão aproveitar essa obra-prima.
+Projeto de tradução para PT-BR do exclusivo de PS3, **Drakengard 3!** Esse RPG incrível nunca recebeu suporte oficial ao PT-BR, o que afastou muitos jogadores. Agora, com essa tradução, mais pessoas poderão aproveitar essa obra-prima.
 
-A tradução foi feita a partir dos textos em inglês, usando o ChatGPT como ferramenta principal. Depois, revisamos tudo para garantir qualidade e fidelidade — e, na maioria dos casos, os textos já estavam bastante satisfatórios.
+Dos mesmos colaboradores da **tradução para PT-BR de [NieR Replicant™ ver.1.22][nier-pt-br]**, a tradução foi feita a partir dos textos em inglês, usando o ChatGPT como ferramenta principal. Depois, revisamos tudo para garantir qualidade e fidelidade — e, na maioria dos casos, os textos já estavam bastante satisfatórios.
 
 O ChatGPT foi essencial para concluir essa tradução em tempo recorde, algo impossível com serviços como Google Tradutor ou Bing, que ainda deixam a desejar na precisão.
 
@@ -34,8 +34,7 @@ E se puder apoiar, um ☕ via PIX `0dd32e9d-8b78-4978-ad8a-797cbd7380d1` é semp
 <br><br>
 
 ## Como ajudar na tradução?
-Olhe a pasta `texts` e olhe os arquivos da pasta `translation` (onde está a tradução)
-Faça sua alteração e faça um **pull request**, seja claro porquê você decidiu tais alterações e com base isso será aprovado ou não.
+Você pode revisar os textos localizados em [`texts/translation`][translation] (onde está a tradução). Realize suas alterações/melhorias e faça um **pull request**, seja claro do porquê você decidiu tais alterações e com base isso será aprovado ou não.
 
 Se quiser conversar mais sobre, podem me chamar no meu servidor do Discord ou em algumas das minhas redes sociais abaixo:
 <p align="center">
@@ -49,7 +48,7 @@ Se quiser conversar mais sobre, podem me chamar no meu servidor do Discord ou em
         style="all: unset;"
         target="_blank"
         href="https://steamcommunity.com/id/arekushii">
-        <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/3qObil8.png">
+        <img style="padding: 10px" title="Perfil na Steam" alt="Perfil na Steam" width="40px" src="https://i.imgur.com/3qObil8.png">
     </a>
 </p>
 
@@ -135,6 +134,8 @@ Eu guardo bastante informação em arquivos `.toml` dentro do diretório [`confi
 [rpcs3]: https://rpcs3.net/
 [sqex]: https://github.com/lehieugch68/Drakengard-3-Sqex03DataMessage
 [configtoml]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/config/toml
+[nier-pt-br]: https://github.com/Arekushi/nier-replicant-pt-br-translation
+[translation]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/texts/translation
 
 <!-- [Constributors] -->
 [arekushi]: https://github.com/Arekushi
