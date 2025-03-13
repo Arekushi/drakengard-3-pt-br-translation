@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#" target="blank">
-    <img src="https://64.media.tumblr.com/8e6d5f2b00a4f243dc972f8fca58aa22/tumblr_plk41yKKf01vak9iio1_500.jpg" width="200" alt="Emil" />
+    <img src="https://i.imgur.com/yq5Lc1h.png" width="200" alt="Zero" />
   </a>
 </p>
 
