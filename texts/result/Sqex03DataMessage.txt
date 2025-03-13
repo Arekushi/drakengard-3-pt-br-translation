@@ -49,9 +49,9 @@ Campanha
 Missão
 Baixar Missões
 Banco de Dados
-Fluxo de História
+Fluxo da História
 Alternar Abas
-Selecionar/Alternar Abas
+Selec./Alter. Abas
 Voltar ao menu principal?
 Você não atendeu às condições necessárias para escolher essa missão.
 Não lido
@@ -133,7 +133,7 @@ Terra dos Mares
 Terra das Montanhas
 Terra das Florestas
 Terra das Areias
-Cidade da Catedral
+Cidade Catedral
 Bloqueia para colocar o oponente em seu alcance de visão.{LF}Qualquer ataque do dragão pode ser devastador, então tente afigurar-se as ações do seu oponente antes de agir.{#Name="Gravação 0020_10: Gabriel"}
 Os dragões têm um soco formidável. Use as suas habilidades defensivas e evasivas para travar a batalha, e acima de tudo, não seja temerário.{#Name="Gravação 0020_20: Gabriel"}
 Os dragões têm um soco formidável. Use as suas habilidades defensivas e evasivas para travar a batalha, e acima de tudo, não seja temerário.{#Name="Gravação 0020_20: Gabriel"}
@@ -324,7 +324,7 @@ A Terra dos Mares...{#Name="Accord"}
 A Terra das Montanhas...{#Name="Accord"}
 A Terra das Florestas...{#Name="Accord"}
 A Terra das Areias...{#Name="Accord"}
-E a Cidade da Catedral.{#Name="Accord"}
+E a Cidade Catedral.{#Name="Accord"}
 Uma dessas irmãs quer trazer ruína ao mundo,{#Name="Accord"}
 e ela não descansará até matar suas irmãs.{#Name="Accord"}
 A Intoner traidora chama-se Zero...{#Name="Accord"}
@@ -574,7 +574,7 @@ Vamos voltar para baixo já.{LF}Cara como eu não foram feitos para o frio.{#Nam
 Você tem certeza de que a Four está aqui em cima, certo?{#Name="Zero"}
 Hum, provavelmente?{#Name="Mikhail"}
 Provavelmente não é o suficiente.{#Name="Zero"}
-Você é o único que pode sentir os Intoners, lembra?{#Name="Zero"}
+Você é o único que pode sentir as Intoners, lembra?{#Name="Zero"}
 Eu posso sentir, sim! Estou começando a me acostumar muito com essa sensação, também!{#Name="Mikhail"}
 É, eu aposto que isso se sente muito bem, também, né?{#Name="Dito"}
 Oh, é! Isso me faz ter espasmos de deleite!{#Name="Mikhail"}
@@ -861,7 +861,7 @@ Oh, então agora você decide ser normal? Pffft. Esqueça. Você é inútil.
 Eu só...não consigo parar de pensar nessa tal de Two...
 O tempo não sempre flui em uma direção única.
 Divergência: Rota B
-No fluxo da história pós-Cataclismo,
+No fluxo da história Pós-Cataclismo,
 se um conjunto único de condições conhecidas como "singularidades" se reunirem,
 As divisões ocorrem no tempo, resultando no fenômeno de divergência de múltiplos mundos.{#Name="Accord"}
 Agora é 1º de abril de 1000 d.C.,{#Name="Accord"}
@@ -1035,7 +1035,7 @@ Mikhail
 Prosseguir para a próxima missão?{#Name=" "}
 Todos se reunem em um lugar de demonstração{#Name=" "}
 ...Então, você vê, dragões têm um apetite.{LF}Eles querem comer Intoners.{#Name="Accord"}
-E quanto mais forte for a força mágica de um Intoner,{LF}mais forte se torna essa avidez.{#Name="Accord"}
+E quanto mais forte for a força mágica de uma Intoner,{LF}mais forte se torna essa avidez.{#Name="Accord"}
 Dito isso, alguns deles conseguem controlar esses desejos.{#Name="Accord"}
 É por isso que Mikhail aqui pode ficar calmo ao lado da Zero,{LF}por exemplo.{#Name="Accord"}
 É! Eu posso controlar! Eu sou incrível!{#Name="Mikhail"}
@@ -1173,7 +1173,7 @@ Eu realmente não me importo.{#Name="Zero"}
 ...Oh. Bem, então.{#Name="Decadus"}
 Que pena, freak. Nenhum chute de bola para você hoje!{LF}Ha ha ha ha!{#Name="Dito"}
 Uuungh...{#Name="Decadus"}
-Para seus soldados e para seu discípulo, um Intoner é uma presença divina.{#Name="Decadus"}
+Para seus soldados e para seu discípulo, uma Intoner é uma presença divina.{#Name="Decadus"}
 Como é estranho que Mikhail seja sua queda...{#Name="Octa"}
 Nunca acredite no que seu inimigo lhe diz.{#Name="Zero"}
 Mas todos vimos o que ele fez com Lady Three, uma Intoner colega.{#Name="Octa"}
@@ -1345,7 +1345,7 @@ Sim, minha senhora!
 A propósito, Octa. Você já considerou apenas...{LF}satisfazer-se?
 Oh ho! E por que eu faria isso quando tenho{LF}o mundo todo como meu amante?
 O mundo... Espere, o quê?
-Bem, um Intoner é o melhor, é claro.{LF}Mas se não estiver disponível, um humano servirá.
+Bem, uma Intoner é o melhor, é claro.{LF}Mas se não estiver disponível, um humano servirá.
 Se nenhum desses estiver disponível, ****** vai servir. ***** estão bem,{LF}também—inclusive, eu tenho gostado muito de ******* ultimamente!
 Isso é simplesmente maravilhoso.{#Name="Zero"}
 Você sabe, o que eu realmente gostaria de tentar algum dia? Um ******!{#Name="Octa"}
@@ -1366,7 +1366,7 @@ Jurei servir você por toda a eternidade.{LF}Jurei dar minha vida em seu nome se
 Tudo bem, tudo bem. Se eu precisar de algo, eu aviso.{#Name="Zero"}
 Espero ansiosamente suas ordens.{#Name="Decadus"}
 Suponho que Lady Three nunca esteve na floresta afinal.{#Name="Decadus"}
-Ho ho! A Terra de Areias, então?{LF}Ou talvez a Cidade da Catedral?{#Name="Octa"}
+Ho ho! A Terra de Areias, então?{LF}Ou talvez a Cidade Catedral?{#Name="Octa"}
 Melhor lidar com ambos.{LF}One e Three têm que estar escondidas em algum lugar.{#Name="Zero"}
 Você voa para cima e procura de cima.{LF}Nós três vamos verificar as ruínas subterrâneas.{#Name="Zero"}
 Ok!{#Name="Mikhail"}
@@ -1380,11 +1380,11 @@ Talvez porque Dito não está aqui para reclamar do plano...{#Name="Octa"}
 E Cent não está inventando fatos que não poderiam ser verdadeiros.{#Name="Octa"}
 Sim, eu suponho que você esteja certo.{#Name="Zero"}
 Hmm...{#Name="Zero"}
-Ah ah! Então parece que os discípulos sempre foram destinados{LF}a serem emparelhados com certos Intoners...?{#Name="Octa"}
+Ah ah! Então parece que os discípulos sempre foram destinados{LF}a serem emparelhados com certas Intoners...?{#Name="Octa"}
 É.{#Name="Zero"}
 Bem, isso explica muito.{#Name="Octa"}
 Então Dito e Cent reverteram para suas formas originais{#Name="Octa"}
-como pagamento por invocar anjos sem o poder dos Intoners...{#Name="Octa"}
+como pagamento por invocar anjos sem o poder das Intoners...{#Name="Octa"}
 Leva muita energia para invocar um anjo.{LF}Sem o poder de uma canção,{#Name="Zero"}
 não havia como eles manterem suas formas humanas.{#Name="Zero"}
 Há há há... Bem, isso certamente bagunça as coisas agora, não é?{#Name="Octa"}
@@ -1771,13 +1771,13 @@ Um discípulo que empunha uma lança com um traço sádico{LF}extremo e a habili
 Um discípulo bem-construído que luta com os punhos. O mais{LF}sensato de seus colegas, ele sempre se comporta como um cavalheiro, {LF}mas é na verdade um masoquista que desfruta de dor sem fim.{#Name="Decadus"}
 Um discípulo com aparência de idoso que luta com chakrams.{LF}Ele se orgulha de uma apetite sexual insaciável,{LF}e é dito que carrega alguma...anatomia impressionante.{#Name="Octa"}
 Um discípulo narcisista que luta com lâminas gêmeas. Apesar de{LF}sua extrema confiança em si mesmo, o "conhecimento" que ele escolhe{LF}impartir é frequentemente falso e acaba apenas irritando todos.{#Name="Cent"}
-O Intoner mais jovem e governante da Terra dos Mares. Ganancioso{LF}e superficial, ela deseja tudo o que vê (incluindo Zero), mas{LF}perde interesse assim que o obtém. Gosta de insinuações sexuais.{#Name="Five"}
+A Intoner mais jovem e governante da Terra dos Mares. Gananciosa{LF}e superficial, ela deseja tudo o que vê (incluindo Zero), mas{LF}perde interesse assim que o obtém. Gosta de insinuações sexuais.{#Name="Five"}
 A virgem solitária Intoner, e governante da Terra das Montanhas.{LF}Ela finge uma postura superior para esconder seu complexo de{LF}inferioridade profundo e inibições.{#Name="Four"}
 A Intoner indolente que governa a Terra das Florestas. Ela tem{LF}gostos sexuais distorcidos e uma personalidade desligada e bizarra.{LF}Ela gosta de experimentar em humanos para transformá-los em bonecas.{#Name="Three"}
 Uma Intoner brilhante e alegre que governa a Terra das Areias.{LF}Ela está apaixonada por Cent, embora um incidente infeliz{LF}tenha destruído sua mente, deixando-a em um estado infantil.{#Name="Two"}
-A Intoner que governa a Cidade da Catedral. Ela é a mais{LF}madura e inteligente das irmãs, e também a única{LF}que entende completamente as verdadeiras intenções da Zero.{#Name="One"}
+A Intoner que governa a Cidade Catedral. Ela é a mais{LF}madura e inteligente das irmãs, e também a única{LF}que entende completamente as verdadeiras intenções da Zero.{#Name="One"}
 O irmão gêmeo de One, criado pela mesma. Ele foi escondido{LF}como um plano de contingência para destruir Zero e as outras Intoners.{LF}Ele idolatra One como irmã e mãe.{#Name="Irmão de One"}
-Um comerciante do País dos Mares que carrega uma grande{LF}mala ao redor dela. Como observadora e Registradora,{LF}ela vê Zero como uma singularidade de alto nível em seu trabalho.{#Name="Accord"}
+Um comerciante da Terra dos Mares que carrega uma grande{LF}mala ao redor dela. Como observadora e Registradora,{LF}ela vê Zero como uma singularidade de alto nível em seu trabalho.{#Name="Accord"}
 Um anjo convocado por Dito usando o poder da canção de Five.{#Name="Phanuel"}
 Um anjo convocado por Decadus usando o poder da canção de Four.{#Name="Armaros"}
 Um anjo convocado por Octa usando o poder da canção de Three.{#Name="Armisael"}
@@ -2127,7 +2127,7 @@ Selecione o discípulo para levar com você.
 Seleção de Capítulo
 Conclua os preparativos de batalha e retorne ao menu de Seleção de Capítulo.
 Armas Coletadas: {04}
-Memórias dos Intoners
+Memórias das Intoners
 Visualize as histórias bônus que você desbloqueou via DLC.
 Five 「Livro de Entrega」
 Four 「Coisas que Quero Dizer a Todos」
@@ -2135,9 +2135,9 @@ Three 「Lembranças de um Soldado」
 Two 「Livro de Receitas de Duas Pessoas」
 One 「Sete Palavras」
 Zero 「Diário de Mikhail」
-Escolha o Intoner cujas histórias você gostaria de ler.
+Escolha a Intoner cujas histórias você gostaria de ler.
 Escolha uma história para ler.
-Memórias dos Intoners
+Memórias das Intoners
 Item sem nome para uso genérico.{#Name="Sem nome"}
 Restaura uma pequena quantidade de vida.{#Name="Poção de Recuperação (P)"}
 Restaura uma quantidade moderada de vida.{#Name="Poção de Recuperação (M)"}
@@ -2712,7 +2712,7 @@ Item de troca: Coração {#Name="Coração de Gabriel"}
 Item de troca: Coração {#Name="Coração Nobre"}
 Item de troca: Coração {#Name="Núcleo Abrasador"}
 Item de troca: Coração {#Name="Núcleo Congelado"}
-Item de troca: Coração {#Name="Coração da Cantoria"}
+Item de troca: Coração {#Name="Coração da Intoner"}
 Item de troca: Coração {#Name="Núcleo Dourado"}
 Item de troca: Coração {#Name="Núcleo Cristalino"}
 Item de troca: Coração {#Name="Núcleo Sagrado"}
@@ -3408,7 +3408,7 @@ Coração de Gabriel
 Coração Nobre
 Núcleo Abrasador
 Núcleo Congelado
-Coração da Cantoria
+Coração da Intoner
 Núcleo Dourado
 Núcleo Cristalino
 Núcleo Sagrado
@@ -3556,14 +3556,14 @@ Há muito tempo, em uma era marcada por conflitos sem fim,{#Name="Velhote"}
 Cinco belas deusas desceram sobre a Terra.{#Name="Velhote"}
 Com suas canções místicas, as deusas restauraram{LF}a paz e a harmonia do mundo em ruínas.{#Name="Velhote"}
 O povo começou a venerar essas cantoras sagradas,{#Name="Velhote"}
-e passou a chamá-las de "Intoners."{#Name="Velhote"}
+e passou a chamá-las de "Intoners",{#Name="Velhote"}
 Graças aos esforços das Intoners,{LF}o caos da guerra ficou no passado.{#Name="Velhote"}
 E, como resultado, a humanidade gozou de uma era de sonhos,{#Name="Velhote"}
 banhando-se na nova luz e bele-{#Name="Velhote"}
 V-Você...assassina selvagem...{#Name="Velhote"}
 Selvagem? Acho que você quis dizer Intoner.{#Name="Zero"}
-Ela está lá dentro! Ataquem-na!{#Name="Soldado A"}
-Matem esse demônio traidor!{#Name="Soldado C"}
+Ela está lá dentro! Ataquem-na!{#Name="Soldier A"}
+Matem esse demônio traidor!{#Name="Soldier C"}
 Michael...{#Name="Zero"}
 É hora...de darmos fim às Intoners.{#Name="Zero"}
 ★ゼロと敵のやりとり。{#Name="ゼロ"}
@@ -3579,46 +3579,46 @@ Todos vocês...{#Name="Zero"}
 Mulheres, crianças ou idosos... Não importa.{LF}Se ficarem no meu caminho, vocês morrerão.{#Name="Zero"}
 343{#Name="343"}
 Se é isso que querem, então entrem na fila!{#Name="Zero"}
-É ela! É a Zero!{#Name="Soldado A"}
-Ela é tão sinistra... Ela é mesmo uma Intoner?{#Name="Soldado F"}
-Homens, fiquem atentos! Protejam nossas Intoners!{#Name="Soldado B"}
-Sejam espertos! Morrer aqui não resolve nada!{#Name="Soldado E"}
-O dragão é muito forte!{#Name="Soldado C"}
-Alguém me ajude!{#Name="Soldado D"}
-Uma guerra entre Intoners... Realmente o mundo enlouqueceu.{#Name="Soldado F"}
-Acabou... Vamos todos morrer...{#Name="Soldado G"}
-Continuem! Não percam as esperanças!{#Name="Soldado F"}
-Não recuem! A Zero deve ser parada!{#Name="Soldado A"}
-Esse demônio está tentando matar suas próprias irmãs!{#Name="Soldado B"}
-Matem a traidora! Devemos proteger nossa pátria!{#Name="Soldado E"}
+É ela! É a Zero!{#Name="Soldier A"}
+Ela é tão sinistra... Ela é mesmo uma Intoner?{#Name="Soldier F"}
+Homens, fiquem atentos! Protejam nossas Intoners!{#Name="Soldier B"}
+Sejam espertos! Morrer aqui não resolve nada!{#Name="Soldier E"}
+O dragão é muito forte!{#Name="Soldier C"}
+Alguém me ajude!{#Name="Soldier D"}
+Uma guerra entre Intoners... Realmente o mundo enlouqueceu.{#Name="Soldier F"}
+Acabou... Vamos todos morrer...{#Name="Soldier G"}
+Continuem! Não percam as esperanças!{#Name="Soldier F"}
+Não recuem! A Zero deve ser parada!{#Name="Soldier A"}
+Esse demônio está tentando matar suas próprias irmãs!{#Name="Soldier B"}
+Matem a traidora! Devemos proteger nossa pátria!{#Name="Soldier E"}
 Se isso continuar, o mundo como conhecemos estará acabado...{#Name="Soldier F"}
-Não iremos deixar isso acontecer!{#Name="Soldado B"}
-Merda! O meu arco já era!{#Name="Soldado G"}
-Aqui, use o meu!{#Name="Soldado A"}
-Mas...{#Name="Soldado G"}
+Não iremos deixar isso acontecer!{#Name="Soldier B"}
+Merda! O meu arco já era!{#Name="Soldier G"}
+Aqui, use o meu!{#Name="Soldier A"}
+Mas...{#Name="Soldier G"}
 Vocês, jovens recrutas, precisam viver para lutar outro dia..{#Name="Soldier A"}
-Temos que parar esse dragão...{#Name="Soldado C"}
-Ele deve ter um ponto fraco! Encontrem!{#Name="Soldado E"}
-Graaarrrgh!{#Name="Soldado F"}
-Ei! Você está bem?{#Name="Soldado B"}
-Vá. Não morra por minha causa...{#Name="Soldado F"}
-Não... Droga, não!{#Name="Soldado B"}
-Ugh. Ela é muito forte!{#Name="Soldado A"}
-Desse jeito, logo ela alcançará as outras Intoners!{#Name="Soldado G"}
-Nunca! Devemos protegê-las com nossas vidas!{#Name="Soldado A"}
-Como vamos vencer uma Intoner e um dragão?{#Name="Soldado E"}
-E nós temos escolha? Todos, em posição, ataaaquem!{#Name="Soldado A"}
-Seu túmulo acena, traidora!{#Name="Soldado B"}
-Morra, traidora maldita!{#Name="Soldado G"}
+Temos que parar esse dragão...{#Name="Soldier C"}
+Ele deve ter um ponto fraco! Encontrem!{#Name="Soldier E"}
+Graaarrrgh!{#Name="Soldier F"}
+Ei! Você está bem?{#Name="Soldier B"}
+Vá. Não morra por minha causa...{#Name="Soldier F"}
+Não... Droga, não!{#Name="Soldier B"}
+Ugh. Ela é muito forte!{#Name="Soldier A"}
+Desse jeito, logo ela alcançará as outras Intoners!{#Name="Soldier G"}
+Nunca! Devemos protegê-las com nossas vidas!{#Name="Soldier A"}
+Como vamos vencer uma Intoner e um dragão?{#Name="Soldier E"}
+E nós temos escolha? Todos, em posição, ataaaquem!{#Name="Soldier A"}
+Seu túmulo acena, traidora!{#Name="Soldier B"}
+Morra, traidora maldita!{#Name="Soldier G"}
 Eu daria mais importância se sua voz{LF}não estivesse trêmula...{#Name="Zero"}
-Por que uma Intoner quer matar suas irmãs?{#Name="Soldado A"}
+Por que uma Intoner quer matar suas irmãs?{#Name="Soldier A"}
 Vamos contar a eles? Eles parecem estar realmente curiosos.{#Name="Michael"}
 Por que se preocupar? Eles estão prestes a morrer de qualquer maneira.{#Name="Zero"}
-O fim do mundo está próximo...{#Name="Soldado F"}
+O fim do mundo está próximo...{#Name="Soldier F"}
 343{#Name="343"}
-Eles... Eles me disseram que as Intoners{LF}deveriam ser pacíficas!{#Name="Soldado E"}
+Eles... Eles me disseram que as Intoners{LF}deveriam ser pacíficas!{#Name="Soldier E"}
 Que tipo de porcaria eles andam{LF}ensinando as pessoas hoje em dia?{#Name="Zero"}
-Tragam um médico! Essa louca vai matar todos nós!{#Name="Soldado C"}
+Tragam um médico! Essa louca vai matar todos nós!{#Name="Soldier C"}
 Claro, por que não? Ainda não matei nenhum médico.{#Name="Zero"}
 Saiam do meu caminho, que inferno!{#Name="Zero"}
 Mantenha a calma, Zero. A fúria apenas fará sua espada{LF}se mover mais lentamente..{#Name="Michael"}
@@ -3628,10 +3628,10 @@ Como quiser.{#Name="Michael"}
 Em que inferno estão minhas irmãs?{#Name="Zero"}
 Você tem certeza disso, Zero?{LF}Sobre matar todas as Intoners?{#Name="Michael"}
 Claro. Por que mais eu faria essa chacina?{#Name="Zero"}
-Intoner...traidora...maldita!{#Name="Soldado A"}
+Intoner...traidora...maldita!{#Name="Soldier A"}
 Você ouviu isso? Estão todos te chamando de traidora.{#Name="Michael"}
 Já me chamaram de coisa pior.{#Name="Zero"}
-Matem esta besta imunda! Derrubem-no!{#Name="Soldado B"}
+Matem esta besta imunda! Derrubem-no!{#Name="Soldier B"}
 Parece que eu sou um monstro pra eles.{#Name="Michael"}
 Pois é, eu não me importaria com isso.{#Name="Zero"}
 Eu não sou um monstro.{#Name="Michael"}
@@ -3641,50 +3641,50 @@ Oh, inferno, O que é essa coisa?{#Name="Zero"}
 Não é humano... tampouco um monstro.{#Name="Michael"}
 Provavelmente algum tipo de automato{LF}criado pelas Intoners.{#Name="Michael"}
 Pirralhas engenhosas...{#Name="Zero"}
-Homens, assumam suas posições! Permaneçam firmes!{#Name="Soldado A"}
+Homens, assumam suas posições! Permaneçam firmes!{#Name="Soldier A"}
 SAIAM. DA PORRA. DO MEU CAMINHO!{#Name="Zero"}
-Não deixem ela passar!{#Name="Soldado B"}
+Não deixem ela passar!{#Name="Soldier B"}
 Saiam!{#Name="Zero"}
-{06}>{#Name="Soldado B"}
+{06}>{#Name="Soldier B"}
 Como ela pode ser uma Intoner... Não faz sentido!{#Name="Soldier G"}
-Ela é um demônio maldito...{#Name="Soldado F"}
-Acabou para nós! Nós vamos morrer!{#Name="Soldado G"}
-Não é hora de ser covarde! Se recomponha e lute!{#Name="Soldado B"}
-Oh, Deus... Não, não, não, não, nããããoo!{#Name="Soldado G"}
-Malditos chorões... Atirem! Atirem Agora!{#Name="Soldado B"}
-Nossos mensageiros estão mortos! Chamem mais!{#Name="Soldado C"}
-Eles nunca chegarão a tempo!{#Name="Soldado D"}
-Reparem nela... Quão rápida é!{#Name="Soldado C"}
-Merda! Ela tá vindo pra cá! Corram!{#Name="Soldado D"}
-O mundo não sobreviverá sem as Intoners.{#Name="Soldado F"}
-Se quisermos que as Intoners boas vivam..{#Name="Soldado F"}
-Logo a traidora deverá morrer!{#Name="Soldado F"}
+Ela é um demônio maldito...{#Name="Soldier F"}
+Acabou para nós! Nós vamos morrer!{#Name="Soldier G"}
+Não é hora de ser covarde! Se recomponha e lute!{#Name="Soldier B"}
+Oh, Deus... Não, não, não, não, nããããoo!{#Name="Soldier G"}
+Malditos chorões... Atirem! Atirem Agora!{#Name="Soldier B"}
+Nossos mensageiros estão mortos! Chamem mais!{#Name="Soldier C"}
+Eles nunca chegarão a tempo!{#Name="Soldier D"}
+Reparem nela... Quão rápida é!{#Name="Soldier C"}
+Merda! Ela tá vindo pra cá! Corram!{#Name="Soldier D"}
+O mundo não sobreviverá sem as Intoners.{#Name="Soldier F"}
+Se quisermos que as Intoners boas vivam..{#Name="Soldier F"}
+Logo a traidora deverá morrer!{#Name="Soldier F"}
 Podem parar de falar merda, beleza?{#Name="Zero"}
-Recuem! Recuem, todos!{#Name="Soldado A"}
+Recuem! Recuem, todos!{#Name="Soldier A"}
 Quê? Se abandonarmos nossos postos, as Intoners{LF}estarão em perigo!{#Name="Soldier B"}
 Você realmente acha que eu tô ligando{LF}pra essa merda agora!?{#Name="Soldier A"}
-Sai dessa, seu patético covarde!{LF}Você é um soldado!{#Name="Soldier B"}
+Sai dessa, seu patético covarde!{LF}Você é um Soldado!{#Name="Soldier B"}
 Vão, Vão, Vão, VÃÃO!{#Name="Zero"}
-É a Zero! A traidora!{#Name="Soldado E"}
+É a Zero! A traidora!{#Name="Soldier E"}
 Sumam da minha frente!{#Name="Zero"}
-Merda, ela está aqui! Recuar! Recuaaaar!{#Name="Soldado D"}
-Sai da minha frente!{#Name="Soldado C"}
-Como...como isso pôde acontecer...?{#Name="Soldado D"}
+Merda, ela está aqui! Recuar! Recuaaaar!{#Name="Soldier D"}
+Sai da minha frente!{#Name="Soldier C"}
+Como...como isso pôde acontecer...?{#Name="Soldier D"}
 Aguardem, minhas amadas irmãs.{LF}Estou indo para matar todas vocês.{#Name="Zero"}
 Derrote o Titã!{#Name=" "}
 Encontre e derrote suas irmãs na Catedral.{#Name=" "}
 Velhote
 Zero
-Soldado A
-Soldado C
+Soldier A
+Soldier C
 ゼロ
 Michael
 343
-Soldado F
-Soldado B
-Soldado E
-Soldado D
-Soldado G
+Soldier F
+Soldier B
+Soldier E
+Soldier D
+Soldier G
  
 Há quanto tempo, Zero.{#Name="One"}
 Ah, é mesmo? Se você diz.{#Name="Zero"}
@@ -3939,7 +3939,7 @@ A Terra dos Mares...{#Name="アコール"}
 A Terra das Montanhas...{#Name="アコール"}
 A Terra das Florestas...{#Name="アコール"}
 A Terra das Areias...{#Name="アコール"}
-E a Cidade da Catedral.{#Name="アコール"}
+E a Cidade Catedral.{#Name="アコール"}
 Uma dessas irmãs busca trazer ruína ao mundo,{#Name="アコール"}
 e ela não descansará até matar suas irmãs.{#Name="アコール"}
 A Intoner traidora chama-se Zero...{#Name="アコール"}
@@ -4396,7 +4396,7 @@ Zero, você não precisa...{#Name="Mikhail"}
 {06}>{#Name="Zero"}
 Cale-se!{#Name="Zero"}
 {06}>{#Name="Zero"}
-Se você quer matar um Intoner, você tem que realmente fazer—{#Name="Zero"}
+Se você quer matar uma Intoner, você tem que realmente fazer—{#Name="Zero"}
 {06}>{#Name="Mikhail"}
 Huh?{#Name="Zero"}
 Nossa...{#Name="Mikhail"}
@@ -4405,7 +4405,7 @@ Você certamente gostava de me trabalhar até a exaustão, não é?{#Name="Dito"
 Bem, seu pequeno discípulo não vai mais aceitar seu abuso!{#Name="Dito"}
 {06}>{#Name=" "}
 {06}>{#Name="Mikhail"}
-Você não é mais um Intoner! Você não é nada! Você é apenas um grande saco de carne!{#Name="Dito"}
+Você não é mais uma Intoner! Você não é nada! Você é apenas um grande saco de carne!{#Name="Dito"}
 Eu amo você, eu amo você... O que você amava? Você me enjoa!{#Name="Dito"}
 Você...maldito...estúpido...egoísta...louco por sexo...filho de um... Uh...{#Name="Dito"}
 ...Qual era o nome dela novamente? Eu esqueci.{#Name="Dito"}
@@ -4594,9 +4594,9 @@ Você sabe que estamos passando por tudo{LF}isso por você, Zero, certo?{#Name="
 ...Certo!?{#Name="Dito"}
 O que você está falando?{#Name="Zero"}
 Bondade, Lady Zero! Você certamente{LF}pode ser densa às vezes!{#Name="Cent"}
-Isso mal combina com sua grande{LF}posição como um Intoner.{#Name="Cent"}
+Isso mal combina com sua grande{LF}posição como uma Intoner.{#Name="Cent"}
 Olhe, tudo que estou dizendo é que um pequeno{LF}obrigado poderia ser agradável.{#Name="Dito"}
-Não que pediríamos dinheiro ou algo{LF}tão grosseiro de um Intoner!{#Name="Cent"}
+Não que pediríamos dinheiro ou algo{LF}tão grosseiro de uma Intoner!{#Name="Cent"}
 Vamos ver... Eu sei! Como um{LF}delicioso jantar caseiro?{#Name="Cent"}
 Ah, como é lindo!{#Name="Octa"}
 Ótimo. Então está decidido.{#Name="Dito"}
@@ -4745,7 +4745,7 @@ Zero! Você está bem!?{#Name="Mikhail"}
 {06}>{#Name="Zero"}
 {06}>{#Name="Zero"}
 Puta merda...{#Name="Dito"}
-Então... é assim que um Intoner se regenera...?{#Name="Dito"}
+Então... é assim que uma Intoner se regenera...?{#Name="Dito"}
 Isso não pode acabar... até que todos estejam mortos.{#Name="Zero"}
 Isso não pode acabar.{#Name="Zero"}
 Zero...{#Name="Mikhail"}
@@ -4783,8 +4783,8 @@ Agora devemos seguir os passos dela!
 A Lady Four está com Decadus. Estou certo de que ela está segura.
 Espero que sim.
 Vamos lá, demônio!
-Maldição, Zero... Maldição ao Intoner amaldiçoado...
-Estamos sob ataque! O demônio Intoner está aqui!
+Maldita seja você, Zero... Maldita Intoner...{#Name="Soldado E"}
+Estamos sob ataque! A demônio Intoner está aqui!
 Vamos todos morrer!
 Para onde devemos ir, Zero?
 Você me pegou.
@@ -4882,7 +4882,7 @@ Eu choro lágrimas salgadas todas as noites.{#Name="Dito"}
 Há barricadas em todos os lugares.{#Name="Dito"}
 Derrube-as!{#Name="Zero"}
 É louco o quanto Four{LF}se esforçou para segurar este lugar.{#Name="Zero"}
-É isso que um Intoner faz.{LF}Excessivamente obsessivo.{#Name="Dito"}
+É isso que uma Intoner faz.{LF}Excessivamente obsessivo.{#Name="Dito"}
 ...Bem, exceto a presente companhia e tudo mais.{#Name="Dito"}
 Eu poderia me obcecar em matar você, sabia.{#Name="Zero"}
 Eu? Uh, foi o inimigo quem falou!{LF}Vá pegá-lo, tigre!{#Name="Dito"}
@@ -5003,7 +5003,7 @@ Zero! Você está bem!?{#Name="Mikhail"}
 {06}>{#Name="Zero"}
 {06}>{#Name="Zero"}
 Puta merda...{#Name="Dito"}
-Então...é assim que um Intoner regenera...?
+Então...é assim que uma Intoner regenera...?
 Isso não pode acabar...até que todos estejam mortos.
 Isso não pode acabar.
 Zero...
@@ -5076,7 +5076,7 @@ Eles ainda estão nos atingindo! Atire de volta!{#Name="Soldado B"}
 Ngh! Tão forte! E rápido!{#Name="Soldado C"}
 Você viu o olho da Zero?{#Name="Soldado F"}
 Eu vi? Como eu poderia perder isso?{#Name="Soldado A"}
-Isso não é um Intoner. Isso é um monstro!
+Isso não é uma Intoner. Isso é um monstro!
 Vamos! Atire! Atire AGORA!
 Estamos apenas desperdiçando munição!
 Cale-se, covarde! Não vamos saber até tentar!
@@ -5106,7 +5106,7 @@ Os cheiros, os gritos...{LF}Cara, vou dormir muito bem hoje à noite!
 Você é bem fodido, não é?
 Heh... Você realmente sabe como elogiar um cara.
 É a Zero!
-Mate o maldito Intoner!
+Mate a maldita Intoner!
 Heh. Alguém é um trabalho árduo.
 Ei, bobo. Por que não vai mostrar a eles quem é o chefe?
 M-Mim? Eu não sei, eu não gosto de ser malvado com—
@@ -5154,7 +5154,7 @@ Sinto pena deles...{#Name="Mikhail"}
 Realmente? Por quê?{#Name="Dito"}
 Olhe. Pessoas tão feias não merecem viver.{#Name="Dito"}
 Tenho que dizer, embora, o cheiro de{LF}carne queimada nunca fica velho!{#Name="Dito"}
-Isso...isso é o poder de um Intoner?{#Name="Soldado F"}
+Isso...isso é o poder de uma Intoner?{#Name="Soldado F"}
 É demais para compreender!{#Name="Soldado F"}
 Ei! O portão acabou de abrir!{#Name="Mikhail"}
 Bom. Vamos nos mover.{#Name="Zero"}
@@ -5361,7 +5361,7 @@ z{#Name="a"}
 z{#Name="a"}
 Zero? Zero!{#Name="Mikhail"}
 Eu disse para você parar de se repetir!{#Name="Zero"}
-Você é o único Intoner que estou sentindo agora.{#Name="Mikhail"}
+Você é a única Intoner que estou sentindo agora.{#Name="Mikhail"}
 Você tem certeza de que Four está aqui?{#Name="Mikhail"}
 移動↓{#Name=" "}
 Traga o canhão hiper!{#Name="Soldier A"}
@@ -5492,7 +5492,7 @@ Vamos todos nos transformar em estátuas de gelo de soldado...{#Name="Soldado D"
 Faça um barulho como se tivesse um par, homens!{#Name="Soldado C"}
 Yaaaaaah!{#Name="Soldado D"}
 Como eles estão subindo a montanha tão rápido!?{#Name="Soldado E"}
-Isso não é um Intoner... É um monstro danado!{#Name="Soldado B"}
+Isso não é uma Intoner... É um monstro!{#Name="Soldado B"}
  {#Name="兵士B"}
 Droga! Continuo recebendo neve nos meus olhos!{#Name="Soldado G"}
 Continue em frente! Você vai morrer se parar de se mover!{#Name="Soldado F"}
@@ -5744,7 +5744,7 @@ Sim{#Name="ミハイル"}
 Então, o seu corpo é sempre quente?{#Name="ディト"}
 Eh? Como assim? Eh... o meu corpo... é quente? É frio?{#Name="ミハイル"}
 Se você é tão insensível, não importa qual seja?{#Name="ディト"}
-Estou sentindo a presença de um Intoner! Lá em cima, além dessas nuvens!{#Name="Mikhail"}
+Estou sentindo a presença de uma Intoner! Lá em cima, além dessas nuvens!{#Name="Mikhail"}
 Oh, inferno. O CÉU? Nunca nem considerei isso.{#Name="Zero"}
 Vem, suba!{#Name="Mikhail"}
 Ugh. Está frio e você fede, mas suponho que não há escolha.{#Name="Zero"}
@@ -6169,7 +6169,7 @@ Você está viajando com ZERO!{LF}Ela é como uma máquina de assassinato.{#Name
 Suponho que tenha sido um massacre{LF}após outro... Ungh...{#Name="Decadus"}
 Tucker lá embaixo, tigre.{#Name="Dito"}
 Isso não foi um gemido de prazer!{#Name="Decadus"}
-O que a Lady Zero fará quando{LF}os Intoners não existirem mais?{#Name="Decadus"}
+O que a Lady Zero fará quando{LF}as Intoners não existirem mais?{#Name="Decadus"}
 Como eu saberia? E por que eu me importaria?{#Name="Dito"}
 Agora, há muitos assassinatos{LF}acontecendo, e é tudo que eu realmente preciso.{#Name="Dito"}
 Você não será perdoado, Zero!{#Name="Soldier A"}
@@ -6218,7 +6218,7 @@ Um dragão!?{#Name="Zero"}
 Isso é... Isso é o dragão da Lady One...{#Name="Octa"}
 Não, é diferente.{#Name="Zero"}
 Como a Four conseguiu invocar um dragão daemon!?{#Name="Zero"}
-Os Intoners não podem normalmente fazer isso?{#Name="Mikhail"}
+As Intoners não podem normalmente fazer isso?{#Name="Mikhail"}
 Não. Não sem perder a cabeça, eles não podem.{#Name="Zero"}
 A One foi a única irmã com{LF}o poder de fazer isso.{#Name="Zero"}
 Mas você pode me chamar, Zero! E você está bem!{#Name="Mikhail"}
@@ -6278,9 +6278,9 @@ Zéro está aqui! Ela está invadindo!{#Name="Soldado A"}
 Dai-me apoio! Eu estou indo!{#Name="Soldado B"}
 Eu te cubro!{#Name="Soldado C"}
 Onde estão os médicos!?{#Name="Soldado D"}
-Podemos realmente matar um Intoner!?{#Name="Soldado E"}
+Podemos realmente matar uma Intoner!?{#Name="Soldado E"}
 Ohhh! Que visão tão terrível!{#Name="Soldado F"}
-Aaaaaggghh! O maldito Intoner está aqui!{#Name="Soldado G"}
+Aaaaaggghh! A maldita Intoner está aqui!{#Name="Soldado G"}
 Ugh! Como podem ser tão incrivelmente fortes!?{#Name="Soldado B"}
 Não subestime-a!{#Name="Soldado E"}
 ¿Vendrá? ¿Vendrá?{#Name="Soldado C"}
@@ -6289,7 +6289,7 @@ Te darei suporte{#Name="Soldado G"}
 Você quer morrer? Basta andar sem me importar com a minha idade!{#Name="Soldado F"}
 Ela...é muito forte!{#Name="Soldado A"}
 Isso é o que sabíamos quando pegamos esse emprego!{#Name="Soldado C"}
-É isso aí! Sabíamos que estávamos lutando contra um Intoner!{#Name="Soldado D"}
+É isso aí! Sabíamos que estávamos lutando contra uma Intoner!{#Name="Soldado D"}
 Precisamos pará-la aqui!{#Name="Soldado E"}
 Vamos nos aquecer!{#Name="Soldado F"}
 Sua espada... Eu não consigo sequer a seguir!{#Name="Soldado G"}
@@ -6971,14 +6971,14 @@ Encaixe 8 Cubos Gárgola na porta!
 （Reserva）
 （Reserva）
 Alerta! Alerta! Octa se juntou ao inimigo!
-Um discípulo traindo seu próprio Intoner? Inconcebível!
+Um discípulo traindo sua própria Intoner? Inconcebível!
 É verdade? Octa agora é nosso inimigo?
 Deve haver um motivo! Talvez ele seja um agente duplo.
 Ei, sim... Sim! Isso DEVE ser verdade!
 Merda! Estou ferido!
 Tudo bem— aqui, vou te apoiar. Você vai ficar bem! Temos que continuar lutando!
 Não desista! Se você desistir, tudo estará perdido!
-Um homem precisa de um espírito bravo para superar um Intoner amaldiçoado. Dê tudo de si!
+Um homem precisa de um espírito bravo para superar uma Intoner amaldiçoada. Dê tudo de si!
 É inútil. Não há como podemos vencer. Até Octa abandonou seu posto!
 Não se preocupe com Octa! Você ainda está aqui, não é? Agora, volte à formação!
 Então, Three parece um pouco bagunçada.
@@ -7053,7 +7053,7 @@ Jovem? ...Você não tem um espelho, tem?{#Name="Dito"}
 Oh ho ho! Acredite ou não, eu ainda sou apenas 22!{#Name="Octa"}
 Huh? EU TENHO 22. Como você pode ter a mesma idade que eu!?{#Name="Dito"}
 É verdade! Parece que minhas extensas escapadas eróticas{LF}extinguiram minha essência jovem.{#Name="Octa"}
-O inferno, homem... Parece que você é tão esquisito{LF}quanto o Intoner que você serviu.{#Name="Dito"}
+O inferno, homem... Parece que você é tão esquisito{LF}quanto a Intoner que você serviu.{#Name="Dito"}
 São seus atos crimes, Zero?{LF}Ou você considera isso justiça?{#Name="Three"}
 Quem se importa? Bem e mal são a mesma coisa.{#Name="Zero"}
 Essa espada sangrenta... É leve?{LF}Ou é pesada? Heh heh heh!{#Name="Three"}
@@ -7201,7 +7201,7 @@ Embora, quando eu estava brincando com as fadas,{LF}eu acredito que ouvi algo so
 Droga! Essa névoa está começando a me{LF}irritar mesmo!{#Name="Zero"}
 Acho que não temos escolha a não ser{LF}seguir essas bonecas assustadoras.{#Name="Zero"}
 Ugh, finalmente estamos livres dessa merda de lugar.{#Name="Zero"}
-Você sabe, para um Intoner, você usa{LF}um monte de linguagem colorida.{#Name="Dito"}
+Você sabe, para uma Intoner, você usa{LF}um monte de linguagem colorida.{#Name="Dito"}
 O que você quer? Aquela floresta fodida me irritou!{#Name="Zero"}
 Ah, sim. Há um motivo para ser conhecida como{LF}"a floresta que quebra mentes."{#Name="Octa"}
 Sim, bem, a mente de Z já estava quebrada.{LF}Talvez isso apenas a tenha colocado de volta.{#Name="Dito"}
@@ -7366,7 +7366,7 @@ Eu, Octa...chamo você em meu nome...
 Armisael, invada!
 Zero, isso foi maravilh—
 {06}
-Você realmente pensou...algo como isso...iria terminar um Intoner...?
+Você realmente pensou...algo como isso...iria terminar uma Intoner...?
 {06}>{Nome="Mikhail"}
 {06}>{Nome="Mikhail"}
 {06}>{Nome="Zero"}
@@ -7549,7 +7549,7 @@ Eu odeio essa merda de um e dois de cada vez.{#Name="Zero"}
 Eu gostaria que eles simplesmente me atacassem todos de uma vez{LF}e acabassem com isso!{#Name="Zero"}
 Pela primeira vez, Z, eu acho que realmente concordo com você.{#Name="Dito"}
 ...O que é bem assustador quando você pensa sobre isso.{#Name="Dito"}
-Você ama provocar nosso belo Intoner, não é?{#Name="Cent"}
+Você ama provocar nossa bela Intoner, não é?{#Name="Cent"}
 É, e eu vou amar matar você ainda mais!{#Name="Dito"}
 Oh ho! Espíritos estão possuindo esses corpos!{#Name="Octa"}
 Espíritos são atraídos por cadáveres humanos mortos.{#Name="Decadus"}
@@ -7616,7 +7616,7 @@ Não importa. Octa é nosso inimigo agora!{#Name="Soldier B"}
 Onde está Lady Three!?{#Name="Soldier C"}
 Não sei! Perdemos contato com ela há um tempo!{#Name="Soldier D"}
 Bem, envie outro mensageiro!{#Name="Soldier C"}
-Maldição ao Intoner traidor!{#Name="Soldier E"}
+Maldição a Intoner traidora!{#Name="Soldado E"}
 Lady Three nos libertou do governo opressivo do passado. Nós lhe devemos nossas vidas!{#Name="Soldier F"}
 Reforços! Chame reforços!{#Name="Soldier G"}
 Há algo estranho sobre essa floresta...{#Name="Soldier B"}
@@ -7679,7 +7679,7 @@ O que? Não! Eu... só quero ver você espalhar suas{LF}asas e voar pelo céu! .
 Oh, realmente? Nossa! Okay, você conseguiu!{LF}Assista isso, certo? Assista isso!{#Name="Mikhail"}
 Hmm... Ainda assim, isso é estranho...{#Name="Octa"}
 O que? Você cresceu um terceiro noz ou algo?{#Name="Zero"}
-Se apenas! Mas não, estou me referindo à Lady One.{LF}Ela foi dita estar na Cidade da Catedral.{LF}Por que ela viria para este lugar?{#Name="Octa"}
+Se apenas! Mas não, estou me referindo à Lady One.{LF}Ela foi dita estar na Cidade Catedral.{LF}Por que ela viria para este lugar?{#Name="Octa"}
 Não sei, não me importa.{LF}Deixe o pensamento para os intelectuais.{#Name="Zero"}
 Ugh, novamente? Esses caras são freakin' obnoxious!{#Name="Zero"}
 Takes one to know one...{#Name="Dito"}
@@ -8061,8 +8061,8 @@ Recuar! Todos os homens, recuem!{#Name="Soldado B"}
 Não! Ela nos pegou de surpresa!{#Name="Soldado C"}
 Pare! Você vai se matar!{#Name="Soldado D"}
 Precisamos de apoio. Vamos, vamos!{#Name="Soldado E"}
-O sangue do amaldiçoado Intoner será derramado hoje!{#Name="Soldado F"}
-Maldição, Zero! Maldição ao Inferno!{#Name="Soldado G"}
+O sangue da amaldiçoada Intoner será derramado hoje!{#Name="Soldado F"}
+Maldição, Zero! Vá para o inferno!{#Name="Soldado G"}
 Podemos fazer isso?{#Name="Soldado A"}
 Sinto isso...coceira...em todos os lugares...{#Name="Soldado B"}
 Resista!{#Name="Soldado B"}
@@ -8155,7 +8155,7 @@ Não é aconselhável amaldiçoar os mortos.
 Tudo bem! Eu vou amaldiçoar seu cadáver{LF}até o dia em que eu morrer!
 Eu nunca vou perdoar ela! Nunca!
 Ha ha! Cara, eu não posso esperar para massacrar{LF}o próximo Intoner! Vai ser incrível!
-Você sabe que eu também sou um Intoner...
+Você sabe que eu também sou uma Intoner...
 Ha ha! Ha ha ha ha!
 As irmãs estão se desfazendo.
 Mikhail evoluiu dois níveis de uma só vez.
@@ -8641,7 +8641,7 @@ Oh, confie em mim, não é só o braço.{LF}Z pode regenerar quase qualquer cois
 Nnngh...{#Name="Decadus"}
 Hmm? Alguma coisa errada, Decadus?{#Name="Octa"}
 Provavelmente enjoado. Ele é bem{LF}delicado...para um freak.{#Name="Dito"}
-Um Intoner com braços destacáveis é demais para você?{#Name="Zero"}
+Uma Intoner com braços destacáveis é demais para você?{#Name="Zero"}
 Não, minha senhora. Como seu discípulo, eu devo aprender{LF}tudo o que há para saber sobre você.{#Name="Decadus"}
 De fato. Há coisas muito mais horríveis{LF}no mundo, afinal.{#Name="Octa"}
 Sim. Como sua libido.{#Name="Dito"}
@@ -8859,7 +8859,7 @@ Bem! Um homem inteligente e bonito como eu sabe quando está derrotado.{#Name="C
 Suponho que a partir de agora... vou servi-la, Lady Zero.{#Name="Cent"}
 Você não vai seguir o Two até o túmulo?{#Name="Zero"}
 Céus, não!{#Name="Cent"}
-Eu só quero servir um Intoner. Realmente não me importo qual seja.{#Name="Cent"}
+Eu só quero servir uma Intoner. Realmente não me importo qual seja.{#Name="Cent"}
 Afinal... eu sou apenas um grande idiota, certo?{#Name="Cent"}
 Inimigo avistado! Todos os homens, tomem posição!{#Name="Soldado A"}
 Devemos manter nossa amada Lady Two segura!{#Name="Soldado B"}
@@ -9230,10 +9230,10 @@ Eu sou muito melhor em matar pessoas.
 A cidade é a fortaleza da Lady Two! Ela deve ser protegida a qualquer custo!
 Hee hee hee hee hee! Lady Two... Eu a vejo!
 Volte ao normal! Você está alucinando!
-O impuro nunca deve ser permitido pisar na Cidade da Catedral!
+O impuro nunca deve ser permitido pisar na Cidade Catedral!
 De fato! Como ousa Zero se igualar à Lady Two!
 Enquanto a Lady Two estiver lá para mim,{LF}não desejo mais nada!{#Name="Soldier C"}
-Curve-se diante da Lady Two, falso Intoner!{#Name="Soldier D"}
+Curve-se diante da Lady Two, falsa Intoner!{#Name="Soldier D"}
 Lute por Lady Two!{LF}Nossa líder é a salvadora de toda a humanidade!{#Name="Soldier A"}
 Você! Onde está seu equipamento?{#Name="Soldier F"}
 Não tenha medo! A Lady Two é minha espada!{LF}A Lady Two é meu escudo!{#Name="Soldier G"}
@@ -9311,7 +9311,7 @@ Viva a Lady Two! Viva a Lady Twoooo!
 Viva nossa Lady! Viva nossa Lady!
 O dia do julgamento está próximo! Nós vamos nos levantar e alcançar uma dimensão superior!
 A Lady Two é a santa trindade! Mãe, esposa e filha da humanidade!
-Arranque a flor podre do rosto do falso Intoner!
+Arranque a flor podre do rosto da falsa Intoner!
 Essa flor é uma afronta à Lady Two!
 Nós bebemos da taça de água santa! Nós somos invencíveis!
 Yeahhh!
@@ -9356,7 +9356,7 @@ Quem perguntou a você, você aleijado esquisito!{#Name="Zero"}
 Você me chamou, Zero? Oh menino, oh menino, oh menino!{#Name="Mikhail"}
 Não olhe tão feliz. Faça apenas o que{LF}você está aqui para fazer já. ...E{LF}quando você terminar, descanse.{#Name="Zero"}
 Obrigado, Zero! Vou tentar com o dobro de esforço, okay?{#Name="Mikhail"}
-Podemos chegar à Cidade da Catedral{LF}por esse caminho à frente?{#Name="Cent"}
+Podemos chegar à Cidade Catedral{LF}por esse caminho à frente?{#Name="Cent"}
 Hmm...{#Name="Accord"}
 Dragões degenerando...{LF}Discípulos abandonando seus Intoners...{#Name="Accord"}
 Um ramo tão estranho merece um estudo muito cuidadoso.{#Name="Accord"}
@@ -9672,14 +9672,14 @@ Que as almas de nossos grandes heróis nos guiem!{#Name="Soldado E"}
 Ah! Meus olhos!{#Name="Soldado G"}
 Este é a terra natal de nossos ancestrais. Não devemos vacilar aqui!
 Este é a terra natal de nossos ancestrais. Não devemos vacilar aqui!
-Aquele maldito, distorcido Intoner!
+Aquela maldita Intoner!
 Vamos mostrar nossa técnica secreta ultra-poderosa!
 Vamos!
 Fique perto do capitão e siga-me!
 Mantenha a cabeça baixa antes que ela corte a maldita coisa!
 *Huff, huff, huff...* Não! Não quero morrer!
 É Zero! Mate-a! Mate o demônio!
-Despedace o Intoner perverso!
+Despedace a Intoner perversa!
 É isso para mim... Mas vou morrer lutando!
 Estou com você!
 Vamos!
@@ -9826,10 +9826,10 @@ Zero! Meus bolas de fogo não parecem estar machucando ele!
 A pele dele é muito dura. Vamos ter que{LF}acertar seu ponto fraco.
 Ei! Estamos chegando a um beco sem saída!
 Não adianta! Não podemos escapar! Não podemos escapar!
-Para conquistar a fortaleza inimiga na Cidade da Catedral,
+Para conquistar a fortaleza inimiga na Cidade Catedral,
 O grupo da Zero decidiu lançar um ataque aéreo.
 Mas o que eles encontraram esperando por eles lá...
-não era outra senão a própria One. O último Intoner.{#Name="Accord"}
+não era outra senão a própria One. A último Intoner.{#Name="Accord"}
 Mikhail
 Zero
 Octa
@@ -10018,7 +10018,7 @@ Continue em frente!{#Name="Soldier F"}
 Senhor! Não temos mais lugar para ir!
 Estamos mesmo machucando eles!?
 Devemos ter feito algum dano até agora!...Certo!?
-Devíamos ter sabido que humanos comuns{LF}não poderiam combater um Intoner...
+Devíamos ter sabido que humanos comuns{LF}não poderiam combater uma Intoner...
 Bem, fizemos nossa cama agora, então continue lutando!
 Vamos, mova! Deus danado, você pernas estúpidas, MOVAM!
 Isso é tão chato! Não podemos apenas matar todos{LF}e sair daqui já?
@@ -10030,7 +10030,7 @@ Devemos manter a Senhora Zero segura!
 Estou bem certo de que "Senhora Zero" pode{LF}cuidar de si mesma muito bem.
 Diabos, se algo, ela deveria estar nos protegendo!
 De qualquer maneira,{LF}queremos que Zero nos proteja também.
-Não diga essas coisas!{LF}Devemos dar tudo para nosso Intoner!{#Name="Decadus"}
+Não diga essas coisas!{LF}Devemos dar tudo para nossa Intoner!{#Name="Decadus"}
 Detecto o hálito podre de{LF}soldados tremendo de medo.{#Name="Decadus"}
 Hora de curiosidade! Você sabia que dezesseis por cento do{LF}hálito humano consiste em substâncias químicas nocivas?{#Name="Cent"}
 Eu... Não, nunca ouvi isso.{#Name="Decadus"}
@@ -10055,7 +10055,7 @@ E se você morrer?{#Name="Cent"}
 Então eu ascenderei ao céu{LF}sem remorsos! Oh ho ho!{#Name="Octa"}
 Você pode rir disso, mas eu sonho{LF}de um dia viver em paz.{#Name="Decadus"}
 No entanto...a verdade amarga não me escapa.{LF}Eu sei em meu coração que nasci para o combate.{#Name="Decadus"}
-Eu sou um discípulo, criado apenas para servir um Intoner.{#Name="Decadus"}
+Eu sou um discípulo, criado apenas para servir uma Intoner.{#Name="Decadus"}
 Eu concordo. Completamente.{#Name="Octa"}
 Então, por que vocês dois não se calam{LF}e começam a matar?!{#Name="Dito"}
 Você roubou as palavras direto da minha linda boca!{#Name="Cent"}
@@ -10065,7 +10065,7 @@ Não vou precisar mais de você.{#Name="Zero"}
 Posso lidar com o resto sozinho.{#Name="Zero"}
 M-Minha Senhora, por favor, se você está preocupada conosco, nós—{#Name="Decadus"}
 Não.{#Name="Zero"}
-É inevitável. Discípulos não podem permanecer{LF}em forma humana sem o poder de um Intoner.{#Name="Zero"}
+É inevitável. Discípulos não podem permanecer{LF}em forma humana sem o poder de uma Intoner.{#Name="Zero"}
 Mais cedo ou mais tarde, você vai desaparecer.{#Name="Zero"}
 Então, antes que isso aconteça...{#Name="Zero"}
 Estou devolvendo suas formas antigas.{#Name="Zero"}
@@ -10142,7 +10142,7 @@ Eu também!{#Name="Soldado C"}
 Então é a maldita Intoner...{#Name="Soldado E"}
 Mate-a! Mate-a! Mate-a!{#Name="Soldier A"}
 Ela não parece estar enfraquecida!{#Name="Soldier G"}
-Maldito Intoner...{#Name="Soldier F"}
+Maldita Intoner...{#Name="Soldier F"}
 Socorro! Ela está quebrando!{#Name="Soldier E"}
 Pare-a, não importa o que! Pela Lady One!{#Name="Soldier B"}
 Aaaaahh!{#Name="Soldier F"}
@@ -10187,14 +10187,14 @@ Droga! Se isso continuar, Lady One está em apuros!{#Name="Soldier F"}
 Proteja a Catedral! Não deixe Zero entrar!{#Name="Soldier A"}
 O que você está lendo?{#Name="Zero"}
 Ah, Zero.{#Name="One"}
-É um registro da vida na Cidade da Catedral.{#Name="One"}
+É um registro da vida na Cidade Catedral.{#Name="One"}
 Um registro da vida?{#Name="Zero"}
 Zero, você não acha estranho?{#Name="One"}
 Essa cidade é considerada a origem de toda magia.{#Name="One"}
 Feitiços foram criados aqui que mesmo agora estão além de nossas habilidades.{#Name="One"}
 Onde foi parar esse conhecimento? Quando perdemos isso?{#Name="One"}
 E o que aconteceu com as pessoas que uma vez possuíam isso?{#Name="One"}
-Pensei que se eu estudasse isso, eu poderia{LF}aprender o propósito dos Intoners. De...nós.{#Name="One"}
+Pensei que se eu estudasse isso, eu poderia{LF}aprender o propósito das Intoners. De...nós.{#Name="One"}
 Só um idiota tenta aprender sobre um monte de coisa{LF}que ela não precisa saber. Ou você não sabia disso?{#Name="Zero"}
 Isso é bem fechado de mente.{#Name="One"}
 Embora, no sentido de que nunca podemos verdadeiramente saber tudo...{LF}Bem, suponho que concordo.{#Name="One"}
@@ -10268,7 +10268,7 @@ Droga. Droga de tudo!{#Name="Zero"}
 Você acha mesmo que isso será{LF}suficiente para nos destruir!?{#Name="One"}
 Todos nós... Five, Four, Three, Two e One...{#Name="One"}
 Não vamos perder, Zero! E o mundo também não!{#Name="One"}
-Você é o monstro que fez{LF}os Intoners em primeiro lugar!{#Name="One"}
+Você é o monstro que fez{LF}as Intoners em primeiro lugar!{#Name="One"}
 Droga...{#Name="One"}
 Tchau, Gabriel...{#Name="One"}
 Eu...sinto muito...{#Name="One"}
@@ -10307,7 +10307,7 @@ Zero está morta.{#Name="???"}
 One, você me ouve?{#Name="???"}
 Eu terminei com as Intoners, assim como você disse!{#Name="???"}
 Mas...o que devo fazer agora?{#Name="???"}
-Como eu devo viver... em um mundo que falta a proteção dos Intoners?{#Name="? ? ?"}
+Como eu devo viver... em um mundo que falta a proteção das Intoners?{#Name="? ? ?"}
 ...One.{#Name="? ? ?"}
 Eu vejo... Se não há mais Intoners para proteger o mundo...{#Name="? ? ?{0A}(Irmão de One)"}
 Então eu mesmo vou protegê-lo!{#Name="? ? ?{0A}(Irmão de One)"}
@@ -10343,7 +10343,7 @@ One
 ? ? ?{0A}(Irmão de One)
 One{0A}(Irmão de One)
 ? ? ?{0A}(Accord)
-Rompa as defesas da Cidade da Catedral.{#Name="説明文"}
+Rompa as defesas da Cidade Catedral.{#Name="説明文"}
 Derrote o Cérbero Cinzento!{#Name="説明文"}
 Derrote a Two!{#Name="説明文"}
 O discípulo Cent se juntou à luta.{#Name="説明文"}
@@ -10385,7 +10385,7 @@ Ajude...me.... (delírio insano){#Name="Soldier G"}
 Atualizar{#Name="Accord"}
 Anomalias significativas foram observadas no{LF}grupo de singularidades centradas em Zero.{#Name="Accord"}
 Mikhail, destinado a ser o fator harmonizador do grupo,{LF}degenerou e demonstrou outro comportamento anômalo.{#Name="Accord"}
-Tanto os Intoners quanto seus discípulos parecem estar{LF}entrando em estados mentais e emocionais instáveis.{#Name="Accord"}
+Tanto as Intoners quanto seus discípulos parecem estar{LF}entrando em estados mentais e emocionais instáveis.{#Name="Accord"}
 Continuarei minha investigação,{LF}mantendo um olho atento para qualquer sinal de Colapso Total.{#Name="Accord"}
 M5110_E0020_DM: Iniciar Gravação{#Name="Accord"}
 {06}>{#Name="Soldado A"}
@@ -10421,7 +10421,7 @@ Se ao menos... Se ao menos eu não tivesse deixado ela...{#Name="Cent"}
 Nnngh...{#Name="Cent"}
 Suponho... Posso ao menos acabar com o seu sofrimento...{#Name="Cent"}
 Há há há! Isso não é como você em absoluto, Cent!
-Nunca pensei que veria você simpatizando{LF}com um Intoner louco!
+Nunca pensei que veria você simpatizando{LF}com uma Intoner louca!
 Bem, acho que um estranho atrai outro.
 Aaah há há há há há!
 Dito... Droga você!
@@ -10445,7 +10445,7 @@ Vamos.
 M-Mas todo mundo... Eles estão todos...
 Matar Two não quebrou sua maldição.{#Name="Zero"}
 Então tenho que matar One.{#Name="Zero"}
-Tenho que matar todos os Intoners.{#Name="Zero"}
+Tenho que matar todas as Intoners.{#Name="Zero"}
 Mas... Mas eu posso estar bem assim!{#Name="Mikhail"}
 De jeito nenhum você pode.{#Name="Zero"}
 One vai pagar por isso.{#Name="Zero"}
@@ -10490,7 +10490,7 @@ Siiiie... S-S-S-Siiieee... S-Sie... (delírio insano){#Name="Soldier D"}
 A Cidade Catedral está... (delírio insano){#Name="Soldier D"}
 Un...Under...s-sie..ge... (delírio insano){#Name="Soldier D"}
 Hodfarrrrg! (delírio insano){#Name="Soldier E"}
-O Intoner... (delírio insano){#Name="Soldier E"}
+A Intoner... (delírio insano){#Name="Soldier E"}
 Graaaaah! (desvario insano){#Name="Soldier E"}
 C-Cannot...lose... (desvario insano){#Name="Soldier E"}
 Hodfarrrrrrrrger... (desvario insano){#Name="Soldier E"}
@@ -10515,7 +10515,7 @@ Nossa...{#Name="Mikhail"}
 Mas...eu definitivamente estaria em apuros sem você.{#Name="Zero"}
 Hã? Nossa! Diga isso novamente! Por favor!?{#Name="Mikhail"}
 Pare de dançar em volta! Você vai se machucar.{#Name="Zero"}
-Se todos os Intoners morrerem, a canção que está{LF}impulsionando sua maldição também deve.{#Name="Zero"}
+Se todas as Intoners morrerem, a canção que está{LF}impulsionando sua maldição também deve.{#Name="Zero"}
 Então esse mundo louco pode tentar se reparar.{#Name="Zero"}
 Você melhor estar preparada, One.{#Name="Zero"}
 Estou vindo atrás de você!{#Name="Zero"}
@@ -10564,7 +10564,7 @@ Geralmente é quando seu coração está chorando.{#Name="Mikhail"}
 E agora, suas mãos estão muito quentes.{#Name="Mikhail"}
 Pare com essa besteira e mate essa coisa já!{#Name="Zero"}
 Zero... Eu sei que você sabe disso!{#Name="One"}
-Se você quer matar um Intoner,{#Name="One"}
+Se você quer matar uma Intoner,{#Name="One"}
 você precisa do poder de um dragão!{#Name="One"}
 Merda!{#Name="Zero"}
 Zero!{#Name="Mikhail"}
@@ -10589,7 +10589,7 @@ Cale-se! Cale-se, cale-se, cale-se, CALE-SE!{#Name="Zero"}
 Você matou Mikhail...{#Name="Zero"}
 Você matou Mikhaaail!{#Name="Zero"}
 Porque ele era sua espada, Zero!{#Name="One"}
-Você é um Intoner amaldiçoado!{LF}Você vai destruir o mundo!{#Name="One"}
+Você é uma Intoner amaldiçoada!{LF}Você vai destruir o mundo!{#Name="One"}
 Não! Eu estou... Eu estou...{#Name="Zero"}
 Morraaaaaaaaaa!{#Name="One"}
 Aaaaaahhh!{#Name="Zero"}
@@ -10676,7 +10676,7 @@ Então isso é a base da Lady One, é?{#Name="Zero"}
 Estou bem! Vá pegar aquele cara! {#Name="Zero"}
 Certo! Tenha cuidado, Zero! Tenha cuidado, okay?{#Name="Mikhail"}
 Pare de se repetir!{#Name="Zero"}
-Meu nome é Zero, o Intoner original, e o imortal—{#Name="Zero"}
+Meu nome é Zero, a Intoner original, e a imortal—{#Name="Zero"}
 PARE COM ISSO! Estou tentando fazer um discurso aqui!{#Name="Zero"}
 Agora... Uh...{#Name="Zero"}
 Pelo amor de Deus! Agora eu perdi o meu lugar!{#Name="Zero"}
@@ -10708,7 +10708,7 @@ O mundo não precisa de Intoners!{#Name="One"}
 Heh. Eu concordo completamente.{#Name="Zero"}
 Então morra já!{#Name="One"}
 Você primeiro, Irmã!{#Name="Zero"}
-Posso erradicar os Intoners com a mesma facilidade que você!{#Name="One"}
+Posso erradicar as Intoners com a mesma facilidade que você!{#Name="One"}
 Como se eu pudesse confiar em você? Tenho que fazer isso sozinho!{#Name="Zero"}
 Você devia falar! Você deu à luz a essa maldição!{#Name="One"}
 Seja qual for o nosso objetivo ou não,{#Name="One"}
@@ -10827,7 +10827,7 @@ Você cresceu forte...Mikhail.{#Name="Zero"}
 Zero... Zero, você grande bobo...{#Name="Mikhail"}
 Boa noite...Zero.{#Name="Mikhail"}
 Gravação.{#Name="Accord"}
-Os Intoners foram selados em outro mundo.{#Name="Accord"}
+As Intoners foram seladas em outro mundo.{#Name="Accord"}
 A ameaça da flor foi extinta dessa ramificação.{#Name="Accord"}
 No entanto, a possibilidade existe de que esse selo{LF}possa se desfazer em algum momento ou local no futuro.{#Name="Accord"}
 Até lá, nossos esforços de gravação continuarão.{#Name="Accord"}
@@ -10877,108 +10877,108 @@ Accord C
 Accords
 ZERO
 Section 1 0100 Objective
-Protegendo com {01}{02} bloqueia ataques em todas as direções.{LF}No entanto, proteger consome estamina, então seja cuidadoso{LF}não bloqueie muitos ataques em sucessão ou{LF}você corre o risco de ter sua guarda quebrada.{#Name="Defesa"}
-Para parar, pressione {01}{02} justo antes de um ataque aterrissar.{LF}Se você parar uma flecha inimiga, você pode{LF}desviar a flecha de volta em direção ao seu inimigo.{#Name="Parry"}
-Use o mini-mapa na parte superior direita da{LF}tela para visualizar sua posição atual.{LF}Você pode pressionar {01}{0A} para zoom in e out; se você{LF}se perder, tente zoom out para visualizar o mapa completo.{#Name="Mini-mapa"}
-Pressione {01}{0A} + {01}{0D} para ativar o Modo de Intoner.{LF}Pressione novamente a qualquer momento para sair desse modo enquanto{LF}mantém seu Medidor de Sangue no nível atual.{#Name="Modo de Intoner"}
-Você pode concatenar ataques de combo especiais{LF}pressionando {01}{03} e {01}{04} em sequências variadas.{LF}Veja a Lista de Combos no Menu de Pausa para ver todas{LF}as rotas de combo possíveis para uma arma particular.{#Name="Ataques de Combo"}
-Use {01}{01} enquanto ataca com {01}{03} para lançar ambos{LF}você e seu inimigo no ar, permitindo que você{LF}dispare golpes aéreos. Inimigos mais pesados não{LF}podem ser jogados, então julgue um inimigo cuidadosamente{LF}antes de tentar essa manobra.{#Name="Combos Aéreos"}
-Pressione {01}{08} para se concentrar em um inimigo. Mova {01}{0F} para cima, para baixo,{LF}à esquerda ou à direita para alternar entre alvos disponíveis.{#Name="Bloqueio de Alvo"}
+Defendendo com {01}{02} bloqueia ataques em todas as direções.{LF}No entanto, proteger consome estamina, então seja cuidadoso{LF}não bloqueie muitos ataques em sucessão ou{LF}você corre o risco de ter sua defesa quebrada.{#Name="Defesa"}
+Para dar parry, pressione {01}{02} momentos antes de um ataque te acertar.{LF}Se você parar uma flecha inimiga, você pode{LF}defletir a flecha de volta em direção ao seu inimigo.{#Name="Parry"}
+Use o mini-mapa no canto superior direito da tela para visualizar sua posição atual.{LF}Você pode pressionar {01}{0A} para aumentar ou diminuir o zoom;{LF}se se perder, tente diminuir o zoom para ver o mapa completo.{#Name="Mini-mapa"}
+Pressione {01}{0A} + {01}{0D} para ativar o Modo Intoner.{LF}Pressione novamente a qualquer momento para sair desse modo enquanto{LF}mantém seu Medidor de Sangue no nível atual.{#Name="Modo Intoner"}
+Você pode combinar ataques especiais pressionando {01}{03} e {01}{04} em diversas sequências.{LF}Consulte a Lista de Combos no Menu de Pausa para ver todos os tipos de combo possíveis para uma arma específica.{#Name="Combo de Ataques"}
+Use {01}{01} enquanto ataca com {01}{03} para lançar ambos{LF}você e seu inimigo no ar, permitindo que você{LF}use golpes aéreos. Inimigos mais pesados não{LF}podem ser jogados, então julgue um inimigo cuidadosamente{LF}antes de tentar essa manobra.{#Name="Combos Aéreos"}
+Pressione {01}{08} para travar a mira em um inimigo. Mova {01}{0F} para cima, para baixo,{LF}à esquerda ou à direita para alternar entre alvos disponíveis.{#Name="Travar Mira"}
 Pressione o botão START para abrir o Menu de Pausa.{LF}Pressione o botão para cima para abrir a Lista de Combos,{LF}ou o botão para baixo para abrir a tela de Itens.{#Name="Menu de Pausa"}
-Pressione {01}{0B} para esquivar. Tente se concentrar em um inimigo,{LF}então esquive para a esquerda ou para a direita para ficar{LF}atrás deles e ganhar a vantagem.{#Name="Esquivar"}
-Você também pode esquivar enquanto pula. Isso pode ser{LF}útil para evitar ataques enquanto está no ar, ou para{LF}obter distância extra quando pula sobre lacunas.{LF}Observe que, ao contrário de quando está no chão, você não{LF}pode esquivar várias vezes em sucessão quando está no ar.{#Name="Esquivar Aéreo"}
-Pressione {01}{0D} para exibir um indicador de seta que{LF}aponta para seu próximo objetivo. Use isso junto com{LF}o mini-mapa se você já se perder.{#Name="Ajuda de Navegação"}
+Pressione {01}{0B} para esquivar. Tente se concentrar em um inimigo,{LF}então esquive para a esquerda ou para a direita para ficar{LF}atrás deles e ganhar a vantagem.{#Name="Esquiva"}
+Você também pode esquivar enquanto pula. Isso pode ser{LF}útil para evitar ataques enquanto está no ar, ou para{LF}obter distância extra quando pula sobre lacunas.{LF}Observe que, ao contrário de quando está no chão, você não{LF}pode esquivar várias vezes em sucessão quando está no ar.{#Name="Esquiva Aérea"}
+Pressione {01}{0D} para exibir um indicador de seta que{LF}aponta para seu próximo objetivo. Use isso junto com{LF}o mini-mapa se você se perder.{#Name="Ajuda na Navegação"}
 Pressione {01}{09} ou {01}{0C} para trocar de armas.{LF}Você pode até fazer isso no meio de um ataque,{LF}o que acionará um golpe extra enquanto você{LF}muda de uma arma para a próxima.{#Name="Troca de Armas"}
-Sua contagem de cadeia (golpes) aumentará à medida que você atacar inimigos{LF}em rápida sucessão. Uma vez que seja alta o suficiente, você{LF}começará a ganhar bônus de esferas de sangue e outras recompensas.{#Name="Combos de Cadeia"}
+Sua contagem de sequência (golpes) aumentará à medida que você atacar inimigos{LF}em rápida sucessão. Uma vez que seja alta o suficiente, você{LF}começará a ganhar bônus de esferas de sangue e outras recompensas.{#Name="Combinações em Sequência"}
 Entre em um círculo de invocação e pressione {01}{02} para chamar seu{LF}dragão para lutar ao seu lado. Ele atacará{LF}de várias maneiras dependendo da situação.{#Name="Círculos de Invocação"}
-Visite o Banco de Dados do Menu Principal{LF}para visualizar Histórias de Armas. Cada vez que você{LF}atualizar uma arma e aumentar seu nível,{LF}você revelará mais de sua história.{#Name="Histórias de Armas"}
-Você pode atualizar armas no menu de Preparação de Batalha.{LF}Isso requer tanto ouro quanto materiais básicos,{LF}que podem ser encontrados em baús do tesouro e em outros lugares.{LF}Materiais básicos vêm em várias variedades, e cada{LF}arma requer um específico para atualizar.{#Name="Atualizando Armas"}
-Embora limitados em alcance, espadas permitem ataques rápidos,{LF}tornando-as armas úteis para todos os fins.{LF}Elas podem ser especialmente úteis se você se encontrar{LF}cercoado por uma grande força.{#Name="Espadas"}
-A quantidade de dano que você sofre dentro de uma{LF}missão diminui com base no número de{LF}continuações usadas. Se você falhar, apenas continue tentando!{#Name="Continuações"}
+Visite o Banco de Dados do Menu Principal{LF}para visualizar Histórias de Armas. Cada vez que você{LF}atualizar uma arma e aumentar seu nível,{LF}você revelará mais de sua história.{#Name="Histórias das Armas"}
+Você pode atualizar armas no menu de Preparação de Batalha.{LF}Isso requer tanto ouro quanto materiais básicos,{LF}que podem ser encontrados em baús do tesouro e em outros lugares.{LF}Materiais básicos vêm em várias variedades, e cada{LF}arma requer um específico para atualizar.{#Name="Melhorando Armas"}
+Embora limitadas em alcance, espadas permitem ataques rápidos,{LF}tornando-as armas úteis para todos os fins.{LF}Elas podem ser especialmente úteis se você se encontrar cercado.{#Name="Espadas"}
+A quantidade de dano que você sofre dentro de uma{LF}missão diminui com base no número de{LF}continues usados. Se você falhar, apenas continue tentando!{#Name="Continuações"}
 Accord emitirá recompensas à medida que você completa seus{LF}pedidos. Sempre que você atende a um pedido pela{LF}primeira vez, ela concederá um bônus adicional.{LF}Alguns bônus (como a capacidade de carregar mais{LF}itens de recuperação) só podem ser ganhos dessa maneira.{#Name="Pedidos de Accord"}
-As lanças são pesadas e lentas, mas oferecem o poder{LF}e alcance necessários para quebrar as defesas inimigas.{LF}Elas podem ser úteis quando lutam contra inimigos mais fortes.{#Name="Spears"}
-Ao lutar contra inimigos fortes, toque {01}{03} rapidamente para{LF}diminuir a saúde deles com rajadas de fogo de dragão letal.{LF}Para grupos de inimigos mais fracos, segure {01}{03}{LF}para travar e atirar em vários inimigos ao mesmo tempo.{LF}Misture suas táticas de acordo com a situação.{#Name="Ataque Aéreo"}
-Pressione {01}{0B} para realizar um rolo que o torna invencível{LF}por um breve período. Se você atrair inimigos próximos e rolar{LF}em direção aos ataques deles, você pode voar direto através deles.{LF}Aproveite essa tática quando não tiver{LF}espaço suficiente para evitar completamente um ataque iminente.{#Name="Evasão Aérea"}
-Braceletes de combate são bons para concatenar{LF}combos. Eles também fornecem acesso a muitos{LF}movimentos poderosos baseados em estamina. Essa mistura de{LF}encadeamento de combos e ataques de estamina os torna{LF}mais úteis quando lutam contra inimigos solitários.{#Name="Combat Bracers"}
+As lanças são pesadas e lentas, mas oferecem o poder{LF}e alcance necessários para quebrar as defesas inimigas.{LF}Elas podem ser úteis quando for lutar contra inimigos mais fortes.{#Name="Lanças"}
+Ao lutar contra inimigos fortes, toque {01}{03} rapidamente para{LF}diminuir a saúde deles com rajadas de fogo de dragão letal.{LF}Para grupos de inimigos mais fracos, segure {01}{03}{LF}para travar a mira e atirar em vários inimigos ao mesmo tempo.{LF}Misture suas táticas de acordo com a situação.{#Name="Ataque (Aerotransportado)"}
+Pressione {01}{0B} para realizar uma rolagem que o torna invencível{LF}por um breve período. Se você atrair inimigos próximos e rolar{LF}em direção aos ataques deles, você pode voar direto através deles.{LF}Aproveite essa tática quando não tiver{LF}espaço suficiente para evitar completamente um ataque iminente.{#Name="Esquiva (Aerotransportado)"}
+Braçadeiras de combate são boas para dar sequência em{LF}combos. Elas também fornecem acesso a muitos{LF}movimentos poderosos baseados em estamina. Essa mistura de{LF}sequenciamento de combos e ataques de estamina as torna{LF}mais úteis quando lutam contra inimigos únicos.{#Name="Braçadeiras de Combate"}
 Chakrams são armas de longo alcance excelentes que{LF}permitem atacar de uma distância enquanto ainda{LF}mantém sua posição. Pressione e segure o botão de ataque{LF}para um ataque carregado mais forte.{#Name="Chakrams"}
-A luz solar mágica pode drenar sua saúde.{LF}Encontre uma área com sombra para se esfriar{LF}e se recuperar de danos baseados em sol.{#Name="Sun Damage"}
-Dicas 25{LF}linha 1{LF}Dicas 25{LF}linha 2{LF}Dicas 25{LF}linha 3{LF}Dicas 25{LF}linha 4{LF}Dicas 25{LF}linha 5{#Name="Dicas 25"}
-Dicas 26{LF}linha 1{LF}Dicas 26{LF}linha 2{LF}Dicas 26{LF}linha 3{LF}Dicas 26{LF}linha 4{LF}Dicas 26{LF}linha 5{#Name="Dicas 26"}
-Dicas 27{LF}linha 1{LF}Dicas 27{LF}linha 2{LF}Dicas 27{LF}linha 3{LF}Dicas 27{LF}linha 4{LF}Dicas 27{LF}linha 5{#Name="Dicas 27"}
-TIPS_28 Line 1{LF}TIPS_28 Line 2{LF}TIPS_28 Line 3{LF}TIPS_28 Line 4{LF}TIPS_28 Line 5{#Name="TIPS_28"}
-TIPS_29 Line 1{LF}TIPS_29 Line 2{LF}TIPS_29 Line 3{LF}TIPS_29 Line 4{LF}TIPS_29 Line 5{#Name="TIPS_29"}
-TIPS_30 Line 1{LF}TIPS_30 Line 2{LF}TIPS_30 Line 3{LF}TIPS_30 Line 4{LF}TIPS_30 Line 5{#Name="TIPS_30"}
-TIPS_31 Line 1{LF}TIPS_31 Line 2{LF}TIPS_31 Line 3{LF}TIPS_31 Line 4{LF}TIPS_31 Line 5{#Name="TIPS_31"}
-TIPS_32 Line 1{LF}TIPS_32 Line 2{LF}TIPS_32 Line 3{LF}TIPS_32 Line 4{LF}TIPS_32 Line 5{#Name="TIPS_32"}
-TIPS_33 Line 1{LF}TIPS_33 Line 2{LF}TIPS_33 Line 3{LF}TIPS_33 Line 4{LF}TIPS_33 Line 5{#Name="TIPS_33"}
-TIPS_34 Line 1{LF}TIPS_34 Line 2{LF}TIPS_34 Line 3{LF}TIPS_34 Line 4{LF}TIPS_34 Line 5{#Name="TIPS_34"}
-Dica 35{LF}linha 1{LF}linha 2{LF}linha 3{LF}linha 4{LF}linha 5{#Name="Dica 35"}
-Dica 36{LF}linha 1{LF}linha 2{LF}linha 3{LF}linha 4{LF}linha 5{#Name="Dica 36"}
-Dica 37{LF}linha 1{LF}linha 2{LF}linha 3{LF}linha 4{LF}linha 5{#Name="Dica 37"}
-Dica 38{LF}linha 1{LF}linha 2{LF}linha 3{LF}linha 4{LF}linha 5{#Name="Dica 38"}
-Dica 39{LF}linha 1{LF}linha 2{LF}linha 3{LF}linha 4{LF}linha 5{#Name="Dica 39"}
-Uma cidade enorme criada pelo Cataclismo.{LF}Ela desfrutou de prosperidade sob a Igreja e sua Academia de Magia,{LF}mas um surto de magia acidental em 995 a transformou{LF}em uma cidade fantasma. Também referida como o "Velho Mundo"{LF}devido às suas ruínas e status como origem de toda magia.{#Name="A Cidade da Catedral"}
-Um país sob o comando da Intoner, Five. Possui{LF}pouca terra arável, mas recursos marinhos abundantes.{LF}Famoso por seus navios de arrasto, que trocam{LF}mensagens via uma série de cornetas. Seu porto conecta{LF}uma multidão de rotas marítimas, tornando-o um hub de comércio.{#Name="A Terra dos Mares"}
-Um país montanhoso com fortalezas em quase{LF}todos os cantos. Seu produto mais famoso, Pedra Âmbar,{LF}é um material raro que só pode ser transportado{LF}por carroças ao longo de trilhas estreitas e perigosas.{LF}Governado pela Intoner, Four.{#Name="A Terra das Montanhas"}
-Um país maioritariamente coberto por florestas. Muito disso{LF} permanece inexplorado pela humanidade, e é em vez{LF}o domínio de fadas e elfos. Governado pela{LF}Intoner Three em teoria, embora ela pareça{LF}largamente indiferente ao que ocorre lá.{#Name="A Terra das Florestas"}
-Uma nação grande, principalmente coberta por deserto,{LF}tornando-a inadequada para a agricultura. Magnetita é{LF}seu principal produto de exportação. Embora longe de ser uma terra rica,{LF}seus muitos ruínas têm visto interesse turístico de{LF}mercadores ricos nos últimos anos.{#Name="A Terra de Areias"}
-As Terras de Mares, Montanhas, Florestas e Areias{LF}são governadas por um governante individual.{LF}Os governantes passados foram ditadores que terrorizaram{LF}seu povo, mas desde que os cinco Intoners os derrotaram,{LF}o mundo retornou aos seus dias pacíficos de outrora.{#Name="Governantes"}
+A luz solar mágica pode drenar sua saúde.{LF}Encontre uma área com sombra para se esfriar{LF}e se recuperar de danos baseados no sol.{#Name="Dano Solar"}
+{#Name="DICA_25"}
+{#Name="DICA_26"}
+{#Name="DICA_27"}
+{#Name="DICA_28"}
+{#Name="DICA_29"}
+{#Name="DICA_30"}
+{#Name="DICA_31"}
+{#Name="DICA_32"}
+{#Name="DICA_33"}
+{#Name="DICA_34"}
+{#Name="DICA_35"}
+{#Name="DICA_36"}
+{#Name="DICA_37"}
+{#Name="DICA_38"}
+{#Name="DICA_39"}
+Uma cidade enorme criada pelo Cataclismo.{LF}Ela desfrutou de prosperidade sob a Igreja e sua Academia de Magia,{LF}mas um surto de magia acidental em 995 a transformou{LF}em uma cidade fantasma. Também referida como o "Antigo Mundo"{LF}devido às suas ruínas e status como origem de toda magia.{#Name="A Cidade Catedral"}
+Uma nação sob o comando da Intoner, Five. Possui{LF}pouca terra arável, mas recursos marinhos abundantes.{LF}Famosa por seus navios de arrasto, que trocam{LF}mensagens via uma série de cornetas. Seu porto conecta{LF}uma multidão de rotas marítimas, tornando-a um hub de comércio.{#Name="A Terra dos Mares"}
+Uma nação montanhosa com fortalezas em quase{LF}todos os cantos. Seu produto mais famoso, Pedra Âmbar,{LF}é um material raro que só pode ser transportado{LF}por carroças ao longo de trilhas estreitas e perigosas.{LF}Governada pela Intoner, Four.{#Name="A Terra das Montanhas"}
+Uma nação maioritariamente coberta por florestas. Muito disso{LF} permanece inexplorado pela humanidade, e é em vez{LF}o domínio de fadas e elfos. Governada pela{LF}Intoner Three em teoria, embora ela pareça{LF}largamente indiferente ao que ocorre lá.{#Name="A Terra das Florestas"}
+Uma nação grande, principalmente coberta por deserto,{LF}tornando-a inadequada para a agricultura. Magnetita é{LF}seu principal produto de exportação. Embora longe de ser uma terra rica,{LF}nos últimos anos suas ruínas têm interesse{LF}turístico por parte de mercadores ricos.{#Name="A Terra de Areias"}
+As Terras de Mares, Montanhas, Florestas e Areias{LF}são governadas por um governante individual.{LF}Os governantes passados foram ditadores que terrorizaram{LF}seu povo, mas desde que as cinco Intoners os derrotaram,{LF}o mundo retornou aos seus dias pacíficos de outrora.{#Name="Governantes"}
 Uma organização religiosa que existe desde{LF}a antiguidade. O grupo cresceu rapidamente desde o{LF}Cataclismo, criando organizações como a Academia de Magia{LF}para gerenciar a magia. Seus múltiplos setores são{LF}conhecidos coletivamente como simplesmente a "Igreja".{#Name="A Igreja"}
 Geralmente, a mulher mais jovem de dois irmãos nascidos{LF}dos mesmos pais. Uma "cunhada" é a{LF}irmã do cônjuge ou esposa de um irmão, e não{LF}necessariamente possui uma relação de sangue.{#Name="Irmã Mais Jovem"}
 Geralmente, a mulher mais velha de dois irmãos nascidos{LF}dos mesmos pais. Uma "cunhada" é a{LF}irmã do cônjuge ou esposa de um irmão, e não{LF}necessariamente possui uma relação de sangue.{#Name="Irmã Mais Velha"}
-Uma organização construída pela Igreja em 910 para a{LF}pesquisa de magia. Sua história inicial é obscura, mas{LF}em 995, um acidente desencadeado na Cidade da Catedral's{LF}Academia Central de Magia a apagou do mapa.{#Name="A Academia de Magia"}
+Uma organização construída pela Igreja em 910 para a{LF}pesquisa de magia. Sua história inicial é obscura, mas{LF}em 995, um acidente desencadeado na Academia Central{LF}da Cidade Catedral de Magia a apagou do mapa.{#Name="A Academia de Magia"}
 Um método de coletar e utilizar energia mágica{LF}para uma variedade de usos, tanto relacionados ao combate quanto a outros.{LF}Nesta era, não há estudo ativo dedicado à magia,{LF}e apenas algumas aplicações limitadas foram{LF}passadas de gerações anteriores.{#Name="Magia"}
-Pessoas que podem usar o poder da canção para exercer uma força de ataque vasta. Seis delas, todas femininas, foram registradas ao longo da história. As Intoners libertaram cada terra dos governantes despóticos que uma vez aterrorizaram seu povo e agora são adoradas como salvadoras.
-Lojas que lidam com armas e outros itens estão localizadas em cada país. Elas funcionam principalmente em um sistema baseado em pedidos e são em grande parte desumanizadas como resultado. Coletivamente, as lojas são operadas por uma única pessoa conhecida como Accord.
-O mais forte de todos os monstros. Possuindo grande inteligência, eles vivem em altas montanhas e entre as nuvens, longe dos assentamentos humanos. Dragões antigos e outras subespécies também existem.
-Eventos sobrenaturais além do conhecimento humano.{LF}A Igreja os chama de "salvação dos deuses,"{LF}e muitos foram recontados em folclore. A maioria das pessoas{LF}vê os Intoners em si como milagres, tornando-os{LF}um objeto comum de adoração entre as massas.{#Name="Milagres"}
-Um desastre que ocorreu em 856, anunciado por um{LF}terremoto vasto na Península Ibérica. Isso foi{LF}seguido pela aparição de uma cidade gigante durante a noite{LF}e pelo lançamento de criaturas estranhas em todo o mundo. Registros{LF}da Igreja sugerem que isso foi um evento que mudou o mundo.{#Name="O Cataclismo"}
-A existência de mundos paralelos desencadeada por{LF}matéria quântica entrelaçada é de longa data conhecida.{LF}É possível mudar, ou ramificar, para múltiplos{LF}outros mundos, embora a maioria dessas ramificações{LF}permita viagens em apenas uma direção.{#Name="Mundos Múltiplos"}
+Pessoas que podem usar o poder da canção para exercer uma força de ataque vasta. Seis delas, todas femininas, foram registradas ao longo da história. As Intoners libertaram cada terra dos governantes despóticos que uma vez aterrorizaram seu povo e agora são adoradas como salvadoras.{#Name="Intoners"}
+Lojas que lidam com armas e outros itens estão localizadas em cada nação. Elas funcionam principalmente em um sistema baseado em pedidos e, como resultado, são em grande parte desocupadas. Coletivamente, as lojas são operadas por uma única pessoa conhecida como Accord.{#Name="Lojas de Armas"}
+O mais forte de todos os monstros.{LF}Possuindo grande inteligência, eles vivem em altas montanhas e entre as nuvens, longe dos assentamentos humanos. Dragões antigos e outras subespécies também existem.{#Name="Dragões"}
+Eventos sobrenaturais além do conhecimento humano.{LF}A Igreja os chama de "salvação dos deuses,"{LF}e muitos foram recontados no folclore. A maioria das pessoas{LF}vê as Intoners em si como milagres, tornando-as{LF}um objeto comum de adoração entre as massas.{#Name="Milagres"}
+Um desastre que ocorreu em 856, anunciado por um{LF}terremoto vasto na Península Ibérica. Isso foi{LF}seguido pela por uma enrome cidade que apareceu da noite{LF} para o dia e libertou criaturas estranhas em todo o mundo. Registros{LF}da Igreja sugerem que isso foi um evento que mudou o mundo.{#Name="O Cataclismo"}
+A existência de mundos paralelos desencadeados por{LF}matéria quântica emaranhada é conhecida há muito tempo.{LF}É possível mudar, ou ramificar, para múltiplos outros mundos,{LF}embora a maioria dessas ramificações permita viagem em apenas uma direção.{#Name="Mundos Múltiplos"}
 Pessoas, lugares ou coisas que podem desencadear uma divergência,{LF}ou ramificação, em múltiplos mundos. Fenômenos de ramificação{LF}ocorrem quando há partículas mágicas suficientes em uma área, e{LF}todas as condições relevantes são atendidas. No entanto, uma singularidade{LF}não é registrada como tal até após uma ramificação ocorrer.{#Name="Singularidades"}
 O ato de usar a energia da flor para fins ofensivos ou defensivos.{LF}É fundamentalmente diferente de magia{LF}pois depende de canalizar energia das propriedades mútuas{LF}de múltiplos mundos.{#Name="O Poder da Canção"}
-Um objeto em forma de planta parasitária que se liga{LF}a um Intoner. À medida que o parasita se espalha,{LF}ele erosiona o espírito e o corpo do Intoner anfitrião.{LF}Pode ser destruído usando uma arma derivada{LF}do material celular de um dragão.{#Name="A Flor"}
-Dicas_60　　　　　　　　　　linha 1{LF}Dicas_60　　　　　　　　　　linha 2{LF}Dicas_60　　　　　　　　　　linha 3{LF}Dicas_60　　　　　　　　　　linha 4{LF}Dicas_60　　　　　　　　　　linha 5{#Name="Dicas_60"}
-TIPS_61 First line{LF}TIPS_61 Second line{LF}TIPS_61 Third line{LF}TIPS_61 Fourth line{LF}TIPS_61 Fifth line{#Name="TIPS_61"}
-TIPS_62 First line{LF}TIPS_62 Second line{LF}TIPS_62 Third line{LF}TIPS_62 Fourth line{LF}TIPS_62 Fifth line{#Name="TIPS_62"}
-TIPS_63 First line{LF}TIPS_63 Second line{LF}TIPS_63 Third line{LF}TIPS_63 Fourth line{LF}TIPS_63 Fifth line{#Name="TIPS_63"}
-TIPS_64 First line{LF}TIPS_64 Second line{LF}TIPS_64 Third line{LF}TIPS_64 Fourth line{LF}TIPS_64 Fifth line{#Name="TIPS_64"}
-TIPS_65 First line{LF}TIPS_65 Second line{LF}TIPS_65 Third line{LF}TIPS_65 Fourth line{LF}TIPS_65 Fifth line{#Name="TIPS_65"}
-TIPS_66 First line{LF}TIPS_66 Second line{LF}TIPS_66 Third line{LF}TIPS_66 Fourth line{LF}TIPS_66 Fifth line{#Name="TIPS_66"}
-TIPS_67 First line{LF}TIPS_67 Second line{LF}TIPS_67 Third line{LF}TIPS_67 Fourth line{LF}TIPS_67 Fifth line{#Name="TIPS_67"}
-TIPS_68 One line{LF}TIPS_68 Two lines{LF}TIPS_68 Three lines{LF}TIPS_68 Four lines{LF}TIPS_68 Five lines{#Name="TIPS_68"}
-TIPS_69 One line{LF}TIPS_69 Two lines{LF}TIPS_69 Three lines{LF}TIPS_69 Four lines{LF}TIPS_69 Five lines{#Name="TIPS_69"}
-TIPS_70 One line{LF}TIPS_70 Two lines{LF}TIPS_70 Three lines{LF}TIPS_70 Four lines{LF}TIPS_70 Five lines{#Name="TIPS_70"}
-TIPS_71 One line{LF}TIPS_71 Two lines{LF}TIPS_71 Three lines{LF}TIPS_71 Four lines{LF}TIPS_71 Five lines{#Name="TIPS_71"}
-TIPS_72 One line{LF}TIPS_72 Two lines{LF}TIPS_72 Three lines{LF}TIPS_72 Four lines{LF}TIPS_72 Five lines{#Name="TIPS_72"}
-TIPS_73 One line{LF}TIPS_73 Two lines{LF}TIPS_73 Three lines{LF}TIPS_73 Four lines{LF}TIPS_73 Five lines{#Name="TIPS_73"}
-TIPS_74 One line{LF}TIPS_74 Two lines{LF}TIPS_74 Three lines{LF}TIPS_74 Four lines{LF}TIPS_74 Five lines{#Name="TIPS_74"}
-ＴＩＰＳ_７５　　　　　　　　　　一行目{LF}ＴＩＰＳ_７５　　　　　　　　　　二行目{LF}ＴＩＰＳ_７５　　　　　　　　　　三行目{LF}ＴＩＰＳ_７５　　　　　　　　　　四行目{LF}ＴＩＰＳ_７５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７５"}
-ＴＩＰＳ_７６　　　　　　　　　　一行目{LF}ＴＩＰＳ_７６　　　　　　　　　　二行目{LF}ＴＩＰＳ_７６　　　　　　　　　　三行目{LF}ＴＩＰＳ_７６　　　　　　　　　　四行目{LF}ＴＩＰＳ_７６　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７６"}
-ＴＩＰＳ_７７　　　　　　　　　　一行目{LF}ＴＩＰＳ_７７　　　　　　　　　　二行目{LF}ＴＩＰＳ_７７　　　　　　　　　　三行目{LF}ＴＩＰＳ_７７　　　　　　　　　　四行目{LF}ＴＩＰＳ_７７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７７"}
-ＴＩＰＳ_７８　　　　　　　　　　一行目{LF}ＴＩＰＳ_７８　　　　　　　　　　二行目{LF}ＴＩＰＳ_７８　　　　　　　　　　三行目{LF}ＴＩＰＳ_７８　　　　　　　　　　四行目{LF}ＴＩＰＳ_７８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７８"}
-ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}
+Um objeto em forma de planta parasitária que se liga{LF}a uma Intoner. À medida que o parasita se espalha,{LF}ele erosiona o espírito e o corpo da Intoner anfitriã.{LF}Pode ser destruído usando uma arma derivada{LF}do material celular de um dragão.{#Name="A Flor"}
+{#Name="DICA_60"}
+{#Name="DICA_61"}
+{#Name="DICA_62"}
+{#Name="DICA_63"}
+{#Name="DICA_64"}
+{#Name="DICA_65"}
+{#Name="DICA_66"}
+{#Name="DICA_67"}
+{#Name="DICA_68"}
+{#Name="DICA_69"}
+{#Name="DICA_70"}
+{#Name="DICA_71"}
+{#Name="DICA_72"}
+{#Name="DICA_73"}
+{#Name="DICA_74"}
+{#Name="DICA_75"}
+{#Name="DICA_76"}
+{#Name="DICA_77"}
+{#Name="DICA_78"}
+{#Name="DICA_79"}
 Defesa
 Parry
 Mini-mapa
 Modo Intoner
-Ataques em Combinação
-Combo Aéreo
-Bloqueio
+Combo de Ataques
+Combos Aéreos
+Travar Mira
 Menu de Pausa
-Evasão
-Evasão Aérea
-Ajuda de Navegação
+Esquiva
+Esquiva Aérea
+Ajuda na Navegação
 Troca de Armas
-Combinações em Cadeia
+Combinações em Sequência
 Círculos de Invocação
-Histórias de Armas
-Atualização de Armas
+Histórias das Armas
+Melhorando Armas
 Espadas
 Continuações
 Pedidos de Accord
 Lanças
-Ataque Aéreo
-Evasão Aérea
+Ataque (Aerotransportado)
+Esquiva (Aerotransportado)
 Braçadeiras de Combate
 Chakrams
 Dano Solar
@@ -10997,7 +10997,7 @@ DICA_36
 DICA_37
 DICA_38
 DICA_39
-A Cidade da Catedral
+A Cidade Catedral
 A Terra dos Mares
 A Terra das Montanhas
 A Terra das Florestas
@@ -11154,7 +11154,7 @@ A Terra dos Mares{#Name=" "}
 A Terra das Montanhas{#Name=" "}
 A Terra das Florestas{#Name=" "}
 A Terra das Areias{#Name=" "}
-A Cidade da Catedral{#Name=" "}
+A Cidade Catedral{#Name=" "}
 {04}{#Name=" "}
 外伝 {04}{#Name=" "}
 Missão {04}{#Name=" "}
@@ -11163,7 +11163,7 @@ A Terra dos Mares{#Name="「海の国」"}
 A Terra das Montanhas{#Name="「山の国」"}
 A Terra das Florestas{#Name="「森の国」"}
 A Terra das Areias{#Name="「砂の国」"}
-A Cidade da Catedral{#Name="「教会都市」"}
+A Cidade Catedral{#Name="「教会都市」"}
 O Preço{#Name="「代償」"}
 O Preço{#Name="「代償」"}
 Emesis{#Name="「嘔吐」"}
@@ -12174,12 +12174,12 @@ Todas as rotas completas.{#Name=" "}
 5030
 5040
 Passado
-País do Mar
-País da Montanha
-País da Floresta
-País da Areia
-Cidade da Igreja
-Compensação
+Terra dos Mares
+Terra das Montanhas
+Terra das Florestas
+Terra das Areias
+Cidade Catedral
+Reparação
 Vômito
 Flor
 Subtítulo 10
@@ -12274,7 +12274,7 @@ Já ouviu falar do Livro do Estoicismo? É um texto{LF}sagrado da Terra das Mont
 Explicação da Quest 2060_1{LF}Explicação da Quest 2060_1{LF}Explicação da Quest 2060_1
 Explicação da Quest 2060_2{LF}Explicação da Quest 2060_2{LF}Explicação da Quest 2060_2
 Explicação da Quest 3010_1{LF}Explicação da Quest 3010_1{LF}Explicação da Quest 3010_1
-Movestones são artefatos tradicionais da{LF}Terra das Florestas. Use seus braceletes de combate para{LF}pegar três deles e eu lhe darei algo agradável.
+Movestones são artefatos tradicionais da{LF}Terra das Florestas. Use suas braçadeiras de combate para{LF}pegar três deles e eu lhe darei algo agradável.
 Eu preciso de três Presas de Víbora. Pessoas na{LF}Terra das Florestas as veem como amuletos de boa sorte,{LF}e agora, elas realmente precisam de sorte. Você pode ajudar?
 As pessoas na Terra das Florestas têm um texto sagrado chamado Livro do Mistério, mas seus três volumes foram perdidos. Você pode encontrá-los para mim?
 Descrição da Quest　３０２０＿１　　　　linha 1{LF}Descrição da Quest　３０２０＿１　　　　linha 2{LF}Descrição da Quest　３０２０＿１　　　　linha 3
@@ -12285,12 +12285,12 @@ Descrição da Quest　３０４０＿１　　　　linha 1{LF}Descrição da Q
 Descrição da Quest　３０４０＿２　　　　linha 1{LF}Descrição da Quest　３０４０＿２　　　　linha 2{LF}Descrição da Quest　３０４０＿２　　　　linha 3
 Descrição da Quest　３０５０＿１　　　　linha 1{LF}Descrição da Quest　３０５０＿１　　　　linha 2{LF}Descrição da Quest　３０５０＿１　　　　linha 3
 As Pedras de Comida são uma grande coisa entre os foodies na{LF}Terra das Florestas, e eu preciso de sete delas para satisfazer{LF}o apetite de um cliente particularmente faminto. Você poderia?
-Os Ferrões de Sapo são uma cura secreta em toda a Terra das Florestas, mas você precisa pegá-los com braceletes de combate para estar seguro. Você pode trazer de volta oito?
+Os Ferrões de Sapo são uma cura secreta em toda a Terra das Florestas, mas você precisa pegá-los com braçadeiras de combate para estar seguro. Você pode trazer de volta oito?
 As pessoas na Terra das Florestas gostam de ler volumes de um tomo sagrado chamado Livro da Santidade. Eu recompensarei você se você puder trazer de volta todos os nove textos.
 クエスト説明 ３０６０＿１ 一行目{LF}クエスト説明 ３０６０＿１ 二行目{LF}クエスト説明 ３０６０＿１ 三行目
 クエスト説明 ３０６０＿２ 一行目{LF}クエスト説明 ３０６０＿２ 二行目{LF}クエスト説明 ３０６０＿２ 三行目
 クエスト説明 ４０１０＿１ 一行目{LF}クエスト説明 ４０１０＿１ 二行目{LF}クエスト説明 ４０１０＿１ 三行目
-A Terra das Areias é lar de uma pedra rara conhecida como Floatstone. Eu preciso de sete delas, mas você só pode usar chakrams. ...Por quê? Desculpe, segredo comercial!
+A Terra das Areias é lar de uma pedra rara conhecida como Pedra Flutuante. Eu preciso de sete delas, mas você só pode usar chakrams. ...Por quê? Desculpe, segredo comercial!
 Fósseis de Osso são fairly famosos na Terra das Areias. Eu preciso que você vá lá e desenterre oito deles para mim. E sim—chakrams apenas, desculpe.
 Os cidadãos da Terra das Areias consideram sagrado um livro conhecido como Livro da Pureza. Ele tem nove volumes no total; traga-me todos os nove para uma recompensa agradável.
 Quest Explanation 4020_1 First line{LF}Quest Explanation 4020_1 Second line{LF}Quest Explanation 4020_1 Third line
@@ -12306,11 +12306,11 @@ Explicação da Quest 5010_2 linha 1{LF}Explicação da Quest 5010_2 linha 2{LF}
 Explicação da Quest 5020_1 linha 1{LF}Explicação da Quest 5020_1 linha 2{LF}Explicação da Quest 5020_1 linha 3
 Pedras de meteorito são pequenos pedaços de matéria de{LF}outros mundos. Ouvi dizer que há alguns exemplos finos{LF}por perto; você poderia ser gentil e pegar três para mim?
 Interessante. Fragmentos de alguns tesouros do Mundo{LF}Antigo foram descobertos por perto. Você acha que{LF}pode rastrear e trazer de volta três deles para mim?
-A Cidade da Catedral está cheia de textos sagrados, e{LF}o Livro da Disciplina é um desses volumes. Há{LF}três volumes no total; você poderia recuperá-los?
+A Cidade Catedral está cheia de textos sagrados, e{LF}o Livro da Disciplina é um desses volumes. Há{LF}três volumes no total; você poderia recuperá-los?
 Explicação da Quest 5030_1 linha 1{LF}Explicação da Quest 5030_1 linha 2{LF}Explicação da Quest 5030_1 linha 3
 Não há tempo para explicar — eu preciso de Pedras de Cometa! Cerca de{LF}sete ou assim deve ser suficiente. Não posso dizer mais,{LF}mas posso prometer uma recompensa pelo seu trabalho.
 Vários artefatos do Mundo Antigo foram recentemente{LF}desenterrados. Eu preciso que você localize e{LF}recupere oito deles para mim imediatamente.
-O Livro da Doutrina é um texto sagrado da Cidade da Catedral. Ele foi dividido em nove volumes; encontre todos eles para mim e você será recompensado!
+O Livro da Doutrina é um texto sagrado da Cidade Catedral. Ele foi dividido em nove volumes; encontre todos eles para mim e você será recompensado!
 Como agradecimento por toda a sua ajuda, aqui vai uma dica gratuita: Alguns criaturas GRANDES estão guardando pilhas GRANDES de ouro... Por que não pagar uma visita a eles?
 Descrição da Quest 5040_2 Uma linha{LF}Descrição da Quest 5040_2 Duas linhas{LF}Descrição da Quest 5040_2 Três linhas
 Resumo da História DL5010 Uma linha{LF}Resumo da História DL5010 Duas linhas{LF}Resumo da História DL5010 Três linhas{LF}Resumo da História DL5010 Quatro linhas{LF}Resumo da História DL5010 Cinco linhas
@@ -12343,8 +12343,8 @@ Story summary DL0020 First line{LF}Story summary DL0020 Second line{LF}Story sum
 Story summary DL0030 First line{LF}Story summary DL0030 Second line{LF}Story summary DL0030 Third line{LF}Story summary DL0030 Fourth line{LF}Story summary DL0030 Fifth line
 Story summary DL0040 First line{LF}Story summary DL0040 Second line{LF}Story summary DL0040 Third line{LF}Story summary DL0040 Fourth line{LF}Story summary DL0040 Fifth line
 Story summary DL0050 First line{LF}Story summary DL0050 Second line{LF}Story summary DL0050 Third line{LF}Story summary DL0050 Fourth line{LF}Story summary DL0050 Fifth line
-Cutscene → Jogo{LF}Com a espada na mão e seu fiel{LF}dragão Michael ao seu lado, Zero{LF}invade a Cidade da Catedral. Por que{LF}essa dupla está enfrentando sozinhos um exército?
-Cutscene → Jogo{LF}Surrounded on all sides by towering foes,{LF}Michael decides to stay behind and fight{LF}in order to allow Zero to proceed.
+Cutscene → Jogo{LF}Com a espada na mão e o dragão fiel{LF}Michael do lado dela, Zero invade{LF}a Cidade Catedral.Por que essa{LF}dupla tá encarando um exército{LF}sozinha?
+Cutscene → Jogo{LF}Encurralados por inimigos imensos por{LF}todos os lados, Michael decide se{LF}sacrificar e lutar para dar cobertura{LF}à Zero.
 Story summary third item 0010 First line{LF}Story summary third item 0010 Second line{LF}Story summary third item 0010 Third line{LF}Story summary third item 0010 Fourth line{LF}Story summary third item 0010 Fifth line
 Story summary fourth item 0010 First line{LF}Story summary fourth item 0010 Second line{LF}Story summary fourth item 0010 Third line{LF}Story summary fourth item 0010 Fourth line{LF}Story summary fourth item 0010 Fifth line
 Story summary fifth item 0010 First line{LF}Story summary fifth item 0010 Second line{LF}Story summary fifth item 0010 Third line{LF}Story summary fifth item 0010 Fourth line{LF}Story summary fifth item 0010 Fifth line
@@ -12354,9 +12354,9 @@ Resumo do item 8　００１０　linha 1{LF}Resumo do item 8　００１０　l
 Resumo do item 9　００１０　linha 1{LF}Resumo do item 9　００１０　linha 2{LF}Resumo do item 9　００１０　linha 3{LF}Resumo do item 9　００１０　linha 4{LF}Resumo do item 9　００１０　linha 5
 Resumo do item 10　００１０　linha 1{LF}Resumo do item 10　００１０　linha 2{LF}Resumo do item 10　００１０　linha 3{LF}Resumo do item 10　００１０　linha 4{LF}Resumo do item 10　００１０　linha 5
 Resumo do item 11　００１０　linha 1{LF}Resumo do item 11　００１０　linha 2{LF}Resumo do item 11　００１０　linha 3{LF}Resumo do item 11　００１０　linha 4{LF}Resumo do item 11　００１０　linha 5
-Cutscene → Jogo{LF}As outras Intoners, irmãs mais novas{LF} da Zero, a esperam na catedral.{LF}Todas as cinco estão unidas em sua{LF}determinação de derrotar Zero a{LF}qualquer custo.
-Cutscene → Jogo{LF}Frustrada pela resistência da Zero, One{LF}invoca um daemon maciço{LF}na forma de um dragão horrível.
-Cutscene → Jogo{LF}One tenta dar um golpe mortal em{LF}Zero, mas a Intoner ferida consegue{LF}fugir antes de ser aniquilada.
+Cutscene → Jogo{LF}Na catedral, as outras Intoner, as irmãs{LF}mais novas de Zero, esperam por ela.{LF}As cinco compartilham um objetivo{LF}em comum: derrotar Zero, custe{LF}o que custar.
+Cutscene → Jogo{LF}Diante da resistência de Zero, One{LF}manifesta um demônio formidável,{LF}um dragão de aspecto horripilante.
+Cutscene → Jogo{LF}One ataca Zero com a intenção de{LF}matá-la, mas a Intoner, mesmo ferida,{LF}escapa antes que possa ser destruída.
 Resumo do item 4　００２０　linha 1{LF}Resumo do item 4　００２０　linha 2{LF}Resumo do item 4　００２０　linha 3{LF}Resumo do item 4　００２０　linha 4{LF}Resumo do item 4　００２０　linha 5
 Resumo do Quinto Item　００２０　Primeira linha{LF}Resumo do Quinto Item　００２０　Segunda linha{LF}Resumo do Quinto Item　００２０　Terceira linha{LF}Resumo do Quinto Item　００２０　Quarta linha{LF}Resumo do Quinto Item　００２０　Quinta linha
 Resumo do Sexto Item　００２０　Primeira linha{LF}Resumo do Sexto Item　００２０　Segunda linha{LF}Resumo do Sexto Item　００２０　Terceira linha{LF}Resumo do Sexto Item　００２０　Quarta linha{LF}Resumo do Sexto Item　００２０　Quinta linha
@@ -12365,9 +12365,9 @@ Resumo do Oitavo Item　００２０　Primeira linha{LF}Resumo do Oitavo Item�
 Resumo do Nonagésimo Item　００２０　Primeira linha{LF}Resumo do Nonagésimo Item　００２０　Segunda linha{LF}Resumo do Nonagésimo Item　００２０　Terceira linha{LF}Resumo do Nonagésimo Item　００２０　Quarta linha{LF}Resumo do Nonagésimo Item　００２０　Quinta linha
 Resumo do Décimo Item　００２０　Primeira linha{LF}Resumo do Décimo Item　００２０　Segunda linha{LF}Resumo do Décimo Item　００２０　Terceira linha{LF}Resumo do Décimo Item　００２０　Quarta linha{LF}Resumo do Décimo Item　００２０　Quinta linha
 Resumo do Décimo Primeiro Item　００２０　Primeira linha{LF}Resumo do Décimo Primeiro Item　００２０　Segunda linha{LF}Resumo do Décimo Primeiro Item　００２０　Terceira linha{LF}Resumo do Décimo Primeiro Item　００２０　Quarta linha{LF}Resumo do Décimo Primeiro Item　００２０　Quinta linha
-Mapa → Casa da Zero{LF}Um ano se passou desde a derrota da Zero{LF}nas mãos de suas irmãs. Depois de se curar{LF}na Terra dos Mares, ela agora tem{LF}seus olhos fixos em outro ataque.
-Cutscene → Jogo{LF}Depois de acordar de um pesadelo, Zero é{LF}cumprimentada por seu dragão, que regrediu para{LF}uma versão mais jovem de si mesmo chamada Mikhail.{LF}Depois que ela grita com ele, ele foge chorando.
-Jogo{LF}Uma força inimiga embosca Zero na{LF}Terra dos Mares. Impelida pela raiva contra suas{LF}irmãs, Zero luta seu caminho através do{LF}exército reunido.
+Mapa → Casa de Zero{LF}Um ano se passou desde a derrota{LF}de Zero pelas mãos de suas irmãs.{LF}Após se recuperar na Terra dos Mares,{LF}ela agora planeja um novo ataque.
+Cutscene → Jogo{LF}Após acordar de um pesadelo, Zero{LF}é recebida por seu dragão, que regrediu{LF}para uma versão mais jovem de si{LF}mesmo chamado Mikhail. Depois que{LF}ela grita com ele, ele sai correndo{LF}chorando.
+Jogo{LF}Uma força inimiga embosca Zero na Terra dos{LF}Mares. Impulsionada pela raiva contra suas{LF}irmãs, Zero luta para abrir caminho através{LF}do exército reunido.
 Resumo do quarto item　１０１０　linha 1{LF}Resumo do quarto item　１０１０　linha 2{LF}Resumo do quarto item　１０１０　linha 3{LF}Resumo do quarto item　１０１０　linha 4{LF}Resumo do quarto item　１０１０　linha 5
 Resumo do quinto item　１０１０　linha 1{LF}Resumo do quinto item　１０１０　linha 2{LF}Resumo do quinto item　１０１０　linha 3{LF}Resumo do quinto item　１０１０　linha 4{LF}Resumo do quinto item　１０１０　linha 5
 Resumo do sexto item　１０１０　linha 1{LF}Resumo do sexto item　１０１０　linha 2{LF}Resumo do sexto item　１０１０　linha 3{LF}Resumo do sexto item　１０１０　linha 4{LF}Resumo do sexto item　１０１０　linha 5
@@ -12376,10 +12376,10 @@ Resumo do oitavo item　１０１０　linha 1{LF}Resumo do oitavo item　１０
 Resumo do nono item　１０１０　linha 1{LF}Resumo do nono item　１０１０　linha 2{LF}Resumo do nono item　１０１０　linha 3{LF}Resumo do nono item　１０１０　linha 4{LF}Resumo do nono item　１０１０　linha 5
 Resumo do item 10{LF}1010{LF}linha 1{LF}Resumo do item 10{LF}1010{LF}linha 2{LF}Resumo do item 10{LF}1010{LF}linha 3{LF}Resumo do item 10{LF}1010{LF}linha 4{LF}Resumo do item 10{LF}1010{LF}linha 5
 Resumo do item 11{LF}1010{LF}linha 1{LF}Resumo do item 11{LF}1010{LF}linha 2{LF}Resumo do item 11{LF}1010{LF}linha 3{LF}Resumo do item 11{LF}1010{LF}linha 4{LF}Resumo do item 11{LF}1010{LF}linha 5
-Acampamento{LF}Depois de lutar seu caminho até o domínio de Cinco, Zero e Mikhail param para conversar sobre roubar da loja e outros objetivos valiosos.
-Jogo{LF}À medida que Zero continua sua avanço pela costa, o inimigo se recusa a desistir. Eventualmente, eles desencadeiam suas embarcações de desembarque, uma manobra que irrita Zero sem fim.
-Jogo{LF}Zero e Mikhail seguem em direção ao Santuário das Mares através de um canyon estreito. Mas à frente, um inimigo específico os aguarda...
-Cutscene{LF}Com o inimigo derrotado, uma ruína de uma civilização desconhecida emerge das ondas. É uma armadilha? Ou é Five apenas recebendo-os com um tapete vermelho?
+Acampamento{LF}Após lutarem juntos para avançar no{LF}domínio de Five, Zero e Mikhail fazem{LF}uma pausa para trocar ideias sobre{LF}surrupiar coisas da loja e outros{LF}objetivos que consideram importantes.
+Jogo{LF}Enquanto a Zero vai avançando pela beira da{LF}praia, os inimigos não dão sossego. Por fim,{LF}eles utilizam umas embarcações para{LF}desembarcar, o que deixa a Zero puta da vida.
+Jogo{LF}Zero e Mikhail avançam para o Santuário dos{LF}Mares por um desfiladeiro estreito. Mas adiante,{LF}um inimigo em particular os aguarda em emboscada...
+Cutscene{LF}Vencido o adversário, uma ruína de{LF}uma civilização desconhecida se{LF}ergue das águas. Uma armadilha?{LF}Ou um gesto de boas-vindas{LF}de Five?
 Resumo do item 5{LF}1020{LF}linha 1{LF}Resumo do item 5{LF}1020{LF}linha 2{LF}Resumo do item 5{LF}1020{LF}linha 3{LF}Resumo do item 5{LF}1020{LF}linha 4{LF}Resumo do item 5{LF}1020{LF}linha 5
 Synopsis sixth item 1020 first line{LF}Synopsis sixth item 1020 second line{LF}Synopsis sixth item 1020 third line{LF}Synopsis sixth item 1020 fourth line{LF}Synopsis sixth item 1020 fifth line
 Synopsis seventh item 1020 first line{LF}Synopsis seventh item 1020 second line{LF}Synopsis seventh item 1020 third line{LF}Synopsis seventh item 1020 fourth line{LF}Synopsis seventh item 1020 fifth line
@@ -12387,8 +12387,8 @@ Synopsis eighth item 1020 first line{LF}Synopsis eighth item 1020 second line{LF
 Synopsis ninth item 1020 first line{LF}Synopsis ninth item 1020 second line{LF}Synopsis ninth item 1020 third line{LF}Synopsis ninth item 1020 fourth line{LF}Synopsis ninth item 1020 fifth line
 Synopsis tenth item 1020 first line{LF}Synopsis tenth item 1020 second line{LF}Synopsis tenth item 1020 third line{LF}Synopsis tenth item 1020 fourth line{LF}Synopsis tenth item 1020 fifth line
 Synopsis eleventh item 1020 first line{LF}Synopsis eleventh item 1020 second line{LF}Synopsis eleventh item 1020 third line{LF}Synopsis eleventh item 1020 fourth line{LF}Synopsis eleventh item 1020 fifth line
-Game{LF}Zero presses on, showing no mercy{LF}to those who stand in her way.{LF}Nothing will stop her from her{LF}ultimate goal: her sister, Five.
-Game{LF}The enemy grows fiercer as Zero nears{LF}the shrine. Soon a battleship arrives,{LF}and its powerful cannons threaten to{LF}bring her advance to a halt.
+Jogo{LF}Zero segue em frente, sem demonstrar{LF}piedade a quem se opõe a ela. Nada a{LF}deterá de seu objetivo maior: sua irmã,{LF}Five.
+Jogo{LF}A resistência inimiga aumenta conforme{LF}Zero se aproxima do santuário. Em breve,{LF}um navio de batalha surge, e seus canhões{LF}potentes ameaçam deter seu{LF}progresso.
 Synopsis third item 1030 first line{LF}Synopsis third item 1030 second line{LF}Synopsis third item 1030 third line{LF}Synopsis third item 1030 fourth line{LF}Synopsis third item 1030 fifth line
 Resumo do quarto item　 1030　 linha 1{LF}Resumo do quarto item　 1030　 linha 2{LF}Resumo do quarto item　 1030　 linha 3{LF}Resumo do quarto item　 1030　 linha 4{LF}Resumo do quarto item　 1030　 linha 5
 Resumo do quinto item　 1030　 linha 1{LF}Resumo do quinto item　 1030　 linha 2{LF}Resumo do quinto item　 1030　 linha 3{LF}Resumo do quinto item　 1030　 linha 4{LF}Resumo do quinto item　 1030　 linha 5
@@ -12398,8 +12398,8 @@ Resumo do oitavo item　 1030　 linha 1{LF}Resumo do oitavo item　 1030　 lin
 Resumo do nono item　 1030　 linha 1{LF}Resumo do nono item　 1030　 linha 2{LF}Resumo do nono item　 1030　 linha 3{LF}Resumo do nono item　 1030　 linha 4{LF}Resumo do nono item　 1030　 linha 5
 Resumo do décimo item　 1030　 linha 1{LF}Resumo do décimo item　 1030　 linha 2{LF}Resumo do décimo item　 1030　 linha 3{LF}Resumo do décimo item　 1030　 linha 4{LF}Resumo do décimo item　 1030　 linha 5
 Resumo do décimo primeiro item　 1030　 linha 1{LF}Resumo do décimo primeiro item　 1030　 linha 2{LF}Resumo do décimo primeiro item　 1030　 linha 3{LF}Resumo do décimo primeiro item　 1030　 linha 4{LF}Resumo do décimo primeiro item　 1030　 linha 5
-Cutscene → Jogo{LF}Zero finalmente alcança o Santuário dos Mares,{LF}construído sobre as ruínas de um antigo arena.{LF}Mas Five está esperando e usa sua canção{LF}para convocar o anjo Phanuel.
-Cutscene{LF}Zero defeats her sister and prepares to{LF}leave. But first, Five's disciple, Dito,{LF}has some unfinished business with{LF}his former Intoner's corpse.
+Cutscene → Jogo{LF}Zero finalmente alcança o Santuário{LF}dos Mares, erguido sobre os restos de{LF}uma antiga arena. Porém, Five a{LF}aguarda e utiliza sua melodia para{LF}convocar o anjo Phanuel.
+Cutscene{LF}Zero derrota sua irmã e se prepara para{LF}deixar o local. Mas antes, o discípulo de{LF}Five, Dito, tem pendências a acertar com{LF}o corpo de sua antiga Intoner.
 Summary third item 1040 first line{LF}Summary third item 1040 second line{LF}Summary third item 1040 third line{LF}Summary third item 1040 fourth line{LF}Summary third item 1040 fifth line
 Summary fourth item 1040 first line{LF}Summary fourth item 1040 second line{LF}Summary fourth item 1040 third line{LF}Summary fourth item 1040 fourth line{LF}Summary fourth item 1040 fifth line
 Summary fifth item 1040 first line{LF}Summary fifth item 1040 second line{LF}Summary fifth item 1040 third line{LF}Summary fifth item 1040 fourth line{LF}Summary fifth item 1040 fifth line
@@ -12585,8 +12585,8 @@ Resumo do Oitavo Item　 4040　 Primeira linha{LF}Resumo do Oitavo Item　 4040
 Resumo do Non Item　 4040　 Primeira linha{LF}Resumo do Non Item　 4040　 Segunda linha{LF}Resumo do Non Item　 4040　 Terceira linha{LF}Resumo do Non Item　 4040　 Quarta linha{LF}Resumo do Non Item　 4040　 Quinta linha
 Resumo do Décimo Item　 4040　 Primeira linha{LF}Resumo do Décimo Item　 4040　 Segunda linha{LF}Resumo do Décimo Item　 4040　 Terceira linha{LF}Resumo do Décimo Item　 4040　 Quarta linha{LF}Resumo do Décimo Item　 4040　 Quinta linha
 Resumo do Décimo Primeiro Item　 4040　 Primeira linha{LF}Resumo do Décimo Primeiro Item　 4040　 Segunda linha{LF}Resumo do Décimo Primeiro Item　 4040　 Terceira linha{LF}Resumo do Décimo Primeiro Item　 4040　 Quarta linha{LF}Resumo do Décimo Primeiro Item　 4040　 Quinta linha
-Acampamento{LF}O local de acampamento tornou-se muito{LF}animado. Depois de uma discussão,{LF}o grupo decide se mover contra{LF}a Cidade da Catedral de One pelo ar.
-Mapa → Jogo{LF}Enquanto Zero e Mikhail voam sobre{LF}a Cidade da Catedral, One e seu dragão,{LF}Gabriel, surgem repentinamente e começam{LF}a batalhar contra Zero.
+Acampamento{LF}O local de acampamento tornou-se muito{LF}animado. Depois de uma discussão,{LF}o grupo decide se mover contra{LF}a Cidade Catedral de One pelo ar.
+Mapa → Jogo{LF}Enquanto Zero e Mikhail voam sobre{LF}a Cidade Catedral, One e seu dragão,{LF}Gabriel, surgem repentinamente e começam{LF}a batalhar contra Zero.
 Cutscene → Jogo{LF}Gabriel convoca um bando de wyverns{LF}e foge, deixando Mikhail irado para{LF}lidar com os criaturas problemáticas.
 
 
@@ -12729,7 +12729,7 @@ Resumo do item 9 5110 linha 1{LF}Resumo do item 9 5110 linha 2{LF}Resumo do item
 Resumo do item 10 5110 linha 1{LF}Resumo do item 10 5110 linha 2{LF}Resumo do item 10 5110 linha 3{LF}Resumo do item 10 5110 linha 4{LF}Resumo do item 10 5110 linha 5
 Resumo do item 11 5110 linha 1{LF}Resumo do item 11 5110 linha 2{LF}Resumo do item 11 5110 linha 3{LF}Resumo do item 11 5110 linha 4{LF}Resumo do item 11 5110 linha 5
 Jogo{LF}Mesmo com dois mortos, a maldição de Mikhail{LF}permanece em vigor. Em busca de respostas,{LF}Zero entra em uma toca subterrânea{LF}com decoração questionável.
-Cutscene → Jogo{LF}Zero encontra One esperando por ela. Ela{LF}declara que Zero estava certa e todos{LF}os Intoners — incluindo elas mesmas — devem{LF}morrer. As irmãs então começam a batalhar.
+Cutscene → Jogo{LF}Zero encontra One esperando por ela. Ela{LF}declara que Zero estava certa e todas{LF}as Intoners — incluindo elas mesmas — devem{LF}morrer. As irmãs então começam a batalhar.
 Cutscene → Jogo{LF}One convoca o dragão Gabriel para lutar{LF}contra Mikhail, mas ambos criaturas morrem na{LF}batalha subsequente, deixando One e Zero{LF}para enfrentar um ao outro sozinhos.
 Cutscene{LF}Zero mata One, mas com Mikhail e{LF}seus discípulos indo embora, seu estado{LF}mental começa a colapsar. Eu temo que{LF}devamos selar essa ramificação para sempre.
 Resumo do item 5{LF}520{LF}linha 1{LF}Resumo do item 5{LF}520{LF}linha 2{LF}Resumo do item 5{LF}520{LF}linha 3{LF}Resumo do item 5{LF}520{LF}linha 4{LF}Resumo do item 5{LF}520{LF}linha 5
@@ -12839,8 +12839,8 @@ Story Ninth Item{LF}4320{LF}First line{LF}Story Ninth Item{LF}4320{LF}Second lin
 Story Tenth Item{LF}4320{LF}First line{LF}Story Tenth Item{LF}4320{LF}Second line{LF}Story Tenth Item{LF}4320{LF}Third line{LF}Story Tenth Item{LF}4320{LF}Fourth line{LF}Story Tenth Item{LF}4320{LF}Fifth line
 Story Eleventh Item{LF}4320{LF}First line{LF}Story Eleventh Item{LF}4320{LF}Second line{LF}Story Eleventh Item{LF}4320{LF}Third line{LF}Story Eleventh Item{LF}4320{LF}Fourth line{LF}Story Eleventh Item{LF}4320{LF}Fifth line
 Acampamento{LF}Com Octa como o único discípulo restante,{LF}o acampamento é um lugar muito quieto mesmo. Zero{LF}decide quebrar o silêncio revelando{LF}a verdade sobre sua história.
-Jogo{LF}Zero conta sua história finalmente — o segredo{LF}por trás dos Intoners e a história da{LF}flor e sua luta contra a humanidade.
-Jogo{LF}Os Intoners são sementes que trarão o fim{LF}do mundo, e apenas um dragão pode{LF}matar eles. Armada com essa informação, Zero{LF}visitou alguém há dois anos atrás.
+Jogo{LF}Zero conta sua história finalmente — o segredo{LF}por trás das Intoners e a história da{LF}flor e sua luta contra a humanidade.
+Jogo{LF}As Intoners são sementes que trarão o fim{LF}do mundo, e apenas um dragão pode{LF}matar elas. Armada com essa informação, Zero{LF}visitou alguém há dois anos atrás.
 Resumo do quarto item　１３１０　linha 1{LF}Resumo do quarto item　１３１０　linha 2{LF}Resumo do quarto item　１３１０　linha 3{LF}Resumo do quarto item　１３１０　linha 4{LF}Resumo do quarto item　１３１０　linha 5
 Resumo do quinto item　１３１０　linha 1{LF}Resumo do quinto item　１３１０　linha 2{LF}Resumo do quinto item　１３１０　linha 3{LF}Resumo do quinto item　１３１０　linha 4{LF}Resumo do quinto item　１３１０　linha 5
 Resumo do sexto item　１３１０　linha 1{LF}Resumo do sexto item　１３１０　linha 2{LF}Resumo do sexto item　１３１０　linha 3{LF}Resumo do sexto item　１３１０　linha 4{LF}Resumo do sexto item　１３１０　linha 5
@@ -12849,7 +12849,7 @@ Resumo do oitavo item　１３１０　linha 1{LF}Resumo do oitavo item　１３
 Resumo do item 9　 1310　 linha 1{LF}Resumo do item 9　 1310　 linha 2{LF}Resumo do item 9　 1310　 linha 3{LF}Resumo do item 9　 1310　 linha 4{LF}Resumo do item 9　 1310　 linha 5
 Resumo do item 10　 1310　 linha 1{LF}Resumo do item 10　 1310　 linha 2{LF}Resumo do item 10　 1310　 linha 3{LF}Resumo do item 10　 1310　 linha 4{LF}Resumo do item 10　 1310　 linha 5
 Resumo do item 11　 1310　 linha 1{LF}Resumo do item 11　 1310　 linha 2{LF}Resumo do item 11　 1310　 linha 3{LF}Resumo do item 11　 1310　 linha 4{LF}Resumo do item 11　 1310　 linha 5
-Mapa de Ramificação → Cutscene{LF}À medida que nos aproximamos do fim desta{LF}ramificação, Zero deixa Gabriel com{LF}Mikhail e segue em direção à Cidade da Catedral sozinha.
+Mapa de Ramificação → Cutscene{LF}À medida que nos aproximamos do fim desta{LF}ramificação, Zero deixa Gabriel com{LF}Mikhail e segue em direção à Cidade Catedral sozinha.
 Jogo{LF}Mikhail e Gabriel lutam no céu,{LF}enquanto Zero e Octa tomam o chão.{LF}Mas Zero começa a se esforçar à medida que{LF}a flor continua a consumi-la.
 Cutscene → Jogo{LF}Zero está pronta para enfrentar sua irmã One.{LF}Dois cadáveres, outrora impulsionados apenas pela{LF}flor, ganharam suas próprias vontades,{LF}e agora escolhem seus próprios futuros.
 Cutscene{LF}Zero acorrala One. Octa se sacrifica{LF}ao convocar um anjo. E um observador{LF}proibido de interferir nos eventos{LF}dá um passo à frente...
@@ -14650,8 +14650,8 @@ Adquira 3 Livros de Estoicismo.
 Exibir condições de conclusão da quest　　 2060_1
 Exibir condições de conclusão da quest　　 2060_2
 Exibir condições de conclusão da quest　　 3010_1
-Adquira 3 Pedras de Movimento.{LF}Você só pode lutar com braceletes de combate.
-Adquira 3 Presas de Víbora.{LF}Você só pode lutar com braceletes de combate.
+Adquira 3 Pedras de Movimento.{LF}Você só pode lutar com braçadeiras de combate.
+Adquira 3 Presas de Víbora.{LF}Você só pode lutar com braçadeiras de combate.
 Adquira 3 Livros de Mistério.
 Exibir condições de conclusão da quest　　 3020_1
 Exibir condições de conclusão da quest　　 3020_2
@@ -14660,8 +14660,8 @@ Exibir condições de conclusão da quest　　 3030_2
 Exibir condições de conclusão da quest　　 3040_1
 Exibir condições de conclusão da quest　　 3040_2
 Exibir condições de conclusão da quest　　 3050_1
-Adquira 7 Pedras de Alimento.{LF}Você só pode lutar com braceletes de combate.
-Adquira 8 Ferrões de Sapo.{LF}Você só pode lutar com braceletes de combate.
+Adquira 7 Pedras de Alimento.{LF}Você só pode lutar com braçadeiras de combate.
+Adquira 8 Ferrões de Sapo.{LF}Você só pode lutar com braçadeiras de combate.
 Adquira 9 Livros de Santidade.
 Exibir condições de conclusão da quest　　 3060_1
 Exibir condições de conclusão da quest　　 3060_2
@@ -14692,7 +14692,7 @@ Exibir condições de conclusão da quest 5040_2
 Próximo
 Selec.
 Experiência Ganha:
-Combo Mais Longo:
+Sequência Mais Longa:
 Dano Recebido:
 Bônus Sem-Continuar:
 Experiência Total Ganha:
@@ -14755,7 +14755,7 @@ Pedido desbloqueado na Terra dos Mares.{LF}Acesse-o no menu de seleção de cap�
 Pedido desbloqueado na Terra das Montanhas.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Florestas.{LF}Acesse-o no menu de seleção de capítulo.
 Pedido desbloqueado na Terra das Areias.{LF}Acesse-o no menu de seleção de capítulo.
-Pedido desbloqueado na Cidade da Catedral.{LF}Acesse-o no menu de seleção de capítulo.
+Pedido desbloqueado na Cidade Catedral.{LF}Acesse-o no menu de seleção de capítulo.
 A Lâmina da Zero agora está no Nv. {04}
 Obrigado por me deixar se juntar a você, minha senhora.{LF}Por favor, mantenha isso como um símbolo de minha lealdade.
 Não quero nada mais do que servir minha Intoner...{LF}E talvez parecer bem enquanto faço isso.
@@ -14773,7 +14773,7 @@ Três solicitações de Terra dos Mares concluídas!{LF}Solicitação bônus "{0
 Três solicitações de Terra das Montanhas concluídas!{LF}Solicitação bônus "{04}
 Três solicitações de Terra das Florestas concluídas!{LF}Solicitação bônus "{04}
 Três solicitações de Terra das Areias concluídas!{LF}Solicitação bônus "{04}
-Três solicitações de Cidade da Catedral concluídas!{LF}Solicitação bônus "{04}
+Três solicitações de Cidade Catedral concluídas!{LF}Solicitação bônus "{04}
 Bônus de Conclusão:
 Bônus de Conclusão de Missão!
 {04}
@@ -15558,9 +15558,9 @@ Pressione {01}{08} para travar a mira em um inimigo; pressione novamente para ca
 Controles / Ataques de Estamina
 Pressione {01}{04} para realizar um ataque de estamina, um movimento poderoso{LF}que consome energia do seu Medidor de Estamina.
 O Medidor de Sangue
-Seu medidor de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que ele se encha até um certo ponto, você pode ativar o Modo de Intoner.
-Controles / Cantar
-Cantar
+Seu medidor de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que ele se encha até um certo ponto, você pode ativar o Modo Intoner.
+Controles / Intoner
+Intoner
 Controles / Corte de Salto
 Corte de Salto
 Inimigo / Lanceiro
@@ -15604,8 +15604,8 @@ Loja / Tutorial de Aprimoramento
 Controles / Círculos de Invocação
 Entre em um círculo de invocação e pressione {01}{02} para chamar Mikhail ao campo de batalha{LF}para atacar conforme a situação.
 Medição de Sangue
-Sua medição de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que se encha até um certo ponto, você pode ativar o Modo de Intoner.
-Controles / Modo de Intoner (Quando Montado)
+Sua medição de sangue se enche à medida que você derrota inimigos e sofre dano;{LF}uma vez que se encha até um certo ponto, você pode ativar o Modo Intoner.
+Controles / Modo Intoner (Quando Montado)
 Pressione {01}{0A} e {01}{0D} simultaneamente para ativar o Modo Intoner.{LF}Pressione novamente para encerrar o Modo Intoner.
 Dano Frio
 O frio magicamente aprimorado causará danos.{LF}Aqueça-se perto de uma fogueira para recuperar sua saúde.
@@ -16133,10 +16133,10 @@ Roda de Batalha 111
 Roda de Batalha 112
 Roda de Batalha 113
 Modo de Intonação
-A espada da Zero. Eficaz contra os Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
-A espada da Zero. Eficaz contra os Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
-A espada da Zero. Eficaz contra os Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
-A espada da Zero. Eficaz contra os Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
+A espada da Zero. Eficaz contra as Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
+A espada da Zero. Eficaz contra as Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
+A espada da Zero. Eficaz contra as Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
+A espada da Zero. Eficaz contra as Intoners.{LF}Ela evolui à medida que o seu dragão cresce.
 Uma espada de carrasco que impõe{LF}julgamento implacável sobre os pecadores.
 Uma espada de carrasco que impõe{LF}julgamento implacável sobre os pecadores.
 Uma espada de carrasco que impõe{LF}julgamento implacável sobre os pecadores.
