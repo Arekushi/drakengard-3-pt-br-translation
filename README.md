@@ -73,6 +73,8 @@ Se quiser conversar mais sobre, podem me chamar no meu servidor do Discord ou em
 ## Ferramentas de apoio
 Esse projeto só foi possível graças a esses repositórios abaixo:
 * Ferramenta para extração e recompactação dos textos - [Drakengard-3-Sqex03DataMessage][sqex]
+    > Mas eu fiz um fork e adicionei um CLI para facilitar no desenvolvimento, se quiser checar, aqui está o [repositório][sqex-updated].
+
 
 <br>
 
@@ -133,6 +135,7 @@ Eu guardo bastante informação em arquivos `.toml` dentro do diretório [`confi
 [poetry_url]: https://python-poetry.org/docs/#installation
 [rpcs3]: https://rpcs3.net/
 [sqex]: https://github.com/lehieugch68/Drakengard-3-Sqex03DataMessage
+[sqex-updated]: https://github.com/Arekushi/Drakengard-3-Sqex03DataMessage
 [configtoml]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/config/toml
 [nier-pt-br]: https://github.com/Arekushi/nier-replicant-pt-br-translation
 [translation]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/texts/translation

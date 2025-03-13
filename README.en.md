@@ -71,6 +71,7 @@ If you’d like to discuss this further, feel free to reach out on my Discord se
 ## Support tools
 This project was only possible thanks to the following repositories:
 * Tool for text extraction and repacking - [Drakengard-3-Sqex03DataMessage][sqex]
+    > But I forked it and added a CLI to make development easier, if you want to check it out, here's the [repository][sqex-updated].
 
 <br>
 
@@ -131,6 +132,7 @@ I store a lot of information in `.toml` files inside the [`config/toml`][configt
 [poetry_url]: https://python-poetry.org/docs/#installation
 [rpcs3]: https://rpcs3.net/
 [sqex]: https://github.com/lehieugch68/Drakengard-3-Sqex03DataMessage
+[sqex-updated]: https://github.com/Arekushi/Drakengard-3-Sqex03DataMessage
 [configtoml]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/config/toml
 [nier-pt-br]: https://github.com/Arekushi/nier-replicant-pt-br-translation
 [translation]: https://github.com/Arekushi/drakengard-3-pt-br-translation/tree/main/texts/translation
