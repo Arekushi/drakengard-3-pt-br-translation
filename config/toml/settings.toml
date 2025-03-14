@@ -13,7 +13,7 @@ translation_json_file = '_translation.json'
 secret_file = '.secrets.toml'
 export_json_file = '_export.json'
 result_file_name = 'Sqex03DataMessage.txt'
-sqex_zip_file = 'sqex-03-data-message.zip'
+sqex_zip_file = 'sqex-cli.zip'
 sqex_exe_file = 'D3 Sqex03DataMessage.exe'
 rpcs3_required_files = [
     'rpcs3.exe'
