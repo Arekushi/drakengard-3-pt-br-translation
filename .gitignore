@@ -317,3 +317,6 @@ temp
 
 tools/**
 !tools/*
+
+output/**
+!output/*

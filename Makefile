@@ -22,3 +22,6 @@ make-translation-folder:
 
 translate:
 	python main.py builder translate
+
+pack-gui:
+	auto-py-to-exe

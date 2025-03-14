@@ -1,12 +1,16 @@
-def main():
-    import typer
-    import nest_asyncio
-    import src.commands.builder.builder as builder
-    import src.commands.manager.manager as manager
+import sys
+import typer
+import nest_asyncio
+import src.commands.manager.manager as manager
 
+
+def main():
     app = typer.Typer()
     app.add_typer(manager.app, name='manager')
-    app.add_typer(builder.app, name='builder')
+    
+    if not getattr(sys, 'frozen', False):
+        import src.commands.builder.builder as builder
+        app.add_typer(builder.app, name='builder')
 
     nest_asyncio.apply()
     app()

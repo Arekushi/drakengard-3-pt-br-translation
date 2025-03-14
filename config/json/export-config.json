@@ -1,0 +1,109 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/assets/zero.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/config/toml/cli.toml;config/toml/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/config/toml/github.toml;config/toml/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/config/toml/llm.toml;config/toml/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/config/toml/settings.toml;config/toml/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/config/toml/typer.toml;config/toml/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/source/ALLMESSAGE_SF.XXX;source/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/source/MISSIONMESSAGE_SF.XXX;source/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "F:/Workspaces/Python/vscode-projects/drakengard-3-pt-br-translation/source/PS3TOC.TXT;source/."
+  },
+  {
+   "optionDest": "excludes",
+   "value": "g4f"
+  },
+  {
+   "optionDest": "excludes",
+   "value": "gpt4all"
+  },
+  {
+   "optionDest": "excludes",
+   "value": "pandas"
+  },
+  {
+   "optionDest": "excludes",
+   "value": "auto-py-to-exe"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

@@ -1,5 +1,5 @@
-import contextlib
 import typer
+import contextlib
 from rich.console import Console
 
 from config import settings, ROOT_DIR
