@@ -1,9 +1,13 @@
+[CLI]
+thanks = '''
+
+Aproveite o jogo! :purple_heart:
+Desenvolvido por [b link=https://github.com/Arekushi]arekushi[/]
+Repositório original: https://github.com/Arekushi/https://github.com/Arekushi/drakengard-3-pt-br-translation
+'''
+
 [CLI.MAKE_TRANSLATION_FOLDER]
 rule= ':hammer_and_wrench: [b]Criação da pasta de tradução[/]'
-status = 'Criando...'
-
-[CLI.MAKE_RESULT_FOLDER]
-rule= ':hammer_and_wrench: [b]Criação da pasta de result[/]'
 status = 'Criando...'
 
 [CLI.TRANSLATE]
@@ -14,3 +18,35 @@ null_return = '[b]Retornando nulo...[/]'
 merge_error = '[bold white on red]Infelizmente houve um problema ao realizar o merge, então irei salvar como backup...[/]'
 translating_file = '[bold white on blue]Traduzindo... <file>. (<i>/<count_all>)[/]'
 file_failed = 'Não foi possível adicionar na lista para traduzir: <file>'
+
+[CLI.GENERATE]
+rule = ':rocket: [b]Geração dos arquivos .XXX[/]'
+status = 'Gerando os arquivos...'
+finish = ':white_check_mark: Geração dos arquivos feita com [white on green] sucesso! [/]'
+failed = ':x: A geração de arquivos [white on red] falhou... [/]'
+
+[CLI.INSTALL]
+rule = ':new_moon: [b]Instalando a tradução[/]'
+status = 'Instalando...'
+finish = ':white_check_mark: Instalação feita com [white on green] sucesso! [/]'
+failed = ':x: Instalação [white on red] falhou... [/]'
+update_version = ':rocket: Identificamos [white on green] atualizações [/] nos textos da tradução, iremos [b]fazer[/] a atualização automaticamente... '
+backup = ':arrow_backward: Será realizado [white on green] o backup [/] dos arquivos que serão modificados.'
+backup_failed = ':x: [white on red] NÃO [/] foi possível realizar o backup dos arquivos!'
+download_finished = '👍 Download realizado com [white on green] sucesso! [/]'
+outdated_version_warning = ''':construction: Há uma [green]nova[/] versão dessa aplicação publicada, essa versão está desatualizada!
+:wave: Qualquer problema com essa [i]versão[/] peço que [#79a4f4] baixe [/] novamente.'''
+
+[CLI.UNINSTALL]
+rule = ':full_moon: [b]Desinstalando a tradução[/]'
+status = 'Desinstalando...'
+finish = ':white_check_mark: Desinstalação feita com [white on green] sucesso! [/]'
+failed = ':x: Desinstalação [white on red] falhou... [/]'
+
+[CLI.RPCS3_PATH]
+not_found = ':stop_sign: O caminho onde o [i]RPCS3[/] está instalado [white on red] não [/] foi encontrado ou definido!'
+write_path = ':file_folder: Escreva o [b green]caminho[/] para a raíz do [i]RPCS3[/], por favor: '
+path_error = ''':x: [b red]Não é um caminho válido![/]
+:scroll: É [b yellow]necessário[/] que a [white on blue b] pasta [/] tenha os seguintes itens:'''
+d3_error = ':x: O caminho para o [i]RPCS3[/] é válido, porém você [b red] NÃO [/] installou o Drakengard 3 v1.01 [i]ainda[/], por favor, instale e repita o processo!'
+finish = ':white_check_mark: Caminho para o [i]RPCS3[/] atribuído com [white on green] sucesso! [/]'

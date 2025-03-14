@@ -1,8 +1,9 @@
 import typer
+from pandas import DataFrame
 from rich.console import Console
 
 from config.config import settings, ROOT_DIR
-from src.helpers.pandas_helper import read_raw_file, transform_raw_df, save_df_csv
+from src.helpers.pandas_helper import read_raw_file, save_df_csv
 from src.helpers.path_helper import get_all_files, make_dir, update_dir
 
 
@@ -38,3 +39,10 @@ def create_translation_folder():
         df = transform_raw_df(df)
         new_file_path = update_dir(file_path, TRANSLATION_FOLDER_PATH)
         save_df_csv(df, new_file_path)
+
+
+def transform_raw_df(df: DataFrame) -> DataFrame:
+    df = df.rename(columns={0: 'translation'})
+    df = df.assign(source=df['translation'])
+    
+    return df

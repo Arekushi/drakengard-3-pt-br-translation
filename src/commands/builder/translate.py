@@ -52,6 +52,7 @@ def get_files_to_translate():
             print(
                 settings.CLI.TRANSLATE.file_failed.replace('<file>', full_path)
             )
+    
     if (list(settings.TRANSLATION.FILES.to_translate)):
         return list(
             filter(lambda file: os.path.basename(file) in list(settings.TRANSLATION.FILES.to_translate), files)

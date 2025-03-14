@@ -1,4 +1,5 @@
 import os
+import shutil
 from aiofiles import os as async_os
 
 
@@ -28,13 +29,19 @@ def update_dir(file_path: str, new_dir: str) -> str:
     return new_file_path
 
 
-async def remove_file(file_path: str, raise_exception=False):
-    try:
-        await async_os.remove(file_path)
-    except FileNotFoundError as e:
-        if (raise_exception):
-            raise e
-
-
 def make_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
+
+
+def copy_file(file_path, dest_path):
+    make_dir(dest_path)
+    return shutil.copy(file_path, dest_path)
+
+
+def delete(path):
+    if os.path.isfile(path) or os.path.islink(path):
+        os.remove(path)
+    elif os.path.isdir(path):
+        shutil.rmtree(path)
+    else:
+        raise ValueError(f"file {path} is not a file or dir.")

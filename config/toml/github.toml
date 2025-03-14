@@ -1,0 +1,5 @@
+[GITHUB]
+current_release_version = "1.0.0"
+last_release_url = "https://api.github.com/repos/Arekushi/drakengard-3-pt-br-translation/releases/latest"
+commits_url = "https://api.github.com/repos/Arekushi/drakengard-3-pt-br-translation/commits"
+raw_patch_url = "https://raw.githubusercontent.com/Arekushi/drakengard-3-pt-br-translation/master/patch"

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "drakengard-3-pt-br-translation"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = [
     "Alexandre Ferreira de Lima <alexandre.ferreira1445@gmail.com>"

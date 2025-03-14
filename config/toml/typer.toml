@@ -1,11 +1,21 @@
 [TYPER.MAKE_TRANSLATION_FOLDER]
 help = 'Pega os textos e agrupa em arquivos .CSV amigáveis para tradução e revisão.'
 
-[TYPER.MAKE_RESULT_FOLDER]
-help = 'Pega os arquivos .CSV de tradução e retorna no formato raw (.txt).'
-
 [TYPER.BUILDER]
 help = 'Módulo com capacidades de organizar e traduzir os textos, usando alguma ferramenta de tradução.'
 
 [TYPER.TRANSLATE]
-help = 'Comando que traduz de forma automática os arquivos de textos.'
+help = 'Traduz de forma automática os arquivos de textos.'
+
+[TYPER.GENERATE]
+help = 'Este comando recompacta os arquivos traduzidos no formato de arquivo (.XXX) que pode ser lido pelo jogo.'
+
+[TYPER.INSTALL]
+help = 'Comando que realizará o processo de instalação/atualização da tradução.'
+install_locally_help = 'Esse marcador define que a instalação será realizada com os arquivos locais.'
+
+[TYPER.UNINSTALL]
+help = 'Comando que realizará o processo de desinstalação da tradução.'
+
+[TYPER.MANAGER]
+help = 'Módulo com capacidades de gerenciar a tradução, podendo instalar/atualizar e desinstalar.'

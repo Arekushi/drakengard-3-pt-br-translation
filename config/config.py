@@ -7,6 +7,7 @@ settings = Dynaconf(
         './toml/cli.toml',
         './toml/typer.toml',
         './toml/llm.toml',
+        './toml/github.toml',
         './toml/settings.toml',
         './toml/.secrets.toml',
     ],

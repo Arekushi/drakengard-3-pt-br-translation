@@ -2,8 +2,8 @@ import typer
 from config import settings
 
 from .make_translation_folder import make_translation_folder_command
-from .make_result_folder import make_result_folder_command
 from .translate import translate_command
+from .generate import generate_command
 
 
 app = typer.Typer(
@@ -11,5 +11,5 @@ app = typer.Typer(
 )
 
 app.command('make-translation-folder', help=settings.TYPER.MAKE_TRANSLATION_FOLDER.help)(make_translation_folder_command)
-app.command('make-result-folder', help=settings.TYPER.MAKE_RESULT_FOLDER.help)(make_result_folder_command)
 app.command('translate', help=settings.TYPER.TRANSLATE.help)(translate_command)
+app.command('generate', help=settings.TYPER.GENERATE.help)(generate_command)

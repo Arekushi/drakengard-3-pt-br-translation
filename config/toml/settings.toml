@@ -5,10 +5,34 @@ result_folder_name = 'result'
 patch_folder_name = 'patch'
 source_folder_name = 'source'
 temp_folder_name = 'temp'
+tools_folder_name = 'tools'
+backup_folder_name = 'backup'
 
 [FILES]
-export_json_file = 'export.json'
+translation_json_file = '_translation.json'
+secret_file = '.secrets.toml'
+export_json_file = '_export.json'
 result_file_name = 'Sqex03DataMessage.txt'
+sqex_zip_file = 'sqex-03-data-message.zip'
+sqex_exe_file = 'D3 Sqex03DataMessage.exe'
+rpcs3_required_files = [
+    'rpcs3.exe'
+]
+xxx_files = [
+    'ALLMESSAGE_SF.XXX',
+    'MISSIONMESSAGE_SF.XXX'
+]
+
+[DEFAULT_PATHS]
+tomls = 'config\\toml'
+d3_sqex03game = 'dev_hdd0\\game\\<version>\\USRDIR\\PATCH\\SQEX03GAME\\COOKEDPS3'
+
+
+[D3]
+versions = [
+    'BLUS31197',
+    'NPUB31251'
+]
 
 [TRANSLATION.FILES]
 to_not_translate = []
