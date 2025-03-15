@@ -1693,7 +1693,7 @@ Three{#Name=" "}
 Two{#Name=" "}
 One{#Name=" "}
 Accord{#Name=" "}
-Rolo{#Name=" "}
+Rolar{#Name=" "}
 Mudar Página{#Name=" "}
 Mudar Modo{#Name=" "}
 Mudar Categoria{#Name=" "}
@@ -10863,8 +10863,8 @@ Foi muito, muito divertido.{#Name="Mikhail"}
 Estou feliz.{#Name="ZERO"}
 Mikhail?{#Name="ZERO"}
 Sim?{#Name="Mikhail"}
-É...{#Name="ZERO"}
-quase hora.{#Name="ZERO"}
+Tá...{#Name="ZERO"}
+quase na hora.{#Name="ZERO"}
 ...Okay.{#Name="Mikhail"}
 Mikhail
  
